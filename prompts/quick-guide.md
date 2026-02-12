@@ -12,5 +12,6 @@ This structure ensures:
 * Clean separation between animations
 * Easier maintenance and updates
 * Preserved context per animation to prevent repeated mistakes in future iterations
+* The videos will later have subtitles. 200px from the bottom edge of the 1080p frame. 
 
 Do not execute anything yet. Just acknowledge understanding of these instructions.

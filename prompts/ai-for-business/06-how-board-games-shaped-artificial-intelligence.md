@@ -4,7 +4,7 @@ Excerpt: From checkers to Go, some of the biggest breakthroughs in Artificial In
 
 ## VIDEO SCRIPT
 
-What if I told you that some of the biggest breakthroughs in Artificial Intelligence did not start in hospitals, banks, or self driving cars… but on a game board?
+What if I told you that some of the biggest breakthroughs in Artificial Intelligence did not start in hospitals, banks, or self-driving cars… but on a game board?
 
 For over seventy years, board games have been the secret training ground for Artificial Intelligence. And not by accident.
 
@@ -18,7 +18,7 @@ Fast forward to the 1990s.
 
 Gerald Tesauro created TD Gammon. Instead of learning from humans, it learned by playing against itself. This was reinforcement learning in action. The system received rewards for good moves and penalties for bad ones. Over time, it figured out which decisions led to winning. That solved a major problem in Artificial Intelligence called temporal credit assignment. How do you reward the right decision when the result comes much later?
 
-Then came Deep Blue in 1997. IBM built a machine powerful enough to evaluate 200 million chess positions per second. It defeated world chess champion Garry Kasparov. This was not just about computing power. It combined search algorithms, historical game data, and specialized hardware.
+Then came Deep Blue in 1997. IBM built a machine powerful enough to evaluate 200 million chess positions per second. It defeated world chess champion Garry Kasparov. This was not just about computing power. It combined search algorithms, historical game data, and specialised hardware.
 
 But the real shockwave came in 2016.
 
@@ -32,7 +32,7 @@ Games gave researchers a safe environment to experiment. Low risk. Clear metrics
 
 Machine Learning. Reinforcement learning. Deep neural networks. These now power recommendation systems, fraud detection, robotics, healthcare diagnostics, and autonomous systems.
 
-Think of board games as the flight simulator for Artificial Intelligence. Before flying real planes, pilots train in simulations. In the same way, Artificial Intelligence trained in games before stepping into the real world.
+Think of board games as the flight simulator for Artificial Intelligence. Before flying real planes, pilots train in simulations. In the same way, Artificial Intelligence is trained in games before stepping into the real world.
 
 And as simulation environments become more realistic, the line between virtual and real keeps fading.
 

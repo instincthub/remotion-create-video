@@ -269,7 +269,7 @@ export const Scene6Generalisation: React.FC = () => {
       <div
         style={{
           position: "absolute",
-          bottom: 60,
+          bottom: 220,
           left: 0,
           right: 0,
           textAlign: "center",

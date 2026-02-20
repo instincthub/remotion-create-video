@@ -13,5 +13,7 @@ This structure ensures:
 * Easier maintenance and updates
 * Preserved context per animation to prevent repeated mistakes in future iterations
 * The videos will later have subtitles. 200px from the bottom edge of the 1080p frame. 
+* No transparent background!
+* Ensure text don't overlap or each other. 
 
 Do not execute anything yet. Just acknowledge understanding of these instructions.

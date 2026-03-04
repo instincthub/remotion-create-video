@@ -1,0 +1,128 @@
+1
+00:00:00,166 --> 00:00:03,866
+the third on the list is sentiment analysis
+
+2
+00:00:03,900 --> 00:00:10,066
+this often would help businesses review feedback from customers
+
+3
+00:00:10,366 --> 00:00:11,900
+so rather than feedback just coming in
+
+4
+00:00:11,900 --> 00:00:14,266
+or tickets just coming in randomly
+
+5
+00:00:14,466 --> 00:00:17,500
+you could tell the mood the tone
+
+6
+00:00:17,766 --> 00:00:20,000
+the expectation of a customer
+
+7
+00:00:20,000 --> 00:00:22,933
+when their message drops within your mailbox
+
+8
+00:00:23,333 --> 00:00:25,266
+when you know the message that comes in
+
+9
+00:00:25,266 --> 00:00:29,566
+you can route it to the person who is likely to solve the problem
+
+10
+00:00:29,566 --> 00:00:31,766
+rather than just leaving messages the way they arrive
+
+11
+00:00:31,766 --> 00:00:32,933
+just like that
+
+12
+00:00:32,933 --> 00:00:37,566
+and finally on my list is image classification
+
+13
+00:00:37,700 --> 00:00:41,100
+building a model that can identify objects
+
+14
+00:00:41,233 --> 00:00:43,400
+animals whatever it is
+
+15
+00:00:43,466 --> 00:00:46,033
+this is very important especially if you're interested
+
+16
+00:00:46,033 --> 00:00:49,366
+in working with robotics or industrial machine
+
+17
+00:00:49,366 --> 00:00:50,633
+because at the end of the day
+
+18
+00:00:50,633 --> 00:00:54,366
+you be required to identify one item or the other
+
+19
+00:00:55,100 --> 00:00:56,700
+so the question is back to you
+
+20
+00:00:56,700 --> 00:00:58,700
+which of the project do you think we should be
+
+21
+00:00:58,700 --> 00:01:00,333
+just let me know in the comment section
+
+22
+00:01:00,466 --> 00:01:01,900
+the resources will be available
+
+23
+00:01:01,900 --> 00:01:04,500
+you can follow along how those things will be done
+
+24
+00:01:04,500 --> 00:01:05,866
+and you can ask me question
+
+25
+00:01:05,866 --> 00:01:08,800
+my goal is to simplify some of this terminology
+
+26
+00:01:08,800 --> 00:01:11,433
+in such a way that you be learning something technical
+
+27
+00:01:11,433 --> 00:01:12,466
+but at the end of the day you don't feel it
+
+28
+00:01:13,433 --> 00:01:16,466
+you feel like you're just listening to some simple information
+
+29
+00:01:16,466 --> 00:01:18,533
+and that's how we run it here
+
+30
+00:01:18,533 --> 00:01:19,400
+if this is helpful
+
+31
+00:01:19,400 --> 00:01:22,500
+leave me a comment and subscribe to my social media platform
+
+32
+00:01:22,500 --> 00:01:24,866
+until next time I'll see you in the next one
+

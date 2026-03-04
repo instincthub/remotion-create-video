@@ -1,0 +1,112 @@
+1
+00:00:00,000 --> 00:00:02,566
+so the question is when should you use machine learning
+
+2
+00:00:03,100 --> 00:00:04,566
+think of using machine learning
+
+3
+00:00:04,566 --> 00:00:07,933
+when the condition of your application changes often time
+
+4
+00:00:08,366 --> 00:00:13,000
+when you think that it is complicated to handle it programmatically
+
+5
+00:00:13,066 --> 00:00:14,500
+by yourself in fact
+
+6
+00:00:14,500 --> 00:00:17,966
+when you need to update the condition of your program here and there
+
+7
+00:00:17,966 --> 00:00:19,633
+just to meet the expectation
+
+8
+00:00:19,900 --> 00:00:22,600
+this is where machine learning shines
+
+9
+00:00:22,800 --> 00:00:26,800
+and whenever you find yourself in a very complex environment
+
+10
+00:00:27,233 --> 00:00:29,533
+this is also where machine learning shine
+
+11
+00:00:29,700 --> 00:00:33,900
+when you're not really certain about things that needs to be done well
+
+12
+00:00:33,900 --> 00:00:35,833
+you can deploy machine learning
+
+13
+00:00:35,933 --> 00:00:39,733
+and while all these things may sound just like theoretical
+
+14
+00:00:39,866 --> 00:00:41,833
+one thing I would advise you to do
+
+15
+00:00:41,833 --> 00:00:44,033
+is research more on some of these things
+
+16
+00:00:44,066 --> 00:00:46,466
+every time I come to you with some of these tips
+
+17
+00:00:46,466 --> 00:00:50,266
+what is required of you is to find a way to do further research
+
+18
+00:00:50,266 --> 00:00:53,633
+to have clear understanding of what you need to do
+
+19
+00:00:53,633 --> 00:00:57,066
+at every point in time my question to you right now is
+
+20
+00:00:57,166 --> 00:01:00,866
+what is that project that you're gonna use machine learning to build
+
+21
+00:01:01,300 --> 00:01:04,533
+and this is what we're gonna be looking at in the next episode
+
+22
+00:01:04,533 --> 00:01:06,866
+we're gonna be looking at a couple of projects that we can build
+
+23
+00:01:06,900 --> 00:01:08,333
+and not just that
+
+24
+00:01:08,333 --> 00:01:11,800
+we'll also find a way to build it with modern artificial intelligence
+
+25
+00:01:12,066 --> 00:01:13,100
+around us right now
+
+26
+00:01:13,100 --> 00:01:16,566
+so follow me on all my social media platform and like
+
+27
+00:01:16,566 --> 00:01:18,133
+comment and ask me question and I'm here to answer you right away
+
+28
+00:01:19,900 --> 00:01:21,900
+thank you so much and I'll see you in the next one
+

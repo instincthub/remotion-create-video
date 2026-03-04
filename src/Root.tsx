@@ -23,6 +23,11 @@ import { EnterpriseAIDevOpsComposition } from "./ai-for-business/19-enterprise-a
 import { ThreeStagesComposition } from "./ai-for-business/20-three-stages-enterprise-artificial-intelligence/Composition";
 import { ReadyToBuildComposition } from "./ai-for-business/21-ready-to-build-real-artificial-intelligence-applications/Composition";
 import { VibeCoderComposition } from "./weekly-reels/001-what-should-a-vibe-coder-learn/Composition";
+import { MLIntroductionComposition } from "./weekly-reels/021-ml-1-introduction/Composition";
+import { ML2SpamFilterComposition } from "./weekly-reels/022-ml-2-introduction/Composition";
+import { ML3WhenToUseMLComposition } from "./weekly-reels/023-ml-3-when-to-use-ml/Composition";
+import { ML4ProjectInMLComposition } from "./weekly-reels/024-ml-4-project-in-ml/Composition";
+import { ML5ProjectInMLComposition } from "./weekly-reels/025-ml-5-project-in-ml/Composition";
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -203,6 +208,46 @@ export const RemotionRoot: React.FC = () => {
           id="001-what-should-a-vibe-coder-learn"
           component={VibeCoderComposition}
           durationInFrames={5400}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+        <Composition
+          id="021-ml-1-introduction"
+          component={MLIntroductionComposition}
+          durationInFrames={3300}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+        <Composition
+          id="022-ml-2-introduction"
+          component={ML2SpamFilterComposition}
+          durationInFrames={3300}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+        <Composition
+          id="023-ml-3-when-to-use-ml"
+          component={ML3WhenToUseMLComposition}
+          durationInFrames={2460}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+        <Composition
+          id="024-ml-4-project-in-ml"
+          component={ML4ProjectInMLComposition}
+          durationInFrames={2640}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+        <Composition
+          id="025-ml-5-project-in-ml"
+          component={ML5ProjectInMLComposition}
+          durationInFrames={2550}
           fps={30}
           width={1080}
           height={1920}

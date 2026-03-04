@@ -1,0 +1,140 @@
+1
+00:00:00,433 --> 00:00:05,533
+A classic example of machine learning project is what we already know
+
+2
+00:00:05,900 --> 00:00:07,000
+spam filter
+
+3
+00:00:07,833 --> 00:00:08,633
+we already experience
+
+4
+00:00:08,633 --> 00:00:12,333
+some of these things on the social media platform on our emails
+
+5
+00:00:12,866 --> 00:00:14,700
+streaming platforms and the likes
+
+6
+00:00:15,033 --> 00:00:17,066
+when we look at some of these platforms
+
+7
+00:00:17,166 --> 00:00:22,200
+what they really do is there's a model that gets better every day
+
+8
+00:00:22,433 --> 00:00:25,166
+now with this model there are couple of things that happen
+
+9
+00:00:25,633 --> 00:00:28,166
+in the first instance when those models were trained
+
+10
+00:00:28,466 --> 00:00:33,666
+they may be trained with maybe like hundred or 500,000 keywords
+
+11
+00:00:33,700 --> 00:00:39,400
+for example you want to dictate if an email is spam or not
+
+12
+00:00:39,800 --> 00:00:42,666
+things you're gonna put out there could be um
+
+13
+00:00:42,666 --> 00:00:45,700
+maybe purchase now or subscribe now
+
+14
+00:00:45,866 --> 00:00:49,266
+some keywords that you know that some spammers oftentimes use
+
+15
+00:00:49,566 --> 00:00:53,700
+but one thing that is very constant is that people get creative
+
+16
+00:00:54,100 --> 00:00:57,666
+when they know that your machine detects certain keywords
+
+17
+00:00:57,766 --> 00:00:59,600
+they change it now
+
+18
+00:00:59,600 --> 00:01:01,866
+how does your computer or your machine
+
+19
+00:01:01,966 --> 00:01:05,933
+really knows that some of these guys are changing this terminology
+
+20
+00:01:06,433 --> 00:01:10,166
+you can achieve that through machine learning through machine learning
+
+21
+00:01:10,166 --> 00:01:12,733
+you define the rules the model wants
+
+22
+00:01:13,100 --> 00:01:15,066
+what the machine gets to do at the end of the day
+
+23
+00:01:15,066 --> 00:01:17,400
+is it learns from people's interaction
+
+24
+00:01:17,766 --> 00:01:22,200
+so imagine if there's a new keyword that they've introduced
+
+25
+00:01:22,300 --> 00:01:24,066
+and you're not even aware of it
+
+26
+00:01:24,266 --> 00:01:26,766
+and maybe the customers get to report those words
+
+27
+00:01:26,766 --> 00:01:29,266
+often what the machine will do
+
+28
+00:01:29,266 --> 00:01:30,400
+or what the model will do
+
+29
+00:01:30,400 --> 00:01:32,300
+because of the new available data
+
+30
+00:01:32,466 --> 00:01:35,100
+is to think of the repercussion
+
+31
+00:01:35,100 --> 00:01:37,933
+or the repetitive aspect of what the people are reporting
+
+32
+00:01:38,233 --> 00:01:40,266
+update that list by itself
+
+33
+00:01:40,433 --> 00:01:43,200
+and when a spammer sends something
+
+34
+00:01:43,200 --> 00:01:46,766
+the next time it will flag it without actually getting to the user
+
+35
+00:01:46,966 --> 00:01:49,433
+so that's typically how machine learning works
+

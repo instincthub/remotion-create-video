@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:02,866
+hello you agree with me that talking about machine learning
+
+2
+00:00:02,866 --> 00:00:05,266
+artificial intelligence without really building
+
+3
+00:00:05,266 --> 00:00:07,900
+is like you just making noise without an effect
+
+4
+00:00:08,666 --> 00:00:08,900
+so
+
+5
+00:00:08,900 --> 00:00:12,566
+I'm thinking about building a particular project on machine learning
+
+6
+00:00:12,766 --> 00:00:13,866
+but here's the thing
+
+7
+00:00:13,866 --> 00:00:17,466
+I have several consideration just to choose which project
+
+8
+00:00:17,466 --> 00:00:20,066
+one I don't want it to be too complicated
+
+9
+00:00:20,300 --> 00:00:23,566
+secondly I want to ensure that it is rich enough
+
+10
+00:00:23,566 --> 00:00:25,833
+to help us grasp the knowledge that we need
+
+11
+00:00:25,833 --> 00:00:28,066
+to face any project that comes our way
+
+12
+00:00:28,600 --> 00:00:31,400
+so the first on my list is spam filter
+
+13
+00:00:31,866 --> 00:00:34,966
+spam filter could be used on social media
+
+14
+00:00:34,966 --> 00:00:36,800
+could be used on the email
+
+15
+00:00:36,800 --> 00:00:38,833
+could be used on a business catalogue
+
+16
+00:00:38,833 --> 00:00:41,266
+whatever it is but here's the thing
+
+17
+00:00:41,400 --> 00:00:43,466
+it is something that we are used to already
+
+18
+00:00:43,466 --> 00:00:44,400
+it is something
+
+19
+00:00:44,400 --> 00:00:49,066
+or a model that tells a business or a user if something is fake
+
+20
+00:00:49,066 --> 00:00:53,466
+or if it's fishy or if it's something that is not really meaningful
+
+21
+00:00:53,666 --> 00:00:55,000
+and how we're gonna do that
+
+22
+00:00:55,000 --> 00:00:58,900
+of course we combine several technologies to help us do that quickly
+
+23
+00:00:59,566 --> 00:01:02,766
+but if not spam filter what else can we build
+
+24
+00:01:03,300 --> 00:01:08,166
+another machine learning model we can build is handwriting recognition
+
+25
+00:01:08,166 --> 00:01:11,366
+just imagine writing with your hand
+
+26
+00:01:11,366 --> 00:01:15,400
+with pen and the machine determine which letter it is
+
+27
+00:01:16,466 --> 00:01:18,100
+we can also try this one out
+
+28
+00:01:18,300 --> 00:01:22,133
+the third list is house pricing prediction
+
+29
+00:01:22,300 --> 00:01:25,300
+this will be a big win for the Realtors
+
+30
+00:01:25,466 --> 00:01:28,000
+people were in charge of selling houses and house valuation
+

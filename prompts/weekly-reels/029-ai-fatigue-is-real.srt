@@ -1,0 +1,136 @@
+1
+00:00:00,466 --> 00:00:02,466
+another way to overcome AI fatigue is really
+
+2
+00:00:02,466 --> 00:00:07,166
+really understanding specific task for specific AI
+
+3
+00:00:07,200 --> 00:00:10,733
+this is very important AI have their strength
+
+4
+00:00:11,100 --> 00:00:14,500
+at the same time you also have what you wanna do
+
+5
+00:00:14,700 --> 00:00:16,966
+you need to be able to tell specifically
+
+6
+00:00:17,066 --> 00:00:18,966
+what you want AI to do for you
+
+7
+00:00:18,966 --> 00:00:21,366
+at every point in time for example
+
+8
+00:00:21,366 --> 00:00:23,466
+when do you need to generate boilerplate
+
+9
+00:00:23,700 --> 00:00:26,566
+AI is very good for generating documentation
+
+10
+00:00:26,600 --> 00:00:29,733
+test generation refactoring of your code
+
+11
+00:00:30,200 --> 00:00:35,000
+but on the other hand when you need to use your logical thinking
+
+12
+00:00:35,566 --> 00:00:38,800
+you could use AI for architectural design
+
+13
+00:00:39,100 --> 00:00:40,166
+but again
+
+14
+00:00:40,200 --> 00:00:43,300
+what is the unique selling point in whatever you are building
+
+15
+00:00:43,400 --> 00:00:45,666
+so if you really want something very technical
+
+16
+00:00:45,666 --> 00:00:49,933
+one of the things you can look at is understanding the architecture
+
+17
+00:00:50,233 --> 00:00:52,400
+nurturing out outlining the architecture
+
+18
+00:00:52,400 --> 00:00:55,666
+how you want it to be and that's not it as well
+
+19
+00:00:55,666 --> 00:01:00,333
+design system is also very crucial when you leave it to AI
+
+20
+00:01:00,500 --> 00:01:03,466
+AI is gonna give you generic implementation
+
+21
+00:01:03,466 --> 00:01:06,333
+but again that product you're trying to build
+
+22
+00:01:06,566 --> 00:01:08,700
+needs to work with certain specification
+
+23
+00:01:08,700 --> 00:01:10,033
+that works with the problem
+
+24
+00:01:10,033 --> 00:01:12,900
+or the domain in which you're trying to solve that problem
+
+25
+00:01:13,033 --> 00:01:16,533
+some of these things are not something that AI can do for you
+
+26
+00:01:16,600 --> 00:01:19,500
+if you go the route of leaving it to AI to do for you
+
+27
+00:01:19,600 --> 00:01:21,166
+later in the project
+
+28
+00:01:21,166 --> 00:01:25,666
+you have to recustomize everything to solve the problem at hand
+
+29
+00:01:25,666 --> 00:01:29,766
+so this is very important that you know the role of the AI
+
+30
+00:01:29,766 --> 00:01:31,200
+from the beginning of the project
+
+31
+00:01:31,366 --> 00:01:32,566
+do your own part
+
+32
+00:01:32,566 --> 00:01:36,700
+use your part to engineer the AI to do something very powerful
+
+33
+00:01:36,700 --> 00:01:39,233
+and by so doing you reduce redundancy
+
+34
+00:01:39,233 --> 00:01:42,066
+and you enjoy working in collaboration with some of these machines
+

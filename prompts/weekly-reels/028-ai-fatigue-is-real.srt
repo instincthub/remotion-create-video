@@ -1,0 +1,120 @@
+1
+00:00:00,633 --> 00:00:02,200
+but for us to be really productive
+
+2
+00:00:02,200 --> 00:00:05,400
+there are couple of things that we also need to be aware of
+
+3
+00:00:05,400 --> 00:00:08,900
+especially if you are currently exploring multiple tools
+
+4
+00:00:09,766 --> 00:00:13,166
+I call them developer AI Fatigue Toolkit
+
+5
+00:00:13,433 --> 00:00:18,000
+let us take a look at some of the tips and tools that will help us
+
+6
+00:00:18,000 --> 00:00:21,966
+in order for us to really manage our AI fatigue
+
+7
+00:00:22,966 --> 00:00:26,866
+the first is Timebox AI programming
+
+8
+00:00:26,966 --> 00:00:28,133
+and what does this mean
+
+9
+00:00:28,433 --> 00:00:32,933
+you need to be able to tell when AI should do the work
+
+10
+00:00:33,033 --> 00:00:35,100
+and when you should do the work
+
+11
+00:00:35,300 --> 00:00:39,400
+in my previous videos I stated that it is very important that we know
+
+12
+00:00:39,433 --> 00:00:42,033
+which task AI should help us to do
+
+13
+00:00:42,033 --> 00:00:44,800
+and which tasks are we supposed to do by ourselves
+
+14
+00:00:45,266 --> 00:00:46,266
+in some instances
+
+15
+00:00:46,266 --> 00:00:50,400
+you spend time trying to bend the AI to do the right thing
+
+16
+00:00:50,633 --> 00:00:54,133
+because you are giving the AI the task that you're supposed to do
+
+17
+00:00:54,600 --> 00:00:55,666
+so something you need to do
+
+18
+00:00:55,666 --> 00:01:00,100
+for example you could say maybe you use a particular minute to code
+
+19
+00:01:00,166 --> 00:01:02,400
+you use a particular minute to think
+
+20
+00:01:02,400 --> 00:01:06,033
+and finally use some minutes to have some break or just relax
+
+21
+00:01:06,033 --> 00:01:10,600
+for example you can have maybe 25 minutes to use coding assistance
+
+22
+00:01:10,600 --> 00:01:12,266
+another 10 minutes for thinking
+
+23
+00:01:12,466 --> 00:01:15,000
+and finally use another five minutes for break
+
+24
+00:01:15,266 --> 00:01:16,966
+when you break down some of these things
+
+25
+00:01:16,966 --> 00:01:18,633
+the break may not be something very huge
+
+26
+00:01:18,633 --> 00:01:21,566
+it could just be you strolling or just walking around
+
+27
+00:01:21,566 --> 00:01:24,933
+whatever it is but the point is you use agents
+
+28
+00:01:25,066 --> 00:01:29,433
+you think and you rest when you mix these things intermittently
+
+29
+00:01:29,433 --> 00:01:30,966
+you understand that yes
+
+30
+00:01:30,966 --> 00:01:33,966
+some of these things are not as difficult as they may be
+

@@ -1,0 +1,112 @@
+1
+00:00:00,100 --> 00:00:02,266
+in order to manage AI fatigue
+
+2
+00:00:02,266 --> 00:00:05,733
+another area where you can look at is your cognitive load
+
+3
+00:00:06,066 --> 00:00:06,933
+yes
+
+4
+00:00:07,200 --> 00:00:10,800
+remember when you're working or deploying any application to a server
+
+5
+00:00:11,500 --> 00:00:14,166
+the load determines the space that you need
+
+6
+00:00:14,200 --> 00:00:16,066
+sometimes when you have too much traffic
+
+7
+00:00:16,066 --> 00:00:19,933
+that is way beyond the load or the capacity of what the site can have
+
+8
+00:00:20,233 --> 00:00:21,700
+that site will break down
+
+9
+00:00:22,000 --> 00:00:23,166
+same goes with me human
+
+10
+00:00:23,166 --> 00:00:27,500
+if you don't understand the committive load that is attached to you
+
+11
+00:00:27,700 --> 00:00:32,266
+you find yourself circling around writing prompt again and again
+
+12
+00:00:32,266 --> 00:00:33,400
+and at the end of the day
+
+13
+00:00:33,400 --> 00:00:34,866
+you're not making progress
+
+14
+00:00:34,966 --> 00:00:37,333
+so here are some of the question you should ask
+
+15
+00:00:37,400 --> 00:00:40,733
+first is am I thinking or just reviewing the output
+
+16
+00:00:41,033 --> 00:00:44,566
+or am I prompting repeatedly without any progress
+
+17
+00:00:44,800 --> 00:00:48,000
+or am I mentally tired after short session
+
+18
+00:00:48,266 --> 00:00:50,066
+all these questions are very
+
+19
+00:00:50,066 --> 00:00:52,766
+very important when you're working with artificial intelligence
+
+20
+00:00:52,766 --> 00:00:53,233
+because you will soon realize that before you know it
+
+21
+00:00:55,833 --> 00:00:58,100
+you're giving prompt you're writing code
+
+22
+00:00:58,100 --> 00:01:02,733
+you're burning AI token but at the end of the day just lesser results
+
+23
+00:01:03,233 --> 00:01:04,500
+so if you want to fix this
+
+24
+00:01:04,500 --> 00:01:07,766
+you need to understand when that recursion or that loop is happening
+
+25
+00:01:07,766 --> 00:01:09,033
+so that you can break out of it
+
+26
+00:01:09,033 --> 00:01:11,766
+you can take some break or try some other approach
+
+27
+00:01:11,833 --> 00:01:13,633
+so that you can quickly have the result
+
+28
+00:01:13,633 --> 00:01:14,933
+that you're looking at getting
+

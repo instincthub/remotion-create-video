@@ -28,6 +28,13 @@ import { ML2SpamFilterComposition } from "./weekly-reels/022-ml-2-introduction/C
 import { ML3WhenToUseMLComposition } from "./weekly-reels/023-ml-3-when-to-use-ml/Composition";
 import { ML4ProjectInMLComposition } from "./weekly-reels/024-ml-4-project-in-ml/Composition";
 import { ML5ProjectInMLComposition } from "./weekly-reels/025-ml-5-project-in-ml/Composition";
+import { AIFatigueIntroComposition } from "./weekly-reels/026-ai-fatigue-intro/Composition";
+import { AIFatigueStoryComposition } from "./weekly-reels/027-ai-fatigue-story/Composition";
+import { TimeboxAIComposition } from "./weekly-reels/028-timebox-ai/Composition";
+import { SpecificTasksComposition } from "./weekly-reels/029-specific-tasks/Composition";
+import { CognitiveLoadComposition } from "./weekly-reels/030-cognitive-load/Composition";
+import { DeepCodeModeComposition } from "./weekly-reels/031-deep-code-mode/Composition";
+import { ReduceSwitchingComposition } from "./weekly-reels/032-reduce-switching/Composition";
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -248,6 +255,62 @@ export const RemotionRoot: React.FC = () => {
           id="025-ml-5-project-in-ml"
           component={ML5ProjectInMLComposition}
           durationInFrames={2550}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+        <Composition
+          id="026-ai-fatigue-intro"
+          component={AIFatigueIntroComposition}
+          durationInFrames={4140}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+        <Composition
+          id="027-ai-fatigue-story"
+          component={AIFatigueStoryComposition}
+          durationInFrames={3840}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+        <Composition
+          id="028-timebox-ai"
+          component={TimeboxAIComposition}
+          durationInFrames={2820}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+        <Composition
+          id="029-specific-tasks"
+          component={SpecificTasksComposition}
+          durationInFrames={3060}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+        <Composition
+          id="030-cognitive-load"
+          component={CognitiveLoadComposition}
+          durationInFrames={2250}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+        <Composition
+          id="031-deep-code-mode"
+          component={DeepCodeModeComposition}
+          durationInFrames={3330}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+        <Composition
+          id="032-reduce-switching"
+          component={ReduceSwitchingComposition}
+          durationInFrames={5610}
           fps={30}
           width={1080}
           height={1920}

@@ -1,0 +1,160 @@
+1
+00:00:00,200 --> 00:00:05,666
+one of the ways you can beat AI fatigue is to walk in deep cold mode
+
+2
+00:00:05,866 --> 00:00:07,233
+this is very funny yes
+
+3
+00:00:07,233 --> 00:00:10,100
+I know we don't really write code as developer anymore
+
+4
+00:00:10,100 --> 00:00:11,266
+but again
+
+5
+00:00:11,300 --> 00:00:15,466
+there are instances where you need to dive into what you have
+
+6
+00:00:15,666 --> 00:00:20,333
+program things or write some instructions or refactor some things
+
+7
+00:00:20,600 --> 00:00:23,566
+it is very important that we read some of these things
+
+8
+00:00:23,566 --> 00:00:24,366
+because
+
+9
+00:00:24,666 --> 00:00:27,866
+those are the ways where things that you build can be meaningful
+
+10
+00:00:27,866 --> 00:00:29,266
+I'll give you one example
+
+11
+00:00:29,600 --> 00:00:32,466
+I had AI implement one future for me
+
+12
+00:00:32,666 --> 00:00:34,700
+but after the implementation
+
+13
+00:00:34,800 --> 00:00:38,500
+the UI was okay the back end was okay
+
+14
+00:00:38,500 --> 00:00:40,733
+the entire processes was okay
+
+15
+00:00:40,900 --> 00:00:44,266
+but again I haven't tested what the AI has done
+
+16
+00:00:44,266 --> 00:00:46,233
+I was still a bit not satisfied
+
+17
+00:00:46,233 --> 00:00:50,666
+because I didn't know how the AI implemented what I am seeing
+
+18
+00:00:50,766 --> 00:00:54,033
+and the fear for me is how am I gonna be sure
+
+19
+00:00:54,033 --> 00:00:57,333
+that what has been implemented is actually what I intended
+
+20
+00:00:57,366 --> 00:01:01,000
+and there are some reports out there that we have over 40%
+
+21
+00:01:01,000 --> 00:01:03,400
+of vulnerability in AI implementation
+
+22
+00:01:03,466 --> 00:01:05,100
+so if you're building for scale
+
+23
+00:01:05,100 --> 00:01:06,900
+if you're building for security
+
+24
+00:01:06,966 --> 00:01:11,233
+you have to be watchful that AI implements something and it's working
+
+25
+00:01:11,233 --> 00:01:12,433
+does not mean that's the end
+
+26
+00:01:12,433 --> 00:01:15,566
+and that doesn't necessarily mean that AI have done the wrong thing
+
+27
+00:01:15,866 --> 00:01:16,866
+so sometimes
+
+28
+00:01:16,866 --> 00:01:20,566
+you may really want to dive into the deep aspect of the code
+
+29
+00:01:20,566 --> 00:01:22,200
+to really know what is going on
+
+30
+00:01:22,233 --> 00:01:26,200
+and that's really what differentiates just vibe coders and actually
+
+31
+00:01:26,200 --> 00:01:28,966
+technology professional because at the end of the day
+
+32
+00:01:28,966 --> 00:01:30,500
+you wanna own the technology
+
+33
+00:01:30,500 --> 00:01:31,633
+you wanna own the logic
+
+34
+00:01:31,633 --> 00:01:36,366
+you wanna ensure that everything you're doing works as expected
+
+35
+00:01:36,366 --> 00:01:38,866
+so next time when AI does something
+
+36
+00:01:38,866 --> 00:01:41,233
+it is a time for you to really investigate
+
+37
+00:01:41,233 --> 00:01:44,300
+if what has been achieved is really what you intended
+
+38
+00:01:44,300 --> 00:01:46,100
+or you need to prompt it to do even more
+
+39
+00:01:46,100 --> 00:01:48,733
+or you even want to go into that and do it yourself
+
+40
+00:01:48,866 --> 00:01:51,133
+in a particular way that you want it to be done
+

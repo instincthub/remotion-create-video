@@ -1,0 +1,392 @@
+1
+00:00:00,000 --> 00:00:03,466
+let me ask you something what do you think is the most important skill
+
+2
+00:00:03,466 --> 00:00:06,200
+your child will need in the next 10 years
+
+3
+00:00:06,633 --> 00:00:09,266
+coding mathematics
+
+4
+00:00:09,600 --> 00:00:11,066
+a second language
+
+5
+00:00:11,600 --> 00:00:15,266
+those are good answers but they are not the right answer
+
+6
+00:00:15,833 --> 00:00:19,366
+because here is what the data from over 1,000 employers
+
+7
+00:00:19,366 --> 00:00:22,533
+representing 14 million workers actually tells us
+
+8
+00:00:23,066 --> 00:00:27,233
+The World Economic Forum's Future of Jobs Report 2025
+
+9
+00:00:27,233 --> 00:00:32,900
+projects that 39% of core workplace skills will change by 2030
+
+10
+00:00:33,000 --> 00:00:37,566
+not some skills nearly four in every 10 skills that are valued today
+
+11
+00:00:37,666 --> 00:00:41,400
+will either disappear or become less important within this decade
+
+12
+00:00:41,400 --> 00:00:45,400
+and 59% of the global workforce will need to be reskilled
+
+13
+00:00:45,800 --> 00:00:49,300
+that includes the people teaching your children right now
+
+14
+00:00:49,500 --> 00:00:52,266
+so the question is not just what jobs are coming
+
+15
+00:00:52,766 --> 00:00:55,800
+the question is what kind of human being do you need to raise
+
+16
+00:00:56,100 --> 00:01:00,566
+to thrive in a world being reshaped by artificial intelligence
+
+17
+00:01:01,700 --> 00:01:05,533
+the answer is both simpler and more demanding than most parents expect
+
+18
+00:01:06,600 --> 00:01:08,966
+your child needs two things working together
+
+19
+00:01:09,600 --> 00:01:12,900
+technical fluency and deep human capability
+
+20
+00:01:13,400 --> 00:01:15,500
+not one or the other
+
+21
+00:01:15,900 --> 00:01:21,366
+both woven together into what researchers call a t shape profile
+
+22
+00:01:21,766 --> 00:01:24,200
+deep expertise in at least one area
+
+23
+00:01:24,200 --> 00:01:28,800
+combined with broad skills that cross discipline and adapt to change
+
+24
+00:01:28,800 --> 00:01:31,400
+let us start with the technical side
+
+25
+00:01:31,400 --> 00:01:36,300
+the No. 1 fastest growing skill on the World Economic Forum list
+
+26
+00:01:36,400 --> 00:01:41,066
+is not so coding it is artificial intelligence literacy
+
+27
+00:01:41,200 --> 00:01:43,866
+understanding what artificial intelligence is
+
+28
+00:01:43,866 --> 00:01:46,700
+how it works where it fails
+
+29
+00:01:46,866 --> 00:01:50,866
+and when to trust it a child who cannot critically
+
+30
+00:01:51,066 --> 00:01:54,000
+evaluate an artificial intelligence output
+
+31
+00:01:54,166 --> 00:01:56,600
+is not prepared for the world that is coming
+
+32
+00:01:56,600 --> 00:01:58,400
+they are vulnerable to it
+
+33
+00:01:58,433 --> 00:02:02,900
+the second critical technical skill is computational thinking
+
+34
+00:02:03,100 --> 00:02:05,366
+not memorizing programming syntax
+
+35
+00:02:05,366 --> 00:02:09,500
+but learning to break complex problem into smaller parts
+
+36
+00:02:09,800 --> 00:02:13,333
+recognize patterns and design step by step solutions
+
+37
+00:02:13,700 --> 00:02:17,866
+this is the mental framework that makes someone effective
+
+38
+00:02:17,866 --> 00:02:20,666
+whether they are using artificial intelligence tools
+
+39
+00:02:20,900 --> 00:02:24,066
+managing a team or launching a business
+
+40
+00:02:24,066 --> 00:02:25,600
+third is data literacy
+
+41
+00:02:25,700 --> 00:02:29,400
+we live in a world where artificial intelligence systems
+
+42
+00:02:29,466 --> 00:02:32,066
+are built entirely on data
+
+43
+00:02:32,300 --> 00:02:34,600
+child who can read interpret
+
+44
+00:02:34,800 --> 00:02:37,100
+question and challenge data
+
+45
+00:02:37,100 --> 00:02:38,800
+is a child who can understand
+
+46
+00:02:38,866 --> 00:02:40,666
+the world more clearly
+
+47
+00:02:40,666 --> 00:02:43,933
+than those who simply accept to what a screen tells them
+
+48
+00:02:43,933 --> 00:02:46,500
+fourth is digital fluency
+
+49
+00:02:46,500 --> 00:02:51,000
+not just using devices but understanding how information travels
+
+50
+00:02:51,100 --> 00:02:53,733
+how systems can be manipulated
+
+51
+00:02:53,833 --> 00:02:58,866
+how to protect privacy and how to evaluate whether something is true
+
+52
+00:02:59,100 --> 00:03:03,500
+in an era of generated content and deepfakes
+
+53
+00:03:03,633 --> 00:03:05,500
+this is a survival skill
+
+54
+00:03:05,666 --> 00:03:08,966
+these four technical capabilities form the foundation
+
+55
+00:03:09,100 --> 00:03:12,666
+but here is what will truly separate your child from the machines
+
+56
+00:03:12,900 --> 00:03:15,533
+because this is where the story gets remarkable
+
+57
+00:03:15,666 --> 00:03:20,466
+MIT Sloan researchers develop a framework called ipok
+
+58
+00:03:20,700 --> 00:03:24,400
+it identifies five categories of human capability
+
+59
+00:03:24,666 --> 00:03:27,666
+that artificial intelligence cannot replicate
+
+60
+00:03:27,866 --> 00:03:29,866
+and here is the extraordinary finding
+
+61
+00:03:29,866 --> 00:03:34,900
+every single one of these capabilities is associated with employment
+
+62
+00:03:34,900 --> 00:03:36,933
+growth not decline
+
+63
+00:03:37,033 --> 00:03:39,000
+the first is empathy
+
+64
+00:03:39,066 --> 00:03:43,200
+the ability to genuinely understand what another person is feeling
+
+65
+00:03:43,266 --> 00:03:48,066
+to read a room to respond to human emotion with human sensitivity
+
+66
+00:03:48,166 --> 00:03:53,733
+no language model feels no algorithm grieves or celebrates
+
+67
+00:03:54,000 --> 00:03:58,100
+empathy is irreplaceable the second is perspective
+
+68
+00:03:58,200 --> 00:04:00,400
+the capacity for ethical judgment
+
+69
+00:04:00,400 --> 00:04:01,500
+moral reasoning
+
+70
+00:04:01,500 --> 00:04:05,000
+and seeing a situation from multiple angles before acting
+
+71
+00:04:05,066 --> 00:04:09,733
+this is what leaders do this is what doctors do at the bedside
+
+72
+00:04:09,933 --> 00:04:12,600
+this is what parents do every single day
+
+73
+00:04:12,633 --> 00:04:15,600
+artificial intelligence can generate options
+
+74
+00:04:15,633 --> 00:04:17,300
+it cannot carry moral weight
+
+75
+00:04:17,433 --> 00:04:19,466
+the third is originality
+
+76
+00:04:19,966 --> 00:04:24,100
+genuine creativity not remixing existing patterns
+
+77
+00:04:24,100 --> 00:04:26,466
+which is what artificial intelligence does
+
+78
+00:04:26,466 --> 00:04:30,333
+but generating truly novel ideas from lived experience
+
+79
+00:04:30,466 --> 00:04:31,700
+imagination
+
+80
+00:04:31,766 --> 00:04:36,066
+and the kind of intuition that comes from being alive in the world
+
+81
+00:04:36,166 --> 00:04:38,466
+the greatest artists entrepreneurs
+
+82
+00:04:38,466 --> 00:04:41,833
+and scientists of the next generation will be valued
+
+83
+00:04:41,833 --> 00:04:46,900
+precisely because they think in ways machines cannot predict
+
+84
+00:04:47,300 --> 00:04:51,200
+the fourth is connection the ability to inspire
+
+85
+00:04:51,200 --> 00:04:55,400
+to lead to communicate a vision that makes people want to follow
+
+86
+00:04:55,400 --> 00:04:57,666
+this is the quality of great teachers
+
+87
+00:04:57,766 --> 00:04:59,766
+great coaches great founders
+
+88
+00:04:59,966 --> 00:05:05,100
+it requires trust and trust requires a human being on the other side
+
+89
+00:05:05,233 --> 00:05:09,733
+the fifth is human drive greet betso perseverance
+
+90
+00:05:10,266 --> 00:05:12,866
+the ability to push through failure
+
+91
+00:05:12,866 --> 00:05:17,066
+adapt after disappointment and keep moving when the path disappears
+
+92
+00:05:17,866 --> 00:05:21,533
+artificial intelligence does not know what it means to struggle
+
+93
+00:05:22,033 --> 00:05:25,733
+your child shaped by real challenges does
+
+94
+00:05:26,433 --> 00:05:31,866
+Workday's 2026 research confirms that 83% of business leaders
+
+95
+00:05:32,100 --> 00:05:35,966
+believe artificial intelligence is making human skills more important
+
+96
+00:05:35,966 --> 00:05:38,500
+not less let that land for a moment
+
+97
+00:05:39,000 --> 00:05:41,533
+the smarter artificial intelligence gets
+
+98
+00:05:41,700 --> 00:05:44,200
+the more valuable your humanity becomes
+

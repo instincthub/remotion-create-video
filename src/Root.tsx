@@ -35,6 +35,14 @@ import { SpecificTasksComposition } from "./weekly-reels/029-specific-tasks/Comp
 import { CognitiveLoadComposition } from "./weekly-reels/030-cognitive-load/Composition";
 import { DeepCodeModeComposition } from "./weekly-reels/031-deep-code-mode/Composition";
 import { ReduceSwitchingComposition } from "./weekly-reels/032-reduce-switching/Composition";
+import { AIWakeUpCallComposition } from "./weekly-reels/033-the-ai-wake-up-call/index";
+import { AIWakeUpCallReelComposition } from "./weekly-reels/033-the-ai-wake-up-call-reel/index";
+import { AIWakeUpCall2Composition } from "./weekly-reels/034-the-ai-wake-up-call/index";
+import { AIWakeUpCall2ReelComposition } from "./weekly-reels/034-the-ai-wake-up-call-reel/index";
+import { AIWakeUpCall3Composition } from "./weekly-reels/035-the-ai-wake-up-call/index";
+import { AIWakeUpCall3ReelComposition } from "./weekly-reels/035-the-ai-wake-up-call-reel/index";
+import { AIWakeUpCall4Composition } from "./weekly-reels/037-the-ai-wake-up-call/index";
+import { AIWakeUpCall4ReelComposition } from "./weekly-reels/037-the-ai-wake-up-call-reel/index";
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -311,6 +319,70 @@ export const RemotionRoot: React.FC = () => {
           id="032-reduce-switching"
           component={ReduceSwitchingComposition}
           durationInFrames={5610}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+        <Composition
+          id="033-the-ai-wake-up-call"
+          component={AIWakeUpCallComposition}
+          durationInFrames={7440}
+          fps={30}
+          width={1920}
+          height={1080}
+        />
+        <Composition
+          id="033-the-ai-wake-up-call-reel"
+          component={AIWakeUpCallReelComposition}
+          durationInFrames={7440}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+        <Composition
+          id="034-the-ai-wake-up-call"
+          component={AIWakeUpCall2Composition}
+          durationInFrames={10290}
+          fps={30}
+          width={1920}
+          height={1080}
+        />
+        <Composition
+          id="034-the-ai-wake-up-call-reel"
+          component={AIWakeUpCall2ReelComposition}
+          durationInFrames={10290}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+        <Composition
+          id="035-the-ai-wake-up-call"
+          component={AIWakeUpCall3Composition}
+          durationInFrames={4500}
+          fps={30}
+          width={1920}
+          height={1080}
+        />
+        <Composition
+          id="035-the-ai-wake-up-call-reel"
+          component={AIWakeUpCall3ReelComposition}
+          durationInFrames={4500}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+        <Composition
+          id="037-the-ai-wake-up-call"
+          component={AIWakeUpCall4Composition}
+          durationInFrames={11340}
+          fps={30}
+          width={1920}
+          height={1080}
+        />
+        <Composition
+          id="037-the-ai-wake-up-call-reel"
+          component={AIWakeUpCall4ReelComposition}
+          durationInFrames={11340}
           fps={30}
           width={1080}
           height={1920}

@@ -1,5 +1,7 @@
 Animations should be generated using clear, highly detailed prompts. Every request must explicitly instruct Claude to use the **Remotion skill** and the **instincthub-colors** design system to ensure consistency in styling and structure.
 
+Use your designs skills and Design plugin to create modern illustrations.
+
 For project organization, Claude must create a **separate subdirectory for each animation**.
 
 Structure it like this:

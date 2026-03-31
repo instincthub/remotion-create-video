@@ -22,6 +22,7 @@ import { WhyEnterpriseAIComplexComposition } from "./ai-for-business/18-why-ente
 import { EnterpriseAIDevOpsComposition } from "./ai-for-business/19-enterprise-artificial-intelligence-architecture-devops-challenges/Composition";
 import { ThreeStagesComposition } from "./ai-for-business/20-three-stages-enterprise-artificial-intelligence/Composition";
 import { ReadyToBuildComposition } from "./ai-for-business/21-ready-to-build-real-artificial-intelligence-applications/Composition";
+import { AIPlaybookIntroComposition } from "./ai-for-business/044-introduction-to-ai-playbook/Composition";
 import { VibeCoderComposition } from "./weekly-reels/001-what-should-a-vibe-coder-learn/Composition";
 import { MLIntroductionComposition } from "./weekly-reels/021-ml-1-introduction/Composition";
 import { ML2SpamFilterComposition } from "./weekly-reels/022-ml-2-introduction/Composition";
@@ -212,6 +213,14 @@ export const RemotionRoot: React.FC = () => {
           id="21-ready-to-build-real-artificial-intelligence-applications"
           component={ReadyToBuildComposition}
           durationInFrames={5400}
+          fps={30}
+          width={1920}
+          height={1080}
+        />
+        <Composition
+          id="044-introduction-to-ai-playbook"
+          component={AIPlaybookIntroComposition}
+          durationInFrames={9180}
           fps={30}
           width={1920}
           height={1080}

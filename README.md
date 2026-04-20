@@ -1,54 +1,60 @@
-# Remotion video
+# AI Playbook — Video & Slide Content
 
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng">
-      <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
-    </picture>
-  </a>
-</p>
+Content creation toolkit for the **AI Playbook** brand. Produces Remotion video animations and LinkedIn carousel slide decks.
 
-Welcome to your Remotion project!
+## Project Structure
 
-## Commands
+```
+src/
+  ai-for-business/       # 21-episode explainer series (Remotion)
+  weekly-reels/           # Weekly short-form reels (Remotion, 9:16)
+designs/                  # Static slide decks (HTML/CSS → print to PDF)
+docs/                     # Brand documentation (color, typography, imagery, voice, logo)
+```
 
-**Install Dependencies**
+## Getting Started
 
 ```console
 npm i
+npm run dev          # Start Remotion preview
+npx remotion render  # Render video
 ```
 
-**Start Preview**
+## Claude Code Commands
 
-```console
-npm run dev
+| Command | Purpose | Output |
+|---------|---------|--------|
+| `/video` | Generate a Remotion video animation (16:9) | `src/` subdirectory |
+| `/reel` | Generate a Remotion reel animation (9:16) | `src/` subdirectory |
+| `/carousel` | Generate a Remotion animated carousel (1:1 or 4:5) | `src/` subdirectory |
+| `/slide-post` | Generate a static LinkedIn slide deck (HTML/CSS) | `designs/<topic>-carousel.html` |
+
+### Slide Post Workflow
+
+1. Copy the prompt from `.claude/skills/slide-content-generator/SKILL.md`
+2. Paste into claude.ai with your topic to generate structured content
+3. Run `/slide-post <content>` in Claude Code to produce the HTML
+4. Open in Chrome, print to PDF (Custom size: 1080x1350px, no margins)
+
+## Brand Skills
+
+| Skill | Location | Purpose |
+|-------|----------|---------|
+| `ai-playbook-brand` | `.claude/skills/ai-playbook-brand/` | Full AI Playbook design system (colors, typography, imagery, voice, logo) |
+| `slide-content-generator` | `.claude/skills/slide-content-generator/` | Reusable prompt for generating carousel content |
+| `remotion-best-practices` | `.claude/skills/remotion-best-practices/` | Remotion animation patterns and conventions |
+
+Both **AI Playbook** and **InstinctHub** brand systems are supported. Commands ask which brand to use if not specified.
+
+## Key Assets
+
 ```
-
-**Render video**
-
-```console
-npx remotion render
-```
-
-**Upgrade Remotion**
-
-```console
-npx remotion upgrade
+designs/assets/bg/                          # Background textures
+designs/assets/images/                      # Author photos
+docs/01 — Logo/ai-playbook-logo-full/       # Logo SVG/PNG files
 ```
 
 ## Docs
 
-Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
-
-## Help
-
-We provide help on our [Discord server](https://discord.gg/6VzzNDwUwV).
-
-## Issues
-
-Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
-
-## License
-
-Note that for some entities a company license is needed. [Read the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+- [Remotion fundamentals](https://www.remotion.dev/docs/the-fundamentals)
+- Brand docs in `docs/` (color, typography, imagery, voice, applications, logo)

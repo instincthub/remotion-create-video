@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Week AI Agents Became Infrastructure — AI Playbook</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&family=Nunito:wght@600;700&display=swap" rel="stylesheet" />
+  <style>
+    /* ── Reset ── */
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    /* ── Brand tokens ── */
+    :root {
+      --brand-teal: #1A7A6E;
+      --brand-charcoal: #2B3A35;
+      --brand-dark: #0F1A17;
+      --brand-paper: #F4F2ED;
+      --white: #FFFFFF;
+      --neutral-400: #B0ADA4;
+      --neutral-600: #6B6860;
+      --teal-light: #5DCAA5;
+
+      --nunito: 'Nunito', sans-serif;
+      --dm-sans: 'DM Sans', sans-serif;
+      --dm-mono: 'DM Mono', monospace;
+
+      --slide-w: 1080px;
+      --slide-h: 1350px;
+      --pad: 64px;
+    }
+
+    body {
+      background: #e0e0e0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 32px;
+      padding: 32px 0;
+    }
+
+    /* ── Slide base ── */
+    .slide {
+      position: relative;
+      width: var(--slide-w);
+      height: var(--slide-h);
+      overflow: hidden;
+      page-break-after: always;
+      flex-shrink: 0;
+    }
+
+    /* ── Print ── */
+    @media print {
+      body { background: none; padding: 0; gap: 0; }
+      .slide { page-break-after: always; }
+      .slide:last-child { page-break-after: auto; }
+    }
+
+    @page {
+      size: 1080px 1350px;
+      margin: 0;
+    }
+
+    /* ── Cover slide ── */
+    .slide--cover {
+      background: url('assets/bg/wall-paper-2148196630.jpg') center/cover no-repeat;
+      color: var(--white);
+    }
+    .slide--cover::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: rgba(15, 26, 23, 0.55);
+      z-index: 1;
+    }
+    .slide--cover .cover-content {
+      position: relative;
+      z-index: 2;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      padding: var(--pad);
+    }
+    .cover-title {
+      margin-top: 40px;
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 84px;
+      line-height: 1.1;
+      color: var(--white);
+    }
+    .cover-title .hl {
+      background: var(--brand-teal);
+      padding: 2px 8px;
+      -webkit-box-decoration-break: clone;
+      box-decoration-break: clone;
+      line-height: 1.2;
+    }
+    .cover-subtitle {
+      margin-top: 16px;
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 28px;
+      color: rgba(255,255,255,0.6);
+    }
+    .cover-divider {
+      width: 100%;
+      height: 1px;
+      margin-top: 32px;
+      border: none;
+      border-top: 1.5px dashed rgba(255,255,255,0.2);
+    }
+    .cover-illustration {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .cover-illustration svg {
+      width: 700px;
+      height: auto;
+      opacity: 0.95;
+    }
+    .cover-bottom {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+    }
+    .handle {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 22px;
+      color: rgba(255,255,255,0.5);
+    }
+    .arrow {
+      font-family: var(--dm-sans);
+      font-weight: 300;
+      font-size: 32px;
+      color: var(--white);
+    }
+
+    /* ── Paper slides (2-N) ── */
+    .slide--paper {
+      background: var(--brand-paper);
+      color: var(--brand-charcoal);
+      display: flex;
+      flex-direction: column;
+      padding: var(--pad);
+    }
+
+    /* ── Intro slide ── */
+    .intro-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 0 40px;
+    }
+    .intro-bold {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 52px;
+      line-height: 1.2;
+      color: var(--brand-charcoal);
+    }
+    .intro-light {
+      margin-top: 32px;
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 42px;
+      line-height: 1.35;
+      color: var(--neutral-600);
+    }
+    .intro-light strong {
+      font-weight: 500;
+      color: var(--brand-charcoal);
+    }
+
+    /* ── Data slides ── */
+    .slide-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 16px;
+      margin-bottom: 8px;
+    }
+    .slide-number {
+      flex-shrink: 0;
+      width: 42px;
+      height: 42px;
+      background: var(--brand-teal);
+      color: var(--white);
+      font-family: var(--dm-mono);
+      font-weight: 500;
+      font-size: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 4px;
+    }
+    .slide-title {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 38px;
+      line-height: 1.25;
+      color: var(--brand-charcoal);
+    }
+
+    .data-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      gap: 0;
+    }
+
+    .data-section {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px 0;
+    }
+
+    .data-divider {
+      width: 85%;
+      height: 1px;
+      background: var(--neutral-400);
+      opacity: 0.5;
+    }
+
+    .hero-stat {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 128px;
+      line-height: 1;
+      color: var(--brand-teal);
+      letter-spacing: -2px;
+    }
+    .hero-stat--md {
+      font-size: 96px;
+    }
+    .hero-stat--sm {
+      font-size: 72px;
+    }
+
+    .stat-label {
+      font-family: var(--dm-sans);
+      font-weight: 500;
+      font-size: 24px;
+      line-height: 1.4;
+      color: var(--brand-charcoal);
+      margin-top: 8px;
+    }
+    .stat-sublabel {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 20px;
+      color: var(--neutral-600);
+      margin-top: 4px;
+    }
+
+    .source {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 18px;
+      color: var(--neutral-400);
+      margin-top: 16px;
+      text-align: center;
+      line-height: 1.4;
+    }
+
+    /* ── Comparison cards ── */
+    .compare-row {
+      display: flex;
+      align-items: stretch;
+      gap: 0;
+      width: 100%;
+      margin-bottom: 8px;
+    }
+    .compare-card {
+      flex: 1;
+      padding: 40px 24px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      border-radius: 12px;
+    }
+    .compare-card--teal {
+      background: var(--brand-teal);
+      color: var(--white);
+    }
+    .compare-card--gray {
+      background: #d4d2cc;
+      color: var(--brand-charcoal);
+    }
+    .compare-stat {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 72px;
+      line-height: 1;
+    }
+    .compare-label {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 20px;
+      margin-top: 8px;
+    }
+    .compare-card--teal .compare-label {
+      color: rgba(255,255,255,0.8);
+    }
+    .compare-vs {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 22px;
+      color: var(--neutral-600);
+      padding: 0 20px;
+      align-self: center;
+    }
+    .compare-source {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 17px;
+      color: var(--neutral-400);
+      margin-top: 4px;
+    }
+
+    /* ── Pagination dots ── */
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 12px;
+      padding-top: 24px;
+    }
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--neutral-400);
+      opacity: 0.5;
+    }
+    .dot--active {
+      background: var(--brand-teal);
+      opacity: 1;
+    }
+
+    .slide-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      margin-top: auto;
+    }
+    .slide-footer .arrow {
+      color: var(--brand-charcoal);
+    }
+
+    /* ── CTA slide ── */
+    .cta-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      padding-top: 20px;
+    }
+    .cta-heading {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 52px;
+      line-height: 1.2;
+      color: var(--brand-charcoal);
+    }
+    .cta-heading .hl {
+      background: var(--brand-teal);
+      color: var(--white);
+      padding: 2px 8px;
+      -webkit-box-decoration-break: clone;
+      box-decoration-break: clone;
+    }
+    .cta-handle {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 24px;
+      color: var(--neutral-600);
+      margin-top: 16px;
+    }
+    .cta-arrow-area {
+      display: flex;
+      justify-content: center;
+      margin-top: 32px;
+    }
+    .cta-arrow-area svg {
+      width: 80px;
+      height: auto;
+    }
+    .cta-photo-area {
+      flex: 1;
+      display: flex;
+      justify-content: flex-end;
+      align-items: flex-end;
+      padding-bottom: 20px;
+    }
+    .cta-photo {
+      width: 400px;
+      height: 480px;
+      border-radius: 4px;
+      object-fit: cover;
+      object-position: center top;
+    }
+    .handle--dark {
+      color: var(--neutral-600);
+    }
+  </style>
+</head>
+<body>
+  <!-- PRINT: Open in Chrome → Cmd+P → Paper: Custom 1080x1350px → Margins: None → Save as PDF -->
+
+  <!-- ═══════════════ SLIDE 01 — COVER ═══════════════ -->
+  <div class="slide slide--cover">
+    <div class="cover-content">
+      <div class="cover-title">
+        <span class="hl">The week AI</span><br/>
+        <span class="hl">agents became</span><br/>
+        <span class="hl">infrastructure</span>
+      </div>
+      <div class="cover-subtitle">AI Playbook Weekly &middot; April 11&ndash;17, 2026</div>
+
+      <hr class="cover-divider"/>
+
+      <div class="cover-illustration">
+        <svg viewBox="0 0 600 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <!-- ── Top platform (the load that agents now carry) ── -->
+          <rect x="120" y="50" width="360" height="14" stroke="white" stroke-width="2.5" fill="none"/>
+
+          <!-- Institution icons sitting on the platform -->
+          <!-- Building 1 (left) -->
+          <rect x="160" y="22" width="40" height="28" stroke="white" stroke-width="2" fill="none"/>
+          <line x1="170" y1="32" x2="190" y2="32" stroke="white" stroke-width="1.5" opacity="0.7"/>
+          <line x1="170" y1="40" x2="190" y2="40" stroke="white" stroke-width="1.5" opacity="0.7"/>
+          <!-- Building 2 (center, taller) -->
+          <rect x="280" y="14" width="40" height="36" stroke="white" stroke-width="2" fill="none"/>
+          <line x1="290" y1="24" x2="310" y2="24" stroke="white" stroke-width="1.5" opacity="0.7"/>
+          <line x1="290" y1="32" x2="310" y2="32" stroke="white" stroke-width="1.5" opacity="0.7"/>
+          <line x1="290" y1="40" x2="310" y2="40" stroke="white" stroke-width="1.5" opacity="0.7"/>
+          <!-- Building 3 (right) -->
+          <rect x="400" y="22" width="40" height="28" stroke="white" stroke-width="2" fill="none"/>
+          <line x1="410" y1="32" x2="430" y2="32" stroke="white" stroke-width="1.5" opacity="0.7"/>
+          <line x1="410" y1="40" x2="430" y2="40" stroke="white" stroke-width="1.5" opacity="0.7"/>
+
+          <!-- ── Three scaffold columns (load-bearing) ── -->
+          <line x1="180" y1="64" x2="180" y2="285" stroke="white" stroke-width="2.5"/>
+          <line x1="300" y1="64" x2="300" y2="285" stroke="white" stroke-width="2.5"/>
+          <line x1="420" y1="64" x2="420" y2="285" stroke="white" stroke-width="2.5"/>
+
+          <!-- ── Cross bracing (X patterns between columns) ── -->
+          <!-- Top section -->
+          <line x1="180" y1="90" x2="300" y2="135" stroke="white" stroke-width="1.5" opacity="0.5"/>
+          <line x1="300" y1="90" x2="180" y2="135" stroke="white" stroke-width="1.5" opacity="0.5"/>
+          <line x1="300" y1="90" x2="420" y2="135" stroke="white" stroke-width="1.5" opacity="0.5"/>
+          <line x1="420" y1="90" x2="300" y2="135" stroke="white" stroke-width="1.5" opacity="0.5"/>
+          <!-- Bottom section -->
+          <line x1="180" y1="220" x2="300" y2="265" stroke="white" stroke-width="1.5" opacity="0.5"/>
+          <line x1="300" y1="220" x2="180" y2="265" stroke="white" stroke-width="1.5" opacity="0.5"/>
+          <line x1="300" y1="220" x2="420" y2="265" stroke="white" stroke-width="1.5" opacity="0.5"/>
+          <line x1="420" y1="220" x2="300" y2="265" stroke="white" stroke-width="1.5" opacity="0.5"/>
+
+          <!-- ── Teal "agent" nodes at center joints ── -->
+          <!-- Left: code agent -->
+          <circle cx="180" cy="178" r="28" stroke="#1A7A6E" stroke-width="2.5" fill="rgba(26,122,110,0.25)"/>
+          <polyline points="170,168 162,178 170,188" stroke="white" stroke-width="2" fill="none"/>
+          <polyline points="190,168 198,178 190,188" stroke="white" stroke-width="2" fill="none"/>
+
+          <!-- Center: ops/orchestration agent (largest, load-bearing) -->
+          <circle cx="300" cy="178" r="34" stroke="#1A7A6E" stroke-width="3" fill="rgba(26,122,110,0.25)"/>
+          <circle cx="300" cy="178" r="9" stroke="white" stroke-width="2" fill="none"/>
+          <line x1="300" y1="160" x2="300" y2="167" stroke="white" stroke-width="2"/>
+          <line x1="300" y1="189" x2="300" y2="196" stroke="white" stroke-width="2"/>
+          <line x1="282" y1="178" x2="289" y2="178" stroke="white" stroke-width="2"/>
+          <line x1="311" y1="178" x2="318" y2="178" stroke="white" stroke-width="2"/>
+          <line x1="287" y1="165" x2="292" y2="170" stroke="white" stroke-width="2"/>
+          <line x1="308" y1="186" x2="313" y2="191" stroke="white" stroke-width="2"/>
+          <line x1="287" y1="191" x2="292" y2="186" stroke="white" stroke-width="2"/>
+          <line x1="308" y1="170" x2="313" y2="165" stroke="white" stroke-width="2"/>
+
+          <!-- Right: security agent -->
+          <circle cx="420" cy="178" r="28" stroke="#1A7A6E" stroke-width="2.5" fill="rgba(26,122,110,0.25)"/>
+          <path d="M420 165 L432 171 L432 181 C432 187, 426 191, 420 193 C414 191, 408 187, 408 181 L408 171 Z" stroke="white" stroke-width="2" fill="none"/>
+
+          <!-- ── Foundation (dashed ground line) ── -->
+          <line x1="100" y1="290" x2="500" y2="290" stroke="white" stroke-width="2" stroke-dasharray="8 5" opacity="0.65"/>
+
+          <!-- Small data particles around nodes -->
+          <circle cx="140" cy="170" r="3" fill="white" opacity="0.3"/>
+          <circle cx="135" cy="200" r="2.5" fill="white" opacity="0.25"/>
+          <circle cx="465" cy="170" r="3" fill="white" opacity="0.3"/>
+          <circle cx="470" cy="205" r="2.5" fill="white" opacity="0.25"/>
+          <circle cx="345" cy="125" r="3" fill="white" opacity="0.3"/>
+          <circle cx="255" cy="125" r="2.5" fill="white" opacity="0.25"/>
+          <circle cx="350" cy="245" r="3" fill="white" opacity="0.3"/>
+          <circle cx="250" cy="245" r="2.5" fill="white" opacity="0.25"/>
+          <circle cx="118" cy="278" r="3" fill="white" opacity="0.2"/>
+          <circle cx="485" cy="278" r="3" fill="white" opacity="0.2"/>
+
+          <!-- Teal load-flow indicator (load arc passing through center node) -->
+          <path d="M120 75 C160 78, 200 110, 300 145" stroke="rgba(26,122,110,0.55)" stroke-width="2" fill="none" stroke-dasharray="6 4"/>
+          <path d="M480 75 C440 78, 400 110, 300 145" stroke="rgba(26,122,110,0.55)" stroke-width="2" fill="none" stroke-dasharray="6 4"/>
+        </svg>
+      </div>
+
+      <div class="cover-bottom">
+        <span class="handle">@joinaiplaybook</span>
+        <span class="arrow">&rarr;</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 02 — INTRO ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="intro-content">
+      <div class="intro-bold">
+        Infrastructure is a leading<br/>indicator of legitimacy.
+      </div>
+      <div class="intro-light">
+        Software gets called infrastructure when it<br/>
+        stops being interesting and starts<br/>
+        <strong>quietly carrying load.</strong>
+      </div>
+    </div>
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 03 — MYTHOS POLICY ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">1</div>
+      <div class="slide-title">The White House Quietly<br/>Unbanned Anthropic's Mythos</div>
+    </div>
+
+    <div class="data-content">
+      <div class="data-section">
+        <div class="hero-stat">73%</div>
+        <div class="stat-label">success on a 32-step cyberattack chain</div>
+        <div class="stat-sublabel">UK AI Safety Institute red team</div>
+      </div>
+
+      <div class="data-divider"></div>
+
+      <div class="data-section">
+        <div class="hero-stat hero-stat--md">ASL-4</div>
+        <div class="stat-label">first model placed under this safety classification</div>
+      </div>
+
+      <div class="source">
+        Bloomberg &middot; Axios &middot; Fortune, 2026
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 04 — REVIEW LAYER ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">2</div>
+      <div class="slide-title">When Agents Ship Code Faster<br/>Than Humans Review It,<br/>Review Becomes the Product</div>
+    </div>
+
+    <div class="data-content">
+      <div class="data-section">
+        <div class="hero-stat">557</div>
+        <div class="stat-label">Thunderbolt GitHub stars in first days</div>
+        <div class="stat-sublabel">Mozilla's open-source self-hostable AI client</div>
+      </div>
+
+      <div class="data-divider"></div>
+
+      <div class="data-section">
+        <div class="hero-stat hero-stat--md">Day 1</div>
+        <div class="stat-label">MCP support shipped on launch</div>
+      </div>
+
+      <div class="source">
+        The Register &middot; DevClass &middot; Phoronix, 2026
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 05 — ATTACK SURFACE ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">3</div>
+      <div class="slide-title">Three CVEs and a Source Map<br/>Leak Hit Claude Code</div>
+    </div>
+
+    <div class="data-content">
+      <div class="data-section" style="padding-bottom: 12px;">
+        <div class="compare-row">
+          <div class="compare-card compare-card--teal">
+            <div class="compare-stat" style="font-size: 56px;">Sandboxed</div>
+            <div class="compare-label">externalised isolation</div>
+          </div>
+          <div class="compare-vs">vs</div>
+          <div class="compare-card compare-card--gray">
+            <div class="compare-stat" style="font-size: 56px;">Full perms</div>
+            <div class="compare-label">developer-level access</div>
+          </div>
+        </div>
+        <div style="display:flex; width:100%; justify-content:space-between; padding:0 12px;">
+          <div class="compare-source">OpenAI Codex Security</div>
+          <div class="compare-source">Anthropic Claude Code</div>
+        </div>
+      </div>
+
+      <div class="data-divider"></div>
+
+      <div class="data-section">
+        <div class="hero-stat">513K</div>
+        <div class="stat-label">TypeScript lines exposed in March 31 source map leak</div>
+      </div>
+
+      <div class="source">
+        Phoenix Security &middot; Check Point &middot; OpenAI, 2026
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 06 — TWO THEORIES ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">4</div>
+      <div class="slide-title">OpenAI Is Acquiring.<br/>Anthropic Is Withholding.<br/>Both Are Executing.</div>
+    </div>
+
+    <div class="data-content">
+      <div class="data-section" style="padding-bottom: 12px;">
+        <div class="compare-row">
+          <div class="compare-card compare-card--teal">
+            <div class="compare-stat">$852B</div>
+            <div class="compare-label">valuation after $122B raise</div>
+          </div>
+          <div class="compare-vs">vs</div>
+          <div class="compare-card compare-card--gray">
+            <div class="compare-stat">ASL-4</div>
+            <div class="compare-label">restricted Mythos release</div>
+          </div>
+        </div>
+        <div style="display:flex; width:100%; justify-content:space-between; padding:0 12px;">
+          <div class="compare-source">OpenAI</div>
+          <div class="compare-source">Anthropic</div>
+        </div>
+      </div>
+
+      <div class="data-divider"></div>
+
+      <div class="data-section">
+        <div class="hero-stat">6</div>
+        <div class="stat-label">OpenAI acquisitions in 2026</div>
+        <div class="stat-sublabel">vs 8 in all of 2025</div>
+      </div>
+
+      <div class="source">
+        TechCrunch &middot; Crunchbase News, 2026
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 07 — LABOR ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">5</div>
+      <div class="slide-title">Goldman Sachs Is Now Counting<br/>Displaced Workers Per Month</div>
+    </div>
+
+    <div class="data-content">
+      <div class="data-section">
+        <div class="hero-stat">16K</div>
+        <div class="stat-label">US workers displaced monthly</div>
+        <div class="stat-sublabel">Goldman Sachs, April 6 report</div>
+      </div>
+
+      <div class="data-divider"></div>
+
+      <div class="data-section">
+        <div class="hero-stat hero-stat--md">47.9%</div>
+        <div class="stat-label">of Q1 2026 tech layoffs attributed to AI</div>
+      </div>
+
+      <div class="source">
+        Goldman Sachs &middot; Brookings &middot; CNN Business, 2026
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 08 — REGULATION ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">6</div>
+      <div class="slide-title">Regulators Are Pulling AI<br/>Deadlines Forward and Backward</div>
+    </div>
+
+    <div class="data-content">
+      <div class="data-section">
+        <div class="hero-stat hero-stat--md">$2.19B</div>
+        <div class="stat-label">global deepfake fraud losses</div>
+      </div>
+
+      <div class="data-divider"></div>
+
+      <div class="data-section">
+        <div class="hero-stat">78</div>
+        <div class="stat-label">active chatbot bills across 27 US states</div>
+        <div class="stat-sublabel">EU pushed high-risk AI deadlines to Aug 2028</div>
+      </div>
+
+      <div class="source">
+        Troutman Pepper Locke &middot; NPR &middot; Surfshark, 2026
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 09 — BACKLASH ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">7</div>
+      <div class="slide-title">The Anti-Vibe-Coding Argument<br/>Arrived in Four Languages at Once</div>
+    </div>
+
+    <div class="data-content">
+      <div class="data-section">
+        <div class="hero-stat hero-stat--md">1,084</div>
+        <div class="stat-label">likes on Qiita's #1 weekly post</div>
+        <div class="stat-sublabel">calling out amateur vibe coders</div>
+      </div>
+
+      <div class="data-divider"></div>
+
+      <div class="data-section">
+        <div class="hero-stat hero-stat--md">4 langs</div>
+        <div class="stat-label">Japanese, English, Spanish, Portuguese</div>
+        <div class="stat-sublabel">same week, same argument, four registers</div>
+      </div>
+
+      <div class="source">
+        Qiita &middot; dev.to &middot; Web Reactiva &middot; findskill.ai, 2026
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 10 — CTA ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="cta-content">
+      <div class="cta-heading">
+        Want the full<br/>breakdown of<br/>this week's shifts?
+      </div>
+      <div style="margin-top: 20px;">
+        <span class="cta-heading"><span class="hl">Follow</span></span><br/>
+        <span class="cta-heading"><span class="hl">Noah Olatoye</span></span>
+      </div>
+      <div class="cta-handle">@joinaiplaybook</div>
+
+      <div class="cta-arrow-area">
+        <svg viewBox="0 0 100 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M30 10 C30 10, 50 60, 70 100" stroke="#2B3A35" stroke-width="2.5" fill="none"/>
+          <polyline points="62,92 70,100 72,88" stroke="#2B3A35" stroke-width="2.5" fill="none"/>
+        </svg>
+      </div>
+
+      <div class="cta-photo-area">
+        <img class="cta-photo" src="assets/images/noaholatoye-speaking-2-min.jpg" alt="Noah Olatoye" />
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <span class="handle handle--dark">@joinaiplaybook</span>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+</body>
+</html>

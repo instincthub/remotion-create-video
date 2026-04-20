@@ -1,0 +1,1223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Prompt Starter Pack — AI Playbook</title>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  /* ── Variables ── */
+  :root {
+    --teal:       #1A7A6E;
+    --teal-light: #5DCAA5;
+    --teal-dark:  #15695E;
+    --charcoal:   #2B3A35;
+    --dark:       #0F1A17;
+    --paper:      #F4F2ED;
+    --n200:       #E8E6DF;
+    --n400:       #B0ADA4;
+    --n600:       #6B6860;
+    --white:      #FFFFFF;
+    --page-w:     210mm;
+    --page-h:     297mm;
+    --margin:     16mm;
+  }
+
+  /* ── Reset ── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10pt;
+    color: var(--charcoal);
+    background: #ccc;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* ── Page shell ── */
+  .page {
+    width: var(--page-w);
+    min-height: var(--page-h);
+    margin: 8mm auto;
+    background: var(--white);
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 4px 24px rgba(0,0,0,.18);
+    page-break-after: always;
+  }
+
+  .page-inner {
+    padding: var(--margin);
+  }
+
+  /* ── COVER ── */
+  .cover {
+    background: var(--dark);
+    min-height: var(--page-h);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: var(--margin);
+    position: relative;
+  }
+
+  .cover-circle-1 {
+    position: absolute;
+    width: 160mm;
+    height: 160mm;
+    border-radius: 50%;
+    background: var(--teal);
+    opacity: .1;
+    top: -40mm;
+    right: -50mm;
+  }
+  .cover-circle-2 {
+    position: absolute;
+    width: 90mm;
+    height: 90mm;
+    border-radius: 50%;
+    background: var(--teal);
+    opacity: .12;
+    top: 10mm;
+    right: -10mm;
+  }
+  .cover-bar {
+    position: absolute;
+    left: var(--margin);
+    top: 36mm;
+    bottom: 28mm;
+    width: 2.5px;
+    background: var(--teal);
+  }
+
+  .cover-logo {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    font-size: 13pt;
+    display: flex;
+    align-items: center;
+    gap: 2mm;
+    position: relative;
+  }
+  .cover-logo .ai { color: var(--teal); }
+  .cover-logo .pb { color: var(--white); }
+  .cover-logo .sub {
+    font-family: 'DM Mono', monospace;
+    font-size: 7pt;
+    color: var(--n400);
+    font-weight: 400;
+    margin-left: 3mm;
+    margin-top: 1px;
+  }
+
+  .cover-body {
+    position: relative;
+    padding-left: 8mm;
+  }
+
+  .cover-eyebrow {
+    font-family: 'DM Mono', monospace;
+    font-size: 7pt;
+    color: var(--teal-light);
+    letter-spacing: .12em;
+    margin-bottom: 5mm;
+  }
+
+  .cover-title {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+    font-size: 38pt;
+    line-height: 1.05;
+    color: var(--white);
+    margin-bottom: 5mm;
+  }
+
+  .cover-rule {
+    width: 100%;
+    height: 2.5px;
+    background: var(--teal);
+    margin-bottom: 5mm;
+  }
+
+  .cover-sub {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11.5pt;
+    color: #AACFC9;
+    line-height: 1.55;
+    max-width: 140mm;
+    margin-bottom: 9mm;
+  }
+
+  .cover-stats {
+    display: flex;
+    gap: 6mm;
+    margin-bottom: 10mm;
+  }
+  .cover-stat {
+    background: rgba(26,122,110,.15);
+    border: 1px solid rgba(26,122,110,.3);
+    border-radius: 3mm;
+    padding: 4mm 6mm;
+    flex: 1;
+  }
+  .cover-stat-num {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+    font-size: 22pt;
+    color: var(--teal-light);
+    line-height: 1;
+    margin-bottom: 1.5mm;
+  }
+  .cover-stat-label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 8pt;
+    color: #AACFC9;
+    line-height: 1.4;
+  }
+
+  .cover-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    position: relative;
+  }
+  .cover-footer-left {
+    font-family: 'DM Mono', monospace;
+    font-size: 7pt;
+    color: var(--n600);
+    letter-spacing: .08em;
+  }
+  .cover-footer-right {
+    font-family: 'DM Mono', monospace;
+    font-size: 7pt;
+    color: var(--teal);
+  }
+
+  /* ── Page Header / Footer ── */
+  .page-header {
+    background: var(--dark);
+    padding: 2.5mm var(--margin);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1.5px solid var(--teal);
+  }
+  .page-header-brand {
+    font-family: 'DM Mono', monospace;
+    font-size: 7pt;
+    font-weight: 500;
+    color: var(--teal);
+    letter-spacing: .1em;
+  }
+  .page-header-title {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 7.5pt;
+    color: var(--n400);
+  }
+
+  .page-footer {
+    border-top: .5px solid var(--n200);
+    padding: 2mm var(--margin);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto;
+  }
+  .page-footer-url {
+    font-family: 'DM Mono', monospace;
+    font-size: 7pt;
+    color: var(--n400);
+  }
+  .page-footer-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 7pt;
+    color: var(--n400);
+  }
+
+  /* ── Typography ── */
+  h1 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    font-size: 20pt;
+    color: var(--charcoal);
+    margin-bottom: 2mm;
+  }
+  h2 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    font-size: 13pt;
+    color: var(--charcoal);
+    margin-bottom: 1.5mm;
+  }
+  h3 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    font-size: 10.5pt;
+    color: var(--teal);
+    margin-bottom: 1mm;
+  }
+  p {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 9.5pt;
+    line-height: 1.65;
+    color: var(--charcoal);
+    margin-bottom: 2.5mm;
+  }
+  .label {
+    font-family: 'DM Mono', monospace;
+    font-size: 6.5pt;
+    font-weight: 500;
+    letter-spacing: .12em;
+    color: var(--teal);
+    text-transform: uppercase;
+    margin-bottom: 1.5mm;
+    display: block;
+  }
+  .label-red { color: #B04040; }
+  .label-teal { color: var(--teal-dark); }
+
+  /* ── Teal rule ── */
+  .teal-rule {
+    height: 3px;
+    background: var(--teal);
+    border-radius: 2px;
+    margin-bottom: 5mm;
+  }
+
+  /* ── Intro stats row ── */
+  .stats-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4mm;
+    margin: 5mm 0;
+  }
+  .stat-cell {
+    background: var(--paper);
+    border-radius: 3mm;
+    padding: 4mm 5mm;
+    text-align: center;
+  }
+  .stat-cell-num {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+    font-size: 26pt;
+    color: var(--teal);
+    line-height: 1;
+    margin-bottom: 1.5mm;
+  }
+  .stat-cell-label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 8pt;
+    color: var(--n600);
+    line-height: 1.4;
+  }
+
+  /* ── Callout box ── */
+  .callout {
+    border-left: 3px solid var(--teal);
+    background: #EAF4F2;
+    border-radius: 0 3mm 3mm 0;
+    padding: 4mm 5mm;
+    margin: 4mm 0;
+  }
+  .callout h3 {
+    color: var(--charcoal);
+    margin-bottom: 2mm;
+  }
+  .callout p {
+    margin-bottom: 0;
+    font-size: 9pt;
+  }
+
+  /* ── Category table ── */
+  .cat-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 3mm;
+  }
+  .cat-table tr:nth-child(even) { background: var(--paper); }
+  .cat-table tr:nth-child(odd)  { background: var(--white); }
+  .cat-table tr:first-child { border-top: 2px solid var(--teal); }
+  .cat-table td {
+    padding: 3mm 3mm;
+    font-size: 9pt;
+    border-bottom: .3px solid var(--n200);
+  }
+  .cat-table td:first-child {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    color: var(--charcoal);
+    width: 36mm;
+  }
+  .cat-table td:nth-child(2) {
+    font-family: 'DM Mono', monospace;
+    font-size: 8pt;
+    color: var(--teal);
+    width: 40mm;
+  }
+  .cat-table td:nth-child(3) {
+    color: var(--n600);
+    font-size: 8.5pt;
+  }
+
+  /* ── Category banner ── */
+  .cat-banner {
+    background: var(--dark);
+    border-bottom: 2px solid var(--teal);
+    padding: 3mm var(--margin);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 calc(-1 * var(--margin));
+    margin-bottom: 5mm;
+  }
+  .cat-banner-name {
+    font-family: 'DM Mono', monospace;
+    font-size: 8pt;
+    font-weight: 500;
+    color: #AACFC9;
+    letter-spacing: .1em;
+  }
+  .cat-banner-label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 8pt;
+    color: var(--n400);
+  }
+
+  /* ── Prompt Card ── */
+  .prompt-card {
+    border: .8px solid var(--n200);
+    border-radius: 4mm;
+    overflow: hidden;
+    margin-bottom: 5mm;
+    background: var(--white);
+    page-break-inside: avoid;
+  }
+
+  .card-top-bar {
+    height: 4px;
+    background: var(--teal);
+  }
+
+  .card-body {
+    padding: 5mm;
+  }
+
+  .card-meta {
+    display: flex;
+    align-items: center;
+    gap: 3mm;
+    margin-bottom: 3mm;
+  }
+  .card-number {
+    width: 7mm;
+    height: 7mm;
+    background: var(--teal);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    font-size: 9pt;
+    color: var(--white);
+    flex-shrink: 0;
+  }
+  .card-category-pill {
+    background: var(--paper);
+    border-radius: 2mm;
+    padding: 1mm 3mm;
+    font-family: 'DM Mono', monospace;
+    font-size: 6.5pt;
+    font-weight: 500;
+    color: var(--teal-dark);
+    letter-spacing: .08em;
+    text-transform: uppercase;
+  }
+
+  .card-title {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    font-size: 12pt;
+    color: var(--charcoal);
+    margin-bottom: 1.5mm;
+  }
+
+  .card-use-when {
+    font-size: 8.5pt;
+    color: var(--n600);
+    line-height: 1.55;
+    margin-bottom: 3.5mm;
+  }
+
+  /* Before / After */
+  .ba-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3mm;
+    margin-bottom: 3.5mm;
+  }
+  .ba-box {
+    border-radius: 2.5mm;
+    padding: 3mm 3.5mm;
+  }
+  .ba-box.weak   { background: #FDF0F0; }
+  .ba-box.strong { background: #EAF4F2; }
+
+  .ba-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 6pt;
+    font-weight: 500;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    margin-bottom: 1.5mm;
+    display: block;
+  }
+  .ba-label.weak   { color: #B04040; }
+  .ba-label.strong { color: var(--teal-dark); }
+
+  .ba-text {
+    font-family: 'DM Mono', monospace;
+    font-size: 8pt;
+    line-height: 1.55;
+    color: var(--charcoal);
+    margin: 0;
+  }
+
+  /* Structure block */
+  .structure-block {
+    margin-bottom: 3mm;
+  }
+  .structure-code {
+    background: var(--dark);
+    border-radius: 2.5mm;
+    padding: 3mm 4mm;
+    font-family: 'DM Mono', monospace;
+    font-size: 7.5pt;
+    line-height: 1.6;
+    color: #AACFC9;
+    margin-top: 1.5mm;
+  }
+
+  /* Example aim */
+  .example-aim {
+    font-size: 8.5pt;
+    color: var(--n600);
+    font-style: italic;
+    margin: 0;
+    line-height: 1.5;
+  }
+
+  /* ── Master Structure page ── */
+  .master-row {
+    display: grid;
+    grid-template-columns: 14mm 1fr;
+    gap: 0;
+    border-bottom: .5px solid var(--n200);
+    page-break-inside: avoid;
+  }
+  .master-row:first-child { border-top: 2px solid var(--teal); }
+  .master-num-cell {
+    background: var(--paper);
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 4mm 2mm;
+    font-family: 'DM Mono', monospace;
+    font-size: 14pt;
+    font-weight: 500;
+    color: var(--teal);
+    line-height: 1;
+  }
+  .master-content {
+    padding: 4mm 4mm 4mm 4mm;
+  }
+  .master-label {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    font-size: 10.5pt;
+    color: var(--charcoal);
+    margin-bottom: 1mm;
+  }
+  .master-desc {
+    font-size: 9pt;
+    color: var(--charcoal);
+    margin-bottom: 1.5mm;
+    line-height: 1.5;
+  }
+  .master-example {
+    font-style: italic;
+    font-size: 8.5pt;
+    color: var(--teal-dark);
+    margin-bottom: 1mm;
+    line-height: 1.5;
+  }
+  .master-note {
+    font-size: 8pt;
+    color: var(--n600);
+    margin: 0;
+    line-height: 1.45;
+  }
+
+  /* ── Print styles ── */
+  @media print {
+    body { background: none; }
+    .page {
+      margin: 0;
+      box-shadow: none;
+      width: 210mm;
+      min-height: 297mm;
+    }
+    @page {
+      size: A4;
+      margin: 0;
+    }
+  }
+
+  /* ── Page structure helper ── */
+  .page-content {
+    display: flex;
+    flex-direction: column;
+    min-height: calc(var(--page-h) - 12mm); /* header height */
+  }
+  .page-content .page-inner {
+    flex: 1;
+  }
+</style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════════
+     PAGE 1 — COVER
+════════════════════════════════════════════ -->
+<div class="page">
+  <div class="cover">
+    <div class="cover-circle-1"></div>
+    <div class="cover-circle-2"></div>
+    <div class="cover-bar"></div>
+
+    <!-- Logo -->
+    <div class="cover-logo">
+      <span class="ai">AI</span><span class="pb">Playbook</span>
+      <span class="sub">by InstinctHub</span>
+    </div>
+
+    <!-- Main content -->
+    <div class="cover-body">
+      <div class="cover-eyebrow">LEAD MAGNET 01 &nbsp;·&nbsp; FREE RESOURCE</div>
+      <div class="cover-title">AI Prompt<br>Starter Pack</div>
+      <div class="cover-rule"></div>
+      <div class="cover-sub">10 prompt frameworks for professionals who need AI to produce usable outputs — not generic responses.</div>
+
+      <div class="cover-stats">
+        <div class="cover-stat">
+          <div class="cover-stat-num">10</div>
+          <div class="cover-stat-label">Ready-to-use frameworks</div>
+        </div>
+        <div class="cover-stat">
+          <div class="cover-stat-num">5</div>
+          <div class="cover-stat-label">Professional use cases</div>
+        </div>
+        <div class="cover-stat">
+          <div class="cover-stat-num">&lt;60s</div>
+          <div class="cover-stat-label">To apply each structure</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="cover-footer">
+      <div class="cover-footer-left">AI PLAYBOOK — PRACTICAL AI EDUCATION</div>
+      <div class="cover-footer-right">instincthub.com/ai-playbook</div>
+    </div>
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════
+     PAGE 2 — INTRODUCTION
+════════════════════════════════════════════ -->
+<div class="page">
+  <div class="page-header">
+    <span class="page-header-brand">AI PLAYBOOK</span>
+    <span class="page-header-title">AI Prompt Starter Pack</span>
+  </div>
+  <div class="page-content">
+    <div class="page-inner">
+
+      <h1>How to Use This Pack</h1>
+      <div class="teal-rule"></div>
+
+      <p>Most AI prompts fail for one reason: they are vague. A vague prompt produces a generic response. A precise prompt — one that defines your role, your audience, your constraints, and your expected output — produces something you can actually use.</p>
+      <p>This pack gives you 10 prompt frameworks across five professional use cases. Each one shows you a weak prompt, a strong version of the same request, and the underlying structure you can reuse for any task in under 60 seconds.</p>
+
+      <div class="stats-row">
+        <div class="stat-cell">
+          <div class="stat-cell-num">5</div>
+          <div class="stat-cell-label">Use case<br>categories</div>
+        </div>
+        <div class="stat-cell">
+          <div class="stat-cell-num">10</div>
+          <div class="stat-cell-label">Ready-to-use<br>frameworks</div>
+        </div>
+        <div class="stat-cell">
+          <div class="stat-cell-num">1</div>
+          <div class="stat-cell-label">Reusable structure<br>per card</div>
+        </div>
+      </div>
+
+      <div class="callout">
+        <h3>The 60-second prompt structure</h3>
+        <p><strong>Role</strong> — who are you asking AI to be? &nbsp;<strong>Task</strong> — what exactly do you want? &nbsp;<strong>Context</strong> — what background does it need? &nbsp;<strong>Constraints</strong> — word count, tone, format, audience. &nbsp;<strong>Output format</strong> — how should the result be structured?<br><br>Apply this five-part structure to any task and your prompts will produce usable outputs the first time, not the fifth.</p>
+      </div>
+
+      <h2 style="margin-top:5mm; margin-bottom:2mm;">The Five Categories</h2>
+      <table class="cat-table">
+        <tr><td>Writing</td><td>Frameworks 01–02</td><td>Emails, reports, professional documents</td></tr>
+        <tr><td>Analysis</td><td>Frameworks 03–04</td><td>Data interpretation, competitive review</td></tr>
+        <tr><td>Research</td><td>Frameworks 05–06</td><td>Concept explanation, source synthesis</td></tr>
+        <tr><td>Summarisation</td><td>Frameworks 07–08</td><td>Meeting notes, long documents</td></tr>
+        <tr><td>Decision Support</td><td>Frameworks 09–10</td><td>Options evaluation, risk mapping</td></tr>
+      </table>
+
+    </div>
+    <div class="page-footer">
+      <span class="page-footer-url">instincthub.com/ai-playbook</span>
+      <span class="page-footer-num">Page 2</span>
+    </div>
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════
+     PAGE 3 — WRITING (01 & 02)
+════════════════════════════════════════════ -->
+<div class="page">
+  <div class="page-header">
+    <span class="page-header-brand">AI PLAYBOOK</span>
+    <span class="page-header-title">AI Prompt Starter Pack</span>
+  </div>
+  <div class="page-content">
+    <div class="page-inner">
+
+      <div class="cat-banner">
+        <span class="cat-banner-name">WRITING</span>
+        <span class="cat-banner-label">Framework Category</span>
+      </div>
+
+      <!-- Card 01 -->
+      <div class="prompt-card">
+        <div class="card-top-bar"></div>
+        <div class="card-body">
+          <div class="card-meta">
+            <div class="card-number">01</div>
+            <div class="card-category-pill">Writing</div>
+          </div>
+          <div class="card-title">Professional Email Drafter</div>
+          <p class="card-use-when">Use when you need to write a clear, professional email quickly — especially for difficult conversations, follow-ups, or requests.</p>
+
+          <div class="ba-grid">
+            <div class="ba-box weak">
+              <span class="ba-label weak">Weak prompt</span>
+              <p class="ba-text">Write me an email about the project delay.</p>
+            </div>
+            <div class="ba-box strong">
+              <span class="ba-label strong">Strong prompt</span>
+              <p class="ba-text">You are a senior project manager. Write a 150-word email to a client informing them that the website launch is delayed by 2 weeks due to unexpected API integration issues. Tone: direct but reassuring. Include: what happened, what we are doing about it, and the new go-live date of March 28.</p>
+            </div>
+          </div>
+
+          <div class="structure-block">
+            <span class="label">Reusable structure</span>
+            <div class="structure-code">Role + Task + Word limit + Recipient + Situation + Tone + Required elements</div>
+          </div>
+
+          <span class="label">Example output aim</span>
+          <p class="example-aim">A client email that gets sent without editing — not one that needs three rounds of rewrites.</p>
+        </div>
+      </div>
+
+      <!-- Card 02 -->
+      <div class="prompt-card">
+        <div class="card-top-bar"></div>
+        <div class="card-body">
+          <div class="card-meta">
+            <div class="card-number">02</div>
+            <div class="card-category-pill">Writing</div>
+          </div>
+          <div class="card-title">Report Section Writer</div>
+          <p class="card-use-when">Use when you need to draft a section of a formal report, proposal, or business document.</p>
+
+          <div class="ba-grid">
+            <div class="ba-box weak">
+              <span class="ba-label weak">Weak prompt</span>
+              <p class="ba-text">Write about AI adoption in Nigerian banks.</p>
+            </div>
+            <div class="ba-box strong">
+              <span class="ba-label strong">Strong prompt</span>
+              <p class="ba-text">Write a 300-word executive summary for a consulting report titled "AI Readiness in Nigerian Financial Services." Audience: C-suite executives at tier-1 banks. Formal, third-person language. Include: 2 key findings, 1 risk consideration, and 1 recommended action. Base on general industry trends from 2023 to 2025.</p>
+            </div>
+          </div>
+
+          <div class="structure-block">
+            <span class="label">Reusable structure</span>
+            <div class="structure-code">Document type + Section name + Word count + Audience + Voice + Required inclusions + Scope</div>
+          </div>
+
+          <span class="label">Example output aim</span>
+          <p class="example-aim">A section that drops directly into a client deliverable with minimal editing.</p>
+        </div>
+      </div>
+
+    </div>
+    <div class="page-footer">
+      <span class="page-footer-url">instincthub.com/ai-playbook</span>
+      <span class="page-footer-num">Page 3</span>
+    </div>
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════
+     PAGE 4 — ANALYSIS (03 & 04)
+════════════════════════════════════════════ -->
+<div class="page">
+  <div class="page-header">
+    <span class="page-header-brand">AI PLAYBOOK</span>
+    <span class="page-header-title">AI Prompt Starter Pack</span>
+  </div>
+  <div class="page-content">
+    <div class="page-inner">
+
+      <div class="cat-banner">
+        <span class="cat-banner-name">ANALYSIS</span>
+        <span class="cat-banner-label">Framework Category</span>
+      </div>
+
+      <!-- Card 03 -->
+      <div class="prompt-card">
+        <div class="card-top-bar"></div>
+        <div class="card-body">
+          <div class="card-meta">
+            <div class="card-number">03</div>
+            <div class="card-category-pill">Analysis</div>
+          </div>
+          <div class="card-title">Data Interpreter</div>
+          <p class="card-use-when">Use when you have numbers, survey results, or performance data and need to extract meaning quickly.</p>
+
+          <div class="ba-grid">
+            <div class="ba-box weak">
+              <span class="ba-label weak">Weak prompt</span>
+              <p class="ba-text">What does this data mean? [pastes numbers]</p>
+            </div>
+            <div class="ba-box strong">
+              <span class="ba-label strong">Strong prompt</span>
+              <p class="ba-text">I am pasting monthly active user data for a B2B SaaS product. Analyse it as a growth analyst. Identify: the 2 most significant trends, 1 anomaly worth investigating, and 1 metric underperforming against typical SaaS benchmarks. Output in 3 labelled bullet points, plain English, no jargon. [data]</p>
+            </div>
+          </div>
+
+          <div class="structure-block">
+            <span class="label">Reusable structure</span>
+            <div class="structure-code">Context + Your role + Data type + What to find + Output format + Length constraint</div>
+          </div>
+
+          <span class="label">Example output aim</span>
+          <p class="example-aim">Three bullet points you can paste directly into a stakeholder update.</p>
+        </div>
+      </div>
+
+      <!-- Card 04 -->
+      <div class="prompt-card">
+        <div class="card-top-bar"></div>
+        <div class="card-body">
+          <div class="card-meta">
+            <div class="card-number">04</div>
+            <div class="card-category-pill">Analysis</div>
+          </div>
+          <div class="card-title">Competitive Landscape Analyst</div>
+          <p class="card-use-when">Use when you need a structured comparison of competitors, tools, or options to support a decision.</p>
+
+          <div class="ba-grid">
+            <div class="ba-box weak">
+              <span class="ba-label weak">Weak prompt</span>
+              <p class="ba-text">Compare Flutterwave and Paystack.</p>
+            </div>
+            <div class="ba-box strong">
+              <span class="ba-label strong">Strong prompt</span>
+              <p class="ba-text">Compare Flutterwave and Paystack from the perspective of a Lagos-based startup founder choosing a payment gateway for a B2C e-commerce product. Evaluate across 4 criteria: transaction fees, developer experience, geographic coverage, and customer support. Format as a markdown table with a one-sentence recommendation at the end.</p>
+            </div>
+          </div>
+
+          <div class="structure-block">
+            <span class="label">Reusable structure</span>
+            <div class="structure-code">Comparison subject + Evaluator perspective + Use case + Criteria list + Output format + Conclusion requirement</div>
+          </div>
+
+          <span class="label">Example output aim</span>
+          <p class="example-aim">A table you can share in a team Slack or paste into a decision document.</p>
+        </div>
+      </div>
+
+    </div>
+    <div class="page-footer">
+      <span class="page-footer-url">instincthub.com/ai-playbook</span>
+      <span class="page-footer-num">Page 4</span>
+    </div>
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════
+     PAGE 5 — RESEARCH (05 & 06)
+════════════════════════════════════════════ -->
+<div class="page">
+  <div class="page-header">
+    <span class="page-header-brand">AI PLAYBOOK</span>
+    <span class="page-header-title">AI Prompt Starter Pack</span>
+  </div>
+  <div class="page-content">
+    <div class="page-inner">
+
+      <div class="cat-banner">
+        <span class="cat-banner-name">RESEARCH</span>
+        <span class="cat-banner-label">Framework Category</span>
+      </div>
+
+      <!-- Card 05 -->
+      <div class="prompt-card">
+        <div class="card-top-bar"></div>
+        <div class="card-body">
+          <div class="card-meta">
+            <div class="card-number">05</div>
+            <div class="card-category-pill">Research</div>
+          </div>
+          <div class="card-title">Topic Explainer</div>
+          <p class="card-use-when">Use when you need to understand a new concept quickly — or explain it clearly to someone else.</p>
+
+          <div class="ba-grid">
+            <div class="ba-box weak">
+              <span class="ba-label weak">Weak prompt</span>
+              <p class="ba-text">Explain machine learning.</p>
+            </div>
+            <div class="ba-box strong">
+              <span class="ba-label strong">Strong prompt</span>
+              <p class="ba-text">Explain retrieval-augmented generation (RAG) to a product manager at a fintech company who has no engineering background. Use one real-world analogy, avoid all technical jargon, keep the explanation under 200 words. End with one practical example of how it could be used in financial services.</p>
+            </div>
+          </div>
+
+          <div class="structure-block">
+            <span class="label">Reusable structure</span>
+            <div class="structure-code">Concept + Audience background + Constraints + Analogy requirement + Word limit + Practical application ask</div>
+          </div>
+
+          <span class="label">Example output aim</span>
+          <p class="example-aim">An explanation your non-technical colleague forwards to their team.</p>
+        </div>
+      </div>
+
+      <!-- Card 06 -->
+      <div class="prompt-card">
+        <div class="card-top-bar"></div>
+        <div class="card-body">
+          <div class="card-meta">
+            <div class="card-number">06</div>
+            <div class="card-category-pill">Research</div>
+          </div>
+          <div class="card-title">Literature and Source Synthesiser</div>
+          <p class="card-use-when">Use when you have multiple sources, articles, or documents and need a synthesised view quickly.</p>
+
+          <div class="ba-grid">
+            <div class="ba-box weak">
+              <span class="ba-label weak">Weak prompt</span>
+              <p class="ba-text">Summarise these articles for me. [pastes text]</p>
+            </div>
+            <div class="ba-box strong">
+              <span class="ba-label strong">Strong prompt</span>
+              <p class="ba-text">Below are three excerpts on AI regulation in Africa. Synthesise them into a 200-word briefing note. Identify: 2 points all sources agree on, 1 point of disagreement, and 1 gap none of them address. Write for a policy audience. Plain English. Do not cite sources by name. [source texts]</p>
+            </div>
+          </div>
+
+          <div class="structure-block">
+            <span class="label">Reusable structure</span>
+            <div class="structure-code">Source type + Synthesis task + Agreements + Disagreements + Gaps + Audience + Style + Length</div>
+          </div>
+
+          <span class="label">Example output aim</span>
+          <p class="example-aim">A briefing note that takes 2 minutes to read and replaces 30 minutes of reading.</p>
+        </div>
+      </div>
+
+    </div>
+    <div class="page-footer">
+      <span class="page-footer-url">instincthub.com/ai-playbook</span>
+      <span class="page-footer-num">Page 5</span>
+    </div>
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════
+     PAGE 6 — SUMMARISATION (07 & 08)
+════════════════════════════════════════════ -->
+<div class="page">
+  <div class="page-header">
+    <span class="page-header-brand">AI PLAYBOOK</span>
+    <span class="page-header-title">AI Prompt Starter Pack</span>
+  </div>
+  <div class="page-content">
+    <div class="page-inner">
+
+      <div class="cat-banner">
+        <span class="cat-banner-name">SUMMARISATION</span>
+        <span class="cat-banner-label">Framework Category</span>
+      </div>
+
+      <!-- Card 07 -->
+      <div class="prompt-card">
+        <div class="card-top-bar"></div>
+        <div class="card-body">
+          <div class="card-meta">
+            <div class="card-number">07</div>
+            <div class="card-category-pill">Summarisation</div>
+          </div>
+          <div class="card-title">Meeting Notes Condenser</div>
+          <p class="card-use-when">Use when you have raw meeting notes, a transcript, or a long document and need the key outputs fast.</p>
+
+          <div class="ba-grid">
+            <div class="ba-box weak">
+              <span class="ba-label weak">Weak prompt</span>
+              <p class="ba-text">Summarise this meeting transcript.</p>
+            </div>
+            <div class="ba-box strong">
+              <span class="ba-label strong">Strong prompt</span>
+              <p class="ba-text">Below is a transcript from a 1-hour product strategy meeting. Extract: (1) decisions made, (2) open questions unresolved, (3) action items with owner and deadline if mentioned. Output as three clearly labelled sections. Keep each action item to one line. Flag any ambiguous decision with [CLARIFY]. [transcript]</p>
+            </div>
+          </div>
+
+          <div class="structure-block">
+            <span class="label">Reusable structure</span>
+            <div class="structure-code">Input type + Extraction targets + Output sections + Format rules + Special flags</div>
+          </div>
+
+          <span class="label">Example output aim</span>
+          <p class="example-aim">Action items distributed in Slack within 10 minutes of the meeting ending.</p>
+        </div>
+      </div>
+
+      <!-- Card 08 -->
+      <div class="prompt-card">
+        <div class="card-top-bar"></div>
+        <div class="card-body">
+          <div class="card-meta">
+            <div class="card-number">08</div>
+            <div class="card-category-pill">Summarisation</div>
+          </div>
+          <div class="card-title">Long Document Distiller</div>
+          <p class="card-use-when">Use when you have a lengthy report, policy document, or proposal you need to process in under 5 minutes.</p>
+
+          <div class="ba-grid">
+            <div class="ba-box weak">
+              <span class="ba-label weak">Weak prompt</span>
+              <p class="ba-text">Give me a summary of this PDF.</p>
+            </div>
+            <div class="ba-box strong">
+              <span class="ba-label strong">Strong prompt</span>
+              <p class="ba-text">This is a 40-page government policy document on digital infrastructure investment. I am a communications director. Give me: a 3-sentence executive summary, the 5 most important policy changes, and 2 implications specifically relevant to private sector technology companies. Plain English. Total output: under 300 words.</p>
+            </div>
+          </div>
+
+          <div class="structure-block">
+            <span class="label">Reusable structure</span>
+            <div class="structure-code">Document type + Your role + Output components + Relevance filter + Style + Word limit</div>
+          </div>
+
+          <span class="label">Example output aim</span>
+          <p class="example-aim">A 300-word brief you can read in 90 seconds before a board meeting.</p>
+        </div>
+      </div>
+
+    </div>
+    <div class="page-footer">
+      <span class="page-footer-url">instincthub.com/ai-playbook</span>
+      <span class="page-footer-num">Page 6</span>
+    </div>
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════
+     PAGE 7 — DECISION SUPPORT (09 & 10)
+════════════════════════════════════════════ -->
+<div class="page">
+  <div class="page-header">
+    <span class="page-header-brand">AI PLAYBOOK</span>
+    <span class="page-header-title">AI Prompt Starter Pack</span>
+  </div>
+  <div class="page-content">
+    <div class="page-inner">
+
+      <div class="cat-banner">
+        <span class="cat-banner-name">DECISION SUPPORT</span>
+        <span class="cat-banner-label">Framework Category</span>
+      </div>
+
+      <!-- Card 09 -->
+      <div class="prompt-card">
+        <div class="card-top-bar"></div>
+        <div class="card-body">
+          <div class="card-meta">
+            <div class="card-number">09</div>
+            <div class="card-category-pill">Decision Support</div>
+          </div>
+          <div class="card-title">Options Evaluator</div>
+          <p class="card-use-when">Use when you are choosing between two or more approaches, tools, vendors, or strategies.</p>
+
+          <div class="ba-grid">
+            <div class="ba-box weak">
+              <span class="ba-label weak">Weak prompt</span>
+              <p class="ba-text">Should I use Next.js or Django for my project?</p>
+            </div>
+            <div class="ba-box strong">
+              <span class="ba-label strong">Strong prompt</span>
+              <p class="ba-text">I am building an AI-powered learning platform needing: server-side rendering, a REST API, real-time features, and fast deployment. My team has strong Python skills but limited JavaScript experience. Evaluate Next.js vs Django + HTMX vs Django + React. Score each 1–10 on: team fit, feature coverage, and deployment simplicity. Recommend one with a one-paragraph justification.</p>
+            </div>
+          </div>
+
+          <div class="structure-block">
+            <span class="label">Reusable structure</span>
+            <div class="structure-code">Project context + Constraints + Team capability + Options list + Evaluation criteria + Recommendation format</div>
+          </div>
+
+          <span class="label">Example output aim</span>
+          <p class="example-aim">A clear recommendation you can defend in a technical review.</p>
+        </div>
+      </div>
+
+      <!-- Card 10 -->
+      <div class="prompt-card">
+        <div class="card-top-bar"></div>
+        <div class="card-body">
+          <div class="card-meta">
+            <div class="card-number">10</div>
+            <div class="card-category-pill">Decision Support</div>
+          </div>
+          <div class="card-title">Risk and Objection Mapper</div>
+          <p class="card-use-when">Use when you need to stress-test an idea, proposal, or plan before presenting it to stakeholders.</p>
+
+          <div class="ba-grid">
+            <div class="ba-box weak">
+              <span class="ba-label weak">Weak prompt</span>
+              <p class="ba-text">What are the risks of my business idea?</p>
+            </div>
+            <div class="ba-box strong">
+              <span class="ba-label strong">Strong prompt</span>
+              <p class="ba-text">I am pitching a B2B AI training programme to enterprise clients in Lagos. The programme costs $500 per seat, runs for 6 weeks, targets HR and L&amp;D departments. Act as a sceptical procurement director at a tier-1 Nigerian bank. Give me the 5 most likely objections you would raise. For each objection, provide a one-sentence counter-argument I could use.</p>
+            </div>
+          </div>
+
+          <div class="structure-block">
+            <span class="label">Reusable structure</span>
+            <div class="structure-code">Idea or proposal context + Sceptic role + Objection quantity + Format: objection + counter-argument pairs</div>
+          </div>
+
+          <span class="label">Example output aim</span>
+          <p class="example-aim">Five objections you have already thought through before walking into the room.</p>
+        </div>
+      </div>
+
+    </div>
+    <div class="page-footer">
+      <span class="page-footer-url">instincthub.com/ai-playbook</span>
+      <span class="page-footer-num">Page 7</span>
+    </div>
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════
+     PAGE 8 — THE MASTER STRUCTURE
+════════════════════════════════════════════ -->
+<div class="page">
+  <div class="page-header">
+    <span class="page-header-brand">AI PLAYBOOK</span>
+    <span class="page-header-title">AI Prompt Starter Pack</span>
+  </div>
+  <div class="page-content">
+    <div class="page-inner">
+
+      <h1>The Master Prompt Structure</h1>
+      <div class="teal-rule"></div>
+
+      <p>Every framework in this pack is built from the same five-part structure. Learn it once. Apply it everywhere.</p>
+
+      <div style="margin-top: 5mm;">
+
+        <div class="master-row">
+          <div class="master-num-cell">01</div>
+          <div class="master-content">
+            <div class="master-label">ROLE</div>
+            <p class="master-desc">Define who AI should be.</p>
+            <p class="master-example">"You are a senior financial analyst..." &nbsp;/&nbsp; "Act as a Lagos-based UX researcher..."</p>
+            <p class="master-note">This single line determines the vocabulary, framing, and depth of the response.</p>
+          </div>
+        </div>
+
+        <div class="master-row">
+          <div class="master-num-cell">02</div>
+          <div class="master-content">
+            <div class="master-label">TASK</div>
+            <p class="master-desc">State exactly what you want.</p>
+            <p class="master-example">"Write a 3-paragraph executive summary..." &nbsp;/&nbsp; "List the 5 key objections..."</p>
+            <p class="master-note">Be specific. Vague tasks produce vague outputs.</p>
+          </div>
+        </div>
+
+        <div class="master-row">
+          <div class="master-num-cell">03</div>
+          <div class="master-content">
+            <div class="master-label">CONTEXT</div>
+            <p class="master-desc">Give the background that matters.</p>
+            <p class="master-example">"This is for a client presentation on Tuesday." &nbsp;/&nbsp; "The audience has no technical background."</p>
+            <p class="master-note">Context eliminates assumptions. Assumptions produce irrelevant output.</p>
+          </div>
+        </div>
+
+        <div class="master-row">
+          <div class="master-num-cell">04</div>
+          <div class="master-content">
+            <div class="master-label">CONSTRAINTS</div>
+            <p class="master-desc">Define the boundaries.</p>
+            <p class="master-example">"Under 200 words. Formal tone. No bullet points." &nbsp;/&nbsp; "Include 2 real examples."</p>
+            <p class="master-note">Constraints are not limitations — they are the specification. They save editing time.</p>
+          </div>
+        </div>
+
+        <div class="master-row">
+          <div class="master-num-cell">05</div>
+          <div class="master-content">
+            <div class="master-label">OUTPUT FORMAT</div>
+            <p class="master-desc">Specify how the result should look.</p>
+            <p class="master-example">"Format as a markdown table." &nbsp;/&nbsp; "Three labelled sections." &nbsp;/&nbsp; "One sentence per point."</p>
+            <p class="master-note">If you do not specify the format, AI will choose one — and it may not be what you need.</p>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="callout" style="margin-top: 6mm;">
+        <h3>What to do next</h3>
+        <p>Pick one task you have been putting off this week. Apply the five-part structure above to write a prompt for it right now. Time yourself. You should be done in under 60 seconds.<br><br>
+        The AI Playbook runs weekly live sessions where you build real AI workflows, not just talk about them. Join the community at <strong>instincthub.com/ai-playbook</strong>.</p>
+      </div>
+
+    </div>
+    <div class="page-footer">
+      <span class="page-footer-url">instincthub.com/ai-playbook</span>
+      <span class="page-footer-num">Page 8</span>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

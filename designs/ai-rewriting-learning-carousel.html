@@ -1,0 +1,882 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>5 Ways AI Is Rewriting How We Learn — AI Playbook</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&family=Nunito:wght@600;700&display=swap" rel="stylesheet" />
+  <style>
+    /* ── Reset ── */
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    /* ── Brand tokens ── */
+    :root {
+      --brand-teal: #1A7A6E;
+      --brand-charcoal: #2B3A35;
+      --brand-dark: #0F1A17;
+      --brand-paper: #F4F2ED;
+      --white: #FFFFFF;
+      --neutral-400: #B0ADA4;
+      --neutral-600: #6B6860;
+      --teal-light: #5DCAA5;
+
+      --nunito: 'Nunito', sans-serif;
+      --dm-sans: 'DM Sans', sans-serif;
+      --dm-mono: 'DM Mono', monospace;
+
+      --slide-w: 1080px;
+      --slide-h: 1350px;
+      --pad: 64px;
+    }
+
+    body {
+      background: #e0e0e0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 32px;
+      padding: 32px 0;
+    }
+
+    /* ── Slide base ── */
+    .slide {
+      position: relative;
+      width: var(--slide-w);
+      height: var(--slide-h);
+      overflow: hidden;
+      page-break-after: always;
+      flex-shrink: 0;
+    }
+
+    /* ── Print ── */
+    @media print {
+      body { background: none; padding: 0; gap: 0; }
+      .slide { page-break-after: always; }
+      .slide:last-child { page-break-after: auto; }
+    }
+
+    @page {
+      size: 1080px 1350px;
+      margin: 0;
+    }
+
+    /* ── Cover slide ── */
+    .slide--cover {
+      background: url('assets/bg/wall-paper-2148196630.jpg') center/cover no-repeat;
+      color: var(--white);
+    }
+    .slide--cover::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: rgba(15, 26, 23, 0.55);
+      z-index: 1;
+    }
+    .slide--cover .cover-content {
+      position: relative;
+      z-index: 2;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      padding: var(--pad);
+    }
+    .cover-title {
+      margin-top: 40px;
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 84px;
+      line-height: 1.1;
+      color: var(--white);
+    }
+    .cover-title .hl {
+      background: var(--brand-teal);
+      padding: 2px 8px;
+      -webkit-box-decoration-break: clone;
+      box-decoration-break: clone;
+    }
+    .cover-subtitle {
+      margin-top: 16px;
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 28px;
+      color: rgba(255,255,255,0.6);
+    }
+    .cover-divider {
+      width: 100%;
+      height: 1px;
+      margin-top: 32px;
+      border: none;
+      border-top: 1.5px dashed rgba(255,255,255,0.2);
+    }
+    .cover-illustration {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .cover-illustration svg {
+      width: 700px;
+      height: auto;
+      opacity: 0.95;
+    }
+    .cover-bottom {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+    }
+    .handle {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 22px;
+      color: rgba(255,255,255,0.5);
+    }
+    .arrow {
+      font-family: var(--dm-sans);
+      font-weight: 300;
+      font-size: 32px;
+      color: var(--white);
+    }
+
+    /* ── Paper slides (2-10) ── */
+    .slide--paper {
+      background: var(--brand-paper);
+      color: var(--brand-charcoal);
+      display: flex;
+      flex-direction: column;
+      padding: var(--pad);
+    }
+
+    /* ── Intro slide ── */
+    .intro-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 0 40px;
+    }
+    .intro-bold {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 52px;
+      line-height: 1.2;
+      color: var(--brand-charcoal);
+    }
+    .intro-light {
+      margin-top: 32px;
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 42px;
+      line-height: 1.35;
+      color: var(--neutral-600);
+    }
+    .intro-light strong {
+      font-weight: 500;
+      color: var(--brand-charcoal);
+    }
+
+    /* ── Data slides ── */
+    .slide-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 16px;
+      margin-bottom: 8px;
+    }
+    .slide-number {
+      flex-shrink: 0;
+      width: 42px;
+      height: 42px;
+      background: var(--brand-teal);
+      color: var(--white);
+      font-family: var(--dm-mono);
+      font-weight: 500;
+      font-size: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 4px;
+    }
+    .slide-title {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 38px;
+      line-height: 1.25;
+      color: var(--brand-charcoal);
+    }
+
+    .data-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      gap: 0;
+    }
+
+    .data-section {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px 0;
+    }
+
+    .data-divider {
+      width: 85%;
+      height: 1px;
+      background: var(--neutral-400);
+      opacity: 0.5;
+    }
+
+    .hero-stat {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 128px;
+      line-height: 1;
+      color: var(--brand-teal);
+      letter-spacing: -2px;
+    }
+    .hero-stat--md {
+      font-size: 96px;
+    }
+    .hero-stat--sm {
+      font-size: 72px;
+    }
+
+    .stat-label {
+      font-family: var(--dm-sans);
+      font-weight: 500;
+      font-size: 24px;
+      line-height: 1.4;
+      color: var(--brand-charcoal);
+      margin-top: 8px;
+    }
+    .stat-sublabel {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 20px;
+      color: var(--neutral-600);
+      margin-top: 4px;
+    }
+
+    .source {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 18px;
+      color: var(--neutral-400);
+      margin-top: 16px;
+      text-align: center;
+      line-height: 1.4;
+    }
+
+    /* ── Comparison cards (slide 4) ── */
+    .compare-row {
+      display: flex;
+      align-items: stretch;
+      gap: 0;
+      width: 100%;
+      margin-bottom: 8px;
+    }
+    .compare-card {
+      flex: 1;
+      padding: 40px 24px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      border-radius: 12px;
+    }
+    .compare-card--teal {
+      background: var(--brand-teal);
+      color: var(--white);
+    }
+    .compare-card--gray {
+      background: #d4d2cc;
+      color: var(--brand-charcoal);
+    }
+    .compare-stat {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 72px;
+      line-height: 1;
+    }
+    .compare-label {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 20px;
+      margin-top: 8px;
+    }
+    .compare-card--teal .compare-label {
+      color: rgba(255,255,255,0.8);
+    }
+    .compare-vs {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 22px;
+      color: var(--neutral-600);
+      padding: 0 20px;
+      align-self: center;
+    }
+    .compare-source {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 17px;
+      color: var(--neutral-400);
+      margin-top: 4px;
+    }
+
+    /* ── Pagination dots ── */
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 12px;
+      padding-top: 24px;
+    }
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--neutral-400);
+      opacity: 0.5;
+    }
+    .dot--active {
+      background: var(--brand-teal);
+      opacity: 1;
+    }
+
+    .slide-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      margin-top: auto;
+    }
+    .slide-footer .arrow {
+      color: var(--brand-charcoal);
+    }
+
+    /* ── CTA slide ── */
+    .cta-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      padding-top: 20px;
+    }
+    .cta-heading {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 52px;
+      line-height: 1.2;
+      color: var(--brand-charcoal);
+    }
+    .cta-heading .hl {
+      background: var(--brand-teal);
+      color: var(--white);
+      padding: 2px 8px;
+      -webkit-box-decoration-break: clone;
+      box-decoration-break: clone;
+    }
+    .cta-handle {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 24px;
+      color: var(--neutral-600);
+      margin-top: 16px;
+    }
+    .cta-arrow-area {
+      display: flex;
+      justify-content: center;
+      margin-top: 32px;
+    }
+    .cta-arrow-area svg {
+      width: 80px;
+      height: auto;
+    }
+    .cta-photo-area {
+      flex: 1;
+      display: flex;
+      justify-content: flex-end;
+      align-items: flex-end;
+      padding-bottom: 20px;
+    }
+    .cta-photo {
+      width: 400px;
+      height: 480px;
+      border-radius: 4px;
+      object-fit: cover;
+      object-position: center top;
+    }
+    .handle--dark {
+      color: var(--neutral-600);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ═══════════════ SLIDE 01 — COVER ═══════════════ -->
+  <div class="slide slide--cover">
+    <div class="cover-content">
+      <div class="cover-title">
+        <span class="hl">5 Ways AI Is</span><br/>
+        <span class="hl">Rewriting How</span><br/>
+        <span class="hl">We Learn</span>
+      </div>
+      <div class="cover-subtitle">AI Playbook Weekly</div>
+
+      <hr class="cover-divider"/>
+
+      <div class="cover-illustration">
+        <svg viewBox="0 0 600 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <!-- ── Brain (left side) ── -->
+          <path d="M190 60 C140 60, 100 100, 100 150 C100 185, 120 215, 155 235 C170 244, 185 250, 200 250 L200 60Z" stroke="white" stroke-width="2.5" fill="none"/>
+          <path d="M200 60 C225 35, 265 28, 290 42 C310 52, 322 72, 322 92" stroke="white" stroke-width="2.5" fill="none"/>
+          <path d="M322 92 C328 115, 325 142, 310 160 C295 178, 270 192, 245 200" stroke="white" stroke-width="2.5" fill="none"/>
+          <path d="M245 200 C230 206, 215 218, 205 230 C200 238, 200 246, 200 250" stroke="white" stroke-width="2.5" fill="none"/>
+          <!-- Brain folds -->
+          <path d="M140 135 C162 128, 178 142, 172 160" stroke="white" stroke-width="2" fill="none" opacity="0.5"/>
+          <path d="M155 180 C178 172, 200 182, 193 200" stroke="white" stroke-width="2" fill="none" opacity="0.5"/>
+          <path d="M225 80 C248 72, 270 86, 262 105" stroke="white" stroke-width="2" fill="none" opacity="0.5"/>
+          <path d="M240 135 C262 128, 290 140, 282 162" stroke="white" stroke-width="2" fill="none" opacity="0.5"/>
+
+          <!-- ── Dashed connection lines ── -->
+          <line x1="322" y1="92" x2="395" y2="60" stroke="white" stroke-width="2" stroke-dasharray="8 5" opacity="0.65"/>
+          <line x1="316" y1="155" x2="395" y2="155" stroke="white" stroke-width="2" stroke-dasharray="8 5" opacity="0.65"/>
+          <line x1="290" y1="210" x2="395" y2="250" stroke="white" stroke-width="2" stroke-dasharray="8 5" opacity="0.65"/>
+
+          <!-- ── AI circuit nodes (larger, bolder) ── -->
+          <circle cx="420" cy="55" r="26" stroke="#1A7A6E" stroke-width="2.5" fill="rgba(26,122,110,0.25)"/>
+          <circle cx="420" cy="155" r="32" stroke="#1A7A6E" stroke-width="3" fill="rgba(26,122,110,0.25)"/>
+          <circle cx="420" cy="255" r="26" stroke="#1A7A6E" stroke-width="2.5" fill="rgba(26,122,110,0.25)"/>
+
+          <!-- Node icons -->
+          <!-- Top: lightbulb -->
+          <path d="M412 48 C412 40, 428 40, 428 48 C428 54, 422 56, 422 60 L418 60 C418 56, 412 54, 412 48Z" stroke="white" stroke-width="2" fill="none"/>
+          <line x1="416" y1="62" x2="424" y2="62" stroke="white" stroke-width="2"/>
+          <!-- Middle: play triangle (learning) -->
+          <polygon points="410,143 410,167 434,155" stroke="white" stroke-width="2" fill="none"/>
+          <!-- Bottom: graduation cap -->
+          <polygon points="406,252 420,242 434,252 420,260" stroke="white" stroke-width="2" fill="none"/>
+          <line x1="420" y1="260" x2="420" y2="270" stroke="white" stroke-width="2"/>
+          <line x1="434" y1="252" x2="438" y2="266" stroke="white" stroke-width="1.5"/>
+
+          <!-- Vertical connector lines between nodes -->
+          <line x1="420" y1="81" x2="420" y2="123" stroke="white" stroke-width="2" opacity="0.4"/>
+          <line x1="420" y1="187" x2="420" y2="229" stroke="white" stroke-width="2" opacity="0.4"/>
+
+          <!-- Small floating dots (data particles) -->
+          <circle cx="460" cy="45" r="4" fill="white" opacity="0.35"/>
+          <circle cx="465" cy="145" r="4" fill="white" opacity="0.35"/>
+          <circle cx="462" cy="170" r="3" fill="white" opacity="0.25"/>
+          <circle cx="458" cy="268" r="4" fill="white" opacity="0.35"/>
+          <circle cx="380" cy="72" r="3" fill="white" opacity="0.25"/>
+          <circle cx="375" cy="238" r="3" fill="white" opacity="0.25"/>
+          <circle cx="470" cy="100" r="2.5" fill="white" opacity="0.2"/>
+          <circle cx="472" cy="210" r="2.5" fill="white" opacity="0.2"/>
+
+          <!-- Feedback loop arc (AI → brain) -->
+          <path d="M394 155 C345 155, 340 275, 200 275 C172 275, 145 265, 128 250" stroke="rgba(26,122,110,0.55)" stroke-width="2" fill="none" stroke-dasharray="6 4"/>
+          <polyline points="134,256 128,250 135,246" stroke="rgba(26,122,110,0.55)" stroke-width="2" fill="none"/>
+        </svg>
+      </div>
+
+      <div class="cover-bottom">
+        <span class="handle">@aiplaybook_</span>
+        <span class="arrow">&rarr;</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 02 — INTRO ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="intro-content">
+      <div class="intro-bold">
+        AI isn't just<br/>improving education.
+      </div>
+      <div class="intro-light">
+        It's fundamentally<br/>
+        <strong>restructuring the<br/>production of<br/>human capital.</strong>
+      </div>
+    </div>
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 03 — AI TUTORING ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">1</div>
+      <div class="slide-title">AI Tutoring Doubles<br/>Learning Gains vs.<br/>Traditional Classrooms</div>
+    </div>
+
+    <div class="data-content">
+      <div class="data-section">
+        <div class="hero-stat">2x</div>
+        <div class="stat-label">learning gains</div>
+      </div>
+
+      <div class="data-divider"></div>
+
+      <div class="data-section">
+        <div class="hero-stat hero-stat--sm" style="font-size: 52px;">Effect size: 0.73 to 1.3 SD</div>
+        <div class="stat-label">Highly significant</div>
+      </div>
+
+      <div class="source">
+        Harvard RCT (N=194) &middot; Kestin et al.<br/>
+        Scientific Reports (Nature), 2025
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 04 — COST ASYMMETRY ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">2</div>
+      <div class="slide-title">AI Delivers Tutoring at<br/>a Fraction of the Cost</div>
+    </div>
+
+    <div class="data-content">
+      <div class="data-section" style="padding-bottom: 12px;">
+        <div class="compare-row">
+          <div class="compare-card compare-card--teal">
+            <div class="compare-stat">$35</div>
+            <div class="compare-label">per student/year</div>
+          </div>
+          <div class="compare-vs">vs</div>
+          <div class="compare-card compare-card--gray">
+            <div class="compare-stat">$70-$120</div>
+            <div class="compare-label">per hour</div>
+          </div>
+        </div>
+        <div style="display:flex; width:100%; justify-content:space-between; padding:0 12px;">
+          <div class="compare-source">Khan Academy AI</div>
+          <div class="compare-source">Human private tutoring</div>
+        </div>
+      </div>
+
+      <div class="data-divider"></div>
+
+      <div class="data-section">
+        <div class="hero-stat hero-stat--md">$5.88B</div>
+        <div class="stat-label">EdTech AI market size (2024)</div>
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 05 — RESKILLING CRISIS ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">3</div>
+      <div class="slide-title">The Reskilling<br/>Crisis Is Massive</div>
+    </div>
+
+    <div class="data-content">
+      <div class="data-section">
+        <div class="hero-stat">$1.1T</div>
+        <div class="stat-label">annual cost to U.S. economy<br/>from skill gaps</div>
+      </div>
+
+      <div class="data-divider"></div>
+
+      <div class="data-section">
+        <div class="hero-stat">59%</div>
+        <div class="stat-label">of global workforce needs<br/>significant reskilling by 2030</div>
+      </div>
+
+      <div class="source">
+        World Economic Forum, Future of Jobs Report 2025
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 06 — WAGE PREMIUM ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">4</div>
+      <div class="slide-title">AI Skills Deliver<br/>Explosive Wage Premiums</div>
+    </div>
+
+    <div class="data-content">
+      <div class="data-section">
+        <div class="hero-stat">56%</div>
+        <div class="stat-label">wage premium for verified AI skills</div>
+        <div class="stat-sublabel">up from 25% last year</div>
+      </div>
+
+      <div class="data-divider"></div>
+
+      <div class="data-section">
+        <div class="hero-stat hero-stat--md">4x</div>
+        <div class="stat-label">faster revenue-per-employee growth<br/>in AI-exposed industries</div>
+      </div>
+
+      <div class="source">
+        PwC Global AI Jobs Barometer, 2025
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 07 — R&D COMPRESSION ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">5</div>
+      <div class="slide-title">AI Is Compressing Discovery<br/>Timelines Dramatically</div>
+    </div>
+
+    <div class="data-content">
+      <div class="data-section">
+        <div class="hero-stat hero-stat--sm">6 yrs to 30 mo</div>
+        <div class="stat-label">drug discovery timeline compressed</div>
+        <div class="stat-sublabel">at $2.6M &mdash; Insilico Medicine</div>
+      </div>
+
+      <div class="data-divider"></div>
+
+      <div class="data-section">
+        <div class="hero-stat hero-stat--md">214M</div>
+        <div class="stat-label">proteins predicted by AlphaFold</div>
+        <div class="stat-sublabel">used by 3M+ researchers in 190 countries</div>
+      </div>
+
+      <div class="source">
+        Nature Medicine 2025 &middot; Google DeepMind
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 08 — AFRICA & ACCESS ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">6</div>
+      <div class="slide-title">AI Is Accelerating Fastest<br/>in Low-Income Regions</div>
+    </div>
+
+    <div class="data-content">
+      <div class="data-section">
+        <div class="hero-stat">4x</div>
+        <div class="stat-label">faster AI adoption in low-income countries<br/>vs. wealthy nations</div>
+      </div>
+
+      <div class="data-divider"></div>
+
+      <div class="data-section">
+        <div class="hero-stat">16%</div>
+        <div class="stat-label">fewer diagnostic errors with AI copilot</div>
+        <div class="stat-sublabel">40K patient visits, Nairobi, 2025</div>
+      </div>
+
+      <div class="source">
+        Penda Health &middot; OpenAI &middot; Kenya MOH
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 09 — SKILLS HALF-LIFE ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">7</div>
+      <div class="slide-title">Skills Now Have a Short<br/>Half-Life &mdash; Degrees Are<br/>Losing Signal</div>
+    </div>
+
+    <div class="data-content">
+      <div class="data-section">
+        <div class="hero-stat">2.5 yrs</div>
+        <div class="stat-label">average technical skill expiry</div>
+      </div>
+
+      <div class="data-divider"></div>
+
+      <div class="data-section">
+        <div class="hero-stat hero-stat--md">17.8%</div>
+        <div class="stat-label">of U.S. jobs require a 4-year degree</div>
+        <div class="stat-sublabel">down from 20.4%</div>
+      </div>
+
+      <div class="source">
+        IBM Institute &middot; Indeed Hiring Lab &middot; Harvard/BGI 2024
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 10 — CTA ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="cta-content">
+      <div class="cta-heading">
+        Want more weekly<br/>AI breakdowns<br/>like this?
+      </div>
+      <div style="margin-top: 20px;">
+        <span class="cta-heading"><span class="hl">Follow</span></span><br/>
+        <span class="cta-heading"><span class="hl">Noah Olatoye</span></span>
+      </div>
+      <div class="cta-handle">@aiplaybook_</div>
+
+      <div class="cta-arrow-area">
+        <svg viewBox="0 0 100 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M30 10 C30 10, 50 60, 70 100" stroke="#2B3A35" stroke-width="2.5" fill="none"/>
+          <polyline points="62,92 70,100 72,88" stroke="#2B3A35" stroke-width="2.5" fill="none"/>
+        </svg>
+      </div>
+
+      <div class="cta-photo-area">
+        <img class="cta-photo" src="assets/images/noaholatoye-speaking-2-min.jpg" alt="Noah Olatoye" />
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <span class="handle handle--dark">@aiplaybook_</span>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+</body>
+</html>

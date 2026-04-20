@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>5 Ways AI Is Rewriting How We Learn — Infographic</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&family=Nunito:wght@600;700&display=swap" rel="stylesheet" />
+  <!-- PRINT: Open in Chrome → Cmd+P → Paper: Custom 1080x1350px → Margins: None → Save as PDF/Image -->
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --brand-teal: #1A7A6E;
+      --brand-charcoal: #2B3A35;
+      --brand-dark: #0F1A17;
+      --brand-paper: #F4F2ED;
+      --white: #FFFFFF;
+      --neutral-400: #B0ADA4;
+      --neutral-600: #6B6860;
+      --teal-light: #5DCAA5;
+
+      --nunito: 'Nunito', sans-serif;
+      --dm-sans: 'DM Sans', sans-serif;
+      --dm-mono: 'DM Mono', monospace;
+    }
+
+    body {
+      background: #e0e0e0;
+      display: flex;
+      justify-content: center;
+      padding: 32px 0;
+    }
+
+    @page {
+      size: 1080px 1620px;
+      margin: 0;
+    }
+
+    @media print {
+      body { background: none; padding: 0; }
+    }
+
+    .infographic {
+      width: 1080px;
+      height: 1620px;
+      background: var(--brand-paper);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+    }
+
+    /* ── Header band ── */
+    .header {
+      position: relative;
+      background: url('assets/bg/wall-paper-2148196630.jpg') center/cover no-repeat;
+      padding: 36px 48px 28px;
+      display: flex;
+      align-items: center;
+      gap: 28px;
+      min-height: 190px;
+    }
+    .header::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: rgba(15, 26, 23, 0.6);
+      z-index: 1;
+    }
+    .header-text {
+      position: relative;
+      z-index: 2;
+      flex: 1;
+    }
+    .header-title {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 46px;
+      line-height: 1.15;
+      color: var(--white);
+    }
+    .header-title .hl {
+      background: var(--brand-teal);
+      padding: 2px 8px;
+      -webkit-box-decoration-break: clone;
+      box-decoration-break: clone;
+    }
+    .header-subtitle {
+      margin-top: 12px;
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 20px;
+      color: rgba(255,255,255,0.6);
+    }
+    .header-illustration {
+      position: relative;
+      z-index: 2;
+      flex-shrink: 0;
+    }
+    .header-illustration svg {
+      width: 220px;
+      height: auto;
+      opacity: 0.9;
+    }
+
+    /* ── Intro strip ── */
+    .intro-strip {
+      padding: 14px 48px;
+      border-left: 5px solid var(--brand-teal);
+      margin: 0 48px;
+      margin-top: 14px;
+    }
+    .intro-strip p {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 1.4;
+      color: var(--neutral-600);
+    }
+    .intro-strip strong {
+      font-weight: 500;
+      color: var(--brand-charcoal);
+    }
+
+    /* ── Data grid ── */
+    .data-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+      padding: 16px 48px;
+    }
+    .data-grid .card:last-child {
+      grid-column: 1 / -1;
+    }
+
+    .card {
+      background: var(--white);
+      border-radius: 14px;
+      padding: 20px 24px;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+    }
+
+    .card-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    .card-num {
+      flex-shrink: 0;
+      width: 28px;
+      height: 28px;
+      background: var(--brand-teal);
+      color: var(--white);
+      font-family: var(--dm-mono);
+      font-weight: 500;
+      font-size: 13px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 2px;
+    }
+    .card-title {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 1.25;
+      color: var(--brand-charcoal);
+    }
+
+    .card-body {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      gap: 4px;
+    }
+
+    .card-stat {
+      font-family: var(--nunito);
+      font-weight: 700;
+      line-height: 1;
+      color: var(--brand-teal);
+      letter-spacing: -1px;
+    }
+    .card-stat--lg { font-size: 54px; }
+    .card-stat--md { font-size: 42px; }
+    .card-stat--sm { font-size: 32px; }
+
+    .card-label {
+      font-family: var(--dm-sans);
+      font-weight: 500;
+      font-size: 14px;
+      color: var(--brand-charcoal);
+      margin-top: 4px;
+      line-height: 1.3;
+    }
+    .card-sublabel {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 12px;
+      color: var(--neutral-600);
+    }
+
+    .card-divider {
+      width: 70%;
+      height: 1px;
+      background: var(--neutral-400);
+      opacity: 0.4;
+      margin: 8px auto;
+    }
+
+    .card-source {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 10px;
+      color: var(--neutral-400);
+      margin-top: 4px;
+      text-align: center;
+      line-height: 1.2;
+    }
+
+    /* ── Comparison mini layout ── */
+    .mini-compare {
+      display: flex;
+      align-items: stretch;
+      gap: 0;
+      width: 100%;
+      margin-bottom: 4px;
+    }
+    .mini-compare-card {
+      flex: 1;
+      padding: 10px 8px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      border-radius: 8px;
+    }
+    .mini-compare-card--teal {
+      background: var(--brand-teal);
+      color: var(--white);
+    }
+    .mini-compare-card--gray {
+      background: #d4d2cc;
+      color: var(--brand-charcoal);
+    }
+    .mini-compare-stat {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 30px;
+      line-height: 1;
+    }
+    .mini-compare-label {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 12px;
+      margin-top: 4px;
+    }
+    .mini-compare-card--teal .mini-compare-label {
+      color: rgba(255,255,255,0.8);
+    }
+    .mini-compare-vs {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 16px;
+      color: var(--neutral-600);
+      padding: 0 10px;
+      align-self: center;
+    }
+    .mini-compare-sources {
+      display: flex;
+      width: 100%;
+      justify-content: space-between;
+      padding: 0 4px;
+    }
+    .mini-compare-sources span {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 11px;
+      color: var(--neutral-400);
+    }
+
+    /* ── Full-width last card ── */
+    .card--wide .card-body {
+      flex-direction: row;
+      gap: 32px;
+      justify-content: center;
+    }
+    .card--wide .stat-group {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+
+    /* ── CTA footer ── */
+    .cta-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 12px 48px 16px;
+    }
+    .cta-left {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    .cta-follow {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 24px;
+      color: var(--brand-charcoal);
+    }
+    .cta-follow .hl {
+      background: var(--brand-teal);
+      color: var(--white);
+      padding: 1px 6px;
+      -webkit-box-decoration-break: clone;
+      box-decoration-break: clone;
+    }
+    .cta-handle {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 16px;
+      color: var(--neutral-600);
+    }
+    .cta-photo {
+      width: 72px;
+      height: 72px;
+      border-radius: 50%;
+      object-fit: cover;
+      object-position: center top;
+      border: 3px solid var(--brand-teal);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="infographic">
+
+    <!-- ── Header ── -->
+    <div class="header">
+      <div class="header-text">
+        <div class="header-title">
+          <span class="hl">5 Ways AI Is Rewriting</span><br/>
+          <span class="hl">How We Learn</span>
+        </div>
+        <div class="header-subtitle">AI Playbook Weekly</div>
+      </div>
+      <div class="header-illustration">
+        <svg viewBox="0 0 600 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M190 60 C140 60, 100 100, 100 150 C100 185, 120 215, 155 235 C170 244, 185 250, 200 250 L200 60Z" stroke="white" stroke-width="2.5" fill="none"/>
+          <path d="M200 60 C225 35, 265 28, 290 42 C310 52, 322 72, 322 92" stroke="white" stroke-width="2.5" fill="none"/>
+          <path d="M322 92 C328 115, 325 142, 310 160 C295 178, 270 192, 245 200" stroke="white" stroke-width="2.5" fill="none"/>
+          <path d="M245 200 C230 206, 215 218, 205 230 C200 238, 200 246, 200 250" stroke="white" stroke-width="2.5" fill="none"/>
+          <path d="M140 135 C162 128, 178 142, 172 160" stroke="white" stroke-width="2" fill="none" opacity="0.5"/>
+          <path d="M155 180 C178 172, 200 182, 193 200" stroke="white" stroke-width="2" fill="none" opacity="0.5"/>
+          <path d="M225 80 C248 72, 270 86, 262 105" stroke="white" stroke-width="2" fill="none" opacity="0.5"/>
+          <path d="M240 135 C262 128, 290 140, 282 162" stroke="white" stroke-width="2" fill="none" opacity="0.5"/>
+          <line x1="322" y1="92" x2="395" y2="60" stroke="white" stroke-width="2" stroke-dasharray="8 5" opacity="0.65"/>
+          <line x1="316" y1="155" x2="395" y2="155" stroke="white" stroke-width="2" stroke-dasharray="8 5" opacity="0.65"/>
+          <line x1="290" y1="210" x2="395" y2="250" stroke="white" stroke-width="2" stroke-dasharray="8 5" opacity="0.65"/>
+          <circle cx="420" cy="55" r="26" stroke="#1A7A6E" stroke-width="2.5" fill="rgba(26,122,110,0.25)"/>
+          <circle cx="420" cy="155" r="32" stroke="#1A7A6E" stroke-width="3" fill="rgba(26,122,110,0.25)"/>
+          <circle cx="420" cy="255" r="26" stroke="#1A7A6E" stroke-width="2.5" fill="rgba(26,122,110,0.25)"/>
+          <path d="M412 48 C412 40, 428 40, 428 48 C428 54, 422 56, 422 60 L418 60 C418 56, 412 54, 412 48Z" stroke="white" stroke-width="2" fill="none"/>
+          <line x1="416" y1="62" x2="424" y2="62" stroke="white" stroke-width="2"/>
+          <polygon points="410,143 410,167 434,155" stroke="white" stroke-width="2" fill="none"/>
+          <polygon points="406,252 420,242 434,252 420,260" stroke="white" stroke-width="2" fill="none"/>
+          <line x1="420" y1="260" x2="420" y2="270" stroke="white" stroke-width="2"/>
+          <line x1="434" y1="252" x2="438" y2="266" stroke="white" stroke-width="1.5"/>
+          <line x1="420" y1="81" x2="420" y2="123" stroke="white" stroke-width="2" opacity="0.4"/>
+          <line x1="420" y1="187" x2="420" y2="229" stroke="white" stroke-width="2" opacity="0.4"/>
+          <circle cx="460" cy="45" r="4" fill="white" opacity="0.35"/>
+          <circle cx="465" cy="145" r="4" fill="white" opacity="0.35"/>
+          <circle cx="462" cy="170" r="3" fill="white" opacity="0.25"/>
+          <circle cx="458" cy="268" r="4" fill="white" opacity="0.35"/>
+          <circle cx="380" cy="72" r="3" fill="white" opacity="0.25"/>
+          <circle cx="375" cy="238" r="3" fill="white" opacity="0.25"/>
+          <path d="M394 155 C345 155, 340 275, 200 275 C172 275, 145 265, 128 250" stroke="rgba(26,122,110,0.55)" stroke-width="2" fill="none" stroke-dasharray="6 4"/>
+          <polyline points="134,256 128,250 135,246" stroke="rgba(26,122,110,0.55)" stroke-width="2" fill="none"/>
+        </svg>
+      </div>
+    </div>
+
+    <!-- ── Intro strip ── -->
+    <div class="intro-strip">
+      <p>AI isn't just improving education. It's fundamentally <strong>restructuring the production of human capital.</strong></p>
+    </div>
+
+    <!-- ── Data grid ── -->
+    <div class="data-grid">
+
+      <!-- Card 1: AI Tutoring -->
+      <div class="card">
+        <div class="card-header">
+          <div class="card-num">1</div>
+          <div class="card-title">AI Tutoring Doubles Learning Gains</div>
+        </div>
+        <div class="card-body">
+          <div class="card-stat card-stat--lg">2x</div>
+          <div class="card-label">learning gains vs. traditional classrooms</div>
+          <div class="card-divider"></div>
+          <div class="card-stat card-stat--sm" style="margin-top: 4px;">Effect size: 0.73–1.3 SD</div>
+          <div class="card-sublabel">Highly significant</div>
+        </div>
+        <div class="card-source">Kestin et al., Scientific Reports (Nature), 2025</div>
+      </div>
+
+      <!-- Card 2: Cost Comparison -->
+      <div class="card">
+        <div class="card-header">
+          <div class="card-num">2</div>
+          <div class="card-title">AI Tutoring at a Fraction of the Cost</div>
+        </div>
+        <div class="card-body">
+          <div class="mini-compare">
+            <div class="mini-compare-card mini-compare-card--teal">
+              <div class="mini-compare-stat">$35</div>
+              <div class="mini-compare-label">per student/year</div>
+            </div>
+            <div class="mini-compare-vs">vs</div>
+            <div class="mini-compare-card mini-compare-card--gray">
+              <div class="mini-compare-stat">$70–$120</div>
+              <div class="mini-compare-label">per hour</div>
+            </div>
+          </div>
+          <div class="mini-compare-sources">
+            <span>Khan Academy AI</span>
+            <span>Human private tutoring</span>
+          </div>
+          <div class="card-divider"></div>
+          <div class="card-stat card-stat--md" style="margin-top: 4px;">$5.88B</div>
+          <div class="card-label">EdTech AI market size (2024)</div>
+        </div>
+        <div class="card-source">EdTech market data, 2024</div>
+      </div>
+
+      <!-- Card 3: Reskilling Crisis -->
+      <div class="card">
+        <div class="card-header">
+          <div class="card-num">3</div>
+          <div class="card-title">The Reskilling Crisis Is Massive</div>
+        </div>
+        <div class="card-body">
+          <div class="card-stat card-stat--lg">$1.1T</div>
+          <div class="card-label">annual cost to U.S. economy from skill gaps</div>
+          <div class="card-divider"></div>
+          <div class="card-stat card-stat--lg" style="margin-top: 4px;">59%</div>
+          <div class="card-label">of workforce needs reskilling by 2030</div>
+        </div>
+        <div class="card-source">World Economic Forum, Future of Jobs Report 2025</div>
+      </div>
+
+      <!-- Card 4: Wage Premium -->
+      <div class="card">
+        <div class="card-header">
+          <div class="card-num">4</div>
+          <div class="card-title">AI Skills Deliver Explosive Wage Premiums</div>
+        </div>
+        <div class="card-body">
+          <div class="card-stat card-stat--lg">56%</div>
+          <div class="card-label">wage premium for verified AI skills</div>
+          <div class="card-sublabel">up from 25% last year</div>
+          <div class="card-divider"></div>
+          <div class="card-stat card-stat--md" style="margin-top: 4px;">4x</div>
+          <div class="card-label">faster revenue-per-employee growth</div>
+        </div>
+        <div class="card-source">PwC Global AI Jobs Barometer, 2025</div>
+      </div>
+
+      <!-- Card 5: R&D Compression -->
+      <div class="card">
+        <div class="card-header">
+          <div class="card-num">5</div>
+          <div class="card-title">AI Compresses Discovery Timelines</div>
+        </div>
+        <div class="card-body">
+          <div class="card-stat card-stat--sm">6 yrs → 30 mo</div>
+          <div class="card-label">drug discovery timeline compressed</div>
+          <div class="card-sublabel">at $2.6M — Insilico Medicine</div>
+          <div class="card-divider"></div>
+          <div class="card-stat card-stat--md" style="margin-top: 4px;">214M</div>
+          <div class="card-label">proteins predicted by AlphaFold</div>
+        </div>
+        <div class="card-source">Nature Medicine 2025 · Google DeepMind</div>
+      </div>
+
+      <!-- Card 6: Africa & Access -->
+      <div class="card">
+        <div class="card-header">
+          <div class="card-num">6</div>
+          <div class="card-title">AI Accelerating Fastest in Low-Income Regions</div>
+        </div>
+        <div class="card-body">
+          <div class="card-stat card-stat--lg">4x</div>
+          <div class="card-label">faster AI adoption in low-income countries</div>
+          <div class="card-divider"></div>
+          <div class="card-stat card-stat--lg" style="margin-top: 4px;">16%</div>
+          <div class="card-label">fewer diagnostic errors with AI copilot</div>
+          <div class="card-sublabel">40K patient visits, Nairobi, 2025</div>
+        </div>
+        <div class="card-source">Penda Health · OpenAI · Kenya MOH</div>
+      </div>
+
+      <!-- Card 7: Skills Half-Life (full width) -->
+      <div class="card card--wide">
+        <div class="card-header">
+          <div class="card-num">7</div>
+          <div class="card-title">Skills Now Have a Short Half-Life — Degrees Are Losing Signal</div>
+        </div>
+        <div class="card-body">
+          <div class="stat-group">
+            <div class="card-stat card-stat--md">2.5 yrs</div>
+            <div class="card-label">average technical skill expiry</div>
+          </div>
+          <div style="width:1px; height:48px; background:var(--neutral-400); opacity:0.4;"></div>
+          <div class="stat-group">
+            <div class="card-stat card-stat--md">17.8%</div>
+            <div class="card-label">of U.S. jobs require a 4-year degree</div>
+            <div class="card-sublabel">down from 20.4%</div>
+          </div>
+          <div class="card-source" style="position:absolute; bottom:12px; right:24px;">IBM Institute · Indeed Hiring Lab · Harvard/BGI 2024</div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── CTA footer ── -->
+    <div class="cta-footer">
+      <div class="cta-left">
+        <div class="cta-follow"><span class="hl">Follow</span> <span class="hl">Noah Olatoye</span></div>
+        <div class="cta-handle">@joinaiplaybook</div>
+      </div>
+      <img class="cta-photo" src="assets/images/noaholatoye-speaking-2-min.jpg" alt="Noah Olatoye" />
+    </div>
+
+  </div>
+
+</body>
+</html>

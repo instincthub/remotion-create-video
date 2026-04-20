@@ -1,0 +1,1142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Prompt Starter Pack — AI Playbook Carousel</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&family=Nunito:wght@600;700&display=swap" rel="stylesheet" />
+
+  <style>
+    /* ── Reset ── */
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    /* ── Brand tokens ── */
+    :root {
+      --brand-teal: #1A7A6E;
+      --brand-charcoal: #2B3A35;
+      --brand-dark: #0F1A17;
+      --brand-paper: #F4F2ED;
+      --white: #FFFFFF;
+      --neutral-400: #B0ADA4;
+      --neutral-600: #6B6860;
+      --teal-light: #5DCAA5;
+
+      --nunito: 'Nunito', sans-serif;
+      --dm-sans: 'DM Sans', sans-serif;
+      --dm-mono: 'DM Mono', monospace;
+
+      --slide-w: 1080px;
+      --slide-h: 1350px;
+      --pad: 64px;
+    }
+
+    body {
+      background: #e0e0e0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 32px;
+      padding: 32px 0;
+    }
+
+    /* ── Slide base ── */
+    .slide {
+      position: relative;
+      width: var(--slide-w);
+      height: var(--slide-h);
+      overflow: hidden;
+      page-break-after: always;
+      flex-shrink: 0;
+    }
+
+    /* ── Print ── */
+    @media print {
+      body { background: none; padding: 0; gap: 0; }
+      .slide { page-break-after: always; }
+      .slide:last-child { page-break-after: auto; }
+    }
+
+    @page {
+      size: 1080px 1350px;
+      margin: 0;
+    }
+
+    /* ── Cover slide ── */
+    .slide--cover {
+      background: url('assets/bg/wall-paper-2148196630.jpg') center/cover no-repeat;
+      background-color: var(--brand-dark);
+      color: var(--white);
+    }
+    .slide--cover::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: rgba(15, 26, 23, 0.55);
+      z-index: 1;
+    }
+    .slide--cover .cover-content {
+      position: relative;
+      z-index: 2;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      padding: var(--pad);
+    }
+    .cover-title {
+      margin-top: 40px;
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 84px;
+      line-height: 1.1;
+      color: var(--white);
+    }
+    .cover-title .hl {
+      background: var(--brand-teal);
+      padding: 2px 8px;
+      -webkit-box-decoration-break: clone;
+      box-decoration-break: clone;
+    }
+    .cover-subtitle {
+      margin-top: 16px;
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 28px;
+      color: rgba(255,255,255,0.6);
+    }
+    .cover-divider {
+      width: 100%;
+      height: 1px;
+      margin-top: 32px;
+      border: none;
+      border-top: 1.5px dashed rgba(255,255,255,0.2);
+    }
+    .cover-illustration {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .cover-illustration svg {
+      width: 700px;
+      height: auto;
+      opacity: 0.95;
+    }
+    .cover-bottom {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+    }
+    .handle {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 22px;
+      color: rgba(255,255,255,0.5);
+    }
+    .arrow {
+      font-family: var(--dm-sans);
+      font-weight: 300;
+      font-size: 32px;
+      color: var(--white);
+    }
+
+    /* ── Paper slides (2-N) ── */
+    .slide--paper {
+      background: var(--brand-paper);
+      color: var(--brand-charcoal);
+      display: flex;
+      flex-direction: column;
+      padding: var(--pad);
+    }
+
+    /* ── Intro slide ── */
+    .intro-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 0 40px;
+    }
+    .intro-bold {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 52px;
+      line-height: 1.2;
+      color: var(--brand-charcoal);
+    }
+    .intro-light {
+      margin-top: 32px;
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 42px;
+      line-height: 1.35;
+      color: var(--neutral-600);
+    }
+    .intro-light strong {
+      font-weight: 500;
+      color: var(--brand-charcoal);
+    }
+
+    /* ── Data slides ── */
+    .slide-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 16px;
+      margin-bottom: 8px;
+    }
+    .slide-number {
+      flex-shrink: 0;
+      width: 42px;
+      height: 42px;
+      background: var(--brand-teal);
+      color: var(--white);
+      font-family: var(--dm-mono);
+      font-weight: 500;
+      font-size: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 4px;
+    }
+    .slide-title {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 38px;
+      line-height: 1.25;
+      color: var(--brand-charcoal);
+    }
+
+    .data-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      gap: 0;
+    }
+
+    .data-section {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px 0;
+    }
+
+    .data-divider {
+      width: 85%;
+      height: 1px;
+      background: var(--neutral-400);
+      opacity: 0.5;
+    }
+
+    .hero-stat {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 128px;
+      line-height: 1;
+      color: var(--brand-teal);
+      letter-spacing: -2px;
+    }
+    .hero-stat--md {
+      font-size: 96px;
+    }
+    .hero-stat--sm {
+      font-size: 72px;
+    }
+
+    .stat-label {
+      font-family: var(--dm-sans);
+      font-weight: 500;
+      font-size: 24px;
+      line-height: 1.4;
+      color: var(--brand-charcoal);
+      margin-top: 8px;
+    }
+    .stat-sublabel {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 20px;
+      color: var(--neutral-600);
+      margin-top: 4px;
+    }
+
+    .source {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 18px;
+      color: var(--neutral-400);
+      margin-top: 16px;
+      text-align: center;
+      line-height: 1.4;
+    }
+
+    /* ── Comparison cards ── */
+    .compare-row {
+      display: flex;
+      align-items: stretch;
+      gap: 0;
+      width: 100%;
+      margin-bottom: 8px;
+    }
+    .compare-card {
+      flex: 1;
+      padding: 40px 24px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      border-radius: 12px;
+    }
+    .compare-card--teal {
+      background: var(--brand-teal);
+      color: var(--white);
+    }
+    .compare-card--gray {
+      background: #d4d2cc;
+      color: var(--brand-charcoal);
+    }
+    .compare-stat {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 72px;
+      line-height: 1;
+    }
+    .compare-label {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 20px;
+      margin-top: 8px;
+    }
+    .compare-card--teal .compare-label {
+      color: rgba(255,255,255,0.8);
+    }
+    .compare-vs {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 22px;
+      color: var(--neutral-600);
+      padding: 0 20px;
+      align-self: center;
+    }
+    .compare-source {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 17px;
+      color: var(--neutral-400);
+      margin-top: 4px;
+    }
+
+    /* ── Pagination dots ── */
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 12px;
+      padding-top: 24px;
+    }
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--neutral-400);
+      opacity: 0.5;
+    }
+    .dot--active {
+      background: var(--brand-teal);
+      opacity: 1;
+    }
+
+    .slide-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      margin-top: auto;
+    }
+    .slide-footer .arrow {
+      color: var(--brand-charcoal);
+    }
+
+    /* ── CTA slide ── */
+    .cta-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      padding-top: 20px;
+    }
+    .cta-heading {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 52px;
+      line-height: 1.2;
+      color: var(--brand-charcoal);
+    }
+    .cta-heading .hl {
+      background: var(--brand-teal);
+      color: var(--white);
+      padding: 2px 8px;
+      -webkit-box-decoration-break: clone;
+      box-decoration-break: clone;
+    }
+    .cta-handle {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 24px;
+      color: var(--neutral-600);
+      margin-top: 16px;
+    }
+    .cta-arrow-area {
+      display: flex;
+      justify-content: center;
+      margin-top: 32px;
+    }
+    .cta-arrow-area svg {
+      width: 80px;
+      height: auto;
+    }
+    .cta-photo-area {
+      flex: 1;
+      display: flex;
+      justify-content: flex-end;
+      align-items: flex-end;
+      padding-bottom: 20px;
+    }
+    .cta-photo {
+      width: 400px;
+      height: 480px;
+      border-radius: 4px;
+      object-fit: cover;
+      object-position: center top;
+    }
+    .handle--dark {
+      color: var(--neutral-600);
+    }
+
+    /* ── Framework slide extensions (prompt starter pack) ── */
+    .framework-meta {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-top: 14px;
+      margin-bottom: 18px;
+    }
+    .framework-pill {
+      font-family: var(--dm-mono);
+      font-weight: 500;
+      font-size: 14px;
+      letter-spacing: 0.12em;
+      color: var(--brand-teal);
+      background: var(--white);
+      border: 1px solid rgba(26,122,110,0.25);
+      padding: 6px 14px;
+      border-radius: 4px;
+    }
+    .framework-use {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 1.45;
+      color: var(--neutral-600);
+      flex: 1;
+    }
+    .prompt-compare {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      width: 100%;
+      margin-top: 8px;
+    }
+    .prompt-box {
+      border-radius: 14px;
+      padding: 26px 30px;
+      position: relative;
+    }
+    .prompt-box--weak {
+      background: #d4d2cc;
+    }
+    .prompt-box--strong {
+      background: var(--brand-teal);
+      color: var(--white);
+    }
+    .prompt-label {
+      font-family: var(--dm-mono);
+      font-weight: 500;
+      font-size: 13px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      display: block;
+      margin-bottom: 10px;
+    }
+    .prompt-box--weak .prompt-label {
+      color: #8B4848;
+    }
+    .prompt-box--strong .prompt-label {
+      color: rgba(255,255,255,0.75);
+    }
+    .prompt-text {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 1.55;
+    }
+    .prompt-box--weak .prompt-text {
+      color: var(--brand-charcoal);
+    }
+    .prompt-box--strong .prompt-text {
+      color: var(--white);
+    }
+    .prompt-structure {
+      margin-top: 22px;
+      padding: 20px 24px;
+      background: var(--white);
+      border-left: 4px solid var(--brand-teal);
+      border-radius: 4px;
+    }
+    .structure-label {
+      font-family: var(--dm-mono);
+      font-weight: 500;
+      font-size: 12px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--brand-teal);
+      display: block;
+      margin-bottom: 8px;
+    }
+    .structure-code {
+      font-family: var(--dm-mono);
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 1.55;
+      color: var(--brand-charcoal);
+    }
+
+    /* ── Master structure slide ── */
+    .master-list {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      width: 100%;
+      margin-top: 8px;
+    }
+    .master-item {
+      display: grid;
+      grid-template-columns: 72px 1fr;
+      gap: 20px;
+      padding: 18px 22px;
+      background: var(--white);
+      border-radius: 10px;
+    }
+    .master-num {
+      font-family: var(--dm-mono);
+      font-weight: 500;
+      font-size: 28px;
+      color: var(--brand-teal);
+      line-height: 1;
+      align-self: center;
+    }
+    .master-label {
+      font-family: var(--nunito);
+      font-weight: 700;
+      font-size: 22px;
+      color: var(--brand-charcoal);
+      margin-bottom: 4px;
+      letter-spacing: 0.04em;
+    }
+    .master-desc {
+      font-family: var(--dm-sans);
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 1.45;
+      color: var(--neutral-600);
+    }
+    .master-example {
+      font-family: var(--dm-mono);
+      font-weight: 400;
+      font-size: 15px;
+      line-height: 1.5;
+      color: var(--brand-teal);
+      margin-top: 6px;
+    }
+  </style>
+</head>
+<body>
+
+<!-- PRINT: Open in Chrome → Cmd+P → Paper: Custom 1080x1350px → Margins: None → Save as PDF -->
+
+  <!-- ═══════════════ SLIDE 01 — COVER ═══════════════ -->
+  <div class="slide slide--cover">
+    <div class="cover-content">
+      <div class="cover-title">
+        <span class="hl">10 Prompts</span><br/>
+        <span class="hl">That Make AI</span><br/>
+        <span class="hl">Actually Useful</span>
+      </div>
+      <div class="cover-subtitle">AI Prompt Starter Pack · AI Playbook</div>
+
+      <hr class="cover-divider"/>
+
+      <div class="cover-illustration">
+        <svg viewBox="0 0 600 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <!-- ── Human head silhouette (left) ── -->
+          <path d="M160 70 C130 70, 105 98, 105 135 C105 165, 118 188, 138 202 L138 245 L215 245 L215 205 C245 188, 258 158, 255 130 C252 95, 220 70, 190 70 Z" stroke="white" stroke-width="2.5" fill="none"/>
+          <!-- Mouth / speech -->
+          <path d="M175 175 C183 180, 192 180, 200 175" stroke="white" stroke-width="2" fill="none" opacity="0.7"/>
+          <!-- Neural / thought lines inside head -->
+          <path d="M140 120 C155 115, 170 125, 165 140" stroke="white" stroke-width="1.8" fill="none" opacity="0.45"/>
+          <path d="M200 115 C215 110, 230 120, 225 135" stroke="white" stroke-width="1.8" fill="none" opacity="0.45"/>
+          <path d="M165 150 C180 145, 200 155, 195 170" stroke="white" stroke-width="1.8" fill="none" opacity="0.45"/>
+
+          <!-- ── Prompt "chat bubble" → AI ── -->
+          <rect x="250" y="100" width="100" height="56" rx="10" stroke="white" stroke-width="2" fill="none" opacity="0.7"/>
+          <line x1="262" y1="118" x2="330" y2="118" stroke="white" stroke-width="1.8" opacity="0.55"/>
+          <line x1="262" y1="130" x2="320" y2="130" stroke="white" stroke-width="1.8" opacity="0.55"/>
+          <line x1="262" y1="142" x2="310" y2="142" stroke="white" stroke-width="1.8" opacity="0.55"/>
+          <polygon points="275,156 285,156 278,164" fill="white" opacity="0.55"/>
+
+          <!-- ── Dashed connection: prompt → AI core ── -->
+          <line x1="350" y1="128" x2="415" y2="128" stroke="white" stroke-width="2" stroke-dasharray="8 5" opacity="0.65"/>
+
+          <!-- ── AI core node ── -->
+          <circle cx="450" cy="128" r="34" stroke="#1A7A6E" stroke-width="3" fill="rgba(26,122,110,0.28)"/>
+          <!-- Spark / prompt icon in core -->
+          <path d="M450 108 L454 124 L470 128 L454 132 L450 148 L446 132 L430 128 L446 124 Z" stroke="white" stroke-width="1.8" fill="none"/>
+
+          <!-- Output node (structured lines) -->
+          <rect x="420" y="200" width="100" height="64" rx="10" stroke="#1A7A6E" stroke-width="2.5" fill="rgba(26,122,110,0.18)"/>
+          <line x1="432" y1="218" x2="508" y2="218" stroke="white" stroke-width="1.8"/>
+          <line x1="432" y1="232" x2="492" y2="232" stroke="white" stroke-width="1.8"/>
+          <line x1="432" y1="246" x2="500" y2="246" stroke="white" stroke-width="1.8"/>
+
+          <!-- Core → output dashed line -->
+          <line x1="450" y1="162" x2="450" y2="200" stroke="white" stroke-width="2" stroke-dasharray="6 5" opacity="0.65"/>
+
+          <!-- Side labels (tiny dots) -->
+          <circle cx="540" cy="90" r="3.5" fill="white" opacity="0.3"/>
+          <circle cx="555" cy="140" r="2.8" fill="white" opacity="0.25"/>
+          <circle cx="535" cy="190" r="3" fill="white" opacity="0.28"/>
+          <circle cx="560" cy="230" r="3.5" fill="white" opacity="0.3"/>
+          <circle cx="90" cy="90" r="3" fill="white" opacity="0.25"/>
+          <circle cx="70" cy="160" r="3" fill="white" opacity="0.25"/>
+          <circle cx="95" cy="220" r="2.5" fill="white" opacity="0.2"/>
+
+          <!-- Feedback arc (output refines prompt) -->
+          <path d="M420 232 C300 270, 240 260, 230 210" stroke="rgba(26,122,110,0.55)" stroke-width="2" fill="none" stroke-dasharray="6 4"/>
+          <polyline points="236,216 230,210 237,204" stroke="rgba(26,122,110,0.55)" stroke-width="2" fill="none"/>
+        </svg>
+      </div>
+
+      <div class="cover-bottom">
+        <span class="handle">@joinaiplaybook</span>
+        <span class="arrow">&rarr;</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 02 — INTRO ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="intro-content">
+      <div class="intro-bold">
+        Most AI prompts fail<br/>for one reason.
+      </div>
+      <div class="intro-light">
+        They are vague.<br/>
+        <strong>Vague prompts produce<br/>generic responses.</strong><br/><br/>
+        Precise ones produce<br/>outputs you can actually use.
+      </div>
+    </div>
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 03 — FRAMEWORK 01 (Writing) ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">1</div>
+      <div class="slide-title">Professional<br/>Email Drafter</div>
+    </div>
+    <div class="framework-meta">
+      <span class="framework-pill">WRITING</span>
+      <p class="framework-use">For clear, professional emails quickly — especially difficult conversations, follow-ups, or requests.</p>
+    </div>
+    <div class="prompt-compare">
+      <div class="prompt-box prompt-box--weak">
+        <span class="prompt-label">Weak prompt</span>
+        <p class="prompt-text">Write me an email about the project delay.</p>
+      </div>
+      <div class="prompt-box prompt-box--strong">
+        <span class="prompt-label">Strong prompt</span>
+        <p class="prompt-text">You are a senior project manager. Write a 150-word email to a client informing them the website launch is delayed by 2 weeks due to API integration issues. Tone: direct but reassuring. Include what happened, what we are doing, and the new go-live date of March 28.</p>
+      </div>
+    </div>
+    <div class="prompt-structure">
+      <span class="structure-label">Reusable structure</span>
+      <div class="structure-code">Role + Task + Word limit + Recipient + Situation + Tone + Required elements</div>
+    </div>
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div><div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div><div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 04 — FRAMEWORK 02 (Writing) ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">2</div>
+      <div class="slide-title">Report<br/>Section Writer</div>
+    </div>
+    <div class="framework-meta">
+      <span class="framework-pill">WRITING</span>
+      <p class="framework-use">For drafting a section of a formal report, proposal, or business document.</p>
+    </div>
+    <div class="prompt-compare">
+      <div class="prompt-box prompt-box--weak">
+        <span class="prompt-label">Weak prompt</span>
+        <p class="prompt-text">Write about AI adoption in Nigerian banks.</p>
+      </div>
+      <div class="prompt-box prompt-box--strong">
+        <span class="prompt-label">Strong prompt</span>
+        <p class="prompt-text">Write a 300-word executive summary for a consulting report titled "AI Readiness in Nigerian Financial Services." Audience: C-suite at tier-1 banks. Formal, third-person. Include 2 key findings, 1 risk consideration, and 1 recommended action. Base on industry trends 2023 to 2025.</p>
+      </div>
+    </div>
+    <div class="prompt-structure">
+      <span class="structure-label">Reusable structure</span>
+      <div class="structure-code">Document type + Section name + Word count + Audience + Voice + Required inclusions + Scope</div>
+    </div>
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 05 — FRAMEWORK 03 (Analysis) ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">3</div>
+      <div class="slide-title">Data<br/>Interpreter</div>
+    </div>
+    <div class="framework-meta">
+      <span class="framework-pill">ANALYSIS</span>
+      <p class="framework-use">For numbers, survey results, or performance data where you need meaning quickly.</p>
+    </div>
+    <div class="prompt-compare">
+      <div class="prompt-box prompt-box--weak">
+        <span class="prompt-label">Weak prompt</span>
+        <p class="prompt-text">What does this data mean? [pastes numbers]</p>
+      </div>
+      <div class="prompt-box prompt-box--strong">
+        <span class="prompt-label">Strong prompt</span>
+        <p class="prompt-text">I am pasting monthly active user data for a B2B SaaS product. Analyse it as a growth analyst. Identify the 2 most significant trends, 1 anomaly worth investigating, and 1 metric underperforming against SaaS benchmarks. Output as 3 labelled bullet points, plain English, no jargon. [data]</p>
+      </div>
+    </div>
+    <div class="prompt-structure">
+      <span class="structure-label">Reusable structure</span>
+      <div class="structure-code">Context + Your role + Data type + What to find + Output format + Length constraint</div>
+    </div>
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 06 — FRAMEWORK 04 (Analysis) ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">4</div>
+      <div class="slide-title">Competitive<br/>Landscape Analyst</div>
+    </div>
+    <div class="framework-meta">
+      <span class="framework-pill">ANALYSIS</span>
+      <p class="framework-use">For structured comparisons of competitors, tools, or options to support a decision.</p>
+    </div>
+    <div class="prompt-compare">
+      <div class="prompt-box prompt-box--weak">
+        <span class="prompt-label">Weak prompt</span>
+        <p class="prompt-text">Compare Flutterwave and Paystack.</p>
+      </div>
+      <div class="prompt-box prompt-box--strong">
+        <span class="prompt-label">Strong prompt</span>
+        <p class="prompt-text">Compare Flutterwave and Paystack from the perspective of a Lagos-based startup founder choosing a payment gateway for a B2C e-commerce product. Evaluate on 4 criteria: transaction fees, developer experience, geographic coverage, customer support. Format as a markdown table with a one-sentence recommendation at the end.</p>
+      </div>
+    </div>
+    <div class="prompt-structure">
+      <span class="structure-label">Reusable structure</span>
+      <div class="structure-code">Comparison subject + Evaluator perspective + Use case + Criteria list + Output format + Conclusion</div>
+    </div>
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 07 — FRAMEWORK 05 (Research) ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">5</div>
+      <div class="slide-title">Topic<br/>Explainer</div>
+    </div>
+    <div class="framework-meta">
+      <span class="framework-pill">RESEARCH</span>
+      <p class="framework-use">For understanding a new concept quickly — or explaining it clearly to someone else.</p>
+    </div>
+    <div class="prompt-compare">
+      <div class="prompt-box prompt-box--weak">
+        <span class="prompt-label">Weak prompt</span>
+        <p class="prompt-text">Explain machine learning.</p>
+      </div>
+      <div class="prompt-box prompt-box--strong">
+        <span class="prompt-label">Strong prompt</span>
+        <p class="prompt-text">Explain retrieval-augmented generation (RAG) to a product manager at a fintech company who has no engineering background. Use one real-world analogy. Avoid all technical jargon. Keep under 200 words. End with one practical example of how it could be used in financial services.</p>
+      </div>
+    </div>
+    <div class="prompt-structure">
+      <span class="structure-label">Reusable structure</span>
+      <div class="structure-code">Concept + Audience background + Constraints + Analogy requirement + Word limit + Practical application</div>
+    </div>
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 08 — FRAMEWORK 06 (Research) ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">6</div>
+      <div class="slide-title">Literature and<br/>Source Synthesiser</div>
+    </div>
+    <div class="framework-meta">
+      <span class="framework-pill">RESEARCH</span>
+      <p class="framework-use">For multiple sources, articles, or documents where you need a synthesised view fast.</p>
+    </div>
+    <div class="prompt-compare">
+      <div class="prompt-box prompt-box--weak">
+        <span class="prompt-label">Weak prompt</span>
+        <p class="prompt-text">Summarise these articles for me. [pastes text]</p>
+      </div>
+      <div class="prompt-box prompt-box--strong">
+        <span class="prompt-label">Strong prompt</span>
+        <p class="prompt-text">Below are three excerpts on AI regulation in Africa. Synthesise them into a 200-word briefing note. Identify 2 points all sources agree on, 1 point of disagreement, and 1 gap none address. Write for a policy audience. Plain English. Do not cite sources by name. [source texts]</p>
+      </div>
+    </div>
+    <div class="prompt-structure">
+      <span class="structure-label">Reusable structure</span>
+      <div class="structure-code">Source type + Synthesis task + Agreements + Disagreements + Gaps + Audience + Style + Length</div>
+    </div>
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 09 — FRAMEWORK 07 (Summarisation) ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">7</div>
+      <div class="slide-title">Meeting Notes<br/>Condenser</div>
+    </div>
+    <div class="framework-meta">
+      <span class="framework-pill">SUMMARISATION</span>
+      <p class="framework-use">For raw meeting notes, transcripts, or long documents where you need the key outputs fast.</p>
+    </div>
+    <div class="prompt-compare">
+      <div class="prompt-box prompt-box--weak">
+        <span class="prompt-label">Weak prompt</span>
+        <p class="prompt-text">Summarise this meeting transcript.</p>
+      </div>
+      <div class="prompt-box prompt-box--strong">
+        <span class="prompt-label">Strong prompt</span>
+        <p class="prompt-text">Below is a transcript from a 1-hour product strategy meeting. Extract (1) decisions made, (2) open questions unresolved, (3) action items with owner and deadline if mentioned. Output as three clearly labelled sections. One line per action item. Flag any ambiguous decision with [CLARIFY]. [transcript]</p>
+      </div>
+    </div>
+    <div class="prompt-structure">
+      <span class="structure-label">Reusable structure</span>
+      <div class="structure-code">Input type + Extraction targets + Output sections + Format rules + Special flags</div>
+    </div>
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 10 — FRAMEWORK 08 (Summarisation) ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">8</div>
+      <div class="slide-title">Long Document<br/>Distiller</div>
+    </div>
+    <div class="framework-meta">
+      <span class="framework-pill">SUMMARISATION</span>
+      <p class="framework-use">For a lengthy report, policy document, or proposal you need to process in under 5 minutes.</p>
+    </div>
+    <div class="prompt-compare">
+      <div class="prompt-box prompt-box--weak">
+        <span class="prompt-label">Weak prompt</span>
+        <p class="prompt-text">Give me a summary of this PDF.</p>
+      </div>
+      <div class="prompt-box prompt-box--strong">
+        <span class="prompt-label">Strong prompt</span>
+        <p class="prompt-text">This is a 40-page government policy document on digital infrastructure investment. I am a communications director. Give me a 3-sentence executive summary, the 5 most important policy changes, and 2 implications specifically for private sector tech companies. Plain English. Under 300 words total.</p>
+      </div>
+    </div>
+    <div class="prompt-structure">
+      <span class="structure-label">Reusable structure</span>
+      <div class="structure-code">Document type + Your role + Output components + Relevance filter + Style + Word limit</div>
+    </div>
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 11 — FRAMEWORK 09 (Decision Support) ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">9</div>
+      <div class="slide-title">Options<br/>Evaluator</div>
+    </div>
+    <div class="framework-meta">
+      <span class="framework-pill">DECISION SUPPORT</span>
+      <p class="framework-use">When choosing between two or more approaches, tools, vendors, or strategies.</p>
+    </div>
+    <div class="prompt-compare">
+      <div class="prompt-box prompt-box--weak">
+        <span class="prompt-label">Weak prompt</span>
+        <p class="prompt-text">Should I use Next.js or Django for my project?</p>
+      </div>
+      <div class="prompt-box prompt-box--strong">
+        <span class="prompt-label">Strong prompt</span>
+        <p class="prompt-text">I am building an AI-powered learning platform needing SSR, a REST API, real-time features, and fast deployment. My team has strong Python skills but limited JS. Evaluate Next.js vs Django + HTMX vs Django + React. Score each 1–10 on team fit, feature coverage, deployment simplicity. Recommend one with a one-paragraph justification.</p>
+      </div>
+    </div>
+    <div class="prompt-structure">
+      <span class="structure-label">Reusable structure</span>
+      <div class="structure-code">Project context + Constraints + Team capability + Options list + Evaluation criteria + Recommendation format</div>
+    </div>
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div><div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 12 — FRAMEWORK 10 (Decision Support) ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number">10</div>
+      <div class="slide-title">Risk and<br/>Objection Mapper</div>
+    </div>
+    <div class="framework-meta">
+      <span class="framework-pill">DECISION SUPPORT</span>
+      <p class="framework-use">Stress-test an idea, proposal, or plan before presenting it to stakeholders.</p>
+    </div>
+    <div class="prompt-compare">
+      <div class="prompt-box prompt-box--weak">
+        <span class="prompt-label">Weak prompt</span>
+        <p class="prompt-text">What are the risks of my business idea?</p>
+      </div>
+      <div class="prompt-box prompt-box--strong">
+        <span class="prompt-label">Strong prompt</span>
+        <p class="prompt-text">I am pitching a B2B AI training programme to enterprise clients in Lagos. $500 per seat, 6 weeks, targeting HR and L&amp;D. Act as a sceptical procurement director at a tier-1 Nigerian bank. Give me the 5 most likely objections you would raise. For each, provide a one-sentence counter-argument I could use.</p>
+      </div>
+    </div>
+    <div class="prompt-structure">
+      <span class="structure-label">Reusable structure</span>
+      <div class="structure-code">Idea or proposal context + Sceptic role + Objection quantity + Objection + counter-argument pairs</div>
+    </div>
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 13 — MASTER STRUCTURE ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="slide-header">
+      <div class="slide-number" style="background: var(--brand-charcoal);">&#9733;</div>
+      <div class="slide-title">The 5-Part<br/>Master Structure</div>
+    </div>
+    <div class="framework-meta">
+      <span class="framework-pill">LEARN ONCE · APPLY EVERYWHERE</span>
+    </div>
+
+    <div class="master-list">
+      <div class="master-item">
+        <div class="master-num">01</div>
+        <div>
+          <div class="master-label">ROLE</div>
+          <div class="master-desc">Define who AI should be.</div>
+          <div class="master-example">"You are a senior financial analyst..."</div>
+        </div>
+      </div>
+      <div class="master-item">
+        <div class="master-num">02</div>
+        <div>
+          <div class="master-label">TASK</div>
+          <div class="master-desc">State exactly what you want.</div>
+          <div class="master-example">"Write a 3-paragraph executive summary..."</div>
+        </div>
+      </div>
+      <div class="master-item">
+        <div class="master-num">03</div>
+        <div>
+          <div class="master-label">CONTEXT</div>
+          <div class="master-desc">Give the background that matters.</div>
+          <div class="master-example">"Audience has no technical background..."</div>
+        </div>
+      </div>
+      <div class="master-item">
+        <div class="master-num">04</div>
+        <div>
+          <div class="master-label">CONSTRAINTS</div>
+          <div class="master-desc">Define the boundaries.</div>
+          <div class="master-example">"Under 200 words. Formal tone. No bullets."</div>
+        </div>
+      </div>
+      <div class="master-item">
+        <div class="master-num">05</div>
+        <div>
+          <div class="master-label">OUTPUT FORMAT</div>
+          <div class="master-desc">Specify how the result should look.</div>
+          <div class="master-example">"Format as a markdown table with 3 columns."</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <div></div>
+      <div class="pagination">
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot dot--active"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════ SLIDE 14 — CTA ═══════════════ -->
+  <div class="slide slide--paper">
+    <div class="cta-content">
+      <div class="cta-heading">
+        Want the full<br/>10-framework pack<br/>as a free PDF?
+      </div>
+      <div style="margin-top: 20px;">
+        <span class="cta-heading"><span class="hl">Follow</span></span><br/>
+        <span class="cta-heading"><span class="hl">Noah Olatoye</span></span>
+      </div>
+      <div class="cta-handle">@joinaiplaybook · instincthub.com/ai-playbook</div>
+
+      <div class="cta-arrow-area">
+        <svg viewBox="0 0 100 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M30 10 C30 10, 50 60, 70 100" stroke="#2B3A35" stroke-width="2.5" fill="none"/>
+          <polyline points="62,92 70,100 72,88" stroke="#2B3A35" stroke-width="2.5" fill="none"/>
+        </svg>
+      </div>
+
+      <div class="cta-photo-area">
+        <img class="cta-photo" src="assets/images/noaholatoye-speaking-2-min.jpg" alt="Noah Olatoye" />
+      </div>
+    </div>
+
+    <div class="slide-footer">
+      <span class="handle handle--dark">@joinaiplaybook</span>
+      <div class="pagination">
+        <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div>
+        <div class="dot dot--active"></div>
+      </div>
+      <span class="arrow">&rarr;</span>
+    </div>
+  </div>
+
+</body>
+</html>

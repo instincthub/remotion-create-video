@@ -1,0 +1,464 @@
+[
+  {
+    "section": "insurance",
+    "label": "Now let's talk about insurance. Insurance is the sector where AI is changing the customer experience most visibly.",
+    "broll": null,
+    "cutStart": 0.0,
+    "cutEnd": 8.798
+  },
+  {
+    "section": "insurance",
+    "label": "Two companies are setting the pace. The first is Naked Insurance in South Africa.",
+    "broll": null,
+    "cutStart": 8.798,
+    "cutEnd": 14.334
+  },
+  {
+    "section": "insurance",
+    "label": "Naked uses machine learning for risk pricing and computer vision for damage assessment.",
+    "broll": null,
+    "cutStart": 14.334,
+    "cutEnd": 21.238
+  },
+  {
+    "section": "insurance",
+    "label": "A user gets binding car",
+    "broll": null,
+    "cutStart": 21.238,
+    "cutEnd": 23.348
+  },
+  {
+    "section": "insurance",
+    "label": "insurance quotes in under 90 seconds from their phone, with no human agent.",
+    "broll": "phone_quote",
+    "cutStart": 23.348,
+    "cutEnd": 30.85
+  },
+  {
+    "section": "insurance",
+    "label": "In January 2025, Naked closed the largest insurance raise in African history at 38 million dollars.",
+    "broll": "raise",
+    "cutStart": 30.85,
+    "cutEnd": 44.773
+  },
+  {
+    "section": "insurance",
+    "label": "You can now ask ChatGPT for an insurance quote, and Naked will price it for you.",
+    "broll": "chatgpt",
+    "cutStart": 44.773,
+    "cutEnd": 49.487
+  },
+  {
+    "section": "insurance",
+    "label": "The second is Pineapple, also South Africa.",
+    "broll": null,
+    "cutStart": 49.487,
+    "cutEnd": 52.558
+  },
+  {
+    "section": "insurance",
+    "label": "Pineapple uses image recognition to assess damage and machine learning for dynamic pricing.",
+    "broll": null,
+    "cutStart": 52.558,
+    "cutEnd": 58.846
+  },
+  {
+    "section": "insurance",
+    "label": "They partner with Old Mutual on telematics-based insurance, where careful drivers get up to 30 percent of their premium back at the end of the year.",
+    "broll": "telematics",
+    "cutStart": 58.846,
+    "cutEnd": 70.256
+  },
+  {
+    "section": "insurance",
+    "label": "What both companies show is that insurance, which used to mean phone calls and paperwork, can now become an API call. That is a fundamental shift in a category that had barely changed in 50 years.",
+    "broll": "apicall",
+    "cutStart": 70.256,
+    "cutEnd": 101.86
+  },
+  {
+    "section": "service",
+    "label": "Now let's talk about AI in customer service at scale.",
+    "broll": null,
+    "cutStart": 101.86,
+    "cutEnd": 106.248
+  },
+  {
+    "section": "service",
+    "label": "The traditional banks are not standing still.",
+    "broll": null,
+    "cutStart": 106.248,
+    "cutEnd": 109.652
+  },
+  {
+    "section": "service",
+    "label": "Two examples from South Africa stand out.",
+    "broll": null,
+    "cutStart": 109.652,
+    "cutEnd": 116.088
+  },
+  {
+    "section": "service",
+    "label": "The first is Nedbank's NB.",
+    "broll": null,
+    "cutStart": 116.088,
+    "cutEnd": 118.382
+  },
+  {
+    "section": "service",
+    "label": "NB is a conversational digital assistant powered by Kasisto.",
+    "broll": null,
+    "cutStart": 118.382,
+    "cutEnd": 131.002
+  },
+  {
+    "section": "service",
+    "label": "As of August 2025, four years after launch, NB has handled over 9 million chats, processed over 22 million service requests, and 1.8 million clients.",
+    "broll": "nbstats",
+    "cutStart": 131.002,
+    "cutEnd": 146.69
+  },
+  {
+    "section": "service",
+    "label": "The key number here is this.",
+    "broll": null,
+    "cutStart": 146.69,
+    "cutEnd": 148.985
+  },
+  {
+    "section": "service",
+    "label": "Fewer than 10 percent of NB conversations escalate to a human agent.",
+    "broll": "escalate",
+    "cutStart": 148.985,
+    "cutEnd": 153.952
+  },
+  {
+    "section": "service",
+    "label": "Live agent chat volume was cut by more than half within 12 months of launch.",
+    "broll": null,
+    "cutStart": 153.952,
+    "cutEnd": 160.559
+  },
+  {
+    "section": "service",
+    "label": "The second is Absa's AbbY, also South African.",
+    "broll": null,
+    "cutStart": 160.559,
+    "cutEnd": 165.461
+  },
+  {
+    "section": "service",
+    "label": "In June 2025, Absa became the first African bank to launch an agentic AI agent for customers.",
+    "broll": "agentic",
+    "cutStart": 165.461,
+    "cutEnd": 179.475
+  },
+  {
+    "section": "service",
+    "label": "Agentic, meaning the AI does not just answer questions.",
+    "broll": null,
+    "cutStart": 179.475,
+    "cutEnd": 184.069
+  },
+  {
+    "section": "service",
+    "label": "It executes loan applications, opens investment accounts, and processes cross-border payments inside defined guardrails.",
+    "broll": null,
+    "cutStart": 184.069,
+    "cutEnd": 193.781
+  },
+  {
+    "section": "service",
+    "label": "Debut took under five weeks.",
+    "broll": null,
+    "cutStart": 193.781,
+    "cutEnd": 196.088
+  },
+  {
+    "section": "service",
+    "label": "That tells you how mature the underlying infrastructure has become.",
+    "broll": null,
+    "cutStart": 196.088,
+    "cutEnd": 202.144
+  },
+  {
+    "section": "service",
+    "label": "Now, it would be wrong to suggest that every African bank has cracked this.",
+    "broll": null,
+    "cutStart": 202.144,
+    "cutEnd": 206.814
+  },
+  {
+    "section": "service",
+    "label": "The Cable in Nigeria did extensive user testing of Access Bank's Tamada, UBA's Leo, and Zenith's Ziva.",
+    "broll": null,
+    "cutStart": 206.814,
+    "cutEnd": 214.971
+  },
+  {
+    "section": "service",
+    "label": "Their conclusion: these chatbots persistently hand off to humans and lack natural language depth.",
+    "broll": null,
+    "cutStart": 214.971,
+    "cutEnd": 221.765
+  },
+  {
+    "section": "service",
+    "label": "The honest reading is this.",
+    "broll": null,
+    "cutStart": 221.765,
+    "cutEnd": 223.66
+  },
+  {
+    "section": "service",
+    "label": "AI customer service in African banking works at the top tier.",
+    "broll": null,
+    "cutStart": 223.66,
+    "cutEnd": 228.282
+  },
+  {
+    "section": "service",
+    "label": "It does not work uniformly.",
+    "broll": null,
+    "cutStart": 228.282,
+    "cutEnd": 230.371
+  },
+  {
+    "section": "service",
+    "label": "The gap between the best and the average is wide.",
+    "broll": null,
+    "cutStart": 230.371,
+    "cutEnd": 234.462
+  },
+  {
+    "section": "fraud",
+    "label": "Now, let's talk about fraud and payment rails.",
+    "broll": null,
+    "cutStart": 234.462,
+    "cutEnd": 237.891
+  },
+  {
+    "section": "fraud",
+    "label": "The last fintech use case I want to cover is the most fundamental, and the most invisible to the customer: fraud detection and payment infrastructure.",
+    "broll": null,
+    "cutStart": 237.891,
+    "cutEnd": 252.967
+  },
+  {
+    "section": "fraud",
+    "label": "The standard story here is Safaricom's M-PESA fintech 2.0 overhaul.",
+    "broll": null,
+    "cutStart": 252.967,
+    "cutEnd": 257.556
+  },
+  {
+    "section": "fraud",
+    "label": "In September 2025,",
+    "broll": null,
+    "cutStart": 257.556,
+    "cutEnd": 260.361
+  },
+  {
+    "section": "fraud",
+    "label": "Safaricom rebuilt M-PESA on cloud-native, AI-native architecture.",
+    "broll": "datacenter",
+    "cutStart": 260.361,
+    "cutEnd": 264.982
+  },
+  {
+    "section": "fraud",
+    "label": "They deployed a graph neural network that specifically predicts SIM-swap fraud, social engineering attacks, and identity theft.",
+    "broll": "fraud_net",
+    "cutStart": 264.982,
+    "cutEnd": 274.473
+  },
+  {
+    "section": "fraud",
+    "label": "The result is an 89 percent F1 score on social engineering fraud detection.",
+    "broll": "f1",
+    "cutStart": 274.473,
+    "cutEnd": 281.16
+  },
+  {
+    "section": "fraud",
+    "label": "After that, transaction capacity went from 4,000 to 506,000 transactions per second.",
+    "broll": "tps",
+    "cutStart": 281.16,
+    "cutEnd": 290.424
+  },
+  {
+    "section": "fraud",
+    "label": "In the 2025 financial year, M-PESA processed over 37 billion transactions worth 292 billion dollars.",
+    "broll": "volume",
+    "cutStart": 290.424,
+    "cutEnd": 302.28
+  },
+  {
+    "section": "fraud",
+    "label": "This product serves 35 million users.",
+    "broll": "users",
+    "cutStart": 302.28,
+    "cutEnd": 305.118
+  },
+  {
+    "section": "fraud",
+    "label": "This is what AI infrastructure at population scale looks like.",
+    "broll": null,
+    "cutStart": 305.118,
+    "cutEnd": 311.645
+  },
+  {
+    "section": "fraud",
+    "label": "Standard Bank has deployed similar AI anomaly detection on card-not-present and digital-wallet flows.",
+    "broll": null,
+    "cutStart": 311.645,
+    "cutEnd": 319.355
+  },
+  {
+    "section": "fraud",
+    "label": "They publicly disclosed these in 2024 and 2025, in response to a 73 percent year-over-year rise in digital banking fraud.",
+    "broll": "fraud_rise",
+    "cutStart": 319.355,
+    "cutEnd": 331.488
+  },
+  {
+    "section": "fraud",
+    "label": "The lesson is clear.",
+    "broll": null,
+    "cutStart": 331.488,
+    "cutEnd": 333.334
+  },
+  {
+    "section": "fraud",
+    "label": "As digital finance scales, the fraud surface grows with it.",
+    "broll": null,
+    "cutStart": 333.334,
+    "cutEnd": 343.033
+  },
+  {
+    "section": "fraud",
+    "label": "AI is now the only realistic tool to defend the rails.",
+    "broll": null,
+    "cutStart": 343.033,
+    "cutEnd": 347.978
+  },
+  {
+    "section": "lessons",
+    "label": "What this means for you.",
+    "broll": null,
+    "cutStart": 347.978,
+    "cutEnd": 349.598
+  },
+  {
+    "section": "lessons",
+    "label": "Three lessons to close out this episode.",
+    "broll": null,
+    "cutStart": 349.598,
+    "cutEnd": 353.118
+  },
+  {
+    "section": "lessons",
+    "label": "First: the next billion users in fintech will be onboarded by AI, not by humans.",
+    "broll": "lesson1",
+    "cutStart": 353.118,
+    "cutEnd": 360.738
+  },
+  {
+    "section": "lessons",
+    "label": "If you're building a financial product anywhere in Africa, the question is not where to use AI.",
+    "broll": null,
+    "cutStart": 360.738,
+    "cutEnd": 367.482
+  },
+  {
+    "section": "lessons",
+    "label": "It is whether your model is trained on the data your competitors do not have.",
+    "broll": null,
+    "cutStart": 367.482,
+    "cutEnd": 373.535
+  },
+  {
+    "section": "lessons",
+    "label": "Embedded finance is the dominant architecture.",
+    "broll": "lesson2",
+    "cutStart": 373.535,
+    "cutEnd": 377.317
+  },
+  {
+    "section": "lessons",
+    "label": "The successful AI lenders are not building customer-facing apps.",
+    "broll": null,
+    "cutStart": 377.317,
+    "cutEnd": 382.741
+  },
+  {
+    "section": "lessons",
+    "label": "They're building credit layers that plug into super-apps, telcos, and marketplaces.",
+    "broll": null,
+    "cutStart": 382.741,
+    "cutEnd": 389.459
+  },
+  {
+    "section": "lessons",
+    "label": "Distribution is the moat.",
+    "broll": null,
+    "cutStart": 389.459,
+    "cutEnd": 391.565
+  },
+  {
+    "section": "lessons",
+    "label": "Third: the bar has moved.",
+    "broll": "lesson3",
+    "cutStart": 391.565,
+    "cutEnd": 393.572
+  },
+  {
+    "section": "lessons",
+    "label": "Five years ago, an AI basic chatbot was the headline.",
+    "broll": null,
+    "cutStart": 393.572,
+    "cutEnd": 397.956
+  },
+  {
+    "section": "lessons",
+    "label": "Today, the headline is agentic, executing cross-border transfers in production.",
+    "broll": null,
+    "cutStart": 397.956,
+    "cutEnd": 406.032
+  },
+  {
+    "section": "lessons",
+    "label": "If your AI strategy is still about FAQ automation, you're already behind.",
+    "broll": null,
+    "cutStart": 406.032,
+    "cutEnd": 412.236
+  },
+  {
+    "section": "next",
+    "label": "In the next episode, we move from finance to food.",
+    "broll": null,
+    "cutStart": 412.236,
+    "cutEnd": 415.904
+  },
+  {
+    "section": "next",
+    "label": "How African farmers, often on their phones, are using AI to fight crop disease, forecast yields, and unlock credit.",
+    "broll": "farming",
+    "cutStart": 415.904,
+    "cutEnd": 425.455
+  },
+  {
+    "section": "next",
+    "label": "Stay with me.",
+    "broll": null,
+    "cutStart": 425.455,
+    "cutEnd": 426.592
+  },
+  {
+    "section": "next",
+    "label": "Subscribe and follow for more updates.",
+    "broll": null,
+    "cutStart": 426.592,
+    "cutEnd": 429.481
+  }
+]

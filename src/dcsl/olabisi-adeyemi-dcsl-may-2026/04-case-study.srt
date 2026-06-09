@@ -1,0 +1,415 @@
+1
+00:00:00,360 --> 00:00:03,320
+So to underscore the conflict of interest, I'm
+
+2
+00:00:03,320 --> 00:00:05,480
+going to share a very quick case study.
+
+3
+00:00:06,000 --> 00:00:08,520
+And by the way, the resources of this
+
+4
+00:00:08,520 --> 00:00:11,840
+session are available along with this video.
+
+5
+00:00:13,060 --> 00:00:15,140
+So the case facts are those.
+
+6
+00:00:15,480 --> 00:00:19,720
+Grenda PLC, manufacturers of baby cereal, recently recalled
+
+7
+00:00:19,720 --> 00:00:23,100
+a batch of contaminated cereal that had reportedly
+
+8
+00:00:23,100 --> 00:00:27,200
+caused significant harm, including hearing and visual impairment
+
+9
+00:00:27,200 --> 00:00:28,800
+to many babies.
+
+10
+00:00:29,440 --> 00:00:32,420
+A class action has been instituted and the
+
+11
+00:00:32,420 --> 00:00:36,700
+board has convened an emergency meeting to decide
+
+12
+00:00:36,700 --> 00:00:37,500
+next steps.
+
+13
+00:00:38,100 --> 00:00:40,280
+A decision needs to be taken regarding legal
+
+14
+00:00:40,280 --> 00:00:41,080
+representation.
+
+15
+00:00:41,920 --> 00:00:43,900
+Across the country, there are two top law
+
+16
+00:00:43,900 --> 00:00:46,260
+firms with the expertise in this area of
+
+17
+00:00:46,260 --> 00:00:49,760
+the law, Clarkson LLP and Lakeshore LLP.
+
+18
+00:00:50,580 --> 00:00:53,480
+Clarkson has been retained by the plaintiffs.
+
+19
+00:00:54,020 --> 00:00:57,280
+The principal partner of Lakeshore is married to
+
+20
+00:00:57,280 --> 00:00:59,160
+the CEO of Grenda PLC.
+
+21
+00:00:59,780 --> 00:01:01,180
+What are the issues here?
+
+22
+00:01:02,240 --> 00:01:05,400
+The issues here are essentially around conflict of
+
+23
+00:01:05,400 --> 00:01:05,880
+interest.
+
+24
+00:01:06,520 --> 00:01:10,180
+The CEO of Grenda PLC, the manufacturers of
+
+25
+00:01:10,180 --> 00:01:16,200
+the contaminated baby product, is married to the
+
+26
+00:01:16,200 --> 00:01:18,860
+principal partner in the law firm of Clarkson
+
+27
+00:01:18,860 --> 00:01:19,440
+LLP.
+
+28
+00:01:20,120 --> 00:01:22,060
+This already suggests that there's a conflict of
+
+29
+00:01:22,060 --> 00:01:22,560
+interest.
+
+30
+00:01:23,520 --> 00:01:26,840
+In determining whether or not to proceed with
+
+31
+00:01:26,840 --> 00:01:29,840
+Clarkson LLP, the major consideration of the board
+
+32
+00:01:29,840 --> 00:01:32,580
+would be what is the best interest of
+
+33
+00:01:32,580 --> 00:01:33,120
+the company.
+
+34
+00:01:33,280 --> 00:01:35,680
+However, there are certain steps that are required
+
+35
+00:01:35,680 --> 00:01:37,280
+to be taken by the CEO of Grenda
+
+36
+00:01:37,280 --> 00:01:37,740
+PLC.
+
+37
+00:01:38,260 --> 00:01:40,540
+The first is disclosure of the conflict.
+
+38
+00:01:41,180 --> 00:01:43,120
+She has to disclose to the board that
+
+39
+00:01:43,120 --> 00:01:47,200
+her spouse is the principal partner at Clarkson
+
+40
+00:01:47,200 --> 00:01:47,840
+LLP.
+
+41
+00:01:48,900 --> 00:01:51,800
+After the disclosure, she has to recuse herself
+
+42
+00:01:51,800 --> 00:01:54,420
+and this means actually leaving the meeting.
+
+43
+00:01:54,660 --> 00:01:56,960
+If it's a virtual meeting, she needs to
+
+44
+00:01:56,960 --> 00:01:57,800
+exit the meeting.
+
+45
+00:01:58,320 --> 00:02:00,200
+If it's an in-person meeting, she needs
+
+46
+00:02:00,200 --> 00:02:02,480
+to also physically exit the meeting.
+
+47
+00:02:03,300 --> 00:02:06,120
+The remaining members of the board then have
+
+48
+00:02:06,120 --> 00:02:08,400
+to take a decision as to whether or
+
+49
+00:02:08,400 --> 00:02:12,840
+not the conflict of interest is material, whether
+
+50
+00:02:12,840 --> 00:02:15,540
+or not they want to go ahead with
+
+51
+00:02:15,540 --> 00:02:18,760
+hiring the law firm that is a related
+
+52
+00:02:18,760 --> 00:02:19,300
+party.
+
+53
+00:02:20,020 --> 00:02:22,480
+The major consideration, like I said, is what
+
+54
+00:02:22,480 --> 00:02:24,780
+is in the best interest of the business.
+
+55
+00:02:25,280 --> 00:02:26,880
+The best interest of the business at this
+
+56
+00:02:26,880 --> 00:02:29,400
+point is to hire the top rated law
+
+57
+00:02:29,400 --> 00:02:32,260
+firm that will be able to hold its
+
+58
+00:02:32,260 --> 00:02:35,520
+own against the Lakeshore that has been hired
+
+59
+00:02:35,520 --> 00:02:38,320
+by the plaintiffs.
+
+60
+00:02:39,040 --> 00:02:41,120
+And so the board will consider the best
+
+61
+00:02:41,120 --> 00:02:42,960
+interest of the company and take a decision
+
+62
+00:02:42,960 --> 00:02:46,140
+to hire that top rated law firm regardless
+
+63
+00:02:46,140 --> 00:02:48,160
+of the conflict of interest.
+
+64
+00:02:48,500 --> 00:02:53,560
+However, in communicating the information to the CEO
+
+65
+00:02:53,560 --> 00:02:56,360
+and in entering into the agreement with her
+
+66
+00:02:56,360 --> 00:02:59,900
+spouse, the CEO will have to refuse from
+
+67
+00:02:59,900 --> 00:03:02,320
+the engagement itself.
+
+68
+00:03:02,460 --> 00:03:03,960
+She's not going to be involved in the
+
+69
+00:03:03,960 --> 00:03:05,420
+negotiation of the fees.
+
+70
+00:03:05,980 --> 00:03:07,700
+She's not going to be involved in the
+
+71
+00:03:07,700 --> 00:03:11,120
+feedback from the client, from the solicitors firm,
+
+72
+00:03:11,680 --> 00:03:13,840
+just so that there's that separation.
+
+73
+00:03:14,440 --> 00:03:16,060
+And like I said, she'll be ring-fenced.
+
+74
+00:03:16,500 --> 00:03:18,120
+The board might even decide to set up
+
+75
+00:03:18,120 --> 00:03:22,220
+a board committee that would pursue the engagement
+
+76
+00:03:22,220 --> 00:03:25,060
+and, like I said, ring-fence the CEO.
+
+77
+00:03:25,780 --> 00:03:27,140
+So the steps, just to go over the
+
+78
+00:03:27,140 --> 00:03:30,680
+steps again, the conflict would be identified by
+
+79
+00:03:30,680 --> 00:03:33,460
+the director that is conflicted, whether it's a
+
+80
+00:03:33,460 --> 00:03:36,480
+potential conflict or one that is likely to
+
+81
+00:03:36,480 --> 00:03:40,540
+crystallise or one that has already manifested.
+
+82
+00:03:42,160 --> 00:03:44,560
+If a director is also aware that a
+
+83
+00:03:44,560 --> 00:03:46,440
+colleague on the board has a conflict of
+
+84
+00:03:46,440 --> 00:03:49,560
+interest, they also have a responsibility to disclose
+
+85
+00:03:49,560 --> 00:03:50,280
+that conflict.
+
+86
+00:03:50,620 --> 00:03:53,960
+So the disclosure is accepting the, identifying the
+
+87
+00:03:53,960 --> 00:03:55,180
+conflict is the first step.
+
+88
+00:03:55,620 --> 00:03:56,880
+The next step is disclosure.
+
+89
+00:03:57,620 --> 00:03:59,040
+The third step is recusal.
+
+90
+00:03:59,380 --> 00:04:02,540
+Recusal means exiting the meeting, not being part
+
+91
+00:04:02,540 --> 00:04:06,620
+of the conversation, and leaving the remaining directors
+
+92
+00:04:06,620 --> 00:04:07,500
+to take a decision.
+
+93
+00:04:08,280 --> 00:04:13,240
+And like I said, what is underlying the
+
+94
+00:04:13,240 --> 00:04:15,660
+decision they want to take is what is
+
+95
+00:04:15,660 --> 00:04:17,600
+in the best interest of the organisation.
+
+96
+00:04:18,240 --> 00:04:21,360
+The director that is conflicted is then invited
+
+97
+00:04:21,360 --> 00:04:23,780
+back into the room, and the board's decision
+
+98
+00:04:23,780 --> 00:04:25,460
+is communicated to them.
+
+99
+00:04:26,060 --> 00:04:29,420
+In communicating the decision to the director, there's
+
+100
+00:04:29,420 --> 00:04:32,160
+no need to go into the conversation that
+
+101
+00:04:32,160 --> 00:04:33,760
+had taken place because the whole essence of
+
+102
+00:04:33,760 --> 00:04:36,060
+having them excuse themselves in the first place
+
+103
+00:04:36,060 --> 00:04:38,480
+is to give the board an opportunity of
+
+104
+00:04:38,480 --> 00:04:42,760
+discussion without their influence or their contribution.

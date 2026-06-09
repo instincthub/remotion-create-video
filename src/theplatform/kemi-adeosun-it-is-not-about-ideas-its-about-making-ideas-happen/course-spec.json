@@ -1,0 +1,482 @@
+{
+  "_description": "Ready-to-run CourseSpec for instinctHub:create_course_full on the 'theplatform' channel. No video blocks: each VIDEO step carries a short text context block; the rendered lesson videos (out/ka-01..12.mp4) are uploaded to each step's video uploader after creation, then linked with bulk_link_videos_to_steps. Assessment after every 3-lesson block (4 modules x 3 lessons). Pass this object (minus underscore keys) as spec.",
+  "_video_upload_map": {
+    "The next bounce of the ball": "out/ka-public/ka-01.mp4",
+    "Nine businesses, six failures": "out/ka-public/ka-02.mp4",
+    "A God idea is not a market exemption": "out/ka-public/ka-03.mp4",
+    "Law 1: Know your market": "out/ka-public/ka-04.mp4",
+    "Don't be forced into entrepreneurship": "out/ka-public/ka-05.mp4",
+    "Law 2: The five numbers you must know": "out/ka-public/ka-06.mp4",
+    "Research with skepticism: the wine seller": "out/ka-public/ka-07.mp4",
+    "Don't compete on price; learn from doers": "out/ka-public/ka-08.mp4",
+    "Law 3: Timing, incubate before you jump": "out/ka-public/ka-09.mp4",
+    "Law 4: Build your team and the talent gap": "out/ka-public/ka-10.mp4",
+    "Discipline and knowing when to outsource": "out/ka-public/ka-11.mp4",
+    "The reality check and the no-capital myth": "out/ka-public/ka-12.mp4"
+  },
+
+  "title": "A Great Idea Is Not Enough",
+  "about": "<p>A keynote-driven course from <strong>The Platform Nigeria</strong>, taught by Kemi Adeosun, former Finance Minister of Nigeria and founder of Nidacity, a not-for-profit that profiles real Nigerian entrepreneurs and teaches them the numbers.</p><p>Her premise is blunt: a great idea, even a God-given one, is not enough. It is not about ideas, it is about making ideas happen. Four laws decide whether an idea survives the market: the market itself, the numbers, timing, and the team. Drawing on nine businesses of her own, six of which failed, she shows how to put any idea through all four before you commit.</p>",
+  "benefits": "<ul><li>Put any idea through the four laws before you risk money on it</li><li>Research your market and study your competition as well as you understand yourself</li><li>Know the five numbers every business lives or dies by</li><li>Price with discipline and refuse the race to the bottom</li><li>Time your entry: incubate, immerse, and move only when you are ready</li><li>Build a team and acquire the skills the market actually rewards</li><li>Bury the no-capital excuse and start with what you already have</li></ul>",
+  "skills_level": "ALL",
+  "privacy": "DRAFT",
+  "amount": 0,
+
+  "modules": [
+    {
+      "title": "Why a Great Idea Is Not Enough",
+      "privacy": "PUBLISH",
+      "steps": [
+        {
+          "title": "The next bounce of the ball",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Kemi Adeosun opens with the economic case for building. The old factory jobs that employed thousands are gone and are not coming back. What replaces them is a different kind of business.</p><p><strong>In this lesson</strong></p><ul><li>Why Nigeria only jumps when its businesses grow and scale</li><li>The shift from big factories to nimble, digital, data-driven businesses</li><li>How the digital economy has leveled the playing field for Nigerian founders</li><li>Why the next bounce of the ball could be yours</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Nine businesses, six failures",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Before the four laws, a confession. Kemi has run nine businesses; six failed, two were draws, and one still fights. She makes the case that failure is part of the work, not a verdict on your faith.</p><p><strong>In this lesson</strong></p><ul><li>Why failure is a normal part of every entrepreneurial journey</li><li>The trap of the miserable counselors who only ask whether you prayed</li><li>What her failed Christian bookshop, and the debts it left, actually taught her</li><li>How to collect the lesson instead of canceling yourself</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "A God idea is not a market exemption",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Even an anointed idea has to compete. Kemi introduces the four laws that every great idea must pass once it leaves your prayer closet and meets the market.</p><p><strong>In this lesson</strong></p><ul><li>Why hearing from God does not exempt you from the market</li><li>The four laws: the market, the numbers, timing, and the team</li><li>Why angels do not bring customers, marketing does</li><li>How to test an idea against all four before you commit</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Module 1 Check: The Four Laws",
+          "options": "ASSESSMENT",
+          "assessment": {
+            "title": "Module 1 Check: The Four Laws",
+            "description": "<p>A quick check on the economic case, the role of failure, and why a great idea is not enough.</p>",
+            "duration": 10,
+            "expected_points": 3,
+            "assessment_type": "QUIZ",
+            "allow_retake": true,
+            "randomize_questions": true,
+            "randomize_options": true,
+            "show_result": true,
+            "questions": [
+              {
+                "question": "<p>According to Kemi, what is replacing Nigeria's old factory jobs?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 1,
+                "is_bonus": false,
+                "options": [
+                  { "option": "More government employment", "correct": false, "order": 1 },
+                  { "option": "Nimble, digital, data-driven businesses", "correct": true, "order": 2 },
+                  { "option": "Larger, slower industrial complexes", "correct": false, "order": 3 },
+                  { "option": "Foreign-owned factories", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>What does Kemi say actually brings customers?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 2,
+                "is_bonus": false,
+                "options": [
+                  { "option": "Angels", "correct": false, "order": 1 },
+                  { "option": "Prayer alone", "correct": false, "order": 2 },
+                  { "option": "Marketing", "correct": true, "order": 3 },
+                  { "option": "A Christian business name", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>A God-given idea exempts you from competing in the market.</p>",
+                "type": "TRUE_FALSE",
+                "point": 1,
+                "order": 3,
+                "is_bonus": false,
+                "options": [
+                  { "option": "True", "correct": false, "order": 1 },
+                  { "option": "False", "correct": true, "order": 2 }
+                ]
+              },
+              {
+                "question": "<p>Why does Kemi tell the audience that six of her nine businesses failed?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 4,
+                "is_bonus": false,
+                "options": [
+                  { "option": "To warn people away from entrepreneurship", "correct": false, "order": 1 },
+                  { "option": "To show that failure is a normal part of business", "correct": true, "order": 2 },
+                  { "option": "To prove that prayer does not work", "correct": false, "order": 3 },
+                  { "option": "To explain why she left government", "correct": false, "order": 4 }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Know the Market and the Numbers",
+      "privacy": "PUBLISH",
+      "steps": [
+        {
+          "title": "Law 1: Know your market",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>The first law is the market. Your anointed business still competes with every other rival in its category, so you have to do the research.</p><p><strong>In this lesson</strong></p><ul><li>Why an anointed small chops business competes with every other small chops</li><li>How to study your competition as well as you understand yourself</li><li>Why the salon three doors down is a fact, not a spiritual attack</li><li>How failure can be the market telling you the price, the market, or the timing is wrong</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Don't be forced into entrepreneurship",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Not everyone is meant to build. Kemi names the entrepreneurs of necessity, people pushed into business who would rather earn a salary, and explains why forcing it leads to failure.</p><p><strong>In this lesson</strong></p><ul><li>Who the entrepreneurs of necessity are and why they struggle</li><li>Why being forced into entrepreneurship sets you up to fail, anointed or not</li><li>The value of being a great CFO, COO, or company secretary instead</li><li>Why nations grow when a few businesses grow big, not when everyone owns their own</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Law 2: The five numbers you must know",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>The second law is the numbers. Kemi is passionate about this one: you cannot run a business you cannot count.</p><p><strong>In this lesson</strong></p><ul><li>The five numbers: revenue, gross profit, net profit, cash flow, and break-even point</li><li>Why being busy is not the same as making money</li><li>How margin beats volume: a 300% margin on four sales can beat 2% on a thousand</li><li>Why low-margin businesses like provisions and cement can quietly drain you</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Module 2 Check: Market and Numbers",
+          "options": "ASSESSMENT",
+          "assessment": {
+            "title": "Module 2 Check: Market and Numbers",
+            "description": "<p>A check on the first two laws: knowing your market, who should build, and the numbers that decide it.</p>",
+            "duration": 10,
+            "expected_points": 3,
+            "assessment_type": "QUIZ",
+            "allow_retake": true,
+            "randomize_questions": true,
+            "randomize_options": true,
+            "show_result": true,
+            "questions": [
+              {
+                "question": "<p>Kemi says you must understand your competition how well?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 1,
+                "is_bonus": false,
+                "options": [
+                  { "option": "Well enough to copy their prices", "correct": false, "order": 1 },
+                  { "option": "As well as you understand yourself", "correct": true, "order": 2 },
+                  { "option": "Only after you have launched", "correct": false, "order": 3 },
+                  { "option": "You do not need to study competitors", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>What is an entrepreneur of necessity?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 2,
+                "is_bonus": false,
+                "options": [
+                  { "option": "Someone who would rather earn a salary but builds because there are no jobs", "correct": true, "order": 1 },
+                  { "option": "A founder with a clear, long-held calling to build", "correct": false, "order": 2 },
+                  { "option": "An investor who funds other people's ideas", "correct": false, "order": 3 },
+                  { "option": "A government worker starting a side business", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>Select the numbers Kemi says every business owner must know.</p>",
+                "type": "MULTI_SELECT",
+                "point": 1,
+                "order": 3,
+                "is_bonus": false,
+                "options": [
+                  { "option": "Revenue", "correct": true, "order": 1 },
+                  { "option": "Gross profit", "correct": true, "order": 2 },
+                  { "option": "Net profit", "correct": true, "order": 3 },
+                  { "option": "Cash flow", "correct": true, "order": 4 },
+                  { "option": "Break-even point", "correct": true, "order": 5 },
+                  { "option": "Number of social media followers", "correct": false, "order": 6 }
+                ]
+              },
+              {
+                "question": "<p>Kemi says the margin on provisions is roughly what percent?</p>",
+                "type": "NUMERIC",
+                "point": 1,
+                "order": 4,
+                "is_bonus": false,
+                "acceptable_answers": ["2"],
+                "numeric_tolerance": 0.5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Price, Proof, and Timing",
+      "privacy": "PUBLISH",
+      "steps": [
+        {
+          "title": "Research with skepticism: the wine seller",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>A story about doing your research with one eye open. A client who sold wine turned out to be running a very different business behind it.</p><p><strong>In this lesson</strong></p><ul><li>Why you should research with skepticism and a lot of wisdom</li><li>The wine seller whose real business was catfish ponds as far as the eye could see</li><li>Why the wine was a deliberate cover story</li><li>How to look past the obvious business to the real one</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Don't compete on price; learn from doers",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Some rivals undercut you because someone else pays their bills. Kemi explains the subsidy trap and why cost-cutting is not a strategy.</p><p><strong>In this lesson</strong></p><ul><li>How to spot a competitor who is really being subsidized</li><li>Why chasing discounts wins buyers who are not your customers</li><li>Why you should build a brand and an ecosystem instead of racing to the bottom</li><li>Why a failed entrepreneur makes a better mentor than a dictionary lecturer</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Law 3: Timing, incubate before you jump",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>The third law is timing. The right idea at the wrong time still fails. Kemi, a self-described impatient person, learned this the hard way.</p><p><strong>In this lesson</strong></p><ul><li>Why God can give you an idea and still tell you to incubate it</li><li>How to use a current job to make the connections that fund your own</li><li>Why prayer assists readiness but does not replace doing the work</li><li>Why remembering your competitors pray too keeps you honest about preparation</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Module 3 Check: Price and Timing",
+          "options": "ASSESSMENT",
+          "assessment": {
+            "title": "Module 3 Check: Price and Timing",
+            "description": "<p>A check on researching with skepticism, the pricing trap, and the third law, timing.</p>",
+            "duration": 10,
+            "expected_points": 3,
+            "assessment_type": "QUIZ",
+            "allow_retake": true,
+            "randomize_questions": true,
+            "randomize_options": true,
+            "show_result": true,
+            "questions": [
+              {
+                "question": "<p>In Kemi's story, what was the wine seller's real business?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 1,
+                "is_bonus": false,
+                "options": [
+                  { "option": "Importing wine", "correct": false, "order": 1 },
+                  { "option": "Catfish farming", "correct": true, "order": 2 },
+                  { "option": "Real estate", "correct": false, "order": 3 },
+                  { "option": "Fashion retail", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>If a competitor sells far cheaper than you can, the smart move is to cut your price to match.</p>",
+                "type": "TRUE_FALSE",
+                "point": 1,
+                "order": 2,
+                "is_bonus": false,
+                "options": [
+                  { "option": "True", "correct": false, "order": 1 },
+                  { "option": "False", "correct": true, "order": 2 }
+                ]
+              },
+              {
+                "question": "<p>Kemi warns that a rival who undercuts everyone may be surviving on what?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 3,
+                "is_bonus": false,
+                "options": [
+                  { "option": "A subsidy, because someone else pays their bills", "correct": true, "order": 1 },
+                  { "option": "A superior product", "correct": false, "order": 2 },
+                  { "option": "A bigger marketing budget", "correct": false, "order": 3 },
+                  { "option": "Pure luck", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>Kemi's third law is ______. (one word)</p>",
+                "type": "SHORT_ANSWER",
+                "point": 1,
+                "order": 4,
+                "is_bonus": false,
+                "acceptable_answers": ["timing", "Timing"]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Build the Team and Make It Happen",
+      "privacy": "PUBLISH",
+      "steps": [
+        {
+          "title": "Law 4: Build your team and the talent gap",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>The fourth law is the team. You cannot do it all alone. Kemi describes Nigeria's strange talent gap and how candidates cancel themselves.</p><p><strong>In this lesson</strong></p><ul><li>Why you must build a team from the bottom up</li><li>The paradox of as many jobless people as jobs that cannot be filled</li><li>How candidates cancel themselves in interviews, and how not to</li><li>Why you should acquire skills and can teach yourself almost anything online</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Discipline and knowing when to outsource",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>The same four laws apply in government and in business. Kemi shows how discipline, and knowing what to outsource, kept her ideas moving.</p><p><strong>In this lesson</strong></p><ul><li>Why the same four laws apply whether in government or the private sector</li><li>How to discipline yourself by running every idea through the same rules</li><li>When outsourcing is the right call, using the designer who sewed nothing for three years</li><li>Why understanding your business means knowing what you should not do yourself</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "The reality check and the no-capital myth",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Kemi closes with a Nigeria-specific reality check and buries the most common excuse for not starting.</p><p><strong>In this lesson</strong></p><ul><li>Why most Nigerian startups fail within five years, and what the cure is</li><li>Why a lack of rigor and learning, not bad luck, is behind the failures</li><li>The founder who turned a party trick into seed capital and now employs 26 people</li><li>Why money is not the first thing you need, a great idea is</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Module 4 Check: Team and Execution",
+          "options": "ASSESSMENT",
+          "assessment": {
+            "title": "Module 4 Check: Team and Execution",
+            "description": "<p>A final check on the fourth law, discipline and outsourcing, and the no-capital myth.</p>",
+            "duration": 10,
+            "expected_points": 3,
+            "assessment_type": "QUIZ",
+            "allow_retake": true,
+            "randomize_questions": true,
+            "randomize_options": true,
+            "show_result": true,
+            "questions": [
+              {
+                "question": "<p>What is Kemi's fourth law?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 1,
+                "is_bonus": false,
+                "options": [
+                  { "option": "The team", "correct": true, "order": 1 },
+                  { "option": "The marketing", "correct": false, "order": 2 },
+                  { "option": "The capital", "correct": false, "order": 3 },
+                  { "option": "The location", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>According to Kemi, how do interview candidates often cancel themselves?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 2,
+                "is_bonus": false,
+                "options": [
+                  { "option": "By listing only paper qualifications with no acquired skills", "correct": true, "order": 1 },
+                  { "option": "By asking about salary too early", "correct": false, "order": 2 },
+                  { "option": "By arriving late", "correct": false, "order": 3 },
+                  { "option": "By dressing casually", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>Why did the designer Zephans outsource all production for three years?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 3,
+                "is_bonus": false,
+                "options": [
+                  { "option": "So she could focus on growing the brand instead of managing a tailor", "correct": true, "order": 1 },
+                  { "option": "Because she could not afford any machines at all", "correct": false, "order": 2 },
+                  { "option": "Because outsourcing is always cheaper", "correct": false, "order": 3 },
+                  { "option": "Because she had no interest in fashion", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>Kemi says you need significant capital before anything else to start a business.</p>",
+                "type": "TRUE_FALSE",
+                "point": 1,
+                "order": 4,
+                "is_bonus": false,
+                "options": [
+                  { "option": "True", "correct": false, "order": 1 },
+                  { "option": "False", "correct": true, "order": 2 }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

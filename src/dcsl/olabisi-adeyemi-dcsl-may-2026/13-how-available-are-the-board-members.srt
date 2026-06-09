@@ -1,0 +1,383 @@
+1
+00:00:00,570 --> 00:00:02,970
+Clearly, the position of the chairman and the
+
+2
+00:00:02,970 --> 00:00:05,570
+MD should be separate, and this separation is
+
+3
+00:00:05,570 --> 00:00:08,210
+not just on paper, but should be actual.
+
+4
+00:00:09,350 --> 00:00:11,970
+In situations where you have a chairman who
+
+5
+00:00:11,970 --> 00:00:17,230
+is also perhaps signing checks or approving matters
+
+6
+00:00:17,230 --> 00:00:20,190
+reserved for management, it does not speak well
+
+7
+00:00:20,190 --> 00:00:22,170
+of this expected separation.
+
+8
+00:00:23,430 --> 00:00:26,650
+Availability for board responsibilities is also a major
+
+9
+00:00:26,650 --> 00:00:29,410
+feature of the composition and structure of the
+
+10
+00:00:29,410 --> 00:00:29,650
+board.
+
+11
+00:00:30,090 --> 00:00:34,330
+So whilst boards sometimes look out for heavyweights,
+
+12
+00:00:34,770 --> 00:00:37,570
+for want of a better expression, to appoint
+
+13
+00:00:37,570 --> 00:00:42,030
+to the board, one principal criteria should be
+
+14
+00:00:42,030 --> 00:00:45,210
+how available are these directors to properly discharge
+
+15
+00:00:45,210 --> 00:00:47,450
+their duties and responsibilities to the board.
+
+16
+00:00:47,450 --> 00:00:50,850
+And so there is a concern around being
+
+17
+00:00:50,850 --> 00:00:51,590
+overboarded.
+
+18
+00:00:51,690 --> 00:00:56,170
+So you have directors appointing multiple board seats,
+
+19
+00:00:56,390 --> 00:00:58,670
+accepting to sit on multiple boards at the
+
+20
+00:00:58,670 --> 00:00:59,250
+same time.
+
+21
+00:00:59,670 --> 00:01:02,570
+So boards are reminded to manage the number
+
+22
+00:01:02,570 --> 00:01:05,510
+of directors, the number of other boards that
+
+23
+00:01:05,510 --> 00:01:06,710
+their directors sit on.
+
+24
+00:01:06,710 --> 00:01:11,250
+So for instance, the CAMA 2020 has restricted
+
+25
+00:01:11,250 --> 00:01:15,070
+the number of public companies that a director
+
+26
+00:01:15,070 --> 00:01:16,830
+can sit on to five.
+
+27
+00:01:17,250 --> 00:01:19,930
+So you can't be a director of more
+
+28
+00:01:19,930 --> 00:01:22,010
+than five public company boards at the same
+
+29
+00:01:22,010 --> 00:01:22,350
+time.
+
+30
+00:01:22,890 --> 00:01:25,770
+The restriction does not apply to private company
+
+31
+00:01:25,770 --> 00:01:26,070
+boards.
+
+32
+00:01:26,210 --> 00:01:29,750
+However, each board is expected to define how
+
+33
+00:01:29,750 --> 00:01:34,070
+many other boards a director on their board
+
+34
+00:01:34,070 --> 00:01:37,170
+should sit on, essentially just to help ensure
+
+35
+00:01:37,170 --> 00:01:40,610
+that the directors are available and committed to
+
+36
+00:01:40,610 --> 00:01:42,630
+the board on which he or she is
+
+37
+00:01:42,630 --> 00:01:42,930
+sitting.
+
+38
+00:01:43,570 --> 00:01:45,410
+So another aspect of the structure of the
+
+39
+00:01:45,410 --> 00:01:47,430
+board is that the board should have an
+
+40
+00:01:47,430 --> 00:01:48,850
+effective committee system.
+
+41
+00:01:49,390 --> 00:01:51,130
+And the code recommends that there should be
+
+42
+00:01:51,130 --> 00:01:54,770
+at least an audit committee, a governance and
+
+43
+00:01:54,770 --> 00:01:57,230
+remuneration committee, risk management committee.
+
+44
+00:01:57,230 --> 00:02:00,230
+And this committee should also have charters or
+
+45
+00:02:00,230 --> 00:02:04,150
+terms of reference that define their mandates, composition,
+
+46
+00:02:04,690 --> 00:02:08,690
+tenure and frequency of review of those charters.
+
+47
+00:02:09,250 --> 00:02:12,250
+Another element of board effectiveness is the effective
+
+48
+00:02:12,250 --> 00:02:13,710
+use of board committees.
+
+49
+00:02:14,490 --> 00:02:17,310
+Board committees typically are responsible for drilling down
+
+50
+00:02:17,310 --> 00:02:21,490
+on specific issues, forming an opinion on such
+
+51
+00:02:21,490 --> 00:02:25,110
+issues and making recommendations to the board.
+
+52
+00:02:25,110 --> 00:02:27,450
+And to be effective, the committees themselves should
+
+53
+00:02:27,450 --> 00:02:30,170
+have committee charters that set out the purpose,
+
+54
+00:02:30,350 --> 00:02:33,190
+the composition, the authority and the tenure of
+
+55
+00:02:33,190 --> 00:02:34,070
+committee members.
+
+56
+00:02:34,590 --> 00:02:36,030
+They should have effective chairs.
+
+57
+00:02:36,470 --> 00:02:38,530
+So the board should, in fact, the board
+
+58
+00:02:38,530 --> 00:02:41,130
+typically or the chairman in some cases, the
+
+59
+00:02:41,130 --> 00:02:44,350
+one that appoints committee chairs, and such chairs
+
+60
+00:02:44,350 --> 00:02:46,630
+should be available to have the strength of
+
+61
+00:02:46,630 --> 00:02:50,590
+character and should have the relevant skills to
+
+62
+00:02:50,590 --> 00:02:52,630
+gain the confidence of their peers.
+
+63
+00:02:53,370 --> 00:02:55,770
+Committees are accountable to the board.
+
+64
+00:02:55,990 --> 00:02:59,130
+So while committees can deliberate on issues, all
+
+65
+00:02:59,130 --> 00:03:00,410
+they can do at the end of the
+
+66
+00:03:00,410 --> 00:03:03,330
+day is to make recommendations to the board.
+
+67
+00:03:03,490 --> 00:03:06,330
+Committees are not expected to bind the board
+
+68
+00:03:06,330 --> 00:03:09,190
+or the company with regards to decisions that
+
+69
+00:03:09,190 --> 00:03:09,670
+they take.
+
+70
+00:03:10,330 --> 00:03:13,150
+They should have access to information and they
+
+71
+00:03:13,150 --> 00:03:15,910
+should have access to training and development.
+
+72
+00:03:18,430 --> 00:03:20,810
+Another key element of board effectiveness is, of
+
+73
+00:03:20,810 --> 00:03:22,090
+course, board dynamics.
+
+74
+00:03:22,090 --> 00:03:25,510
+This is how directors interact with one another
+
+75
+00:03:25,510 --> 00:03:29,290
+and how they essentially behave as directors.
+
+76
+00:03:29,830 --> 00:03:32,350
+Individuals come to the board with their egos
+
+77
+00:03:32,350 --> 00:03:35,570
+and their own self-awareness or lack thereof.
+
+78
+00:03:36,270 --> 00:03:38,170
+All of this can impact how the board
+
+79
+00:03:38,170 --> 00:03:41,490
+or directors interact or take decisions.
+
+80
+00:03:42,030 --> 00:03:45,750
+So the language, emotional intelligence, all of this
+
+81
+00:03:45,750 --> 00:03:48,690
+go towards constructive debates or otherwise on the
+
+82
+00:03:48,690 --> 00:03:48,950
+board.
+
+83
+00:03:48,950 --> 00:03:53,250
+And so it impacts also the quality of
+
+84
+00:03:53,250 --> 00:03:54,150
+board decisions.
+
+85
+00:03:54,910 --> 00:03:56,990
+So what are some of the individual attributes
+
+86
+00:03:56,990 --> 00:04:01,370
+of a director that can promote board dynamics?
+
+87
+00:04:02,150 --> 00:04:04,050
+Such a director will work well with others,
+
+88
+00:04:04,390 --> 00:04:07,550
+can disagree but should not be disagreeable, will
+
+89
+00:04:07,550 --> 00:04:11,110
+possess the required business or industry knowledge, prepares
+
+90
+00:04:11,110 --> 00:04:14,470
+for and attends meetings punctually and regularly.
+
+91
+00:04:14,470 --> 00:04:17,570
+There's nothing as instructive to a board as
+
+92
+00:04:17,570 --> 00:04:21,170
+a director who attends meetings without preparing, reading
+
+93
+00:04:21,170 --> 00:04:24,430
+through their board papers or doing the required
+
+94
+00:04:24,430 --> 00:04:26,470
+research ahead of board meetings.
+
+95
+00:04:27,210 --> 00:04:32,170
+Directors should contribute quality conversations to the board
+
+96
+00:04:32,170 --> 00:04:35,130
+and to the affairs of the business.

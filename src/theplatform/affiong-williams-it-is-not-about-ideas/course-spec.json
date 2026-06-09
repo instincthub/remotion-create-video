@@ -1,0 +1,589 @@
+{
+  "_description": "Ready-to-run CourseSpec for instinctHub:create_course_full on the 'theplatform' channel. No video blocks: each VIDEO step carries a short text context block; the rendered lesson videos (out/aw-01..14.mp4) are uploaded to each step's video uploader after creation, then linked with bulk_link_videos_to_steps. Assessment after every 3-lesson block (M3 has 2 lessons + its closing check). Pass this object (minus underscore keys) as spec.",
+  "_video_upload_map": {
+    "Plant trees you may never sit under": "out/aw-01.mp4",
+    "The life of a mango tree": "out/aw-02.mp4",
+    "Build for 2075, not this quarter": "out/aw-03.mp4",
+    "The most consequential decision": "out/aw-04.mp4",
+    "Short-term survival vs a 50-year horizon": "out/aw-05.mp4",
+    "Honest about the odds, driven by the vision": "out/aw-06.mp4",
+    "Five years of no fruit: the roots go deep": "out/aw-07.mp4",
+    "Waiting is not idle: build the market underneath": "out/aw-08.mp4",
+    "The canopy: when your vision outgrows you": "out/aw-09.mp4",
+    "Destiny helpers: people show up for the resolute": "out/aw-10.mp4",
+    "Engage, don't retreat": "out/aw-11.mp4",
+    "Seventy years of fruit: inherit and leave a harvest": "out/aw-12.mp4",
+    "Builders shape the Nigeria of the future": "out/aw-13.mp4",
+    "The charge: plant trees you may never sit under": "out/aw-14.mp4"
+  },
+
+  "title": "Plant Trees You May Never Sit Under",
+  "about": "<p>A keynote-driven course from <strong>The Platform Nigeria</strong>, taught by Affiong Williams, founder and CEO of ReelFruit, the dried-fruit company she built into an industry across more than 1,000 stores and five export markets.</p><p>Using the life of a mango tree as its metaphor, the course moves through four stages of building: the planting season, the waiting years, maturity, and the long harvest. The charge is simple and demanding: build for a future you may never see. Make decisions not for this quarter, but for the Nigeria of 2075 and beyond.</p>",
+  "benefits": "<ul><li>Adopt a long-term, 50-year horizon for how you build</li><li>Make the first and most consequential decision: deciding to plant</li><li>Survive the waiting years, when the real work happens underground and unseen</li><li>Build a canopy: a business whose value outgrows you and serves a whole ecosystem</li><li>Stay resolute so the right people show up, and engage rather than retreat</li><li>Think in harvests: inherit the fruit of others and leave fruit for those who follow</li></ul>",
+  "skills_level": "ALL",
+  "privacy": "DRAFT",
+  "amount": 0,
+
+  "modules": [
+    {
+      "title": "The Charge: Build Beyond Yourself",
+      "privacy": "PUBLISH",
+      "steps": [
+        {
+          "title": "Plant trees you may never sit under",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Affiong Williams opens with her calling as an entrepreneur: to build something that bears fruit long after she is gone. It is not just for now, it is for the future.</p><p><strong>In this lesson</strong></p><ul><li>The thesis of the talk: plant trees you may never sit under</li><li>Fourteen years building ReelFruit, charting a path with no map</li><li>Why she came to build an industry, not just a product</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "The life of a mango tree",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>The mango tree is the whole talk in one picture: one seed, four stages.</p><p><strong>In this lesson</strong></p><ul><li>The four stages: the planting season, the waiting years, maturity, and the long harvest</li><li>The best time to plant was 20 years ago; the next best time is now</li><li>The work starts at once, but there is no fruit for the first five years</li><li>Then a healthy tree can bear fruit for up to 70 years</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Build for 2075, not this quarter",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>The charge to Nigerian builders: make decisions for the long term.</p><p><strong>In this lesson</strong></p><ul><li>Build not for this quarter or this decade, but for the Nigeria of 2075 and beyond</li><li>Build knowing you may never see the full harvest of what you start</li><li>Why this long-term horizon is the heart of the whole talk</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Module 1 Check: The Charge",
+          "options": "ASSESSMENT",
+          "assessment": {
+            "title": "Module 1 Check: The Charge",
+            "description": "<p>A quick check on the charge and the mango-tree framework.</p>",
+            "duration": 10,
+            "expected_points": 3,
+            "assessment_type": "QUIZ",
+            "allow_retake": true,
+            "randomize_questions": true,
+            "randomize_options": true,
+            "show_result": true,
+            "questions": [
+              {
+                "question": "<p>What is the central charge of Affiong's talk?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 1,
+                "is_bonus": false,
+                "options": [
+                  {"option": "Chase the fastest possible return", "correct": false, "order": 1},
+                  {"option": "Build for a long-term future, even fruit you may never enjoy yourself", "correct": true, "order": 2},
+                  {"option": "Protect what you have and avoid risk", "correct": false, "order": 3},
+                  {"option": "Copy what already works abroad", "correct": false, "order": 4}
+                ]
+              },
+              {
+                "question": "<p>A mango tree bears fruit in its very first year.</p>",
+                "type": "TRUE_FALSE",
+                "point": 1,
+                "order": 2,
+                "is_bonus": false,
+                "options": [
+                  {"option": "True", "correct": false, "order": 1},
+                  {"option": "False", "correct": true, "order": 2}
+                ]
+              },
+              {
+                "question": "<p>Which set lists the four stages of the mango-tree metaphor, in order?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 3,
+                "is_bonus": false,
+                "options": [
+                  {"option": "Planting, waiting, maturity, long harvest", "correct": true, "order": 1},
+                  {"option": "Idea, funding, launch, exit", "correct": false, "order": 2},
+                  {"option": "Seed, sprout, flower, decay", "correct": false, "order": 3},
+                  {"option": "Hire, build, sell, repeat", "correct": false, "order": 4}
+                ]
+              },
+              {
+                "question": "<p>Complete the title: plant trees you may never ____ under.</p>",
+                "type": "SHORT_ANSWER",
+                "point": 1,
+                "order": 4,
+                "is_bonus": false,
+                "acceptable_answers": ["sit"]
+              },
+              {
+                "question": "<p>Where are you in your own building journey? <em>(signal only, does not affect your score)</em></p>",
+                "type": "MULTI_SELECT",
+                "point": 0,
+                "order": 5,
+                "is_bonus": true,
+                "options": [
+                  {"option": "Thinking about starting", "correct": false, "order": 1},
+                  {"option": "In the early planting season", "correct": false, "order": 2},
+                  {"option": "In the waiting years", "correct": false, "order": 3},
+                  {"option": "Already harvesting", "correct": false, "order": 4}
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+
+    {
+      "title": "The Planting Season",
+      "privacy": "PUBLISH",
+      "steps": [
+        {
+          "title": "The most consequential decision",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>The planting season starts with one decision: deciding to plant.</p><p><strong>In this lesson</strong></p><ul><li>Deciding to start is the most consequential choice you make; everything follows it</li><li>Why Nigerian business is pushed toward short-term thinking</li><li>The real pressure: an unstable economy where the Naira devalued over 100% five times in 14 years</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Short-term survival vs a 50-year horizon",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>The horizon you choose changes how you build everything.</p><p><strong>In this lesson</strong></p><ul><li>Short-term and long-term founders build fundamentally differently</li><li>The cashew-factory story: she said five years, it took ten</li><li>Accepting the time it truly takes is part of the mindset</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Honest about the odds, driven by the vision",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Long-term builders are honest about the odds, and persist anyway.</p><p><strong>In this lesson</strong></p><ul><li>Your work might never pay off; that is the statistical reality</li><li>Build with optimism that you are seeding the roots of industry that will pay beyond you</li><li>When no market existed, she decided to keep planting on the strength of the vision</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Module 2 Check: The Planting Season",
+          "options": "ASSESSMENT",
+          "assessment": {
+            "title": "Module 2 Check: The Planting Season",
+            "description": "<p>Check your read on deciding to plant, the horizon, and the odds.</p>",
+            "duration": 10,
+            "expected_points": 3,
+            "assessment_type": "QUIZ",
+            "allow_retake": true,
+            "randomize_questions": true,
+            "randomize_options": true,
+            "show_result": true,
+            "questions": [
+              {
+                "question": "<p>According to Affiong, what is the most consequential decision a builder makes?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 1,
+                "is_bonus": false,
+                "options": [
+                  {"option": "Choosing a logo", "correct": false, "order": 1},
+                  {"option": "Deciding to plant, that is, deciding to start", "correct": true, "order": 2},
+                  {"option": "Raising outside capital", "correct": false, "order": 3},
+                  {"option": "Hiring a big team early", "correct": false, "order": 4}
+                ]
+              },
+              {
+                "question": "<p>How many times did the Naira devalue by over 100% during her 14 years building?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 2,
+                "is_bonus": false,
+                "options": [
+                  {"option": "Once", "correct": false, "order": 1},
+                  {"option": "Twice", "correct": false, "order": 2},
+                  {"option": "Five times", "correct": true, "order": 3},
+                  {"option": "Never", "correct": false, "order": 4}
+                ]
+              },
+              {
+                "question": "<p>Long-term founders are honest that their work might never have a payoff.</p>",
+                "type": "TRUE_FALSE",
+                "point": 1,
+                "order": 3,
+                "is_bonus": false,
+                "options": [
+                  {"option": "True", "correct": true, "order": 1},
+                  {"option": "False", "correct": false, "order": 2}
+                ]
+              },
+              {
+                "question": "<p>With no evident market for dried fruit, she decided to keep ____.</p>",
+                "type": "SHORT_ANSWER",
+                "point": 1,
+                "order": 4,
+                "is_bonus": false,
+                "acceptable_answers": ["planting", "plant"]
+              }
+            ]
+          }
+        }
+      ]
+    },
+
+    {
+      "title": "The Waiting Years",
+      "privacy": "PUBLISH",
+      "steps": [
+        {
+          "title": "Five years of no fruit: the roots go deep",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>For the first five to eight years, a mango tree shows nothing above ground.</p><p><strong>In this lesson</strong></p><ul><li>By year three the tree looks like a dwarf; it is not impressive</li><li>Underneath, the roots go deep, find water, and anchor against storms</li><li>The tree is building the internal infrastructure that will hold it as it grows</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Waiting is not idle: build the market underneath",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Waiting does not mean being idle. The real work is happening, unseen.</p><p><strong>In this lesson</strong></p><ul><li>Understand the industry and the customer better than anyone</li><li>Build a distribution network, take risks, and learn from products that fail</li><li>Traction, track record, and a team: the roots came before the fruit</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Module 3 Check: The Waiting Years",
+          "options": "ASSESSMENT",
+          "assessment": {
+            "title": "Module 3 Check: The Waiting Years",
+            "description": "<p>Check what really happens during the waiting years.</p>",
+            "duration": 10,
+            "expected_points": 3,
+            "assessment_type": "QUIZ",
+            "allow_retake": true,
+            "randomize_questions": true,
+            "randomize_options": true,
+            "show_result": true,
+            "questions": [
+              {
+                "question": "<p>During the waiting years, what is actually happening to the tree?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 1,
+                "is_bonus": false,
+                "options": [
+                  {"option": "Nothing; the tree is dormant", "correct": false, "order": 1},
+                  {"option": "The roots go deep underground, unseen, building its foundation", "correct": true, "order": 2},
+                  {"option": "It is already producing a full harvest", "correct": false, "order": 3},
+                  {"option": "It is dying back to be replanted", "correct": false, "order": 4}
+                ]
+              },
+              {
+                "question": "<p>Waiting means being idle.</p>",
+                "type": "TRUE_FALSE",
+                "point": 1,
+                "order": 2,
+                "is_bonus": false,
+                "options": [
+                  {"option": "True", "correct": false, "order": 1},
+                  {"option": "False", "correct": true, "order": 2}
+                ]
+              },
+              {
+                "question": "<p>Which of these did ReelFruit build during its waiting years? <em>(select all that apply)</em></p>",
+                "type": "MULTI_SELECT",
+                "point": 1,
+                "order": 3,
+                "is_bonus": false,
+                "options": [
+                  {"option": "A distribution network for dried-fruit snacks", "correct": true, "order": 1},
+                  {"option": "Deep understanding of the industry and customer", "correct": true, "order": 2},
+                  {"option": "A solid team and track record", "correct": true, "order": 3},
+                  {"option": "An instant, guaranteed market", "correct": false, "order": 4}
+                ]
+              },
+              {
+                "question": "<p>The roots came first and the fruits come after the ____.</p>",
+                "type": "SHORT_ANSWER",
+                "point": 1,
+                "order": 4,
+                "is_bonus": false,
+                "acceptable_answers": ["canopy"]
+              }
+            ]
+          }
+        }
+      ]
+    },
+
+    {
+      "title": "Maturity: Building the Canopy",
+      "privacy": "PUBLISH",
+      "steps": [
+        {
+          "title": "The canopy: when your vision outgrows you",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>At maturity, a mango tree does something beyond producing fruit: it builds a canopy.</p><p><strong>In this lesson</strong></p><ul><li>A canopy can spread about ten metres wide, sheltering people and an ecosystem</li><li>Her vision expanded from solving youth unemployment to a supply chain across four countries</li><li>More problems become more opportunities to create impact</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Destiny helpers: people show up for the resolute",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>She did not build the business alone.</p><p><strong>In this lesson</strong></p><ul><li>Staying resolute to a vision brings the right people around you</li><li>Friends, family, and investors show up because they see someone executing</li><li>The divine moments along the way help you get through</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Engage, don't retreat",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>It is easy to say: let me just survive, and leave the rest.</p><p><strong>In this lesson</strong></p><ul><li>After seeing the same problems repeat, retreat starts to feel reasonable</li><li>If you are fortunate enough to survive, be open enough to do more</li><li>Engage with the problems only you can see; they help the whole ecosystem, not just you</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Module 4 Check: Maturity",
+          "options": "ASSESSMENT",
+          "assessment": {
+            "title": "Module 4 Check: Maturity",
+            "description": "<p>Check the canopy, destiny helpers, and the choice to engage.</p>",
+            "duration": 10,
+            "expected_points": 3,
+            "assessment_type": "QUIZ",
+            "allow_retake": true,
+            "randomize_questions": true,
+            "randomize_options": true,
+            "show_result": true,
+            "questions": [
+              {
+                "question": "<p>At maturity, what does a mango tree build beyond fruit?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 1,
+                "is_bonus": false,
+                "options": [
+                  {"option": "A canopy that shelters a wider ecosystem", "correct": true, "order": 1},
+                  {"option": "Taller fruit only it can reach", "correct": false, "order": 2},
+                  {"option": "A fence to keep others out", "correct": false, "order": 3},
+                  {"option": "Nothing more", "correct": false, "order": 4}
+                ]
+              },
+              {
+                "question": "<p>Affiong built ReelFruit entirely on her own, with no help.</p>",
+                "type": "TRUE_FALSE",
+                "point": 1,
+                "order": 2,
+                "is_bonus": false,
+                "options": [
+                  {"option": "True", "correct": false, "order": 1},
+                  {"option": "False", "correct": true, "order": 2}
+                ]
+              },
+              {
+                "question": "<p>When she saw the same problems repeat, what did she decide to do?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 3,
+                "is_bonus": false,
+                "options": [
+                  {"option": "Retreat and mind only her own business", "correct": false, "order": 1},
+                  {"option": "Engage and do more, not retreat", "correct": true, "order": 2},
+                  {"option": "Sell the company", "correct": false, "order": 3},
+                  {"option": "Wait for the government to act", "correct": false, "order": 4}
+                ]
+              },
+              {
+                "question": "<p>A mature mango canopy can spread about ten ____ wide.</p>",
+                "type": "SHORT_ANSWER",
+                "point": 1,
+                "order": 4,
+                "is_bonus": false,
+                "acceptable_answers": ["metres", "meters", "m"]
+              }
+            ]
+          }
+        }
+      ]
+    },
+
+    {
+      "title": "The Long Harvest",
+      "privacy": "PUBLISH",
+      "steps": [
+        {
+          "title": "Seventy years of fruit: inherit and leave a harvest",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>A well-tended mango tree bears fruit season after season, for decades.</p><p><strong>In this lesson</strong></p><ul><li>A healthy tree can be productive for up to 70 years</li><li>Farmers who planted 30 to 40 years ago made today's business possible</li><li>Local fruit grown in Kaduna, Jos and Niger State now sits on shelves across five countries</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Builders shape the Nigeria of the future",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Nigeria's tomorrow is decided by what we build today.</p><p><strong>In this lesson</strong></p><ul><li>We shape the country by what we decide to build, and how</li><li>The youngest population on earth, with millions of young people seeking opportunity</li><li>One tree is not a forest; a forest begins with one person planting, then more joining</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "The charge: plant trees you may never sit under",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>The closing charge to entrepreneurs.</p><p><strong>In this lesson</strong></p><ul><li>Even against the odds, building for the future is a worthy pursuit</li><li>A society grows great when old men plant trees in whose shade they will never sit</li><li>So plant your trees</li></ul>",
+                "tag": "div"
+              },
+              "order": 1
+            }
+          ]
+        },
+        {
+          "title": "Module 5 Check: The Long Harvest",
+          "options": "ASSESSMENT",
+          "assessment": {
+            "title": "Module 5 Check: The Long Harvest",
+            "description": "<p>The final check, plus a reflection to set your first move.</p>",
+            "duration": 10,
+            "expected_points": 3,
+            "assessment_type": "QUIZ",
+            "allow_retake": true,
+            "randomize_questions": true,
+            "randomize_options": true,
+            "show_result": true,
+            "questions": [
+              {
+                "question": "<p>For how long can a healthy, well-tended mango tree bear fruit?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 1,
+                "is_bonus": false,
+                "options": [
+                  {"option": "About 2 years", "correct": false, "order": 1},
+                  {"option": "About 10 years", "correct": false, "order": 2},
+                  {"option": "Up to 70 years", "correct": true, "order": 3},
+                  {"option": "Only one season", "correct": false, "order": 4}
+                ]
+              },
+              {
+                "question": "<p>One tree, on its own, makes a forest.</p>",
+                "type": "TRUE_FALSE",
+                "point": 1,
+                "order": 2,
+                "is_bonus": false,
+                "options": [
+                  {"option": "True", "correct": false, "order": 1},
+                  {"option": "False", "correct": true, "order": 2}
+                ]
+              },
+              {
+                "question": "<p>In Affiong's view, who shapes the Nigeria of the future?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 1,
+                "order": 3,
+                "is_bonus": false,
+                "options": [
+                  {"option": "Only the government", "correct": false, "order": 1},
+                  {"option": "The builders and entrepreneurs of today", "correct": true, "order": 2},
+                  {"option": "Foreign investors alone", "correct": false, "order": 3},
+                  {"option": "No one can shape it", "correct": false, "order": 4}
+                ]
+              },
+              {
+                "question": "<p>Complete the proverb: a society grows great when old men plant ____ in whose shade they know they will never sit.</p>",
+                "type": "SHORT_ANSWER",
+                "point": 1,
+                "order": 4,
+                "is_bonus": false,
+                "acceptable_answers": ["trees"]
+              },
+              {
+                "question": "<p>What is the one long-term tree you will start planting now, and what is your first step? <em>(reflection, does not affect your score)</em></p>",
+                "type": "LONG_ANSWER",
+                "point": 0,
+                "order": 5,
+                "is_bonus": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

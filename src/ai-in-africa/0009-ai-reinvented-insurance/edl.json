@@ -1,0 +1,992 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.14,
+    "dur": 2.14,
+    "section": "insurance",
+    "label": "Now let's talk about insurance. Insurance is the sector where AI is changing the customer experience most visibly.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 2.946,
+    "end": 9.604,
+    "dur": 6.658,
+    "section": "insurance",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 13.76,
+    "end": 19.296,
+    "dur": 5.536,
+    "section": "insurance",
+    "label": "Two companies are setting the pace. The first is Naked Insurance in South Africa.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 20.066,
+    "end": 26.97,
+    "dur": 6.904,
+    "section": "insurance",
+    "label": "Naked uses machine learning for risk pricing and computer vision for damage assessment.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 27.944,
+    "end": 30.054,
+    "dur": 2.11,
+    "section": "insurance",
+    "label": "A user gets binding car",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 40.24,
+    "end": 44.581,
+    "dur": 4.341,
+    "section": "insurance",
+    "label": "insurance quotes in under 90 seconds from their phone, with no human agent.",
+    "broll": "phone_quote",
+    "spanStart": true
+  },
+  {
+    "start": 45.086,
+    "end": 48.247,
+    "dur": 3.161,
+    "section": "insurance",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 49.146,
+    "end": 53.382,
+    "dur": 4.236,
+    "section": "insurance",
+    "label": "In January 2025, Naked closed the largest insurance raise in African history at 38 million dollars.",
+    "broll": "raise",
+    "spanStart": true
+  },
+  {
+    "start": 56.058,
+    "end": 64.01,
+    "dur": 7.952,
+    "section": "insurance",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 64.925,
+    "end": 66.66,
+    "dur": 1.735,
+    "section": "insurance",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 111.971,
+    "end": 114.491,
+    "dur": 2.52,
+    "section": "insurance",
+    "label": "You can now ask ChatGPT for an insurance quote, and Naked will price it for you.",
+    "broll": "chatgpt",
+    "spanStart": true
+  },
+  {
+    "start": 115.049,
+    "end": 117.244,
+    "dur": 2.194,
+    "section": "insurance",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 119.361,
+    "end": 121.008,
+    "dur": 1.648,
+    "section": "insurance",
+    "label": "The second is Pineapple, also South Africa.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 121.537,
+    "end": 122.96,
+    "dur": 1.423,
+    "section": "insurance",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 132.872,
+    "end": 139.16,
+    "dur": 6.288,
+    "section": "insurance",
+    "label": "Pineapple uses image recognition to assess damage and machine learning for dynamic pricing.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 150.75,
+    "end": 162.16,
+    "dur": 11.41,
+    "section": "insurance",
+    "label": "They partner with Old Mutual on telematics-based insurance, where careful drivers get up to 30 percent of their premium back at the end of the year.",
+    "broll": "telematics",
+    "spanStart": true
+  },
+  {
+    "start": 163.614,
+    "end": 167.091,
+    "dur": 3.477,
+    "section": "insurance",
+    "label": "What both companies show is that insurance, which used to mean phone calls and paperwork, can now become an API call. That is a fundamental shift in a category that had barely changed in 50 years.",
+    "broll": "apicall",
+    "spanStart": true
+  },
+  {
+    "start": 167.629,
+    "end": 168.738,
+    "dur": 1.109,
+    "section": "insurance",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 171.719,
+    "end": 173.316,
+    "dur": 1.597,
+    "section": "insurance",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 175.016,
+    "end": 175.748,
+    "dur": 0.732,
+    "section": "insurance",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 177.1,
+    "end": 180.191,
+    "dur": 3.091,
+    "section": "insurance",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 180.833,
+    "end": 184.614,
+    "dur": 3.781,
+    "section": "insurance",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 188.183,
+    "end": 193.913,
+    "dur": 5.73,
+    "section": "insurance",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 194.41,
+    "end": 196.781,
+    "dur": 2.371,
+    "section": "insurance",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 197.442,
+    "end": 199.854,
+    "dur": 2.412,
+    "section": "insurance",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 200.757,
+    "end": 201.896,
+    "dur": 1.139,
+    "section": "insurance",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 203.375,
+    "end": 209.54,
+    "dur": 6.165,
+    "section": "insurance",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 212.033,
+    "end": 216.422,
+    "dur": 4.388,
+    "section": "service",
+    "label": "Now let's talk about AI in customer service at scale.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 217.24,
+    "end": 220.144,
+    "dur": 2.904,
+    "section": "service",
+    "label": "The traditional banks are not standing still.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 222.56,
+    "end": 223.06,
+    "dur": 0.5,
+    "section": "service",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 226.338,
+    "end": 227.571,
+    "dur": 1.233,
+    "section": "service",
+    "label": "Two examples from South Africa stand out.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 229.957,
+    "end": 235.16,
+    "dur": 5.203,
+    "section": "service",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 238.996,
+    "end": 241.291,
+    "dur": 2.294,
+    "section": "service",
+    "label": "The first is Nedbank's NB.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 241.908,
+    "end": 245.959,
+    "dur": 4.051,
+    "section": "service",
+    "label": "NB is a conversational digital assistant powered by Kasisto.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 246.55,
+    "end": 249.362,
+    "dur": 2.812,
+    "section": "service",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 250.812,
+    "end": 256.568,
+    "dur": 5.757,
+    "section": "service",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 257.235,
+    "end": 259.979,
+    "dur": 2.745,
+    "section": "service",
+    "label": "As of August 2025, four years after launch, NB has handled over 9 million chats, processed over 22 million service requests, and 1.8 million clients.",
+    "broll": "nbstats",
+    "spanStart": true
+  },
+  {
+    "start": 260.717,
+    "end": 273.66,
+    "dur": 12.943,
+    "section": "service",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 273.84,
+    "end": 276.135,
+    "dur": 2.295,
+    "section": "service",
+    "label": "The key number here is this.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 276.893,
+    "end": 281.86,
+    "dur": 4.967,
+    "section": "service",
+    "label": "Fewer than 10 percent of NB conversations escalate to a human agent.",
+    "broll": "escalate",
+    "spanStart": true
+  },
+  {
+    "start": 282.54,
+    "end": 289.147,
+    "dur": 6.607,
+    "section": "service",
+    "label": "Live agent chat volume was cut by more than half within 12 months of launch.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 291.053,
+    "end": 294.8,
+    "dur": 3.747,
+    "section": "service",
+    "label": "The second is Absa's AbbY, also South African.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 295.829,
+    "end": 296.984,
+    "dur": 1.155,
+    "section": "service",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 297.655,
+    "end": 299.467,
+    "dur": 1.811,
+    "section": "service",
+    "label": "In June 2025, Absa became the first African bank to launch an agentic AI agent for customers.",
+    "broll": "agentic",
+    "spanStart": true
+  },
+  {
+    "start": 299.993,
+    "end": 304.455,
+    "dur": 4.462,
+    "section": "service",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 308.04,
+    "end": 308.421,
+    "dur": 0.381,
+    "section": "service",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 310.508,
+    "end": 317.868,
+    "dur": 7.36,
+    "section": "service",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 318.766,
+    "end": 323.36,
+    "dur": 4.594,
+    "section": "service",
+    "label": "Agentic, meaning the AI does not just answer questions.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 322.94,
+    "end": 325.472,
+    "dur": 2.532,
+    "section": "service",
+    "label": "It executes loan applications, opens investment accounts, and processes cross-border payments inside defined guardrails.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 326.159,
+    "end": 333.339,
+    "dur": 7.18,
+    "section": "service",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 341.953,
+    "end": 344.26,
+    "dur": 2.307,
+    "section": "service",
+    "label": "Debut took under five weeks.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 344.24,
+    "end": 350.296,
+    "dur": 6.056,
+    "section": "service",
+    "label": "That tells you how mature the underlying infrastructure has become.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 370.823,
+    "end": 375.493,
+    "dur": 4.67,
+    "section": "service",
+    "label": "Now, it would be wrong to suggest that every African bank has cracked this.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 376.609,
+    "end": 379.676,
+    "dur": 3.067,
+    "section": "service",
+    "label": "The Cable in Nigeria did extensive user testing of Access Bank's Tamada, UBA's Leo, and Zenith's Ziva.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 380.409,
+    "end": 382.495,
+    "dur": 2.086,
+    "section": "service",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 383.383,
+    "end": 384.633,
+    "dur": 1.25,
+    "section": "service",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 385.209,
+    "end": 386.963,
+    "dur": 1.754,
+    "section": "service",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 387.83,
+    "end": 388.722,
+    "dur": 0.892,
+    "section": "service",
+    "label": "Their conclusion: these chatbots persistently hand off to humans and lack natural language depth.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 389.662,
+    "end": 395.564,
+    "dur": 5.902,
+    "section": "service",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 402.565,
+    "end": 404.46,
+    "dur": 1.895,
+    "section": "service",
+    "label": "The honest reading is this.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 404.64,
+    "end": 409.262,
+    "dur": 4.622,
+    "section": "service",
+    "label": "AI customer service in African banking works at the top tier.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 410.838,
+    "end": 411.978,
+    "dur": 1.139,
+    "section": "service",
+    "label": "It does not work uniformly.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 412.61,
+    "end": 413.56,
+    "dur": 0.95,
+    "section": "service",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 415.94,
+    "end": 420.031,
+    "dur": 4.091,
+    "section": "service",
+    "label": "The gap between the best and the average is wide.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 428.33,
+    "end": 431.759,
+    "dur": 3.429,
+    "section": "fraud",
+    "label": "Now, let's talk about fraud and payment rails.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 433.285,
+    "end": 437.498,
+    "dur": 4.213,
+    "section": "fraud",
+    "label": "The last fintech use case I want to cover is the most fundamental, and the most invisible to the customer: fraud detection and payment infrastructure.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 437.981,
+    "end": 442.192,
+    "dur": 4.212,
+    "section": "fraud",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 443.093,
+    "end": 446.718,
+    "dur": 3.626,
+    "section": "fraud",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 447.235,
+    "end": 450.26,
+    "dur": 3.025,
+    "section": "fraud",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 461.708,
+    "end": 466.297,
+    "dur": 4.589,
+    "section": "fraud",
+    "label": "The standard story here is Safaricom's M-PESA fintech 2.0 overhaul.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 467.213,
+    "end": 470.018,
+    "dur": 2.805,
+    "section": "fraud",
+    "label": "In September 2025,",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 476.637,
+    "end": 481.258,
+    "dur": 4.621,
+    "section": "fraud",
+    "label": "Safaricom rebuilt M-PESA on cloud-native, AI-native architecture.",
+    "broll": "datacenter",
+    "spanStart": true
+  },
+  {
+    "start": 482.164,
+    "end": 487.807,
+    "dur": 5.643,
+    "section": "fraud",
+    "label": "They deployed a graph neural network that specifically predicts SIM-swap fraud, social engineering attacks, and identity theft.",
+    "broll": "fraud_net",
+    "spanStart": true
+  },
+  {
+    "start": 489.267,
+    "end": 493.115,
+    "dur": 3.848,
+    "section": "fraud",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 494.328,
+    "end": 501.015,
+    "dur": 6.687,
+    "section": "fraud",
+    "label": "The result is an 89 percent F1 score on social engineering fraud detection.",
+    "broll": "f1",
+    "spanStart": true
+  },
+  {
+    "start": 502.94,
+    "end": 504.404,
+    "dur": 1.464,
+    "section": "fraud",
+    "label": "After that, transaction capacity went from 4,000 to 506,000 transactions per second.",
+    "broll": "tps",
+    "spanStart": true
+  },
+  {
+    "start": 506.845,
+    "end": 511.308,
+    "dur": 4.464,
+    "section": "fraud",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 512.196,
+    "end": 515.532,
+    "dur": 3.336,
+    "section": "fraud",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 518.14,
+    "end": 520.459,
+    "dur": 2.319,
+    "section": "fraud",
+    "label": "In the 2025 financial year, M-PESA processed over 37 billion transactions worth 292 billion dollars.",
+    "broll": "volume",
+    "spanStart": true
+  },
+  {
+    "start": 521.023,
+    "end": 530.56,
+    "dur": 9.537,
+    "section": "fraud",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 543.095,
+    "end": 545.933,
+    "dur": 2.838,
+    "section": "fraud",
+    "label": "This product serves 35 million users.",
+    "broll": "users",
+    "spanStart": true
+  },
+  {
+    "start": 546.943,
+    "end": 549.439,
+    "dur": 2.497,
+    "section": "fraud",
+    "label": "This is what AI infrastructure at population scale looks like.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 553.681,
+    "end": 557.711,
+    "dur": 4.03,
+    "section": "fraud",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 584.74,
+    "end": 592.449,
+    "dur": 7.71,
+    "section": "fraud",
+    "label": "Standard Bank has deployed similar AI anomaly detection on card-not-present and digital-wallet flows.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 594.048,
+    "end": 598.936,
+    "dur": 4.888,
+    "section": "fraud",
+    "label": "They publicly disclosed these in 2024 and 2025, in response to a 73 percent year-over-year rise in digital banking fraud.",
+    "broll": "fraud_rise",
+    "spanStart": true
+  },
+  {
+    "start": 599.737,
+    "end": 606.982,
+    "dur": 7.245,
+    "section": "fraud",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 625.814,
+    "end": 627.66,
+    "dur": 1.846,
+    "section": "fraud",
+    "label": "The lesson is clear.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 627.64,
+    "end": 629.352,
+    "dur": 1.712,
+    "section": "fraud",
+    "label": "As digital finance scales, the fraud surface grows with it.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 630.013,
+    "end": 630.729,
+    "dur": 0.716,
+    "section": "fraud",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 631.249,
+    "end": 638.52,
+    "dur": 7.271,
+    "section": "fraud",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 639.297,
+    "end": 644.242,
+    "dur": 4.945,
+    "section": "fraud",
+    "label": "AI is now the only realistic tool to defend the rails.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 651.24,
+    "end": 652.86,
+    "dur": 1.62,
+    "section": "lessons",
+    "label": "What this means for you.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 652.84,
+    "end": 656.36,
+    "dur": 3.52,
+    "section": "lessons",
+    "label": "Three lessons to close out this episode.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 655.94,
+    "end": 663.56,
+    "dur": 7.62,
+    "section": "lessons",
+    "label": "First: the next billion users in fintech will be onboarded by AI, not by humans.",
+    "broll": "lesson1",
+    "spanStart": true
+  },
+  {
+    "start": 663.64,
+    "end": 667.522,
+    "dur": 3.882,
+    "section": "lessons",
+    "label": "If you're building a financial product anywhere in Africa, the question is not where to use AI.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 668.655,
+    "end": 671.516,
+    "dur": 2.862,
+    "section": "lessons",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 679.159,
+    "end": 685.212,
+    "dur": 6.053,
+    "section": "lessons",
+    "label": "It is whether your model is trained on the data your competitors do not have.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 697.94,
+    "end": 701.722,
+    "dur": 3.782,
+    "section": "lessons",
+    "label": "Embedded finance is the dominant architecture.",
+    "broll": "lesson2",
+    "spanStart": true
+  },
+  {
+    "start": 702.636,
+    "end": 708.06,
+    "dur": 5.424,
+    "section": "lessons",
+    "label": "The successful AI lenders are not building customer-facing apps.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 707.84,
+    "end": 714.558,
+    "dur": 6.718,
+    "section": "lessons",
+    "label": "They're building credit layers that plug into super-apps, telcos, and marketplaces.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 718.031,
+    "end": 720.137,
+    "dur": 2.106,
+    "section": "lessons",
+    "label": "Distribution is the moat.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 746.334,
+    "end": 748.341,
+    "dur": 2.007,
+    "section": "lessons",
+    "label": "Third: the bar has moved.",
+    "broll": "lesson3",
+    "spanStart": true
+  },
+  {
+    "start": 748.976,
+    "end": 753.36,
+    "dur": 4.384,
+    "section": "lessons",
+    "label": "Five years ago, an AI basic chatbot was the headline.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 753.24,
+    "end": 761.316,
+    "dur": 8.076,
+    "section": "lessons",
+    "label": "Today, the headline is agentic, executing cross-border transfers in production.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 763.089,
+    "end": 767.579,
+    "dur": 4.49,
+    "section": "lessons",
+    "label": "If your AI strategy is still about FAQ automation, you're already behind.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 768.346,
+    "end": 770.06,
+    "dur": 1.714,
+    "section": "lessons",
+    "label": "",
+    "broll": null,
+    "spanStart": false
+  },
+  {
+    "start": 822.251,
+    "end": 825.919,
+    "dur": 3.668,
+    "section": "next",
+    "label": "In the next episode, we move from finance to food.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 826.64,
+    "end": 836.191,
+    "dur": 9.551,
+    "section": "next",
+    "label": "How African farmers, often on their phones, are using AI to fight crop disease, forecast yields, and unlock credit.",
+    "broll": "farming",
+    "spanStart": true
+  },
+  {
+    "start": 844.023,
+    "end": 845.16,
+    "dur": 1.137,
+    "section": "next",
+    "label": "Stay with me.",
+    "broll": null,
+    "spanStart": true
+  },
+  {
+    "start": 845.24,
+    "end": 848.129,
+    "dur": 2.889,
+    "section": "next",
+    "label": "Subscribe and follow for more updates.",
+    "broll": null,
+    "spanStart": true
+  }
+]

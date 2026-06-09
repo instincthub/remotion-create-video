@@ -1,0 +1,20 @@
+{
+  "_note": "Step 6 reference. After uploading each rendered out/ka-XX.mp4 to the theplatform video uploader, match the uploader id to the step_uuid below and call bulk_link_videos_to_steps. Course id 564, slug a-great-idea-is-not-enough, channel theplatform.",
+  "course_id": 564,
+  "course_slug": "a-great-idea-is-not-enough",
+  "channel": "theplatform",
+  "lessons": [
+    { "module": 1, "lesson": 1, "render": "out/ka-public/ka-01.mp4", "step_title": "The next bounce of the ball", "step_uuid": "714f3fa2-734c-436e-b64b-bad337971722", "duration_s": 142 },
+    { "module": 1, "lesson": 2, "render": "out/ka-public/ka-02.mp4", "step_title": "Nine businesses, six failures", "step_uuid": "77a5e54d-9dd9-4aaa-b396-73c0caf89771", "duration_s": 120 },
+    { "module": 1, "lesson": 3, "render": "out/ka-public/ka-03.mp4", "step_title": "A God idea is not a market exemption", "step_uuid": "95f823a8-196c-4705-9351-8550dd08059f", "duration_s": 113 },
+    { "module": 2, "lesson": 4, "render": "out/ka-public/ka-04.mp4", "step_title": "Law 1: Know your market", "step_uuid": "199270f9-21ca-4439-9d78-238ad1d8ff52", "duration_s": 210 },
+    { "module": 2, "lesson": 5, "render": "out/ka-public/ka-05.mp4", "step_title": "Don't be forced into entrepreneurship", "step_uuid": "eb5c6ad4-6613-4b07-9737-50eb38c07abc", "duration_s": 182 },
+    { "module": 2, "lesson": 6, "render": "out/ka-public/ka-06.mp4", "step_title": "Law 2: The five numbers you must know", "step_uuid": "5d7abc35-1c40-4426-916a-fc9997ffd92f", "duration_s": 125 },
+    { "module": 3, "lesson": 7, "render": "out/ka-public/ka-07.mp4", "step_title": "Research with skepticism: the wine seller", "step_uuid": "11314ffb-770a-4240-b86c-351e857faa40", "duration_s": 165 },
+    { "module": 3, "lesson": 8, "render": "out/ka-public/ka-08.mp4", "step_title": "Don't compete on price; learn from doers", "step_uuid": "8a756de7-3553-4b03-8462-0b7f2508d22e", "duration_s": 256 },
+    { "module": 3, "lesson": 9, "render": "out/ka-public/ka-09.mp4", "step_title": "Law 3: Timing, incubate before you jump", "step_uuid": "202c7e5e-6283-4aa5-8629-4e9012cbb9c4", "duration_s": 121 },
+    { "module": 4, "lesson": 10, "render": "out/ka-public/ka-10.mp4", "step_title": "Law 4: Build your team and the talent gap", "step_uuid": "3ca8e5e6-be48-49fd-a7ac-d150c6fbc2cd", "duration_s": 164 },
+    { "module": 4, "lesson": 11, "render": "out/ka-public/ka-11.mp4", "step_title": "Discipline and knowing when to outsource", "step_uuid": "8571ab50-2669-49d3-9748-f89c9e8a9a26", "duration_s": 108 },
+    { "module": 4, "lesson": 12, "render": "out/ka-public/ka-12.mp4", "step_title": "The reality check and the no-capital myth", "step_uuid": "ef92e980-2650-47bc-8b76-a93854752b80", "duration_s": 82 }
+  ]
+}

@@ -1,0 +1,347 @@
+1
+00:00:00,230 --> 00:00:02,490
+So the board has the responsibility to select
+
+2
+00:00:02,490 --> 00:00:05,470
+the CEO, encourage the CEO, advise the CEO,
+
+3
+00:00:06,030 --> 00:00:08,930
+evaluate the CEO's performance and give feedback accordingly,
+
+4
+00:00:09,690 --> 00:00:14,790
+compensate the CEO and unfortunately really also remove
+
+5
+00:00:14,790 --> 00:00:16,690
+the CEO where the CEO is not performing.
+
+6
+00:00:17,490 --> 00:00:19,830
+This is one area where many boards don't
+
+7
+00:00:19,830 --> 00:00:23,090
+do well because CEOs are typically tenured and
+
+8
+00:00:23,090 --> 00:00:26,770
+because they also wield such enormous power.
+
+9
+00:00:26,950 --> 00:00:28,390
+A lot of the time the CEO perhaps
+
+10
+00:00:28,390 --> 00:00:31,390
+can also be an owner-manager but really
+
+11
+00:00:31,390 --> 00:00:33,550
+and truly a board that would function and
+
+12
+00:00:33,550 --> 00:00:37,330
+be effective should be able to put an
+
+13
+00:00:37,330 --> 00:00:38,770
+erring CEO in line.
+
+14
+00:00:38,950 --> 00:00:41,130
+A non-performing CEO is of no use
+
+15
+00:00:41,130 --> 00:00:43,630
+to themselves and certainly they are of no
+
+16
+00:00:43,630 --> 00:00:44,430
+use to the company.
+
+17
+00:00:46,690 --> 00:00:49,230
+Whether or not the CEO is performing is
+
+18
+00:00:49,230 --> 00:00:53,870
+not a subjective decision, it's totally objective based
+
+19
+00:00:53,870 --> 00:00:55,430
+on the KPIs that have been set by
+
+20
+00:00:55,430 --> 00:00:58,470
+the board and if the CEO's performance falls
+
+21
+00:00:58,470 --> 00:01:01,330
+short of those KPIs then feedback should be
+
+22
+00:01:01,330 --> 00:01:04,670
+given and where non-performance persists then the
+
+23
+00:01:04,670 --> 00:01:06,610
+board should do the needful.
+
+24
+00:01:07,430 --> 00:01:09,210
+But before the board can do the needful
+
+25
+00:01:09,210 --> 00:01:10,730
+it means that the board itself has put
+
+26
+00:01:10,730 --> 00:01:16,190
+in place a watertight succession planning process which
+
+27
+00:01:16,190 --> 00:01:18,230
+includes the board knowing that there's a pipeline
+
+28
+00:01:18,230 --> 00:01:21,530
+to succession and the board having sufficient visibility
+
+29
+00:01:21,530 --> 00:01:24,950
+to the direct reports of the CEO.
+
+30
+00:01:26,150 --> 00:01:28,750
+So what are the elements of board effectiveness?
+
+31
+00:01:29,250 --> 00:01:32,550
+The structure and composition of the board, effective
+
+32
+00:01:32,550 --> 00:01:36,890
+use of board committees, board dynamics, we'll go
+
+33
+00:01:36,890 --> 00:01:39,450
+into each of this in a minute, the
+
+34
+00:01:39,450 --> 00:01:43,410
+board agenda, how well the board can identify
+
+35
+00:01:43,410 --> 00:01:46,710
+and root out dysfunctionality in its midst and
+
+36
+00:01:46,710 --> 00:01:48,290
+of course performance evaluation.
+
+37
+00:01:49,190 --> 00:01:51,150
+So in terms of structure and composition on
+
+38
+00:01:51,150 --> 00:01:54,070
+the board the starting point is how our
+
+39
+00:01:54,070 --> 00:01:55,150
+directors have been appointed.
+
+40
+00:01:55,950 --> 00:01:57,750
+The board has to have a formal and
+
+41
+00:01:57,750 --> 00:02:01,230
+rigorous process of appointing directors, that process has
+
+42
+00:02:01,230 --> 00:02:04,550
+to be proactive so we're not thinking of
+
+43
+00:02:04,550 --> 00:02:07,530
+replacing directors when they have left or when
+
+44
+00:02:07,530 --> 00:02:09,430
+they are giving notice that they are going
+
+45
+00:02:09,430 --> 00:02:10,230
+to leave the board.
+
+46
+00:02:10,830 --> 00:02:13,110
+Periodically the board should do a skills assessment
+
+47
+00:02:13,790 --> 00:02:16,650
+of its composition, what skills do we have,
+
+48
+00:02:16,790 --> 00:02:19,070
+what skills are lacking, what skills do we
+
+49
+00:02:19,070 --> 00:02:21,330
+need if we're going to move into the
+
+50
+00:02:21,330 --> 00:02:24,430
+future and how do we acquire those skills.
+
+51
+00:02:24,810 --> 00:02:26,810
+So the board will typically drop a criteria
+
+52
+00:02:26,810 --> 00:02:29,030
+with the kind of directors that it wants
+
+53
+00:02:29,030 --> 00:02:32,910
+on the board and what skills gap there
+
+54
+00:02:32,910 --> 00:02:35,870
+exists such that there is a transparent process
+
+55
+00:02:35,870 --> 00:02:37,590
+and a rigorous process like that.
+
+56
+00:02:38,710 --> 00:02:41,630
+It's typical these days for directors to appoint
+
+57
+00:02:41,630 --> 00:02:44,650
+consultants to help them in the process of
+
+58
+00:02:44,650 --> 00:02:49,230
+identifying suitable directors that meet the criteria that
+
+59
+00:02:49,230 --> 00:02:49,930
+they have set.
+
+60
+00:02:50,630 --> 00:02:52,870
+In terms of composition and structure of the
+
+61
+00:02:52,870 --> 00:02:55,090
+board, the board should have the three types
+
+62
+00:02:55,090 --> 00:02:58,350
+of directors that we have described, non-executive,
+
+63
+00:02:58,690 --> 00:03:02,910
+executive directors and dependent non-executive directors.
+
+64
+00:03:03,650 --> 00:03:07,750
+For better effectiveness it is recommended that as
+
+65
+00:03:07,750 --> 00:03:11,390
+many as the non-executives themselves should be
+
+66
+00:03:11,390 --> 00:03:15,510
+independent, but what is critical and paramount across
+
+67
+00:03:15,510 --> 00:03:18,710
+all the codes is that non-executive directors
+
+68
+00:03:18,710 --> 00:03:20,930
+should be majority of the board.
+
+69
+00:03:21,610 --> 00:03:23,690
+So in a situation where you have an
+
+70
+00:03:23,690 --> 00:03:26,830
+equal number of executives and non-executives it
+
+71
+00:03:26,830 --> 00:03:28,810
+doesn't make for a very effective board.
+
+72
+00:03:29,310 --> 00:03:31,430
+It is also important for the structure of
+
+73
+00:03:31,430 --> 00:03:34,450
+the board that the board is robustly diverse.
+
+74
+00:03:34,830 --> 00:03:38,110
+Diversity in this instance refers to gender, age,
+
+75
+00:03:38,290 --> 00:03:42,270
+ethnicity, background, experience in all the forms of
+
+76
+00:03:42,270 --> 00:03:43,850
+diversity as much as possible.
+
+77
+00:03:44,650 --> 00:03:49,630
+Increasingly we're seeing boards appointing directors from outside
+
+78
+00:03:49,630 --> 00:03:51,570
+of their own jurisdiction just to give that
+
+79
+00:03:51,570 --> 00:03:55,570
+international experience as a subset of diversity as
+
+80
+00:03:55,570 --> 00:03:55,930
+well.
+
+81
+00:03:56,590 --> 00:03:58,930
+There should be clear separation of power between
+
+82
+00:03:58,930 --> 00:04:02,010
+the board and management such that there's no
+
+83
+00:04:02,010 --> 00:04:05,070
+overlap in their duties and this overlap can
+
+84
+00:04:05,070 --> 00:04:08,090
+be prevented by having a clear delegation of
+
+85
+00:04:08,090 --> 00:04:11,610
+authority document that defines the role of the
+
+86
+00:04:11,610 --> 00:04:14,630
+board and defines the matters that it has
+
+87
+00:04:14,630 --> 00:04:16,490
+delegated to management.

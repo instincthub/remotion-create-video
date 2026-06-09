@@ -5,3 +5,23 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+
+# Video files (all formats, anywhere in the repo)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.m4v
+*.wmv
+*.flv
+*.ogv
+*.3gp
+*.ts
+
+# Claude Code worktrees (temporary, never commit)
+.claude/worktrees/
+
+# Playwright scratch + brand-discovery screenshots (not source).
+.playwright-mcp/
+theplatform-home.jpeg

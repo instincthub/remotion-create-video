@@ -1,6 +1,12 @@
 import "./index.css";
 import { Composition, Folder } from "remotion";
 import { MyComposition } from "./Composition";
+import { AIInAfricaFintechComposition } from "./ai-in-africa/0006-ai-in-africa-fintech/Composition";
+import { AlternativeCreditScoringComposition } from "./ai-in-africa/0007-alternative-credit-scoring/Composition";
+import {
+  AIReinventedInsuranceComposition,
+  COMPOSITION_FRAMES as INSURANCE_FRAMES,
+} from "./ai-in-africa/0009-ai-reinvented-insurance/index";
 import { IntroComposition } from "./ai-for-business/01-intro/Composition";
 import { AIWinterComposition } from "./ai-for-business/02-ai-winter/Composition";
 import { EngineeringAIComposition } from "./ai-for-business/03-engineering-ai/Composition";
@@ -44,10 +50,471 @@ import { AIWakeUpCall3Composition } from "./weekly-reels/035-the-ai-wake-up-call
 import { AIWakeUpCall3ReelComposition } from "./weekly-reels/035-the-ai-wake-up-call-reel/index";
 import { AIWakeUpCall4Composition } from "./weekly-reels/037-the-ai-wake-up-call/index";
 import { AIWakeUpCall4ReelComposition } from "./weekly-reels/037-the-ai-wake-up-call-reel/index";
+import { BecomeAIPractitionerComposition } from "./weekly-reels/038-become-ai-practitioner/index";
+import { ThreeStagesReelComposition } from "./weekly-reels/039-three-stages-enterprise-ai/index";
+import { KidsAndAIParentTipsComposition } from "./kids-and-ai-chatbots/parent-tips/index";
+import { COMPOSITION_FRAMES as KIDS_AI_TOTAL_FRAMES } from "./kids-and-ai-chatbots/parent-tips/timing";
+import {
+  KidsAndAITeaserComposition,
+  TEASER_FRAMES,
+} from "./kids-and-ai-chatbots/teaser-reel/index";
+import {
+  DCSLDutiesOverviewComposition,
+  TOTAL_FRAMES as DCSL_DUTIES_FRAMES,
+} from "./dcsl/01-overview-duties-of-directors/index";
+import {
+  DCSLChairmanComposition,
+  TOTAL_FRAMES as DCSL_CHAIRMAN_FRAMES,
+} from "./dcsl/02-the-chairman/index";
+import {
+  DCSLBoardDutiesComposition,
+  TOTAL_FRAMES as DCSL_BOARD_DUTIES_FRAMES,
+} from "./dcsl/03-duties-and-responsibilities-of-the-board/index";
+import {
+  DCSLCaseStudyComposition,
+  TOTAL_FRAMES as DCSL_CASE_STUDY_FRAMES,
+} from "./dcsl/04-case-study/index";
+import {
+  DCSLOtherDutiesComposition,
+  TOTAL_FRAMES as DCSL_OTHER_DUTIES_FRAMES,
+} from "./dcsl/05-other-duties-of-directors-under-cama-2020/index";
+import {
+  DCSLComplianceComposition,
+  TOTAL_FRAMES as DCSL_COMPLIANCE_FRAMES,
+} from "./dcsl/06-ensuring-compliance-and-adequiate-internal-control/index";
+import {
+  DCSLRemovalComposition,
+  TOTAL_FRAMES as DCSL_REMOVAL_FRAMES,
+} from "./dcsl/07-removal-from-office/index";
+import {
+  DCSLNCCGComposition,
+  TOTAL_FRAMES as DCSL_NCCG_FRAMES,
+} from "./dcsl/08-nigerian-code-of-corporate-governance/index";
+import {
+  DCSLProvisionsComposition,
+  TOTAL_FRAMES as DCSL_PROVISIONS_FRAMES,
+} from "./dcsl/09-provisions-of-the-code/index";
+import {
+  DCSLMeetingsComposition,
+  TOTAL_FRAMES as DCSL_MEETINGS_FRAMES,
+} from "./dcsl/10-meeting-requirements/index";
+import {
+  DCSLEffectivenessComposition,
+  TOTAL_FRAMES as DCSL_EFFECTIVENESS_FRAMES,
+} from "./dcsl/11-how-facebook-acquired-instagram/index";
+import {
+  DCSLHireRemoveCEOComposition,
+  TOTAL_FRAMES as DCSL_HIRE_REMOVE_CEO_FRAMES,
+} from "./dcsl/12-the-board-can-hire-and-remove-a-ceo/index";
+import {
+  DCSLAvailabilityComposition,
+  TOTAL_FRAMES as DCSL_AVAILABILITY_FRAMES,
+} from "./dcsl/13-how-available-are-the-board-members/index";
+import {
+  DCSLAgendaComposition,
+  TOTAL_FRAMES as DCSL_AGENDA_FRAMES,
+} from "./dcsl/14-what-should-be-on-the-board-agenda/index";
+import {
+  DCSLDomineeringComposition,
+  TOTAL_FRAMES as DCSL_DOMINEERING_FRAMES,
+} from "./dcsl/15-a-domineering-board-member/index";
+import {
+  DCSLRedFlagsComposition,
+  TOTAL_FRAMES as DCSL_RED_FLAGS_FRAMES,
+} from "./dcsl/16-red-flag-in-corporate-board/index";
+import {
+  DCSLNextSeatComposition,
+  TOTAL_FRAMES as DCSL_NEXT_SEAT_FRAMES,
+} from "./dcsl/17-before-you-accept-next-board-member-seat/index";
+import { PLATFORM_LESSONS } from "./theplatform/founders-mindset-vusi/registry";
+import { Thumbnail as FMThumbnail } from "./theplatform/founders-mindset-vusi/Thumbnail";
+import { AFFIONG_LESSONS } from "./theplatform/affiong-williams-it-is-not-about-ideas/registry";
+import { Thumbnail as AWThumbnail } from "./theplatform/affiong-williams-it-is-not-about-ideas/Thumbnail";
+import { MODUPE_LESSONS } from "./theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/registry";
+import { Thumbnail as METhumbnail } from "./theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/Thumbnail";
+import { TIMILOLA_LESSONS } from "./theplatform/timilola-adetu-second-half-advantage/registry";
+import { Thumbnail as TLThumbnail } from "./theplatform/timilola-adetu-second-half-advantage/Thumbnail";
+import { JOHN_ALAMU_LESSONS } from "./theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/registry";
+import { Thumbnail as JAThumbnail } from "./theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/Thumbnail";
+import { TOSIN_LESSONS } from "./theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/registry";
+import { Thumbnail as TEThumbnail } from "./theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/Thumbnail";
+import { KEMI_LESSONS } from "./theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/registry";
+import { Thumbnail as KAThumbnail } from "./theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/Thumbnail";
 
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Folder name="dcsl">
+        <Composition
+          id="dcsl-01-overview-duties-of-directors"
+          component={DCSLDutiesOverviewComposition}
+          durationInFrames={DCSL_DUTIES_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            videoSrc: "dcsl-01-overview-duties.mp4",
+            logoSrc: "dcsl-logo-light.png",
+          }}
+        />
+        <Composition
+          id="dcsl-02-the-chairman"
+          component={DCSLChairmanComposition}
+          durationInFrames={DCSL_CHAIRMAN_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            videoSrc: "dcsl-02-the-chairman.mp4",
+            logoSrc: "dcsl-logo-light.png",
+          }}
+        />
+        <Composition
+          id="dcsl-03-duties-and-responsibilities-of-the-board"
+          component={DCSLBoardDutiesComposition}
+          durationInFrames={DCSL_BOARD_DUTIES_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            videoSrc: "dcsl-03-duties-of-the-board.mp4",
+            logoSrc: "dcsl-logo-light.png",
+          }}
+        />
+        <Composition
+          id="dcsl-04-case-study"
+          component={DCSLCaseStudyComposition}
+          durationInFrames={DCSL_CASE_STUDY_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            videoSrc: "dcsl-04-case-study.mp4",
+            logoSrc: "dcsl-logo-light.png",
+          }}
+        />
+        <Composition
+          id="dcsl-05-other-duties-of-directors-under-cama-2020"
+          component={DCSLOtherDutiesComposition}
+          durationInFrames={DCSL_OTHER_DUTIES_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            videoSrc: "dcsl-05-other-duties-cama.mp4",
+            logoSrc: "dcsl-logo-light.png",
+          }}
+        />
+        <Composition
+          id="dcsl-06-ensuring-compliance-and-internal-control"
+          component={DCSLComplianceComposition}
+          durationInFrames={DCSL_COMPLIANCE_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            videoSrc: "dcsl-06-compliance-control.mp4",
+            logoSrc: "dcsl-logo-light.png",
+          }}
+        />
+        <Composition
+          id="dcsl-07-removal-from-office"
+          component={DCSLRemovalComposition}
+          durationInFrames={DCSL_REMOVAL_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            videoSrc: "dcsl-07-removal-from-office.mp4",
+            logoSrc: "dcsl-logo-light.png",
+          }}
+        />
+        <Composition
+          id="dcsl-08-nigerian-code-of-corporate-governance"
+          component={DCSLNCCGComposition}
+          durationInFrames={DCSL_NCCG_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            videoSrc: "dcsl-08-nccg.mp4",
+            logoSrc: "dcsl-logo-light.png",
+          }}
+        />
+        <Composition
+          id="dcsl-09-provisions-of-the-code"
+          component={DCSLProvisionsComposition}
+          durationInFrames={DCSL_PROVISIONS_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            videoSrc: "dcsl-09-provisions-of-the-code.mp4",
+            logoSrc: "dcsl-logo-light.png",
+          }}
+        />
+        <Composition
+          id="dcsl-10-meeting-requirements"
+          component={DCSLMeetingsComposition}
+          durationInFrames={DCSL_MEETINGS_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            videoSrc: "dcsl-10-meeting-requirements.mp4",
+            logoSrc: "dcsl-logo-light.png",
+          }}
+        />
+        <Composition
+          id="dcsl-11-how-facebook-acquired-instagram"
+          component={DCSLEffectivenessComposition}
+          durationInFrames={DCSL_EFFECTIVENESS_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            videoSrc: "dcsl-11-facebook-instagram.mp4",
+            logoSrc: "dcsl-logo-light.png",
+          }}
+        />
+        <Composition
+          id="dcsl-12-the-board-can-hire-and-remove-a-ceo"
+          component={DCSLHireRemoveCEOComposition}
+          durationInFrames={DCSL_HIRE_REMOVE_CEO_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            videoSrc: "dcsl-12-hire-remove-ceo.mp4",
+            logoSrc: "dcsl-logo-light.png",
+          }}
+        />
+        <Composition
+          id="dcsl-13-how-available-are-the-board-members"
+          component={DCSLAvailabilityComposition}
+          durationInFrames={DCSL_AVAILABILITY_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            videoSrc: "dcsl-13-availability.mp4",
+            logoSrc: "dcsl-logo-light.png",
+          }}
+        />
+        <Composition
+          id="dcsl-14-what-should-be-on-the-board-agenda"
+          component={DCSLAgendaComposition}
+          durationInFrames={DCSL_AGENDA_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            videoSrc: "dcsl-14-board-agenda.mp4",
+            logoSrc: "dcsl-logo-light.png",
+          }}
+        />
+        <Composition
+          id="dcsl-15-a-domineering-board-member"
+          component={DCSLDomineeringComposition}
+          durationInFrames={DCSL_DOMINEERING_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            videoSrc: "dcsl-15-domineering.mp4",
+            logoSrc: "dcsl-logo-light.png",
+          }}
+        />
+        <Composition
+          id="dcsl-16-red-flag-in-corporate-board"
+          component={DCSLRedFlagsComposition}
+          durationInFrames={DCSL_RED_FLAGS_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            videoSrc: "dcsl-16-red-flags.mp4",
+            logoSrc: "dcsl-logo-light.png",
+          }}
+        />
+        <Composition
+          id="dcsl-17-before-you-accept-next-board-member-seat"
+          component={DCSLNextSeatComposition}
+          durationInFrames={DCSL_NEXT_SEAT_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            videoSrc: "dcsl-17-next-seat.mp4",
+            logoSrc: "dcsl-logo-light.png",
+          }}
+        />
+      </Folder>
+
+      <Folder name="theplatform">
+        <Folder name="founders-mindset-vusi">
+          {PLATFORM_LESSONS.map((l) => (
+            <Composition
+              key={l.id}
+              id={l.id}
+              component={l.component}
+              durationInFrames={l.totalFrames}
+              fps={30}
+              width={1920}
+              height={1080}
+              defaultProps={{ videoSrc: l.videoSrc, logoSrc: "" }}
+            />
+          ))}
+          <Composition
+            id="fm-thumbnail"
+            component={FMThumbnail}
+            durationInFrames={1}
+            fps={30}
+            width={1920}
+            height={1080}
+            defaultProps={{ portraitSrc: "tp-fm-vusi-portrait.jpg" }}
+          />
+        </Folder>
+        <Folder name="affiong-williams-plant-trees">
+          {AFFIONG_LESSONS.map((l) => (
+            <Composition
+              key={l.id}
+              id={l.id}
+              component={l.component}
+              durationInFrames={l.totalFrames}
+              fps={30}
+              width={1920}
+              height={1080}
+              defaultProps={{ videoSrc: l.videoSrc, logoSrc: "" }}
+            />
+          ))}
+          <Composition
+            id="aw-thumbnail"
+            component={AWThumbnail}
+            durationInFrames={1}
+            fps={30}
+            width={1920}
+            height={1080}
+            defaultProps={{ portraitSrc: "tp-aw-affiong-portrait.jpg" }}
+          />
+        </Folder>
+        <Folder name="prof-modupe-second-half-advantage">
+          {MODUPE_LESSONS.map((l) => (
+            <Composition
+              key={l.id}
+              id={l.id}
+              component={l.component}
+              durationInFrames={l.totalFrames}
+              fps={30}
+              width={1920}
+              height={1080}
+              defaultProps={{ videoSrc: l.videoSrc, logoSrc: "" }}
+            />
+          ))}
+          <Composition
+            id="me-thumbnail"
+            component={METhumbnail}
+            durationInFrames={1}
+            fps={30}
+            width={1920}
+            height={1080}
+            defaultProps={{ portraitSrc: "tp-me-modupe-portrait.jpg" }}
+          />
+        </Folder>
+        <Folder name="timilola-adetu-second-half-advantage">
+          {TIMILOLA_LESSONS.map((l) => (
+            <Composition
+              key={l.id}
+              id={l.id}
+              component={l.component}
+              durationInFrames={l.totalFrames}
+              fps={30}
+              width={1920}
+              height={1080}
+              defaultProps={{ videoSrc: l.videoSrc, logoSrc: "" }}
+            />
+          ))}
+          <Composition
+            id="tl-thumbnail"
+            component={TLThumbnail}
+            durationInFrames={1}
+            fps={30}
+            width={1920}
+            height={1080}
+            defaultProps={{ portraitSrc: "tp-tl-timilola-portrait.jpg" }}
+          />
+        </Folder>
+        <Folder name="john-alamu-making-ideas-happen">
+          {JOHN_ALAMU_LESSONS.map((l) => (
+            <Composition
+              key={l.id}
+              id={l.id}
+              component={l.component}
+              durationInFrames={l.totalFrames}
+              fps={30}
+              width={1920}
+              height={1080}
+              defaultProps={{ videoSrc: l.videoSrc, logoSrc: "" }}
+            />
+          ))}
+          <Composition
+            id="ja-thumbnail"
+            component={JAThumbnail}
+            durationInFrames={1}
+            fps={30}
+            width={1920}
+            height={1080}
+            defaultProps={{ portraitSrc: "tp-ja-john-portrait.jpg" }}
+          />
+        </Folder>
+        <Folder name="tosin-eniolorunda-execution">
+          {TOSIN_LESSONS.map((l) => (
+            <Composition
+              key={l.id}
+              id={l.id}
+              component={l.component}
+              durationInFrames={l.totalFrames}
+              fps={30}
+              width={1920}
+              height={1080}
+              defaultProps={{ videoSrc: l.videoSrc, logoSrc: "" }}
+            />
+          ))}
+          <Composition
+            id="te-thumbnail"
+            component={TEThumbnail}
+            durationInFrames={1}
+            fps={30}
+            width={1920}
+            height={1080}
+            defaultProps={{ portraitSrc: "tp-te-tosin-portrait.jpg" }}
+          />
+        </Folder>
+        <Folder name="kemi-adeosun-great-idea">
+          {KEMI_LESSONS.map((l) => (
+            <Composition
+              key={l.id}
+              id={l.id}
+              component={l.component}
+              durationInFrames={l.totalFrames}
+              fps={30}
+              width={1920}
+              height={1080}
+              defaultProps={{ videoSrc: l.videoSrc, logoSrc: "" }}
+            />
+          ))}
+          <Composition
+            id="ka-thumbnail"
+            component={KAThumbnail}
+            durationInFrames={1}
+            fps={30}
+            width={1920}
+            height={1080}
+            defaultProps={{ portraitSrc: "tp-ka-kemi-portrait.jpg" }}
+          />
+        </Folder>
+      </Folder>
+
       <Folder name="ai-for-business">
         <Composition
           id="01-intro"
@@ -395,6 +862,73 @@ export const RemotionRoot: React.FC = () => {
           fps={30}
           width={1080}
           height={1920}
+        />
+        <Composition
+          id="038-become-ai-practitioner"
+          component={BecomeAIPractitionerComposition}
+          durationInFrames={2235}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+        <Composition
+          id="039-three-stages-enterprise-ai"
+          component={ThreeStagesReelComposition}
+          durationInFrames={630}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+      </Folder>
+
+      <Folder name="ai-in-africa">
+        <Composition
+          id="0006-ai-in-africa-fintech"
+          component={AIInAfricaFintechComposition}
+          durationInFrames={5730}
+          fps={30}
+          width={1920}
+          height={1080}
+        />
+        <Composition
+          id="0007-alternative-credit-scoring"
+          component={AlternativeCreditScoringComposition}
+          durationInFrames={4275}
+          fps={30}
+          width={1920}
+          height={1080}
+        />
+        <Composition
+          id="0009-ai-reinvented-insurance"
+          component={AIReinventedInsuranceComposition}
+          durationInFrames={INSURANCE_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{
+            videoSrc: "0009-ai-reinvented-insurance-cut.mp4",
+          }}
+        />
+      </Folder>
+
+      <Folder name="kids-and-ai-chatbots">
+        <Composition
+          id="kids-and-ai-parent-tips"
+          component={KidsAndAIParentTipsComposition}
+          durationInFrames={KIDS_AI_TOTAL_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{ videoSrc: "kids-and-ai-parent-tips.mp4" }}
+        />
+        <Composition
+          id="kids-and-ai-teaser-reel"
+          component={KidsAndAITeaserComposition}
+          durationInFrames={TEASER_FRAMES}
+          fps={30}
+          width={1080}
+          height={1920}
+          defaultProps={{ videoSrc: "kids-and-ai-parent-tips.mp4" }}
         />
       </Folder>
 

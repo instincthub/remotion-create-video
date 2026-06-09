@@ -1,0 +1,575 @@
+1
+00:00:00,250 --> 00:00:01,870
+So we'll now speak to board effectiveness.
+
+2
+00:00:02,090 --> 00:00:04,530
+I've described the duties and responsibilities of the
+
+3
+00:00:04,530 --> 00:00:06,710
+board but those are the basics, the very
+
+4
+00:00:06,710 --> 00:00:07,150
+basics.
+
+5
+00:00:08,170 --> 00:00:10,530
+A board has to be effective for it
+
+6
+00:00:10,530 --> 00:00:11,890
+to add value to the business.
+
+7
+00:00:12,470 --> 00:00:14,230
+So let's call board effectiveness, we'll take a
+
+8
+00:00:14,230 --> 00:00:18,130
+short case study of how Facebook acquired Instagram.
+
+9
+00:00:19,630 --> 00:00:21,970
+So Mark Zuckerberg owned at the point this
+
+10
+00:00:21,970 --> 00:00:25,210
+case study came up 28% of Facebook
+
+11
+00:00:25,210 --> 00:00:28,770
+stock and controlled 57% of its voting
+
+12
+00:00:28,770 --> 00:00:29,230
+rights.
+
+13
+00:00:30,070 --> 00:00:32,830
+Facebook's public offering was only a few weeks
+
+14
+00:00:32,830 --> 00:00:33,230
+away.
+
+15
+00:00:34,070 --> 00:00:36,670
+On the other hand, Kevin owned about 45
+
+16
+00:00:36,670 --> 00:00:37,970
+% of Instagram.
+
+17
+00:00:38,670 --> 00:00:40,410
+The company at the time was 18 months
+
+18
+00:00:40,410 --> 00:00:44,810
+old, employed 13 people, had 35 million users,
+
+19
+00:00:45,370 --> 00:00:46,030
+nil revenue.
+
+20
+00:00:47,190 --> 00:00:50,790
+On Thursday the 5th of April 2012, Zuckerberg
+
+21
+00:00:50,790 --> 00:00:53,690
+picked up his phone and asked Kevin for
+
+22
+00:00:53,690 --> 00:00:54,250
+a meeting.
+
+23
+00:00:54,750 --> 00:00:56,870
+Over the next three days, which happened to
+
+24
+00:00:56,870 --> 00:00:59,490
+be over the weekend, the two CEOs negotiated
+
+25
+00:00:59,490 --> 00:01:01,790
+in the privacy of Zuckerberg's home.
+
+26
+00:01:02,310 --> 00:01:06,190
+On Sunday morning, April the 8th, Zuckerberg emailed
+
+27
+00:01:06,190 --> 00:01:11,370
+his board that he wanted to buy Instagram.
+
+28
+00:01:12,060 --> 00:01:14,150
+On Monday, the deal was announced.
+
+29
+00:01:15,030 --> 00:01:16,570
+So a few things would have happened here,
+
+30
+00:01:17,490 --> 00:01:19,610
+you know, like I said, or like the
+
+31
+00:01:19,610 --> 00:01:23,110
+case facts say, the public offering of Facebook
+
+32
+00:01:23,110 --> 00:01:24,610
+was just a few weeks away.
+
+33
+00:01:25,270 --> 00:01:27,690
+If the deal to buy Instagram had gone
+
+34
+00:01:27,690 --> 00:01:30,670
+wrong, it would have significantly affected the public
+
+35
+00:01:30,670 --> 00:01:31,130
+offering.
+
+36
+00:01:31,790 --> 00:01:35,870
+Why did Zuckerberg not involve his board in
+
+37
+00:01:35,870 --> 00:01:36,590
+this negotiation?
+
+38
+00:01:36,830 --> 00:01:38,970
+A few reasons would come to mind.
+
+39
+00:01:39,550 --> 00:01:41,510
+One of which is the fact that Zuckerberg
+
+40
+00:01:41,510 --> 00:01:44,550
+seemingly had control of the board.
+
+41
+00:01:44,670 --> 00:01:47,170
+He was the one that appointed almost all,
+
+42
+00:01:47,270 --> 00:01:48,790
+in fact, all of the board members because
+
+43
+00:01:48,790 --> 00:01:51,070
+essentially he owned the company.
+
+44
+00:01:51,270 --> 00:01:53,490
+And so he appointed a few of his
+
+45
+00:01:53,490 --> 00:01:55,630
+cronies as members of the board.
+
+46
+00:01:55,670 --> 00:01:58,170
+So they didn't really have a say in
+
+47
+00:01:58,170 --> 00:02:00,090
+the governing of the organisation.
+
+48
+00:02:01,030 --> 00:02:04,250
+Second thing, and this is very much true
+
+49
+00:02:04,250 --> 00:02:06,950
+of tech companies, he felt that the board
+
+50
+00:02:06,950 --> 00:02:10,390
+might not have an understanding of the gravity
+
+51
+00:02:10,390 --> 00:02:11,850
+of the opportunity.
+
+52
+00:02:12,510 --> 00:02:14,510
+And he felt that he was slowed down
+
+53
+00:02:14,510 --> 00:02:16,250
+or bogged down by the bureaucracy of holding
+
+54
+00:02:16,250 --> 00:02:18,750
+a board meeting and taking the trouble to
+
+55
+00:02:18,750 --> 00:02:20,530
+explain to the board.
+
+56
+00:02:21,070 --> 00:02:23,010
+Some people have also said perhaps the board
+
+57
+00:02:23,010 --> 00:02:26,430
+had given him a significant or delegated to
+
+58
+00:02:26,430 --> 00:02:29,610
+him a significant portion of their authority.
+
+59
+00:02:30,270 --> 00:02:35,010
+But regardless, acquisition, mergers and acquisitions, and a
+
+60
+00:02:35,010 --> 00:02:37,770
+transaction of this nature should not or could
+
+61
+00:02:37,770 --> 00:02:39,630
+not have been delegated to the CEO.
+
+62
+00:02:40,430 --> 00:02:42,930
+Critically, the board should have considered the pros
+
+63
+00:02:42,930 --> 00:02:46,070
+and cons of such a major acquisition and
+
+64
+00:02:46,070 --> 00:02:49,290
+the impact of it on particularly the impending
+
+65
+00:02:49,290 --> 00:02:51,510
+public offer of Facebook.
+
+66
+00:02:52,030 --> 00:02:55,230
+Fortunately for Zuckerberg and the board and the
+
+67
+00:02:55,230 --> 00:02:58,390
+company as a whole, the deal has succeeded
+
+68
+00:02:58,390 --> 00:03:02,110
+as we can see how profitable the addition
+
+69
+00:03:02,110 --> 00:03:05,190
+of Instagram to the business has been.
+
+70
+00:03:05,970 --> 00:03:08,210
+But this underscores the effectiveness of the board.
+
+71
+00:03:08,350 --> 00:03:11,270
+How effective would one say that board was?
+
+72
+00:03:11,690 --> 00:03:15,330
+In my opinion, very ineffective because again, it
+
+73
+00:03:15,330 --> 00:03:17,870
+could have caused significant losses to the business.
+
+74
+00:03:18,110 --> 00:03:20,210
+And so we go on to the definition
+
+75
+00:03:20,210 --> 00:03:23,870
+of an effective board as described by the
+
+76
+00:03:23,870 --> 00:03:25,730
+Nigerian Code of Corporate Governance, which I will
+
+77
+00:03:25,730 --> 00:03:25,990
+read.
+
+78
+00:03:26,890 --> 00:03:29,530
+It says a successful company is headed by
+
+79
+00:03:29,530 --> 00:03:33,610
+an effective board which is responsible for providing
+
+80
+00:03:33,610 --> 00:03:38,130
+entrepreneurial and strategic leadership, as well as promoting
+
+81
+00:03:38,130 --> 00:03:41,170
+ethical, cultural and responsible corporate citizenship.
+
+82
+00:03:41,810 --> 00:03:44,770
+As a link between stakeholders and the company,
+
+83
+00:03:45,310 --> 00:03:48,410
+the board is to exercise oversight and control
+
+84
+00:03:48,410 --> 00:03:51,150
+to ensure that management acts in the best
+
+85
+00:03:51,150 --> 00:03:55,650
+interest of shareholders and other stakeholders while sustaining
+
+86
+00:03:55,650 --> 00:03:57,770
+the prosperity of the company.
+
+87
+00:03:58,390 --> 00:04:00,350
+This is taken from principle one of the
+
+88
+00:04:00,350 --> 00:04:01,710
+Nigerian Code of Corporate Governance.
+
+89
+00:04:01,830 --> 00:04:05,570
+So essentially, beyond meeting the basics like we
+
+90
+00:04:05,570 --> 00:04:07,530
+have described in the course of this session,
+
+91
+00:04:08,070 --> 00:04:10,010
+the board also has to be effective.
+
+92
+00:04:10,610 --> 00:04:14,350
+The board has to provide entrepreneurial and strategic
+
+93
+00:04:14,350 --> 00:04:14,930
+leadership.
+
+94
+00:04:15,790 --> 00:04:17,709
+That's why many boards go to the trouble
+
+95
+00:04:17,709 --> 00:04:21,950
+of identifying directors who can add value beyond
+
+96
+00:04:22,810 --> 00:04:26,890
+just attending meetings and providing the regular oversight
+
+97
+00:04:26,890 --> 00:04:29,830
+and they have to provide leadership to the
+
+98
+00:04:29,830 --> 00:04:30,130
+business.
+
+99
+00:04:30,270 --> 00:04:32,410
+So broken down, the role of the board
+
+100
+00:04:32,410 --> 00:04:35,490
+can be described as that of providing accountability.
+
+101
+00:04:36,270 --> 00:04:39,030
+The board puts itself in a position where
+
+102
+00:04:39,030 --> 00:04:40,770
+management is accountable to it.
+
+103
+00:04:41,350 --> 00:04:42,610
+And one of the ways that the board
+
+104
+00:04:42,610 --> 00:04:45,770
+can be accountable to the board is what
+
+105
+00:04:45,770 --> 00:04:46,950
+we had described earlier.
+
+106
+00:04:47,490 --> 00:04:50,550
+The board sets key performance indicators and measures
+
+107
+00:04:50,550 --> 00:04:53,410
+the performance of management against these key performance
+
+108
+00:04:53,410 --> 00:04:53,890
+indicators.
+
+109
+00:04:54,310 --> 00:04:56,630
+So management knows that it is accountable to
+
+110
+00:04:56,630 --> 00:05:00,430
+a body and not just accountable to itself.
+
+111
+00:05:00,850 --> 00:05:02,410
+The board on the other hand is accountable
+
+112
+00:05:02,410 --> 00:05:08,430
+to shareholders who have appointed ostensibly the directors.
+
+113
+00:05:09,210 --> 00:05:10,710
+The board also provides leadership.
+
+114
+00:05:11,130 --> 00:05:14,110
+Now this leadership is not academic.
+
+115
+00:05:14,490 --> 00:05:17,690
+The leadership is actually leadership that is responsible
+
+116
+00:05:17,690 --> 00:05:19,430
+for strategy and direction.
+
+117
+00:05:20,090 --> 00:05:21,730
+The board sets the tone in terms of
+
+118
+00:05:21,730 --> 00:05:25,390
+where the business is headed and allows management
+
+119
+00:05:25,390 --> 00:05:29,470
+to provide strategic initiatives to achieve the said
+
+120
+00:05:29,470 --> 00:05:29,930
+strategy.
+
+121
+00:05:30,710 --> 00:05:32,350
+The board is the one that sets the
+
+122
+00:05:32,350 --> 00:05:35,430
+ethical tone, what we describe as the tone
+
+123
+00:05:35,430 --> 00:05:35,970
+at the top.
+
+124
+00:05:36,610 --> 00:05:38,610
+And that tone is defined by the kind
+
+125
+00:05:38,610 --> 00:05:41,710
+of people that we hire, how we evaluate
+
+126
+00:05:41,710 --> 00:05:46,270
+performance and how we reward and punish bad
+
+127
+00:05:46,270 --> 00:05:46,730
+behaviour.
+
+128
+00:05:47,510 --> 00:05:49,690
+The board is also expected to measure and
+
+129
+00:05:49,690 --> 00:05:50,590
+monitor performance.
+
+130
+00:05:50,770 --> 00:05:51,990
+We have spoken about that earlier.
+
+131
+00:05:52,710 --> 00:05:55,350
+The board is responsible for risk management, ensuring
+
+132
+00:05:55,350 --> 00:05:59,010
+that the financial statements present a true and
+
+133
+00:05:59,010 --> 00:06:02,570
+fair view and also managing succession planning and
+
+134
+00:06:02,570 --> 00:06:03,510
+business continuity.
+
+135
+00:06:03,990 --> 00:06:06,070
+We saw during COVID that a number of
+
+136
+00:06:06,070 --> 00:06:10,090
+organisations did not survive COVID because they didn't
+
+137
+00:06:10,090 --> 00:06:14,010
+have robust business continuity plans that would ensure
+
+138
+00:06:14,010 --> 00:06:16,370
+that whatever the crisis, whatever the nature of
+
+139
+00:06:16,370 --> 00:06:18,870
+the crisis, the organisation is able to go
+
+140
+00:06:18,870 --> 00:06:19,330
+beyond.
+
+141
+00:06:19,930 --> 00:06:22,670
+That also affects succession planning.
+
+142
+00:06:22,670 --> 00:06:24,550
+The board should not leave the issue of
+
+143
+00:06:24,550 --> 00:06:27,750
+succession planning at critical levels in the organisation
+
+144
+00:06:27,750 --> 00:06:29,450
+to management.

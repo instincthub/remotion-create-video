@@ -1,0 +1,291 @@
+1
+00:00:00,220 --> 00:00:02,020
+So the Nigerian Code of Copy Governance, just
+
+2
+00:00:02,020 --> 00:00:03,880
+to speak to it a little bit, is
+
+3
+00:00:03,880 --> 00:00:05,160
+a code of best practise.
+
+4
+00:00:05,500 --> 00:00:09,140
+It has 28 principles and the idea behind
+
+5
+00:00:09,140 --> 00:00:12,780
+it, the philosophy behind it, is apply and
+
+6
+00:00:12,780 --> 00:00:13,300
+explain.
+
+7
+00:00:13,680 --> 00:00:17,040
+So essentially, apply the principles and each principle
+
+8
+00:00:17,040 --> 00:00:21,940
+also has guidelines or best practise on how
+
+9
+00:00:21,940 --> 00:00:24,400
+to apply those principles.
+
+10
+00:00:25,280 --> 00:00:29,960
+Indeed, whilst it's apply and explain, the Financial
+
+11
+00:00:29,960 --> 00:00:32,740
+Reporting Council, which is the one that has
+
+12
+00:00:32,740 --> 00:00:37,260
+the custody of ensuring compliance, has also introduced
+
+13
+00:00:37,260 --> 00:00:40,960
+sanctions for non-compliance with the provisions of
+
+14
+00:00:40,960 --> 00:00:41,340
+the code.
+
+15
+00:00:41,720 --> 00:00:43,800
+So I'll just quickly go through a few
+
+16
+00:00:43,800 --> 00:00:48,020
+provisions of the respective codes and guidelines as
+
+17
+00:00:48,020 --> 00:00:50,580
+to what they say with regards to certain
+
+18
+00:00:50,580 --> 00:00:53,300
+key governance principles or issues.
+
+19
+00:00:53,860 --> 00:00:55,460
+The first one I will speak to is
+
+20
+00:00:55,460 --> 00:00:56,260
+the board size.
+
+21
+00:00:56,760 --> 00:00:58,540
+So the Nigerian Code of Copy Governance has
+
+22
+00:00:58,540 --> 00:01:02,320
+not mandated a particular number of directors to
+
+23
+00:01:02,320 --> 00:01:04,140
+be on the board and it has left
+
+24
+00:01:04,140 --> 00:01:05,800
+it to the discretion of the board or
+
+25
+00:01:05,800 --> 00:01:09,040
+the board charter to determine how many directors
+
+26
+00:01:09,040 --> 00:01:12,960
+can effectively oversee the activities of the business.
+
+27
+00:01:13,400 --> 00:01:16,980
+However, sectoral codes have in their wisdom defined
+
+28
+00:01:16,980 --> 00:01:19,140
+minimum and maximum numbers.
+
+29
+00:01:19,140 --> 00:01:21,100
+So for instance, the CBN Code of Copy
+
+30
+00:01:21,100 --> 00:01:23,780
+Governance provides for a minimum number of seven
+
+31
+00:01:23,780 --> 00:01:26,760
+directors and a maximum number of 15 directors
+
+32
+00:01:26,760 --> 00:01:29,480
+on the board of the commercial bank.
+
+33
+00:01:30,320 --> 00:01:33,460
+So on board composition, the codes require that
+
+34
+00:01:33,460 --> 00:01:35,540
+the three types of directors that we had
+
+35
+00:01:35,540 --> 00:01:37,720
+described earlier on should be on the board,
+
+36
+00:01:37,880 --> 00:01:40,680
+with each guideline or code also requiring that
+
+37
+00:01:40,680 --> 00:01:42,100
+there should be a minimum of at least
+
+38
+00:01:42,100 --> 00:01:45,880
+one independent non-executive director on the board.
+
+39
+00:01:46,400 --> 00:01:49,120
+The CBN code is stricter as it requires
+
+40
+00:01:49,120 --> 00:01:51,660
+that there should be at least three independent
+
+41
+00:01:51,660 --> 00:01:55,060
+directors on the board of the bank, one
+
+42
+00:01:55,060 --> 00:01:58,760
+of whom shall have knowledge and expertise in
+
+43
+00:01:58,760 --> 00:02:05,340
+innovation, financial technology, information communication technology, and
+
+44
+00:02:05,340 --> 00:02:06,360
+cyber security.
+
+45
+00:02:07,740 --> 00:02:09,539
+The codes also speak to the codes and
+
+46
+00:02:09,539 --> 00:02:09,979
+guidelines.
+
+47
+00:02:10,120 --> 00:02:13,200
+I will use codes and guidelines interchangeably in
+
+48
+00:02:13,200 --> 00:02:14,460
+the course of this session.
+
+49
+00:02:15,020 --> 00:02:17,520
+So the codes also speak to more diversity
+
+50
+00:02:17,520 --> 00:02:21,340
+and diversity has been clearly defined to not
+
+51
+00:02:21,340 --> 00:02:24,480
+just be gender diversity, but also diversity in
+
+52
+00:02:24,480 --> 00:02:28,980
+terms of age, experience, background, and all the
+
+53
+00:02:28,980 --> 00:02:32,640
+general principles of diversity including ethnic diversity.
+
+54
+00:02:33,740 --> 00:02:36,240
+Not all the codes have defined tenure for
+
+55
+00:02:36,240 --> 00:02:37,660
+directors like I said earlier on.
+
+56
+00:02:37,740 --> 00:02:39,880
+So the Nigerian Code of Copy Governance has
+
+57
+00:02:39,880 --> 00:02:41,760
+left this at the discretion of the board,
+
+58
+00:02:42,160 --> 00:02:44,880
+but the CBN code and CBN guidelines is
+
+59
+00:02:44,880 --> 00:02:47,580
+quite strict on tenure and has defined a
+
+60
+00:02:47,580 --> 00:02:50,160
+maximum of 12 years for executive and non
+
+61
+00:02:50,160 --> 00:02:54,980
+-executive directors, and eight years for independent non
+
+62
+00:02:54,980 --> 00:02:56,000
+-executive directors.
+
+63
+00:02:56,140 --> 00:02:59,160
+The rationale for defining tenure is to ensure
+
+64
+00:02:59,160 --> 00:03:02,000
+that the board periodically has an opportunity to
+
+65
+00:03:02,000 --> 00:03:04,720
+refresh its membership such that we don't have
+
+66
+00:03:04,720 --> 00:03:08,380
+the same directors serving for inordinate periods of
+
+67
+00:03:08,380 --> 00:03:09,080
+time.
+
+68
+00:03:09,080 --> 00:03:11,340
+Gone are the days where directors are appointed
+
+69
+00:03:11,340 --> 00:03:13,600
+and they understand that their appointments are for
+
+70
+00:03:13,600 --> 00:03:15,580
+life as our trustees.
+
+71
+00:03:15,940 --> 00:03:20,320
+However, directors should have fixed tenure, like I
+
+72
+00:03:20,320 --> 00:03:22,040
+said, to ensure that the board continues to
+
+73
+00:03:22,040 --> 00:03:25,360
+refresh itself and replenish its membership.

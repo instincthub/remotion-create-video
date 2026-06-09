@@ -1,0 +1,383 @@
+1
+00:00:00,790 --> 00:00:02,510
+The chairman is the leader of the board.
+
+2
+00:00:02,650 --> 00:00:05,110
+He is also a non-executive director.
+
+3
+00:00:05,790 --> 00:00:07,610
+In some cases, the chairman could be an
+
+4
+00:00:07,610 --> 00:00:09,430
+independent non-executive director.
+
+5
+00:00:09,610 --> 00:00:11,130
+I'll speak about that in a minute.
+
+6
+00:00:11,750 --> 00:00:13,430
+However, the chairman is the leader of the
+
+7
+00:00:13,430 --> 00:00:13,690
+board.
+
+8
+00:00:14,190 --> 00:00:16,470
+He is also referred to as first amongst
+
+9
+00:00:16,470 --> 00:00:16,950
+equals.
+
+10
+00:00:17,950 --> 00:00:20,230
+One of the responsibilities that the chairman has
+
+11
+00:00:20,230 --> 00:00:22,310
+is to ensure that as much as possible,
+
+12
+00:00:22,950 --> 00:00:25,530
+all of the directors on the board contribute
+
+13
+00:00:25,530 --> 00:00:28,990
+effectively to the discussions on the board.
+
+14
+00:00:29,690 --> 00:00:32,370
+So to give an illustration of that, when
+
+15
+00:00:32,370 --> 00:00:34,570
+you have new directors on the board, there's
+
+16
+00:00:34,570 --> 00:00:37,030
+a tendency for them to sort of feel
+
+17
+00:00:37,030 --> 00:00:39,430
+like they need to understand the dynamics of
+
+18
+00:00:39,430 --> 00:00:42,630
+the board and might spend time, sometimes too
+
+19
+00:00:42,630 --> 00:00:45,690
+long a period, to get acclimatised and so
+
+20
+00:00:45,690 --> 00:00:46,950
+they remain quiet for a while.
+
+21
+00:00:47,530 --> 00:00:49,430
+The chairman's responsibility is to make them feel
+
+22
+00:00:49,430 --> 00:00:52,850
+comfortable and actually seek them out and have
+
+23
+00:00:52,850 --> 00:00:55,430
+them contribute effectively to discussions.
+
+24
+00:00:56,270 --> 00:00:58,650
+The chairman also acts as a link between
+
+25
+00:00:59,430 --> 00:01:01,510
+the board and management.
+
+26
+00:01:02,310 --> 00:01:06,150
+He or she essentially gives guidance to the
+
+27
+00:01:06,150 --> 00:01:08,150
+CEO or the MD, as we had spoken
+
+28
+00:01:08,150 --> 00:01:11,270
+about, and ensures that whatever information the board
+
+29
+00:01:11,270 --> 00:01:14,030
+wants to pass to management, as much as
+
+30
+00:01:14,030 --> 00:01:16,850
+possible, he acts as that link person.
+
+31
+00:01:19,140 --> 00:01:22,000
+There's tenure restriction on directors, I must say,
+
+32
+00:01:22,180 --> 00:01:25,460
+under the different codes of corporate governance, now
+
+33
+00:01:25,460 --> 00:01:26,200
+guidelines.
+
+34
+00:01:27,140 --> 00:01:28,880
+The Nigerian Code of Corporate Governance, which is
+
+35
+00:01:28,880 --> 00:01:30,520
+the one that I'll be referencing a lot
+
+36
+00:01:30,520 --> 00:01:33,000
+in the course of this session, does not
+
+37
+00:01:33,000 --> 00:01:36,400
+specify a tenure for the categories of directors
+
+38
+00:01:36,400 --> 00:01:39,180
+I've spoken about, i.e. the EDs and
+
+39
+00:01:39,180 --> 00:01:41,140
+the non-executive directors.
+
+40
+00:01:42,160 --> 00:01:45,880
+The specific sectoral codes, for instance the CBN
+
+41
+00:01:45,880 --> 00:01:49,980
+guidelines, fixes a maximum tenure of 12 years
+
+42
+00:01:49,980 --> 00:01:52,340
+for these categories of directors.
+
+43
+00:01:53,240 --> 00:01:55,720
+The third category of directors is the independent
+
+44
+00:01:55,720 --> 00:01:57,280
+non-executive director.
+
+45
+00:01:58,100 --> 00:02:00,620
+This category of directors are expected to serve
+
+46
+00:02:00,620 --> 00:02:02,720
+on the board for not longer than 9
+
+47
+00:02:02,720 --> 00:02:06,020
+years in the case of non-financial institutions
+
+48
+00:02:06,020 --> 00:02:08,759
+and 8 years in the case of financial
+
+49
+00:02:08,759 --> 00:02:09,620
+institutions.
+
+50
+00:02:10,260 --> 00:02:14,280
+Essentially, they bring a level of independence, not
+
+51
+00:02:14,280 --> 00:02:16,960
+just in the way they are appointed, which
+
+52
+00:02:16,960 --> 00:02:22,000
+is critical, but also in their own situations
+
+53
+00:02:22,000 --> 00:02:22,580
+as well.
+
+54
+00:02:23,000 --> 00:02:25,400
+So they're not expected to be representatives of
+
+55
+00:02:25,400 --> 00:02:26,340
+significant shareholders.
+
+56
+00:02:27,140 --> 00:02:30,120
+In fact, typically they're not expected to hold
+
+57
+00:02:30,120 --> 00:02:31,480
+shares in the company.
+
+58
+00:02:32,320 --> 00:02:34,800
+The Nigerian Code of Corporate Governance specifies a
+
+59
+00:02:34,800 --> 00:02:36,820
+minimum number of shares they can hold, which
+
+60
+00:02:36,820 --> 00:02:39,060
+is 0.01%, very minimal.
+
+61
+00:02:39,820 --> 00:02:42,820
+But best practise would stipulate that they shouldn't
+
+62
+00:02:42,820 --> 00:02:45,380
+even own shares in the business because they
+
+63
+00:02:45,380 --> 00:02:48,420
+bring independent judgments and they're not expected to
+
+64
+00:02:48,420 --> 00:02:50,740
+be that involved in the business.
+
+65
+00:02:50,860 --> 00:02:53,260
+The only connection they have with the business
+
+66
+00:02:53,260 --> 00:02:54,520
+is their directorship.
+
+67
+00:02:55,440 --> 00:02:58,640
+They also shouldn't have been regulators in the
+
+68
+00:02:58,640 --> 00:03:00,440
+last 5 years, they shouldn't have been employed
+
+69
+00:03:00,440 --> 00:03:03,480
+by the company in any capacity, either as
+
+70
+00:03:03,480 --> 00:03:05,360
+employees or as consultants.
+
+71
+00:03:06,120 --> 00:03:08,180
+The whole essence of having independent directors on
+
+72
+00:03:08,180 --> 00:03:11,460
+the board is to have a situation where
+
+73
+00:03:11,460 --> 00:03:14,840
+you don't have too much power residing in
+
+74
+00:03:14,840 --> 00:03:18,680
+either the executives or the shareholder representatives, i
+
+75
+00:03:18,680 --> 00:03:20,340
+.e. the non-executive directors.
+
+76
+00:03:21,060 --> 00:03:25,060
+Independent directors are critical to the composition of
+
+77
+00:03:25,060 --> 00:03:27,760
+the board because they bring independent judgement.
+
+78
+00:03:28,320 --> 00:03:30,780
+And that kind of conversation is important when
+
+79
+00:03:30,780 --> 00:03:34,880
+we're discussing things like remuneration, dividend to shareholders,
+
+80
+00:03:35,520 --> 00:03:39,020
+or proposals of management that seems to be
+
+81
+00:03:39,020 --> 00:03:42,340
+more tilted towards the requirements of management.
+
+82
+00:03:42,560 --> 00:03:45,720
+So they bring that balance to board discussions.
+
+83
+00:03:46,220 --> 00:03:49,740
+But the most critical part of the independence,
+
+84
+00:03:49,980 --> 00:03:52,500
+in my view, is the appointment process.
+
+85
+00:03:52,600 --> 00:03:54,400
+How are independent directors appointed?
+
+86
+00:03:55,060 --> 00:03:57,360
+Typically they are appointed through a rigorous process
+
+87
+00:03:57,360 --> 00:04:02,200
+that entails a consultant that would use the
+
+88
+00:04:02,200 --> 00:04:05,960
+criteria provided by the company to determine the
+
+89
+00:04:05,960 --> 00:04:07,960
+kinds of people that would fit into the
+
+90
+00:04:07,960 --> 00:04:11,520
+profile provided by the company.
+
+91
+00:04:12,020 --> 00:04:14,960
+But beyond the fact of their independence, independent
+
+92
+00:04:14,960 --> 00:04:17,420
+directors are also expected to bring some level
+
+93
+00:04:17,420 --> 00:04:20,279
+of expertise, some level of experience, whether it's
+
+94
+00:04:20,279 --> 00:04:21,900
+technology, whether it's marketing.
+
+95
+00:04:22,140 --> 00:04:24,660
+They also bring some skills to add to
+
+96
+00:04:24,660 --> 00:04:26,940
+the diversity of the board.

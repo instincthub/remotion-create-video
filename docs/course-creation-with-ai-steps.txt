@@ -1,0 +1,14 @@
+Here’s the transcription:
+
+1. Get youtube video
+2. Download video into folder (Stringily folder name)
+3. Create transcript into same folder
+4. Open Claude AI desktop App
+5. Add the video folder
+6. Call the video edit tool - /instincthub-video-to-course
+8. Render the each video.
+7. Upload the In the out folder
+8. Bring copy the media json to AI agent to link.
+9. Review project in LMS admin dashboard and make public. 
+- Edit Course `https://lms-sandbox.instincthub.com/{channel_username}/courses/creation/{course_uuid}`
+- Edit Course Step: `https://lms-sandbox.instincthub.com/skills/courses/creation/{course_uuid}/{module_uuid}/edit-steps/{step_uuid}`

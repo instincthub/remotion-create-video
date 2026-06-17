@@ -1,0 +1,87 @@
+1
+00:00:00,330 --> 00:00:03,170
+Hello, it is possible for you to use
+
+2
+00:00:03,170 --> 00:00:07,189
+AI to automate your course creation process.
+
+3
+00:00:07,570 --> 00:00:10,350
+And I'm talking about the entire process from
+
+4
+00:00:10,350 --> 00:00:14,490
+the ideation, getting your video, editing your video,
+
+5
+00:00:15,149 --> 00:00:18,690
+creating the course structure, publishing your course.
+
+6
+00:00:19,490 --> 00:00:20,550
+And at the end of the day, the
+
+7
+00:00:20,550 --> 00:00:23,110
+major work you will do is ensuring that
+
+8
+00:00:23,110 --> 00:00:24,490
+everything works well.
+
+9
+00:00:24,910 --> 00:00:26,910
+Just think of it like you're delegating your
+
+10
+00:00:26,910 --> 00:00:29,470
+task to someone to help you do them.
+
+11
+00:00:30,330 --> 00:00:32,850
+But this time around, not a human, but
+
+12
+00:00:32,850 --> 00:00:35,750
+you're relying on machine to help you do
+
+13
+00:00:35,750 --> 00:00:36,510
+all of those things.
+
+14
+00:00:36,990 --> 00:00:39,450
+If you watch my previous video, you'll see
+
+15
+00:00:39,450 --> 00:00:42,270
+how we were able to use AI to
+
+16
+00:00:42,270 --> 00:00:46,650
+grab video from YouTube, convert that video into
+
+17
+00:00:46,650 --> 00:00:48,750
+what the AI can understand.
+
+18
+00:00:49,590 --> 00:00:52,870
+The AI retread the video, split the videos.
+
+19
+00:00:53,350 --> 00:00:56,490
+And after doing that, it then exported the
+
+20
+00:00:56,490 --> 00:00:56,790
+video.
+
+21
+00:00:57,650 --> 00:00:59,030
+I'm going to be showing you some of
+
+22
+00:00:59,030 --> 00:00:59,870
+those things right now.

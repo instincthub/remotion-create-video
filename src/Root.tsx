@@ -126,20 +126,36 @@ import {
   DCSLNextSeatComposition,
   TOTAL_FRAMES as DCSL_NEXT_SEAT_FRAMES,
 } from "./dcsl/17-before-you-accept-next-board-member-seat/index";
-import { PLATFORM_LESSONS } from "./theplatform/founders-mindset-vusi/registry";
-import { Thumbnail as FMThumbnail } from "./theplatform/founders-mindset-vusi/Thumbnail";
 import { AFFIONG_LESSONS } from "./theplatform/affiong-williams-it-is-not-about-ideas/registry";
 import { Thumbnail as AWThumbnail } from "./theplatform/affiong-williams-it-is-not-about-ideas/Thumbnail";
-import { MODUPE_LESSONS } from "./theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/registry";
-import { Thumbnail as METhumbnail } from "./theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/Thumbnail";
-import { TIMILOLA_LESSONS } from "./theplatform/timilola-adetu-second-half-advantage/registry";
-import { Thumbnail as TLThumbnail } from "./theplatform/timilola-adetu-second-half-advantage/Thumbnail";
-import { JOHN_ALAMU_LESSONS } from "./theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/registry";
-import { Thumbnail as JAThumbnail } from "./theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/Thumbnail";
-import { TOSIN_LESSONS } from "./theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/registry";
-import { Thumbnail as TEThumbnail } from "./theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/Thumbnail";
-import { KEMI_LESSONS } from "./theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/registry";
-import { Thumbnail as KAThumbnail } from "./theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/Thumbnail";
+import { MARKETING_SALES_LESSONS } from "./instincthub/marketing-and-sales/registry";
+import { Thumbnail as IHMSThumbnail } from "./instincthub/marketing-and-sales/Thumbnail";
+import {
+  TechAccessPointsComposition,
+  COMPOSITION_FRAMES as TAP_FRAMES,
+} from "./instincthub/0003-technology-access-point-to-childrren/index";
+import { Thumbnail as TAPThumbnail } from "./instincthub/0003-technology-access-point-to-childrren/Thumbnail";
+import {
+  Reel1ScreenReframe,
+  REEL1_FRAMES,
+} from "./instincthub/0003-technology-access-point-to-childrren/reels/Reel1ScreenReframe";
+import {
+  Reel2NeverForget,
+  REEL2_FRAMES,
+} from "./instincthub/0003-technology-access-point-to-childrren/reels/Reel2NeverForget";
+import {
+  Reel3WalkWithThem,
+  REEL3_FRAMES,
+} from "./instincthub/0003-technology-access-point-to-childrren/reels/Reel3WalkWithThem";
+import {
+  SccComparisonReel,
+  SCC_COMPARISON_FRAMES,
+} from "./instincthub/scc-reels/001-scc-the-comparison/index";
+import {
+  HealedThemAllComposition,
+  COMPOSITION_FRAMES as MMM_HHTA_FRAMES,
+} from "./mmm/he-healed-them-all/index";
+import { ThumbnailScene as MMMHHTAThumbnail } from "./mmm/he-healed-them-all/ThumbnailScene";
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -351,9 +367,9 @@ export const RemotionRoot: React.FC = () => {
         />
       </Folder>
 
-      <Folder name="theplatform">
-        <Folder name="founders-mindset-vusi">
-          {PLATFORM_LESSONS.map((l) => (
+      <Folder name="instincthub">
+        <Folder name="marketing-and-sales">
+          {MARKETING_SALES_LESSONS.map((l) => (
             <Composition
               key={l.id}
               id={l.id}
@@ -362,19 +378,107 @@ export const RemotionRoot: React.FC = () => {
               fps={30}
               width={1920}
               height={1080}
-              defaultProps={{ videoSrc: l.videoSrc, logoSrc: "" }}
+              defaultProps={{
+                videoSrc: l.videoSrc,
+                logoSrc: "instincthub-logo-color.png",
+              }}
             />
           ))}
           <Composition
-            id="fm-thumbnail"
-            component={FMThumbnail}
+            id="ih-ms-thumbnail"
+            component={IHMSThumbnail}
             durationInFrames={1}
             fps={30}
             width={1920}
             height={1080}
-            defaultProps={{ portraitSrc: "tp-fm-vusi-portrait.jpg" }}
+            defaultProps={{ portraitSrc: "ih-ms-speaker-portrait.jpg" }}
           />
         </Folder>
+
+        <Folder name="0003-technology-access-points">
+          <Composition
+            id="ih-tap-technology-access-points"
+            component={TechAccessPointsComposition}
+            durationInFrames={TAP_FRAMES}
+            fps={30}
+            width={1920}
+            height={1080}
+            defaultProps={{
+              videoSrc: "ih-tech-access-points.mp4",
+              logoSrc: "instincthub-logo-color.png",
+            }}
+          />
+          <Composition
+            id="ih-tap-thumbnail"
+            component={TAPThumbnail}
+            durationInFrames={1}
+            fps={30}
+            width={1920}
+            height={1080}
+            defaultProps={{ portraitSrc: "ih-tap-portrait.jpg" }}
+          />
+
+          <Composition
+            id="ih-tap-reel-1-screen-reframe"
+            component={Reel1ScreenReframe}
+            durationInFrames={REEL1_FRAMES}
+            fps={30}
+            width={1080}
+            height={1920}
+            defaultProps={{ videoSrc: "ih-tech-access-points.mp4" }}
+          />
+          <Composition
+            id="ih-tap-reel-2-never-forget"
+            component={Reel2NeverForget}
+            durationInFrames={REEL2_FRAMES}
+            fps={30}
+            width={1080}
+            height={1920}
+            defaultProps={{ videoSrc: "ih-tech-access-points.mp4" }}
+          />
+          <Composition
+            id="ih-tap-reel-3-walk-with-them"
+            component={Reel3WalkWithThem}
+            durationInFrames={REEL3_FRAMES}
+            fps={30}
+            width={1080}
+            height={1920}
+            defaultProps={{ videoSrc: "ih-tech-access-points.mp4" }}
+          />
+        </Folder>
+        <Folder name="scc-reels">
+          <Composition
+            id="scc-reel-001-the-comparison"
+            component={SccComparisonReel}
+            durationInFrames={SCC_COMPARISON_FRAMES}
+            fps={30}
+            width={1080}
+            height={1920}
+          />
+        </Folder>
+      </Folder>
+
+      <Folder name="mmm">
+        <Composition
+          id="mmm-he-healed-them-all"
+          component={HealedThemAllComposition}
+          durationInFrames={MMM_HHTA_FRAMES}
+          fps={30}
+          width={1920}
+          height={1080}
+          defaultProps={{ videoSrc: "mmm-he-healed-them-all.mp4" }}
+        />
+        <Composition
+          id="mmm-hhta-thumbnail"
+          component={MMMHHTAThumbnail}
+          durationInFrames={1}
+          fps={30}
+          width={1920}
+          height={1080}
+        />
+      </Folder>
+
+      <Folder name="theplatform">
         <Folder name="affiong-williams-plant-trees">
           {AFFIONG_LESSONS.map((l) => (
             <Composition
@@ -396,121 +500,6 @@ export const RemotionRoot: React.FC = () => {
             width={1920}
             height={1080}
             defaultProps={{ portraitSrc: "tp-aw-affiong-portrait.jpg" }}
-          />
-        </Folder>
-        <Folder name="prof-modupe-second-half-advantage">
-          {MODUPE_LESSONS.map((l) => (
-            <Composition
-              key={l.id}
-              id={l.id}
-              component={l.component}
-              durationInFrames={l.totalFrames}
-              fps={30}
-              width={1920}
-              height={1080}
-              defaultProps={{ videoSrc: l.videoSrc, logoSrc: "" }}
-            />
-          ))}
-          <Composition
-            id="me-thumbnail"
-            component={METhumbnail}
-            durationInFrames={1}
-            fps={30}
-            width={1920}
-            height={1080}
-            defaultProps={{ portraitSrc: "tp-me-modupe-portrait.jpg" }}
-          />
-        </Folder>
-        <Folder name="timilola-adetu-second-half-advantage">
-          {TIMILOLA_LESSONS.map((l) => (
-            <Composition
-              key={l.id}
-              id={l.id}
-              component={l.component}
-              durationInFrames={l.totalFrames}
-              fps={30}
-              width={1920}
-              height={1080}
-              defaultProps={{ videoSrc: l.videoSrc, logoSrc: "" }}
-            />
-          ))}
-          <Composition
-            id="tl-thumbnail"
-            component={TLThumbnail}
-            durationInFrames={1}
-            fps={30}
-            width={1920}
-            height={1080}
-            defaultProps={{ portraitSrc: "tp-tl-timilola-portrait.jpg" }}
-          />
-        </Folder>
-        <Folder name="john-alamu-making-ideas-happen">
-          {JOHN_ALAMU_LESSONS.map((l) => (
-            <Composition
-              key={l.id}
-              id={l.id}
-              component={l.component}
-              durationInFrames={l.totalFrames}
-              fps={30}
-              width={1920}
-              height={1080}
-              defaultProps={{ videoSrc: l.videoSrc, logoSrc: "" }}
-            />
-          ))}
-          <Composition
-            id="ja-thumbnail"
-            component={JAThumbnail}
-            durationInFrames={1}
-            fps={30}
-            width={1920}
-            height={1080}
-            defaultProps={{ portraitSrc: "tp-ja-john-portrait.jpg" }}
-          />
-        </Folder>
-        <Folder name="tosin-eniolorunda-execution">
-          {TOSIN_LESSONS.map((l) => (
-            <Composition
-              key={l.id}
-              id={l.id}
-              component={l.component}
-              durationInFrames={l.totalFrames}
-              fps={30}
-              width={1920}
-              height={1080}
-              defaultProps={{ videoSrc: l.videoSrc, logoSrc: "" }}
-            />
-          ))}
-          <Composition
-            id="te-thumbnail"
-            component={TEThumbnail}
-            durationInFrames={1}
-            fps={30}
-            width={1920}
-            height={1080}
-            defaultProps={{ portraitSrc: "tp-te-tosin-portrait.jpg" }}
-          />
-        </Folder>
-        <Folder name="kemi-adeosun-great-idea">
-          {KEMI_LESSONS.map((l) => (
-            <Composition
-              key={l.id}
-              id={l.id}
-              component={l.component}
-              durationInFrames={l.totalFrames}
-              fps={30}
-              width={1920}
-              height={1080}
-              defaultProps={{ videoSrc: l.videoSrc, logoSrc: "" }}
-            />
-          ))}
-          <Composition
-            id="ka-thumbnail"
-            component={KAThumbnail}
-            durationInFrames={1}
-            fps={30}
-            width={1920}
-            height={1080}
-            defaultProps={{ portraitSrc: "tp-ka-kemi-portrait.jpg" }}
           />
         </Folder>
       </Folder>

@@ -1,0 +1,111 @@
+1
+00:00:00,280 --> 00:00:04,340
+And once you hit the enter, the AI
+
+2
+00:00:04,340 --> 00:00:07,060
+is going to think through the course that
+
+3
+00:00:07,060 --> 00:00:07,700
+you've uploaded.
+
+4
+00:00:08,660 --> 00:00:11,360
+The video is going to look for each
+
+5
+00:00:11,360 --> 00:00:14,120
+of the lessons and make sure that they
+
+6
+00:00:14,120 --> 00:00:14,440
+rhyme.
+
+7
+00:00:15,600 --> 00:00:17,200
+So when the AI is done working, what
+
+8
+00:00:17,200 --> 00:00:18,920
+we are expecting to see at the end
+
+9
+00:00:18,920 --> 00:00:22,200
+of the day is that in this, each
+
+10
+00:00:22,200 --> 00:00:24,400
+of our lessons, we want to see the
+
+11
+00:00:24,400 --> 00:00:29,700
+respective video that tally with the lesson, you
+
+12
+00:00:29,700 --> 00:00:31,380
+know, so rather than coming here to upload
+
+13
+00:00:31,380 --> 00:00:34,400
+it one by one on the likes, you
+
+14
+00:00:34,400 --> 00:00:36,140
+can just also give that task to AI
+
+15
+00:00:36,140 --> 00:00:36,940
+to handle for you.
+
+16
+00:00:38,690 --> 00:00:39,130
+Okay.
+
+17
+00:00:39,570 --> 00:00:40,230
+Let's go see.
+
+18
+00:00:40,390 --> 00:00:41,050
+Our AI is working.
+
+19
+00:00:42,050 --> 00:00:46,010
+The AI is done linking every of them,
+
+20
+00:00:46,110 --> 00:00:49,750
+even though it's giving me updates about, um,
+
+21
+00:00:49,910 --> 00:00:50,390
+completion.
+
+22
+00:00:50,950 --> 00:00:51,430
+Yeah.
+
+23
+00:00:51,490 --> 00:00:55,110
+So transcoding or the validation of the video
+
+24
+00:00:55,110 --> 00:00:57,750
+is telling me that some are pending while
+
+25
+00:00:57,750 --> 00:00:58,510
+some are not.
+
+26
+00:00:59,190 --> 00:01:00,330
+And of course the AI is right.
+
+27
+00:01:00,410 --> 00:01:02,330
+Because if you come here, you see that
+
+28
+00:01:02,330 --> 00:01:04,500
+you have two pending, the rest are completed.

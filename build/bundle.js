@@ -2,97 +2,9 @@
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
-/***/ 9915
+/***/ 2802
 (__unused_webpack_module, __unused_webpack___webpack_exports__, __webpack_require__) {
 
-
-// NAMESPACE OBJECT: ./src/theplatform/founders-mindset-vusi/01-earn-the-right/timing.ts
-var _01_earn_the_right_timing_namespaceObject = {};
-__webpack_require__.r(_01_earn_the_right_timing_namespaceObject);
-__webpack_require__.d(_01_earn_the_right_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_01_earn_the_right_timing_TOTAL_FRAMES),
-  content: () => (_01_earn_the_right_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/founders-mindset-vusi/02-what-founders-knew/timing.ts
-var _02_what_founders_knew_timing_namespaceObject = {};
-__webpack_require__.r(_02_what_founders_knew_timing_namespaceObject);
-__webpack_require__.d(_02_what_founders_knew_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_02_what_founders_knew_timing_TOTAL_FRAMES),
-  content: () => (_02_what_founders_knew_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/founders-mindset-vusi/03-the-founders-mindset/timing.ts
-var _03_the_founders_mindset_timing_namespaceObject = {};
-__webpack_require__.r(_03_the_founders_mindset_timing_namespaceObject);
-__webpack_require__.d(_03_the_founders_mindset_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_03_the_founders_mindset_timing_TOTAL_FRAMES),
-  content: () => (_03_the_founders_mindset_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/founders-mindset-vusi/04-capital-isnt-the-problem/timing.ts
-var _04_capital_isnt_the_problem_timing_namespaceObject = {};
-__webpack_require__.r(_04_capital_isnt_the_problem_timing_namespaceObject);
-__webpack_require__.d(_04_capital_isnt_the_problem_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_04_capital_isnt_the_problem_timing_TOTAL_FRAMES),
-  content: () => (_04_capital_isnt_the_problem_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/founders-mindset-vusi/05-trillion-dollar-context/timing.ts
-var _05_trillion_dollar_context_timing_namespaceObject = {};
-__webpack_require__.r(_05_trillion_dollar_context_timing_namespaceObject);
-__webpack_require__.d(_05_trillion_dollar_context_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_05_trillion_dollar_context_timing_TOTAL_FRAMES),
-  content: () => (_05_trillion_dollar_context_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/founders-mindset-vusi/06-play-your-game/timing.ts
-var _06_play_your_game_timing_namespaceObject = {};
-__webpack_require__.r(_06_play_your_game_timing_namespaceObject);
-__webpack_require__.d(_06_play_your_game_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_06_play_your_game_timing_TOTAL_FRAMES),
-  content: () => (_06_play_your_game_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/founders-mindset-vusi/07-four-things-to-scale/timing.ts
-var _07_four_things_to_scale_timing_namespaceObject = {};
-__webpack_require__.r(_07_four_things_to_scale_timing_namespaceObject);
-__webpack_require__.d(_07_four_things_to_scale_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_07_four_things_to_scale_timing_TOTAL_FRAMES),
-  content: () => (_07_four_things_to_scale_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/founders-mindset-vusi/08-aligning-incentives/timing.ts
-var _08_aligning_incentives_timing_namespaceObject = {};
-__webpack_require__.r(_08_aligning_incentives_timing_namespaceObject);
-__webpack_require__.d(_08_aligning_incentives_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_08_aligning_incentives_timing_TOTAL_FRAMES),
-  content: () => (_08_aligning_incentives_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/founders-mindset-vusi/09-levels-of-entrepreneurship/timing.ts
-var _09_levels_of_entrepreneurship_timing_namespaceObject = {};
-__webpack_require__.r(_09_levels_of_entrepreneurship_timing_namespaceObject);
-__webpack_require__.d(_09_levels_of_entrepreneurship_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_09_levels_of_entrepreneurship_timing_TOTAL_FRAMES),
-  content: () => (_09_levels_of_entrepreneurship_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/founders-mindset-vusi/10-valley-of-scale/timing.ts
-var _10_valley_of_scale_timing_namespaceObject = {};
-__webpack_require__.r(_10_valley_of_scale_timing_namespaceObject);
-__webpack_require__.d(_10_valley_of_scale_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_10_valley_of_scale_timing_TOTAL_FRAMES),
-  content: () => (_10_valley_of_scale_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/founders-mindset-vusi/11-how-to-be-a-founder/timing.ts
-var _11_how_to_be_a_founder_timing_namespaceObject = {};
-__webpack_require__.r(_11_how_to_be_a_founder_timing_namespaceObject);
-__webpack_require__.d(_11_how_to_be_a_founder_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_11_how_to_be_a_founder_timing_TOTAL_FRAMES),
-  content: () => (_11_how_to_be_a_founder_timing_content)
-});
 
 // NAMESPACE OBJECT: ./src/theplatform/affiong-williams-it-is-not-about-ideas/01-plant-trees/timing.ts
 var _01_plant_trees_timing_namespaceObject = {};
@@ -206,500 +118,124 @@ __webpack_require__.d(_14_the_charge_timing_namespaceObject, {
   content: () => (_14_the_charge_timing_content)
 });
 
-// NAMESPACE OBJECT: ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/01-the-question/timing.ts
-var _01_the_question_timing_namespaceObject = {};
-__webpack_require__.r(_01_the_question_timing_namespaceObject);
-__webpack_require__.d(_01_the_question_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_01_the_question_timing_TOTAL_FRAMES),
-  content: () => (_01_the_question_timing_content)
+// NAMESPACE OBJECT: ./src/instincthub/marketing-and-sales/01-the-only-non-negotiable/timing.ts
+var _01_the_only_non_negotiable_timing_namespaceObject = {};
+__webpack_require__.r(_01_the_only_non_negotiable_timing_namespaceObject);
+__webpack_require__.d(_01_the_only_non_negotiable_timing_namespaceObject, {
+  TOTAL_FRAMES: () => (_01_the_only_non_negotiable_timing_TOTAL_FRAMES),
+  content: () => (_01_the_only_non_negotiable_timing_content)
 });
 
-// NAMESPACE OBJECT: ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/02-calling-born-early/timing.ts
-var _02_calling_born_early_timing_namespaceObject = {};
-__webpack_require__.r(_02_calling_born_early_timing_namespaceObject);
-__webpack_require__.d(_02_calling_born_early_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_02_calling_born_early_timing_TOTAL_FRAMES),
-  content: () => (_02_calling_born_early_timing_content)
+// NAMESPACE OBJECT: ./src/instincthub/marketing-and-sales/02-unique-and-important/timing.ts
+var _02_unique_and_important_timing_namespaceObject = {};
+__webpack_require__.r(_02_unique_and_important_timing_namespaceObject);
+__webpack_require__.d(_02_unique_and_important_timing_namespaceObject, {
+  TOTAL_FRAMES: () => (_02_unique_and_important_timing_TOTAL_FRAMES),
+  content: () => (_02_unique_and_important_timing_content)
 });
 
-// NAMESPACE OBJECT: ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/03-work-hard-be-bold/timing.ts
-var _03_work_hard_be_bold_timing_namespaceObject = {};
-__webpack_require__.r(_03_work_hard_be_bold_timing_namespaceObject);
-__webpack_require__.d(_03_work_hard_be_bold_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_03_work_hard_be_bold_timing_TOTAL_FRAMES),
-  content: () => (_03_work_hard_be_bold_timing_content)
+// NAMESPACE OBJECT: ./src/instincthub/marketing-and-sales/03-regain-the-perfect-plan/timing.ts
+var _03_regain_the_perfect_plan_timing_namespaceObject = {};
+__webpack_require__.r(_03_regain_the_perfect_plan_timing_namespaceObject);
+__webpack_require__.d(_03_regain_the_perfect_plan_timing_namespaceObject, {
+  TOTAL_FRAMES: () => (_03_regain_the_perfect_plan_timing_TOTAL_FRAMES),
+  content: () => (_03_regain_the_perfect_plan_timing_content)
 });
 
-// NAMESPACE OBJECT: ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/04-success-as-destination/timing.ts
-var _04_success_as_destination_timing_namespaceObject = {};
-__webpack_require__.r(_04_success_as_destination_timing_namespaceObject);
-__webpack_require__.d(_04_success_as_destination_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_04_success_as_destination_timing_TOTAL_FRAMES),
-  content: () => (_04_success_as_destination_timing_content)
+// NAMESPACE OBJECT: ./src/instincthub/marketing-and-sales/04-a-complete-disaster/timing.ts
+var _04_a_complete_disaster_timing_namespaceObject = {};
+__webpack_require__.r(_04_a_complete_disaster_timing_namespaceObject);
+__webpack_require__.d(_04_a_complete_disaster_timing_namespaceObject, {
+  TOTAL_FRAMES: () => (_04_a_complete_disaster_timing_TOTAL_FRAMES),
+  content: () => (_04_a_complete_disaster_timing_content)
 });
 
-// NAMESPACE OBJECT: ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/05-success-by-comparison/timing.ts
-var _05_success_by_comparison_timing_namespaceObject = {};
-__webpack_require__.r(_05_success_by_comparison_timing_namespaceObject);
-__webpack_require__.d(_05_success_by_comparison_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_05_success_by_comparison_timing_TOTAL_FRAMES),
-  content: () => (_05_success_by_comparison_timing_content)
+// NAMESPACE OBJECT: ./src/instincthub/marketing-and-sales/05-no-money-wrong-channel/timing.ts
+var _05_no_money_wrong_channel_timing_namespaceObject = {};
+__webpack_require__.r(_05_no_money_wrong_channel_timing_namespaceObject);
+__webpack_require__.d(_05_no_money_wrong_channel_timing_namespaceObject, {
+  TOTAL_FRAMES: () => (_05_no_money_wrong_channel_timing_TOTAL_FRAMES),
+  content: () => (_05_no_money_wrong_channel_timing_content)
 });
 
-// NAMESPACE OBJECT: ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/06-turning-point-at-fifty/timing.ts
-var _06_turning_point_at_fifty_timing_namespaceObject = {};
-__webpack_require__.r(_06_turning_point_at_fifty_timing_namespaceObject);
-__webpack_require__.d(_06_turning_point_at_fifty_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_06_turning_point_at_fifty_timing_TOTAL_FRAMES),
-  content: () => (_06_turning_point_at_fifty_timing_content)
+// NAMESPACE OBJECT: ./src/instincthub/marketing-and-sales/06-paying-for-the-mistake/timing.ts
+var _06_paying_for_the_mistake_timing_namespaceObject = {};
+__webpack_require__.r(_06_paying_for_the_mistake_timing_namespaceObject);
+__webpack_require__.d(_06_paying_for_the_mistake_timing_namespaceObject, {
+  TOTAL_FRAMES: () => (_06_paying_for_the_mistake_timing_TOTAL_FRAMES),
+  content: () => (_06_paying_for_the_mistake_timing_content)
 });
 
-// NAMESPACE OBJECT: ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/07-leaving-security/timing.ts
-var _07_leaving_security_timing_namespaceObject = {};
-__webpack_require__.r(_07_leaving_security_timing_namespaceObject);
-__webpack_require__.d(_07_leaving_security_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_07_leaving_security_timing_TOTAL_FRAMES),
-  content: () => (_07_leaving_security_timing_content)
+// NAMESPACE OBJECT: ./src/instincthub/marketing-and-sales/07-find-the-emotional-problem/timing.ts
+var _07_find_the_emotional_problem_timing_namespaceObject = {};
+__webpack_require__.r(_07_find_the_emotional_problem_timing_namespaceObject);
+__webpack_require__.d(_07_find_the_emotional_problem_timing_namespaceObject, {
+  TOTAL_FRAMES: () => (_07_find_the_emotional_problem_timing_TOTAL_FRAMES),
+  content: () => (_07_find_the_emotional_problem_timing_content)
 });
 
-// NAMESPACE OBJECT: ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/08-god-orders-your-steps/timing.ts
-var _08_god_orders_your_steps_timing_namespaceObject = {};
-__webpack_require__.r(_08_god_orders_your_steps_timing_namespaceObject);
-__webpack_require__.d(_08_god_orders_your_steps_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_08_god_orders_your_steps_timing_TOTAL_FRAMES),
-  content: () => (_08_god_orders_your_steps_timing_content)
+// NAMESPACE OBJECT: ./src/instincthub/marketing-and-sales/08-customers-shape-the-product/timing.ts
+var _08_customers_shape_the_product_timing_namespaceObject = {};
+__webpack_require__.r(_08_customers_shape_the_product_timing_namespaceObject);
+__webpack_require__.d(_08_customers_shape_the_product_timing_namespaceObject, {
+  TOTAL_FRAMES: () => (_08_customers_shape_the_product_timing_TOTAL_FRAMES),
+  content: () => (_08_customers_shape_the_product_timing_content)
 });
 
-// NAMESPACE OBJECT: ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/09-going-home/timing.ts
-var _09_going_home_timing_namespaceObject = {};
-__webpack_require__.r(_09_going_home_timing_namespaceObject);
-__webpack_require__.d(_09_going_home_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_09_going_home_timing_TOTAL_FRAMES),
-  content: () => (_09_going_home_timing_content)
+// NAMESPACE OBJECT: ./src/instincthub/marketing-and-sales/09-advertise-to-the-fear/timing.ts
+var _09_advertise_to_the_fear_timing_namespaceObject = {};
+__webpack_require__.r(_09_advertise_to_the_fear_timing_namespaceObject);
+__webpack_require__.d(_09_advertise_to_the_fear_timing_namespaceObject, {
+  TOTAL_FRAMES: () => (_09_advertise_to_the_fear_timing_TOTAL_FRAMES),
+  content: () => (_09_advertise_to_the_fear_timing_content)
 });
 
-// NAMESPACE OBJECT: ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/10-one-building-one-team/timing.ts
-var _10_one_building_one_team_timing_namespaceObject = {};
-__webpack_require__.r(_10_one_building_one_team_timing_namespaceObject);
-__webpack_require__.d(_10_one_building_one_team_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_10_one_building_one_team_timing_TOTAL_FRAMES),
-  content: () => (_10_one_building_one_team_timing_content)
+// NAMESPACE OBJECT: ./src/instincthub/marketing-and-sales/10-phone-orders-to-shelves/timing.ts
+var _10_phone_orders_to_shelves_timing_namespaceObject = {};
+__webpack_require__.r(_10_phone_orders_to_shelves_timing_namespaceObject);
+__webpack_require__.d(_10_phone_orders_to_shelves_timing_namespaceObject, {
+  TOTAL_FRAMES: () => (_10_phone_orders_to_shelves_timing_TOTAL_FRAMES),
+  content: () => (_10_phone_orders_to_shelves_timing_content)
 });
 
-// NAMESPACE OBJECT: ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/11-the-human-cost/timing.ts
-var _11_the_human_cost_timing_namespaceObject = {};
-__webpack_require__.r(_11_the_human_cost_timing_namespaceObject);
-__webpack_require__.d(_11_the_human_cost_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_11_the_human_cost_timing_TOTAL_FRAMES),
-  content: () => (_11_the_human_cost_timing_content)
+// NAMESPACE OBJECT: ./src/instincthub/marketing-and-sales/11-educators-and-wholesalers/timing.ts
+var _11_educators_and_wholesalers_timing_namespaceObject = {};
+__webpack_require__.r(_11_educators_and_wholesalers_timing_namespaceObject);
+__webpack_require__.d(_11_educators_and_wholesalers_timing_namespaceObject, {
+  TOTAL_FRAMES: () => (_11_educators_and_wholesalers_timing_TOTAL_FRAMES),
+  content: () => (_11_educators_and_wholesalers_timing_content)
 });
 
-// NAMESPACE OBJECT: ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/12-stepping-stones-legacy/timing.ts
-var _12_stepping_stones_legacy_timing_namespaceObject = {};
-__webpack_require__.r(_12_stepping_stones_legacy_timing_namespaceObject);
-__webpack_require__.d(_12_stepping_stones_legacy_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_12_stepping_stones_legacy_timing_TOTAL_FRAMES),
-  content: () => (_12_stepping_stones_legacy_timing_content)
+// NAMESPACE OBJECT: ./src/instincthub/marketing-and-sales/12-the-planogram-meeting/timing.ts
+var _12_the_planogram_meeting_timing_namespaceObject = {};
+__webpack_require__.r(_12_the_planogram_meeting_timing_namespaceObject);
+__webpack_require__.d(_12_the_planogram_meeting_timing_namespaceObject, {
+  TOTAL_FRAMES: () => (_12_the_planogram_meeting_timing_TOTAL_FRAMES),
+  content: () => (_12_the_planogram_meeting_timing_content)
 });
 
-// NAMESPACE OBJECT: ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/13-lifting-others-the-charge/timing.ts
-var _13_lifting_others_the_charge_timing_namespaceObject = {};
-__webpack_require__.r(_13_lifting_others_the_charge_timing_namespaceObject);
-__webpack_require__.d(_13_lifting_others_the_charge_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_13_lifting_others_the_charge_timing_TOTAL_FRAMES),
-  content: () => (_13_lifting_others_the_charge_timing_content)
+// NAMESPACE OBJECT: ./src/instincthub/marketing-and-sales/13-selling-is-detective-work/timing.ts
+var _13_selling_is_detective_work_timing_namespaceObject = {};
+__webpack_require__.r(_13_selling_is_detective_work_timing_namespaceObject);
+__webpack_require__.d(_13_selling_is_detective_work_timing_namespaceObject, {
+  TOTAL_FRAMES: () => (_13_selling_is_detective_work_timing_TOTAL_FRAMES),
+  content: () => (_13_selling_is_detective_work_timing_content)
 });
 
-// NAMESPACE OBJECT: ./src/theplatform/timilola-adetu-second-half-advantage/01-eighteen-month-question/timing.ts
-var _01_eighteen_month_question_timing_namespaceObject = {};
-__webpack_require__.r(_01_eighteen_month_question_timing_namespaceObject);
-__webpack_require__.d(_01_eighteen_month_question_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_01_eighteen_month_question_timing_TOTAL_FRAMES),
-  content: () => (_01_eighteen_month_question_timing_content)
+// NAMESPACE OBJECT: ./src/instincthub/marketing-and-sales/14-segment-and-sell-benefits/timing.ts
+var _14_segment_and_sell_benefits_timing_namespaceObject = {};
+__webpack_require__.r(_14_segment_and_sell_benefits_timing_namespaceObject);
+__webpack_require__.d(_14_segment_and_sell_benefits_timing_namespaceObject, {
+  TOTAL_FRAMES: () => (_14_segment_and_sell_benefits_timing_TOTAL_FRAMES),
+  content: () => (_14_segment_and_sell_benefits_timing_content)
 });
 
-// NAMESPACE OBJECT: ./src/theplatform/timilola-adetu-second-half-advantage/02-what-tipped-the-decision/timing.ts
-var _02_what_tipped_the_decision_timing_namespaceObject = {};
-__webpack_require__.r(_02_what_tipped_the_decision_timing_namespaceObject);
-__webpack_require__.d(_02_what_tipped_the_decision_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_02_what_tipped_the_decision_timing_TOTAL_FRAMES),
-  content: () => (_02_what_tipped_the_decision_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/timilola-adetu-second-half-advantage/03-your-reflections/timing.ts
-var _03_your_reflections_timing_namespaceObject = {};
-__webpack_require__.r(_03_your_reflections_timing_namespaceObject);
-__webpack_require__.d(_03_your_reflections_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_03_your_reflections_timing_TOTAL_FRAMES),
-  content: () => (_03_your_reflections_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/timilola-adetu-second-half-advantage/04-mindset-decides-response/timing.ts
-var _04_mindset_decides_response_timing_namespaceObject = {};
-__webpack_require__.r(_04_mindset_decides_response_timing_namespaceObject);
-__webpack_require__.d(_04_mindset_decides_response_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_04_mindset_decides_response_timing_TOTAL_FRAMES),
-  content: () => (_04_mindset_decides_response_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/timilola-adetu-second-half-advantage/05-growth-vs-fixed/timing.ts
-var _05_growth_vs_fixed_timing_namespaceObject = {};
-__webpack_require__.r(_05_growth_vs_fixed_timing_namespaceObject);
-__webpack_require__.d(_05_growth_vs_fixed_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_05_growth_vs_fixed_timing_TOTAL_FRAMES),
-  content: () => (_05_growth_vs_fixed_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/timilola-adetu-second-half-advantage/06-vi-to-onikan/timing.ts
-var _06_vi_to_onikan_timing_namespaceObject = {};
-__webpack_require__.r(_06_vi_to_onikan_timing_namespaceObject);
-__webpack_require__.d(_06_vi_to_onikan_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_06_vi_to_onikan_timing_TOTAL_FRAMES),
-  content: () => (_06_vi_to_onikan_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/timilola-adetu-second-half-advantage/07-corporate-discipline/timing.ts
-var _07_corporate_discipline_timing_namespaceObject = {};
-__webpack_require__.r(_07_corporate_discipline_timing_namespaceObject);
-__webpack_require__.d(_07_corporate_discipline_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_07_corporate_discipline_timing_TOTAL_FRAMES),
-  content: () => (_07_corporate_discipline_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/timilola-adetu-second-half-advantage/08-targets-revelation/timing.ts
-var _08_targets_revelation_timing_namespaceObject = {};
-__webpack_require__.r(_08_targets_revelation_timing_namespaceObject);
-__webpack_require__.d(_08_targets_revelation_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_08_targets_revelation_timing_TOTAL_FRAMES),
-  content: () => (_08_targets_revelation_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/timilola-adetu-second-half-advantage/09-let-others-in/timing.ts
-var _09_let_others_in_timing_namespaceObject = {};
-__webpack_require__.r(_09_let_others_in_timing_namespaceObject);
-__webpack_require__.d(_09_let_others_in_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_09_let_others_in_timing_TOTAL_FRAMES),
-  content: () => (_09_let_others_in_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/timilola-adetu-second-half-advantage/10-jobs-and-succession/timing.ts
-var _10_jobs_and_succession_timing_namespaceObject = {};
-__webpack_require__.r(_10_jobs_and_succession_timing_namespaceObject);
-__webpack_require__.d(_10_jobs_and_succession_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_10_jobs_and_succession_timing_TOTAL_FRAMES),
-  content: () => (_10_jobs_and_succession_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/timilola-adetu-second-half-advantage/11-not-about-age/timing.ts
-var _11_not_about_age_timing_namespaceObject = {};
-__webpack_require__.r(_11_not_about_age_timing_namespaceObject);
-__webpack_require__.d(_11_not_about_age_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_11_not_about_age_timing_TOTAL_FRAMES),
-  content: () => (_11_not_about_age_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/timilola-adetu-second-half-advantage/12-dont-be-pigeonholed/timing.ts
-var _12_dont_be_pigeonholed_timing_namespaceObject = {};
-__webpack_require__.r(_12_dont_be_pigeonholed_timing_namespaceObject);
-__webpack_require__.d(_12_dont_be_pigeonholed_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_12_dont_be_pigeonholed_timing_TOTAL_FRAMES),
-  content: () => (_12_dont_be_pigeonholed_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/timilola-adetu-second-half-advantage/13-passion-pace-empower/timing.ts
-var _13_passion_pace_empower_timing_namespaceObject = {};
-__webpack_require__.r(_13_passion_pace_empower_timing_namespaceObject);
-__webpack_require__.d(_13_passion_pace_empower_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_13_passion_pace_empower_timing_TOTAL_FRAMES),
-  content: () => (_13_passion_pace_empower_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/01-starting-point/timing.ts
-var _01_starting_point_timing_namespaceObject = {};
-__webpack_require__.r(_01_starting_point_timing_namespaceObject);
-__webpack_require__.d(_01_starting_point_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_01_starting_point_timing_TOTAL_FRAMES),
-  content: () => (_01_starting_point_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/02-start-with-what-you-have/timing.ts
-var _02_start_with_what_you_have_timing_namespaceObject = {};
-__webpack_require__.r(_02_start_with_what_you_have_timing_namespaceObject);
-__webpack_require__.d(_02_start_with_what_you_have_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_02_start_with_what_you_have_timing_TOTAL_FRAMES),
-  content: () => (_02_start_with_what_you_have_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/03-resilience-beats-ideas/timing.ts
-var _03_resilience_beats_ideas_timing_namespaceObject = {};
-__webpack_require__.r(_03_resilience_beats_ideas_timing_namespaceObject);
-__webpack_require__.d(_03_resilience_beats_ideas_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_03_resilience_beats_ideas_timing_TOTAL_FRAMES),
-  content: () => (_03_resilience_beats_ideas_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/04-destiny-helpers/timing.ts
-var _04_destiny_helpers_timing_namespaceObject = {};
-__webpack_require__.r(_04_destiny_helpers_timing_namespaceObject);
-__webpack_require__.d(_04_destiny_helpers_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_04_destiny_helpers_timing_TOTAL_FRAMES),
-  content: () => (_04_destiny_helpers_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/05-ideas-are-living/timing.ts
-var _05_ideas_are_living_timing_namespaceObject = {};
-__webpack_require__.r(_05_ideas_are_living_timing_namespaceObject);
-__webpack_require__.d(_05_ideas_are_living_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_05_ideas_are_living_timing_TOTAL_FRAMES),
-  content: () => (_05_ideas_are_living_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/06-audacity-factory/timing.ts
-var _06_audacity_factory_timing_namespaceObject = {};
-__webpack_require__.r(_06_audacity_factory_timing_namespaceObject);
-__webpack_require__.d(_06_audacity_factory_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_06_audacity_factory_timing_TOTAL_FRAMES),
-  content: () => (_06_audacity_factory_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/07-founder-not-ceo/timing.ts
-var _07_founder_not_ceo_timing_namespaceObject = {};
-__webpack_require__.r(_07_founder_not_ceo_timing_namespaceObject);
-__webpack_require__.d(_07_founder_not_ceo_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_07_founder_not_ceo_timing_TOTAL_FRAMES),
-  content: () => (_07_founder_not_ceo_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/08-founders-instinct/timing.ts
-var _08_founders_instinct_timing_namespaceObject = {};
-__webpack_require__.r(_08_founders_instinct_timing_namespaceObject);
-__webpack_require__.d(_08_founders_instinct_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_08_founders_instinct_timing_TOTAL_FRAMES),
-  content: () => (_08_founders_instinct_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/09-no-work-life-balance/timing.ts
-var _09_no_work_life_balance_timing_namespaceObject = {};
-__webpack_require__.r(_09_no_work_life_balance_timing_namespaceObject);
-__webpack_require__.d(_09_no_work_life_balance_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_09_no_work_life_balance_timing_TOTAL_FRAMES),
-  content: () => (_09_no_work_life_balance_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/10-staff-will-humble-you/timing.ts
-var _10_staff_will_humble_you_timing_namespaceObject = {};
-__webpack_require__.r(_10_staff_will_humble_you_timing_namespaceObject);
-__webpack_require__.d(_10_staff_will_humble_you_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_10_staff_will_humble_you_timing_TOTAL_FRAMES),
-  content: () => (_10_staff_will_humble_you_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/11-protect-your-idea/timing.ts
-var _11_protect_your_idea_timing_namespaceObject = {};
-__webpack_require__.r(_11_protect_your_idea_timing_namespaceObject);
-__webpack_require__.d(_11_protect_your_idea_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_11_protect_your_idea_timing_TOTAL_FRAMES),
-  content: () => (_11_protect_your_idea_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/12-learn-from-asia/timing.ts
-var _12_learn_from_asia_timing_namespaceObject = {};
-__webpack_require__.r(_12_learn_from_asia_timing_namespaceObject);
-__webpack_require__.d(_12_learn_from_asia_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_12_learn_from_asia_timing_TOTAL_FRAMES),
-  content: () => (_12_learn_from_asia_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/13-test-and-put-god-first/timing.ts
-var _13_test_and_put_god_first_timing_namespaceObject = {};
-__webpack_require__.r(_13_test_and_put_god_first_timing_namespaceObject);
-__webpack_require__.d(_13_test_and_put_god_first_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_13_test_and_put_god_first_timing_TOTAL_FRAMES),
-  content: () => (_13_test_and_put_god_first_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/01-execution-at-scale/timing.ts
-var _01_execution_at_scale_timing_namespaceObject = {};
-__webpack_require__.r(_01_execution_at_scale_timing_namespaceObject);
-__webpack_require__.d(_01_execution_at_scale_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_01_execution_at_scale_timing_TOTAL_FRAMES),
-  content: () => (_01_execution_at_scale_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/02-ideas-are-free/timing.ts
-var _02_ideas_are_free_timing_namespaceObject = {};
-__webpack_require__.r(_02_ideas_are_free_timing_namespaceObject);
-__webpack_require__.d(_02_ideas_are_free_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_02_ideas_are_free_timing_TOTAL_FRAMES),
-  content: () => (_02_ideas_are_free_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/03-biggest-challenge-is-you/timing.ts
-var _03_biggest_challenge_is_you_timing_namespaceObject = {};
-__webpack_require__.r(_03_biggest_challenge_is_you_timing_namespaceObject);
-__webpack_require__.d(_03_biggest_challenge_is_you_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_03_biggest_challenge_is_you_timing_TOTAL_FRAMES),
-  content: () => (_03_biggest_challenge_is_you_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/04-goals-write-the-number/timing.ts
-var _04_goals_write_the_number_timing_namespaceObject = {};
-__webpack_require__.r(_04_goals_write_the_number_timing_namespaceObject);
-__webpack_require__.d(_04_goals_write_the_number_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_04_goals_write_the_number_timing_TOTAL_FRAMES),
-  content: () => (_04_goals_write_the_number_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/05-structure-serves-goals/timing.ts
-var _05_structure_serves_goals_timing_namespaceObject = {};
-__webpack_require__.r(_05_structure_serves_goals_timing_namespaceObject);
-__webpack_require__.d(_05_structure_serves_goals_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_05_structure_serves_goals_timing_TOTAL_FRAMES),
-  content: () => (_05_structure_serves_goals_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/06-hardest-constraint-people/timing.ts
-var _06_hardest_constraint_people_timing_namespaceObject = {};
-__webpack_require__.r(_06_hardest_constraint_people_timing_namespaceObject);
-__webpack_require__.d(_06_hardest_constraint_people_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_06_hardest_constraint_people_timing_TOTAL_FRAMES),
-  content: () => (_06_hardest_constraint_people_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/07-customer-obsession/timing.ts
-var _07_customer_obsession_timing_namespaceObject = {};
-__webpack_require__.r(_07_customer_obsession_timing_namespaceObject);
-__webpack_require__.d(_07_customer_obsession_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_07_customer_obsession_timing_TOTAL_FRAMES),
-  content: () => (_07_customer_obsession_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/08-traits-craft-to-candor/timing.ts
-var _08_traits_craft_to_candor_timing_namespaceObject = {};
-__webpack_require__.r(_08_traits_craft_to_candor_timing_namespaceObject);
-__webpack_require__.d(_08_traits_craft_to_candor_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_08_traits_craft_to_candor_timing_TOTAL_FRAMES),
-  content: () => (_08_traits_craft_to_candor_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/09-four-ms-motivation/timing.ts
-var _09_four_ms_motivation_timing_namespaceObject = {};
-__webpack_require__.r(_09_four_ms_motivation_timing_namespaceObject);
-__webpack_require__.d(_09_four_ms_motivation_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_09_four_ms_motivation_timing_TOTAL_FRAMES),
-  content: () => (_09_four_ms_motivation_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/10-incentives-and-context/timing.ts
-var _10_incentives_and_context_timing_namespaceObject = {};
-__webpack_require__.r(_10_incentives_and_context_timing_namespaceObject);
-__webpack_require__.d(_10_incentives_and_context_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_10_incentives_and_context_timing_TOTAL_FRAMES),
-  content: () => (_10_incentives_and_context_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/11-systems-governance-diagnostic/timing.ts
-var _11_systems_governance_diagnostic_timing_namespaceObject = {};
-__webpack_require__.r(_11_systems_governance_diagnostic_timing_namespaceObject);
-__webpack_require__.d(_11_systems_governance_diagnostic_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_11_systems_governance_diagnostic_timing_TOTAL_FRAMES),
-  content: () => (_11_systems_governance_diagnostic_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/01-next-bounce/timing.ts
-var _01_next_bounce_timing_namespaceObject = {};
-__webpack_require__.r(_01_next_bounce_timing_namespaceObject);
-__webpack_require__.d(_01_next_bounce_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_01_next_bounce_timing_TOTAL_FRAMES),
-  content: () => (_01_next_bounce_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/02-nine-businesses/timing.ts
-var _02_nine_businesses_timing_namespaceObject = {};
-__webpack_require__.r(_02_nine_businesses_timing_namespaceObject);
-__webpack_require__.d(_02_nine_businesses_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_02_nine_businesses_timing_TOTAL_FRAMES),
-  content: () => (_02_nine_businesses_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/03-not-a-market-exemption/timing.ts
-var _03_not_a_market_exemption_timing_namespaceObject = {};
-__webpack_require__.r(_03_not_a_market_exemption_timing_namespaceObject);
-__webpack_require__.d(_03_not_a_market_exemption_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_03_not_a_market_exemption_timing_TOTAL_FRAMES),
-  content: () => (_03_not_a_market_exemption_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/04-know-your-market/timing.ts
-var _04_know_your_market_timing_namespaceObject = {};
-__webpack_require__.r(_04_know_your_market_timing_namespaceObject);
-__webpack_require__.d(_04_know_your_market_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_04_know_your_market_timing_TOTAL_FRAMES),
-  content: () => (_04_know_your_market_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/05-not-forced/timing.ts
-var _05_not_forced_timing_namespaceObject = {};
-__webpack_require__.r(_05_not_forced_timing_namespaceObject);
-__webpack_require__.d(_05_not_forced_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_05_not_forced_timing_TOTAL_FRAMES),
-  content: () => (_05_not_forced_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/06-five-numbers/timing.ts
-var _06_five_numbers_timing_namespaceObject = {};
-__webpack_require__.r(_06_five_numbers_timing_namespaceObject);
-__webpack_require__.d(_06_five_numbers_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_06_five_numbers_timing_TOTAL_FRAMES),
-  content: () => (_06_five_numbers_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/07-research-skepticism/timing.ts
-var _07_research_skepticism_timing_namespaceObject = {};
-__webpack_require__.r(_07_research_skepticism_timing_namespaceObject);
-__webpack_require__.d(_07_research_skepticism_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_07_research_skepticism_timing_TOTAL_FRAMES),
-  content: () => (_07_research_skepticism_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/08-dont-compete-on-price/timing.ts
-var _08_dont_compete_on_price_timing_namespaceObject = {};
-__webpack_require__.r(_08_dont_compete_on_price_timing_namespaceObject);
-__webpack_require__.d(_08_dont_compete_on_price_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_08_dont_compete_on_price_timing_TOTAL_FRAMES),
-  content: () => (_08_dont_compete_on_price_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/09-timing-incubate/timing.ts
-var _09_timing_incubate_timing_namespaceObject = {};
-__webpack_require__.r(_09_timing_incubate_timing_namespaceObject);
-__webpack_require__.d(_09_timing_incubate_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_09_timing_incubate_timing_TOTAL_FRAMES),
-  content: () => (_09_timing_incubate_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/10-build-your-team/timing.ts
-var _10_build_your_team_timing_namespaceObject = {};
-__webpack_require__.r(_10_build_your_team_timing_namespaceObject);
-__webpack_require__.d(_10_build_your_team_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_10_build_your_team_timing_TOTAL_FRAMES),
-  content: () => (_10_build_your_team_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/11-discipline-outsource/timing.ts
-var _11_discipline_outsource_timing_namespaceObject = {};
-__webpack_require__.r(_11_discipline_outsource_timing_namespaceObject);
-__webpack_require__.d(_11_discipline_outsource_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_11_discipline_outsource_timing_TOTAL_FRAMES),
-  content: () => (_11_discipline_outsource_timing_content)
-});
-
-// NAMESPACE OBJECT: ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/12-no-capital-myth/timing.ts
-var _12_no_capital_myth_timing_namespaceObject = {};
-__webpack_require__.r(_12_no_capital_myth_timing_namespaceObject);
-__webpack_require__.d(_12_no_capital_myth_timing_namespaceObject, {
-  TOTAL_FRAMES: () => (_12_no_capital_myth_timing_TOTAL_FRAMES),
-  content: () => (_12_no_capital_myth_timing_content)
+// NAMESPACE OBJECT: ./src/instincthub/marketing-and-sales/15-start-small-iterate-win/timing.ts
+var _15_start_small_iterate_win_timing_namespaceObject = {};
+__webpack_require__.r(_15_start_small_iterate_win_timing_namespaceObject);
+__webpack_require__.d(_15_start_small_iterate_win_timing_namespaceObject, {
+  TOTAL_FRAMES: () => (_15_start_small_iterate_win_timing_TOTAL_FRAMES),
+  content: () => (_15_start_small_iterate_win_timing_content)
 });
 
 // EXTERNAL MODULE: ./node_modules/.pnpm/remotion@4.0.421_react-dom@19.2.3_react@19.2.3__react@19.2.3/node_modules/remotion/dist/esm/index.mjs
@@ -116195,1124 +115731,6 @@ const Talk_Talk = ({
   ] });
 };
 
-;// ./src/theplatform/founders-mindset-vusi/01-earn-the-right/timing.ts
-
-const _01_earn_the_right_timing_sec = (s) => Math.round(s * 30);
-const _01_earn_the_right_timing_TOTAL_FRAMES = _01_earn_the_right_timing_sec(170);
-const _01_earn_the_right_timing_content = {
-  trackerTitle: "Earn the Right",
-  trackerIn: _01_earn_the_right_timing_sec(10),
-  totalFrames: _01_earn_the_right_timing_TOTAL_FRAMES,
-  hook: {
-    in: _01_earn_the_right_timing_sec(2),
-    out: _01_earn_the_right_timing_sec(9),
-    eyebrow: "The Founder's Mindset \xB7 01",
-    line1: "Ideas are cheap.",
-    line1Accent: "Earn the right to be heard.",
-    line2: "Vusi opens with one mandate: to offend you."
-  },
-  speaker: {
-    in: _01_earn_the_right_timing_sec(11),
-    out: _01_earn_the_right_timing_sec(24),
-    name: "Vusi Thembekwayo",
-    title: "Founder & CEO, My Growth Fund Venture Partners"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "The mandate",
-      title: "I came to\noffend you",
-      caption: "Offence means you care \u2014 or you've believed something wrong.",
-      activeAt: _01_earn_the_right_timing_sec(40)
-    },
-    {
-      n: 2,
-      short: "The privilege",
-      title: "The privilege\nof being offended",
-      caption: "Being challenged is how you grow. Let it happen.",
-      activeAt: _01_earn_the_right_timing_sec(118)
-    }
-  ],
-  quotes: [
-    {
-      in: _01_earn_the_right_timing_sec(132),
-      out: _01_earn_the_right_timing_sec(150),
-      text: "You should have the privilege of being offended.",
-      attribution: "Vusi Thembekwayo"
-    }
-  ],
-  stats: [
-    {
-      in: _01_earn_the_right_timing_sec(18),
-      out: _01_earn_the_right_timing_sec(32),
-      value: "5 / 30",
-      label: "Five ideas. Thirty minutes. No filler."
-    }
-  ],
-  cutaways: [
-    {
-      key: "idea",
-      start: _01_earn_the_right_timing_sec(66),
-      dur: _01_earn_the_right_timing_sec(8),
-      eyebrow: "Ideas are cheap",
-      caption: "Everyone has one. Few survive contact with reality."
-    }
-  ],
-  closing: {
-    in: _01_earn_the_right_timing_sec(156),
-    out: _01_earn_the_right_timing_TOTAL_FRAMES + _01_earn_the_right_timing_sec(2),
-    eyebrow: "Lesson 1 recap",
-    title: "Ideas are cheap.",
-    titleAccent: "Make them happen.",
-    subtitle: "Next: what successful founders actually knew.",
-    chips: ["The Founder's Mindset"]
-  }
-};
-
-;// ./src/theplatform/founders-mindset-vusi/02-what-founders-knew/timing.ts
-
-const _02_what_founders_knew_timing_sec = (s) => Math.round(s * 30);
-const _02_what_founders_knew_timing_TOTAL_FRAMES = _02_what_founders_knew_timing_sec(270);
-const _02_what_founders_knew_timing_content = {
-  trackerTitle: "What Founders Knew",
-  trackerIn: _02_what_founders_knew_timing_sec(10),
-  totalFrames: _02_what_founders_knew_timing_TOTAL_FRAMES,
-  hook: {
-    in: _02_what_founders_knew_timing_sec(2),
-    out: _02_what_founders_knew_timing_sec(9),
-    eyebrow: "The Founder's Mindset \xB7 02",
-    line1: "They weren't",
-    line1Accent: "celestial beings.",
-    line2: "So what did successful founders know that the rest didn't?"
-  },
-  speaker: {
-    in: _02_what_founders_knew_timing_sec(11),
-    out: _02_what_founders_knew_timing_sec(24),
-    name: "Vusi Thembekwayo",
-    credential: "School of Scale",
-    title: "Founder & Chairman, My Growth Fund"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "I proved it myself",
-      title: "I put my own\nmoney down",
-      caption: "No institutional backing \u2014 so he funded the thesis himself.",
-      activeAt: _02_what_founders_knew_timing_sec(40)
-    },
-    {
-      n: 2,
-      short: "The real question",
-      title: "What did they\nknow that we didn't?",
-      caption: "The white founders scaling businesses were just people.",
-      activeAt: _02_what_founders_knew_timing_sec(95)
-    },
-    {
-      n: 3,
-      short: "Africa & business",
-      title: "Everywhere\nbut business",
-      caption: "Africans lead culture and politics \u2014 but rarely the P&L.",
-      activeAt: _02_what_founders_knew_timing_sec(165)
-    },
-    {
-      n: 4,
-      short: "Fund 154",
-      title: "One continent,\n54 countries",
-      caption: "A Pan-African fund for family businesses in transition.",
-      activeAt: _02_what_founders_knew_timing_sec(218)
-    }
-  ],
-  quotes: [
-    {
-      in: _02_what_founders_knew_timing_sec(118),
-      out: _02_what_founders_knew_timing_sec(136),
-      text: "What is it they knew that we didn't, that allowed them to succeed?",
-      attribution: "Vusi Thembekwayo"
-    }
-  ],
-  stats: [
-    {
-      in: _02_what_founders_knew_timing_sec(44),
-      out: _02_what_founders_knew_timing_sec(60),
-      count: 10,
-      suffix: " yrs",
-      label: "A decade proving the thesis at My Growth Fund."
-    },
-    {
-      in: _02_what_founders_knew_timing_sec(232),
-      out: _02_what_founders_knew_timing_sec(248),
-      count: 54,
-      label: "Countries targeted by the Pan-African 154 fund."
-    }
-  ],
-  cutaways: [
-    {
-      key: "network",
-      start: _02_what_founders_knew_timing_sec(140),
-      dur: _02_what_founders_knew_timing_sec(8),
-      eyebrow: "My Growth Fund \xB7 10 years",
-      caption: "Backing high-growth African businesses with capital and scale."
-    }
-  ],
-  closing: {
-    in: _02_what_founders_knew_timing_sec(256),
-    out: _02_what_founders_knew_timing_TOTAL_FRAMES + _02_what_founders_knew_timing_sec(2),
-    eyebrow: "Lesson 2 recap",
-    title: "Not superhuman \u2014",
-    titleAccent: "they executed.",
-    subtitle: "Next: the two words at the centre of it all.",
-    chips: ["School of Scale"]
-  }
-};
-
-;// ./src/theplatform/founders-mindset-vusi/03-the-founders-mindset/timing.ts
-
-const _03_the_founders_mindset_timing_sec = (s) => Math.round(s * 30);
-const _03_the_founders_mindset_timing_TOTAL_FRAMES = _03_the_founders_mindset_timing_sec(144);
-const _03_the_founders_mindset_timing_content = {
-  trackerTitle: "The Founder's Mindset",
-  trackerIn: _03_the_founders_mindset_timing_sec(8),
-  totalFrames: _03_the_founders_mindset_timing_TOTAL_FRAMES,
-  hook: {
-    in: _03_the_founders_mindset_timing_sec(2),
-    out: _03_the_founders_mindset_timing_sec(8),
-    eyebrow: "The Founder's Mindset \xB7 03",
-    line1: "Two words.",
-    line1Accent: "Founder's mindset.",
-    line2: "The thesis at the centre of the whole talk."
-  },
-  speaker: {
-    in: _03_the_founders_mindset_timing_sec(10),
-    out: _03_the_founders_mindset_timing_sec(22),
-    name: "Vusi Thembekwayo",
-    title: "Founder & CEO, My Growth Fund Venture Partners"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Not every owner",
-      title: "Not every owner\nis a founder",
-      caption: "Owner, entrepreneur, leader \u2014 none of them guarantee it.",
-      activeAt: _03_the_founders_mindset_timing_sec(98)
-    },
-    {
-      n: 2,
-      short: "Built to outgrow you",
-      title: "Built to\noutgrow you",
-      caption: "Founders build the thing intentionally to outgrow them.",
-      activeAt: _03_the_founders_mindset_timing_sec(119)
-    }
-  ],
-  quotes: [
-    {
-      in: _03_the_founders_mindset_timing_sec(101),
-      out: _03_the_founders_mindset_timing_sec(116),
-      text: "Not every single business owner is a founder.",
-      attribution: "Vusi Thembekwayo"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "target",
-      start: _03_the_founders_mindset_timing_sec(48),
-      dur: _03_the_founders_mindset_timing_sec(8),
-      eyebrow: "Founder's mindset",
-      caption: "Build the thing so it no longer needs you."
-    }
-  ],
-  closing: {
-    in: _03_the_founders_mindset_timing_sec(130),
-    out: _03_the_founders_mindset_timing_TOTAL_FRAMES + _03_the_founders_mindset_timing_sec(2),
-    eyebrow: "Lesson 3 recap",
-    title: "Found it to",
-    titleAccent: "outgrow you.",
-    subtitle: "Next: why capital isn't your real problem.",
-    chips: ["Founder's Mindset"]
-  }
-};
-
-;// ./src/theplatform/founders-mindset-vusi/04-capital-isnt-the-problem/timing.ts
-
-const _04_capital_isnt_the_problem_timing_sec = (s) => Math.round(s * 30);
-const _04_capital_isnt_the_problem_timing_TOTAL_FRAMES = _04_capital_isnt_the_problem_timing_sec(270);
-const _04_capital_isnt_the_problem_timing_content = {
-  trackerTitle: "Capital & You",
-  trackerIn: _04_capital_isnt_the_problem_timing_sec(10),
-  totalFrames: _04_capital_isnt_the_problem_timing_TOTAL_FRAMES,
-  hook: {
-    in: _04_capital_isnt_the_problem_timing_sec(2),
-    out: _04_capital_isnt_the_problem_timing_sec(9),
-    eyebrow: "The Opportunity \xB7 04",
-    line1: "Capital isn't the problem.",
-    line1Accent: "You are.",
-    line2: "The numbers behind the money looking for founders."
-  },
-  speaker: {
-    in: _04_capital_isnt_the_problem_timing_sec(11),
-    out: _04_capital_isnt_the_problem_timing_sec(24),
-    name: "Vusi Thembekwayo",
-    title: "Venture Capitalist & Author"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Men lie, numbers don't",
-      title: "Numbers\ndon't lie",
-      caption: "A numbers guy makes the case with the data, not the vibe.",
-      activeAt: _04_capital_isnt_the_problem_timing_sec(26)
-    },
-    {
-      n: 2,
-      short: "Capital isn't the problem",
-      title: "The capital isn't\nthe problem \u2014 you are",
-      caption: "More money wants to back founders than there are founders.",
-      activeAt: _04_capital_isnt_the_problem_timing_sec(118)
-    },
-    {
-      n: 3,
-      short: "Money is being printed",
-      title: "Half of all dollars,\nin five years",
-      caption: "More capital exists today than good ideas to absorb it.",
-      activeAt: _04_capital_isnt_the_problem_timing_sec(200)
-    }
-  ],
-  quotes: [
-    {
-      in: _04_capital_isnt_the_problem_timing_sec(127),
-      out: _04_capital_isnt_the_problem_timing_sec(144),
-      text: "If you're not attracting the capital, the capital isn't the problem. You are.",
-      attribution: "Vusi Thembekwayo"
-    }
-  ],
-  stats: [
-    {
-      in: _04_capital_isnt_the_problem_timing_sec(157),
-      out: _04_capital_isnt_the_problem_timing_sec(173),
-      count: 4e4,
-      label: "M&A deals a year by 2000 \u2014 founders' businesses bought."
-    },
-    {
-      in: _04_capital_isnt_the_problem_timing_sec(180),
-      out: _04_capital_isnt_the_problem_timing_sec(196),
-      count: 6e4,
-      label: "Deals a year by 2020. The market only grows."
-    },
-    {
-      in: _04_capital_isnt_the_problem_timing_sec(206),
-      out: _04_capital_isnt_the_problem_timing_sec(222),
-      value: "50%",
-      label: "Of all US dollars ever, printed in the last five years."
-    }
-  ],
-  cutaways: [
-    {
-      key: "growth",
-      start: _04_capital_isnt_the_problem_timing_sec(232),
-      dur: _04_capital_isnt_the_problem_timing_sec(8),
-      eyebrow: "The capital is moving",
-      caption: "More money in the system than ever before."
-    }
-  ],
-  closing: {
-    in: _04_capital_isnt_the_problem_timing_sec(256),
-    out: _04_capital_isnt_the_problem_timing_TOTAL_FRAMES + _04_capital_isnt_the_problem_timing_sec(2),
-    eyebrow: "Lesson 4 recap",
-    title: "The capital is here.",
-    titleAccent: "Can you absorb it?",
-    subtitle: "Next: the context you're building in.",
-    chips: ["Capital \u2260 the problem"]
-  }
-};
-
-;// ./src/theplatform/founders-mindset-vusi/05-trillion-dollar-context/timing.ts
-
-const _05_trillion_dollar_context_timing_sec = (s) => Math.round(s * 30);
-const _05_trillion_dollar_context_timing_TOTAL_FRAMES = _05_trillion_dollar_context_timing_sec(302);
-const _05_trillion_dollar_context_timing_content = {
-  trackerTitle: "Your Context",
-  trackerIn: _05_trillion_dollar_context_timing_sec(10),
-  totalFrames: _05_trillion_dollar_context_timing_TOTAL_FRAMES,
-  hook: {
-    in: _05_trillion_dollar_context_timing_sec(2),
-    out: _05_trillion_dollar_context_timing_sec(9),
-    eyebrow: "The Opportunity \xB7 05",
-    line1: "Legacies aren't hoped for.",
-    line1Accent: "They're built.",
-    line2: "And building starts with understanding your context."
-  },
-  speaker: {
-    in: _05_trillion_dollar_context_timing_sec(11),
-    out: _05_trillion_dollar_context_timing_sec(24),
-    name: "Vusi Thembekwayo",
-    title: "Founder, Watermark Africa Fund"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Four markets",
-      title: "A trillion-dollar\nmarket",
-      caption: "Nigeria, Ghana, Kenya, South Africa \u2014 together, ~$1T.",
-      activeAt: _05_trillion_dollar_context_timing_sec(40)
-    },
-    {
-      n: 2,
-      short: "Understand your context",
-      title: "Context is\neverything",
-      caption: "Sub-Saharan Africa is the world's largest growth opportunity.",
-      activeAt: _05_trillion_dollar_context_timing_sec(123)
-    },
-    {
-      n: 3,
-      short: "Africa is young",
-      title: "The world's\nyoungest market",
-      caption: "Half of Nigeria is under 18 \u2014 100m+ not yet economically active.",
-      activeAt: _05_trillion_dollar_context_timing_sec(210)
-    },
-    {
-      n: 4,
-      short: "We don't execute",
-      title: "The data is there.\nExecution isn't.",
-      caption: "The opportunity is obvious. Executing on it is the gap.",
-      activeAt: _05_trillion_dollar_context_timing_sec(244)
-    }
-  ],
-  quotes: [
-    {
-      in: _05_trillion_dollar_context_timing_sec(96),
-      out: _05_trillion_dollar_context_timing_sec(112),
-      text: "These markets alone present a one-trillion-dollar economic opportunity.",
-      attribution: "Vusi Thembekwayo"
-    },
-    {
-      in: _05_trillion_dollar_context_timing_sec(262),
-      out: _05_trillion_dollar_context_timing_sec(278),
-      text: "The problem with us is we don't know how to execute on this opportunity.",
-      attribution: "Vusi Thembekwayo"
-    }
-  ],
-  stats: [
-    {
-      in: _05_trillion_dollar_context_timing_sec(150),
-      out: _05_trillion_dollar_context_timing_sec(166),
-      value: "4.6%",
-      label: "Sub-Saharan Africa's aggregate growth opportunity."
-    },
-    {
-      in: _05_trillion_dollar_context_timing_sec(216),
-      out: _05_trillion_dollar_context_timing_sec(232),
-      value: "50%",
-      label: "Of Africa is under 50. In Nigeria, under 18."
-    }
-  ],
-  cutaways: [
-    {
-      key: "launch",
-      start: _05_trillion_dollar_context_timing_sec(186),
-      dur: _05_trillion_dollar_context_timing_sec(8),
-      eyebrow: "The execution gap",
-      caption: "A young continent, urbanising and getting online."
-    }
-  ],
-  closing: {
-    in: _05_trillion_dollar_context_timing_sec(288),
-    out: _05_trillion_dollar_context_timing_TOTAL_FRAMES + _05_trillion_dollar_context_timing_sec(2),
-    eyebrow: "Lesson 5 recap",
-    title: "Context is",
-    titleAccent: "everything.",
-    subtitle: "Next: play the game you've actually been gifted.",
-    chips: ["Your Context"]
-  }
-};
-
-;// ./src/theplatform/founders-mindset-vusi/06-play-your-game/timing.ts
-
-const _06_play_your_game_timing_sec = (s) => Math.round(s * 30);
-const _06_play_your_game_timing_TOTAL_FRAMES = _06_play_your_game_timing_sec(186);
-const _06_play_your_game_timing_content = {
-  trackerTitle: "Play Your Game",
-  trackerIn: _06_play_your_game_timing_sec(8),
-  totalFrames: _06_play_your_game_timing_TOTAL_FRAMES,
-  hook: {
-    in: _06_play_your_game_timing_sec(2),
-    out: _06_play_your_game_timing_sec(9),
-    eyebrow: "The Opportunity \xB7 06",
-    line1: "The world went tech.",
-    line1Accent: "What's your game?",
-    line2: "Where the next engine of growth comes from."
-  },
-  speaker: {
-    in: _06_play_your_game_timing_sec(11),
-    out: _06_play_your_game_timing_sec(24),
-    name: "Vusi Thembekwayo",
-    title: "Founder & CEO, My Growth Fund Venture Partners"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Tech took the top 10",
-      title: "The top 10\nwent tech",
-      caption: "In a decade, the world's largest companies flipped to tech.",
-      activeAt: _06_play_your_game_timing_sec(26)
-    },
-    {
-      n: 2,
-      short: "Play your gifted game",
-      title: "Play the game\nyou're gifted",
-      caption: "Africa's strength is still in agriculture and resources.",
-      activeAt: _06_play_your_game_timing_sec(108)
-    },
-    {
-      n: 3,
-      short: "Capital follows scale",
-      title: "Capital\nfollows scale",
-      caption: "Build something that scales and the capital comes.",
-      activeAt: _06_play_your_game_timing_sec(140)
-    }
-  ],
-  quotes: [
-    {
-      in: _06_play_your_game_timing_sec(127),
-      out: _06_play_your_game_timing_sec(140),
-      text: "We need to play for the game we have been gifted.",
-      attribution: "Vusi Thembekwayo"
-    }
-  ],
-  stats: [
-    {
-      in: _06_play_your_game_timing_sec(40),
-      out: _06_play_your_game_timing_sec(58),
-      value: "3 \u2192 8",
-      label: "Tech firms in the world's top 10: 2011 vs 2021."
-    }
-  ],
-  cutaways: [
-    {
-      key: "growth",
-      start: _06_play_your_game_timing_sec(150),
-      dur: _06_play_your_game_timing_sec(8),
-      eyebrow: "Capital follows scale",
-      caption: "Scale first \u2014 the money is chasing it."
-    }
-  ],
-  closing: {
-    in: _06_play_your_game_timing_sec(172),
-    out: _06_play_your_game_timing_TOTAL_FRAMES + _06_play_your_game_timing_sec(2),
-    eyebrow: "Lesson 6 recap",
-    title: "Capital follows",
-    titleAccent: "scale.",
-    subtitle: "Next: the four things you actually need to scale.",
-    chips: ["Play Your Game"]
-  }
-};
-
-;// ./src/theplatform/founders-mindset-vusi/07-four-things-to-scale/timing.ts
-
-const _07_four_things_to_scale_timing_sec = (s) => Math.round(s * 30);
-const _07_four_things_to_scale_timing_TOTAL_FRAMES = _07_four_things_to_scale_timing_sec(117);
-const _07_four_things_to_scale_timing_content = {
-  trackerTitle: "The 4 Things to Scale",
-  trackerIn: _07_four_things_to_scale_timing_sec(6),
-  totalFrames: _07_four_things_to_scale_timing_TOTAL_FRAMES,
-  hook: {
-    in: _07_four_things_to_scale_timing_sec(1),
-    out: _07_four_things_to_scale_timing_sec(7),
-    eyebrow: "How Founders Scale \xB7 07",
-    line1: "Four things",
-    line1Accent: "to scale.",
-    line2: "This is what the data says separates those who scale."
-  },
-  speaker: {
-    in: _07_four_things_to_scale_timing_sec(9),
-    out: _07_four_things_to_scale_timing_sec(20),
-    name: "Vusi Thembekwayo",
-    title: "Founder & CEO, My Growth Fund Venture Partners"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Synthesise operations",
-      title: "Synthesise the\noperations",
-      caption: "Build it so that even when you're not there, work continues.",
-      activeAt: _07_four_things_to_scale_timing_sec(8)
-    },
-    {
-      n: 2,
-      short: "Growth drivers",
-      title: "Find your three\ngrowth drivers",
-      caption: "Three things grow the business. Everything else is noise.",
-      activeAt: _07_four_things_to_scale_timing_sec(30)
-    },
-    {
-      n: 3,
-      short: "Build on insight",
-      title: "Move from instinct\nto insight",
-      caption: "You start on instinct; you scale on what you know.",
-      activeAt: _07_four_things_to_scale_timing_sec(67)
-    },
-    {
-      n: 4,
-      short: "Align incentives",
-      title: "Align the\nincentives",
-      caption: "Without aligned incentives, managing people fails.",
-      activeAt: _07_four_things_to_scale_timing_sec(102)
-    }
-  ],
-  quotes: [
-    {
-      in: _07_four_things_to_scale_timing_sec(48),
-      out: _07_four_things_to_scale_timing_sec(62),
-      text: "Everything else is noise. The role of a leader is to focus on the signal.",
-      attribution: "Vusi Thembekwayo"
-    }
-  ],
-  stats: [
-    {
-      in: _07_four_things_to_scale_timing_sec(32),
-      out: _07_four_things_to_scale_timing_sec(46),
-      count: 3,
-      suffix: " drivers",
-      label: "Do these and turnover doubles. The rest is noise."
-    }
-  ],
-  cutaways: [],
-  closing: {
-    in: _07_four_things_to_scale_timing_sec(104),
-    out: _07_four_things_to_scale_timing_TOTAL_FRAMES + _07_four_things_to_scale_timing_sec(2),
-    eyebrow: "Lesson 7 recap",
-    title: "Operations, drivers, insight \u2014",
-    titleAccent: "and incentives.",
-    subtitle: "Next: aligning incentives, in practice.",
-    chips: ["The 4 Things"]
-  }
-};
-
-;// ./src/theplatform/founders-mindset-vusi/08-aligning-incentives/timing.ts
-
-const _08_aligning_incentives_timing_sec = (s) => Math.round(s * 30);
-const _08_aligning_incentives_timing_TOTAL_FRAMES = _08_aligning_incentives_timing_sec(236);
-const _08_aligning_incentives_timing_content = {
-  trackerTitle: "Aligning Incentives",
-  trackerIn: _08_aligning_incentives_timing_sec(8),
-  totalFrames: _08_aligning_incentives_timing_TOTAL_FRAMES,
-  hook: {
-    in: _08_aligning_incentives_timing_sec(2),
-    out: _08_aligning_incentives_timing_sec(9),
-    eyebrow: "How Founders Scale \xB7 08",
-    line1: "Align incentives",
-    line1Accent: "or you'll fail.",
-    line2: "How Vusi runs a global team that doesn't need him in the room."
-  },
-  speaker: {
-    in: _08_aligning_incentives_timing_sec(11),
-    out: _08_aligning_incentives_timing_sec(24),
-    name: "Vusi Thembekwayo",
-    title: "Founder & CEO, My Growth Fund Venture Partners"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Incentives = objectives",
-      title: "Tie incentives to\nyour objectives",
-      caption: "People must be paid for the outcomes you actually want.",
-      activeAt: _08_aligning_incentives_timing_sec(28)
-    },
-    {
-      n: 2,
-      short: "A team that runs itself",
-      title: "A keynote built\nwithout me",
-      caption: "His team prepped this talk \u2014 he saw it the night before.",
-      activeAt: _08_aligning_incentives_timing_sec(60)
-    },
-    {
-      n: 3,
-      short: "Score the work",
-      title: "Pay for the\nright job",
-      caption: "Clients score the work; bonuses follow the scores.",
-      activeAt: _08_aligning_incentives_timing_sec(120)
-    },
-    {
-      n: 4,
-      short: "The Mombu rule",
-      title: "One man,\nmany stores",
-      caption: "Sales scripts + a four-step rule scale one founder everywhere.",
-      activeAt: _08_aligning_incentives_timing_sec(166)
-    }
-  ],
-  quotes: [
-    {
-      in: _08_aligning_incentives_timing_sec(155),
-      out: _08_aligning_incentives_timing_sec(170),
-      text: "My team has to do the right job, because they get paid to do the right job.",
-      attribution: "Vusi Thembekwayo"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "deal",
-      start: _08_aligning_incentives_timing_sec(102),
-      dur: _08_aligning_incentives_timing_sec(8),
-      eyebrow: "Align incentives",
-      caption: "Pay people for the outcome, and the outcome follows."
-    }
-  ],
-  closing: {
-    in: _08_aligning_incentives_timing_sec(222),
-    out: _08_aligning_incentives_timing_TOTAL_FRAMES + _08_aligning_incentives_timing_sec(2),
-    eyebrow: "Lesson 8 recap",
-    title: "Aligned incentives",
-    titleAccent: "scale you.",
-    subtitle: "Next: the levels of entrepreneurship.",
-    chips: ["Aligning Incentives"]
-  }
-};
-
-;// ./src/theplatform/founders-mindset-vusi/09-levels-of-entrepreneurship/timing.ts
-
-const _09_levels_of_entrepreneurship_timing_sec = (s) => Math.round(s * 30);
-const _09_levels_of_entrepreneurship_timing_TOTAL_FRAMES = _09_levels_of_entrepreneurship_timing_sec(269);
-const _09_levels_of_entrepreneurship_timing_content = {
-  trackerTitle: "Levels of Entrepreneurship",
-  trackerIn: _09_levels_of_entrepreneurship_timing_sec(10),
-  totalFrames: _09_levels_of_entrepreneurship_timing_TOTAL_FRAMES,
-  hook: {
-    in: _09_levels_of_entrepreneurship_timing_sec(2),
-    out: _09_levels_of_entrepreneurship_timing_sec(9),
-    eyebrow: "How Founders Scale \xB7 09",
-    line1: "There are levels",
-    line1Accent: "to this.",
-    line2: "Most owners get stuck before they ever become founders."
-  },
-  speaker: {
-    in: _09_levels_of_entrepreneurship_timing_sec(11),
-    out: _09_levels_of_entrepreneurship_timing_sec(24),
-    name: "Vusi Thembekwayo",
-    title: "Founder & Chairman, School of Scale"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Professional",
-      title: "Level 1:\nthe professional",
-      caption: "You have the skill \u2014 but if you stop, the work stops.",
-      activeAt: _09_levels_of_entrepreneurship_timing_sec(25)
-    },
-    {
-      n: 2,
-      short: "Self-employed",
-      title: "Level 2:\nself-employed",
-      caption: "Can't take 90 days off? You're self-employed, not an owner.",
-      activeAt: _09_levels_of_entrepreneurship_timing_sec(67)
-    },
-    {
-      n: 3,
-      short: "Business owner",
-      title: "Level 3:\nbusiness owner",
-      caption: "Owners write down the rules and the code of the business.",
-      activeAt: _09_levels_of_entrepreneurship_timing_sec(160)
-    }
-  ],
-  quotes: [
-    {
-      in: _09_levels_of_entrepreneurship_timing_sec(88),
-      out: _09_levels_of_entrepreneurship_timing_sec(104),
-      text: "If you can't take 90 days away and the business still runs, you're not an entrepreneur \u2014 you're self-employed.",
-      attribution: "Vusi Thembekwayo"
-    }
-  ],
-  stats: [
-    {
-      in: _09_levels_of_entrepreneurship_timing_sec(108),
-      out: _09_levels_of_entrepreneurship_timing_sec(124),
-      count: 90,
-      suffix: " days",
-      label: "Can the business run this long without you?"
-    }
-  ],
-  cutaways: [
-    {
-      key: "network",
-      start: _09_levels_of_entrepreneurship_timing_sec(138),
-      dur: _09_levels_of_entrepreneurship_timing_sec(8),
-      eyebrow: "Write down the code",
-      caption: "Systems run on rules someone took the time to write down."
-    }
-  ],
-  closing: {
-    in: _09_levels_of_entrepreneurship_timing_sec(255),
-    out: _09_levels_of_entrepreneurship_timing_TOTAL_FRAMES + _09_levels_of_entrepreneurship_timing_sec(2),
-    eyebrow: "Lesson 9 recap",
-    title: "It's not skill \u2014",
-    titleAccent: "it's structure.",
-    subtitle: "Next: the valley where scale goes to die.",
-    chips: ["The Levels"]
-  }
-};
-
-;// ./src/theplatform/founders-mindset-vusi/10-valley-of-scale/timing.ts
-
-const _10_valley_of_scale_timing_sec = (s) => Math.round(s * 30);
-const _10_valley_of_scale_timing_TOTAL_FRAMES = _10_valley_of_scale_timing_sec(260);
-const _10_valley_of_scale_timing_content = {
-  trackerTitle: "The Valley of Scale",
-  trackerIn: _10_valley_of_scale_timing_sec(10),
-  totalFrames: _10_valley_of_scale_timing_TOTAL_FRAMES,
-  hook: {
-    in: _10_valley_of_scale_timing_sec(2),
-    out: _10_valley_of_scale_timing_sec(9),
-    eyebrow: "Becoming a Founder \xB7 10",
-    line1: "Where scale",
-    line1Accent: "goes to die.",
-    line2: "Implementing the rules is where reality slaps you back."
-  },
-  speaker: {
-    in: _10_valley_of_scale_timing_sec(11),
-    out: _10_valley_of_scale_timing_sec(24),
-    name: "Vusi Thembekwayo",
-    title: "Founder & CEO, My Growth Fund Venture Partners"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Reality slaps back",
-      title: "Reality slaps\nyour Excel back",
-      caption: "The spreadsheet's assumptions don't survive the real world.",
-      activeAt: _10_valley_of_scale_timing_sec(26)
-    },
-    {
-      n: 2,
-      short: "Implementation fatigue",
-      title: "Implementation\nfatigue",
-      caption: "It works, then it doesn't \u2014 you fall out of love and into life.",
-      activeAt: _10_valley_of_scale_timing_sec(75)
-    },
-    {
-      n: 3,
-      short: "The special 10%",
-      title: "Get so big it\ndoesn't matter",
-      caption: "90% shrink back. The 10% push through by scaling up.",
-      activeAt: _10_valley_of_scale_timing_sec(165)
-    },
-    {
-      n: 4,
-      short: "Business = problem",
-      title: "Identify, don't\nfix, problems",
-      caption: "Solve it once, write the rule, hire the fixer. Find the next one.",
-      activeAt: _10_valley_of_scale_timing_sec(196)
-    }
-  ],
-  quotes: [
-    {
-      in: _10_valley_of_scale_timing_sec(146),
-      out: _10_valley_of_scale_timing_sec(162),
-      text: "That is the valley where scale goes to die.",
-      attribution: "Vusi Thembekwayo"
-    }
-  ],
-  stats: [
-    {
-      in: _10_valley_of_scale_timing_sec(176),
-      out: _10_valley_of_scale_timing_sec(192),
-      value: "10%",
-      label: "Push through the fatigue. The other 90% retreat."
-    }
-  ],
-  cutaways: [
-    {
-      key: "launch",
-      start: _10_valley_of_scale_timing_sec(120),
-      dur: _10_valley_of_scale_timing_sec(8),
-      eyebrow: "Out of love, into life",
-      caption: "The fatigue is the test \u2014 not the end."
-    }
-  ],
-  closing: {
-    in: _10_valley_of_scale_timing_sec(246),
-    out: _10_valley_of_scale_timing_TOTAL_FRAMES + _10_valley_of_scale_timing_sec(2),
-    eyebrow: "Lesson 10 recap",
-    title: "Push through \u2014",
-    titleAccent: "don't shrink.",
-    subtitle: "Next: what it actually means to be a founder.",
-    chips: ["The Valley of Scale"]
-  }
-};
-
-;// ./src/theplatform/founders-mindset-vusi/11-how-to-be-a-founder/timing.ts
-
-const _11_how_to_be_a_founder_timing_sec = (s) => Math.round(s * 30);
-const _11_how_to_be_a_founder_timing_TOTAL_FRAMES = _11_how_to_be_a_founder_timing_sec(180);
-const _11_how_to_be_a_founder_timing_content = {
-  trackerTitle: "How to Be a Founder",
-  trackerIn: _11_how_to_be_a_founder_timing_sec(8),
-  totalFrames: _11_how_to_be_a_founder_timing_TOTAL_FRAMES,
-  hook: {
-    in: _11_how_to_be_a_founder_timing_sec(2),
-    out: _11_how_to_be_a_founder_timing_sec(9),
-    eyebrow: "Becoming a Founder \xB7 11",
-    line1: "How to be",
-    line1Accent: "a founder.",
-    line2: "Plant a vision \u2014 then build the people to make it true."
-  },
-  speaker: {
-    in: _11_how_to_be_a_founder_timing_sec(11),
-    out: _11_how_to_be_a_founder_timing_sec(24),
-    name: "Vusi Thembekwayo",
-    title: "Founder & CEO, My Growth Fund Venture Partners"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Plant a vision",
-      title: "Plant a vision,\nbuild the people",
-      caption: "Founders grow people who carry the vision forward.",
-      activeAt: _11_how_to_be_a_founder_timing_sec(10)
-    },
-    {
-      n: 2,
-      short: "Lead yourself first",
-      title: "Leadership\nis a mirror",
-      caption: "You can't lead others until you can lead yourself.",
-      activeAt: _11_how_to_be_a_founder_timing_sec(72)
-    },
-    {
-      n: 3,
-      short: "Your founder DNA",
-      title: "Know your\nfounder DNA",
-      caption: "Six areas of development \u2014 diagnose your strengths and gaps.",
-      activeAt: _11_how_to_be_a_founder_timing_sec(98)
-    }
-  ],
-  quotes: [
-    {
-      in: _11_how_to_be_a_founder_timing_sec(78),
-      out: _11_how_to_be_a_founder_timing_sec(94),
-      text: "Your ability to lead people is a consequence of your ability to lead yourself.",
-      attribution: "Vusi Thembekwayo"
-    }
-  ],
-  stats: [
-    {
-      in: _11_how_to_be_a_founder_timing_sec(112),
-      out: _11_how_to_be_a_founder_timing_sec(128),
-      count: 6,
-      suffix: " areas",
-      label: "The founder DNA diagnostic across six areas."
-    }
-  ],
-  cutaways: [
-    {
-      key: "target",
-      start: _11_how_to_be_a_founder_timing_sec(48),
-      dur: _11_how_to_be_a_founder_timing_sec(8),
-      eyebrow: "Plant a vision",
-      caption: "Build people who can make the vision true."
-    }
-  ],
-  closing: {
-    in: _11_how_to_be_a_founder_timing_sec(150),
-    out: _11_how_to_be_a_founder_timing_TOTAL_FRAMES + _11_how_to_be_a_founder_timing_sec(2),
-    eyebrow: "The Platform Nigeria \xB7 Course finale",
-    title: "Stop having ideas.",
-    titleAccent: "Start building.",
-    subtitle: "It's not about ideas \u2014 it's about making ideas happen.",
-    chips: ["#MakeIdeasHappen", "The Platform Nigeria"]
-  }
-};
-
-;// ./src/theplatform/founders-mindset-vusi/registry.tsx
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-const make = (content) => ({ videoSrc, logoSrc }) => /* @__PURE__ */ (0,jsx_runtime.jsx)(Talk_Talk, { videoSrc, logoSrc, content, showLogo: false });
-const KEY_PREFIX = "instincthub/uploads/founders-mindset-vusi";
-const ROWS = [
-  { slug: "01-earn-the-right", module: 1, lesson: 1, title: "Earn the right to be offended", mod: _01_earn_the_right_timing_namespaceObject },
-  { slug: "02-what-founders-knew", module: 1, lesson: 2, title: "What successful founders knew", mod: _02_what_founders_knew_timing_namespaceObject },
-  { slug: "03-the-founders-mindset", module: 1, lesson: 3, title: "The Founder's Mindset", mod: _03_the_founders_mindset_timing_namespaceObject },
-  { slug: "04-capital-isnt-the-problem", module: 2, lesson: 4, title: "Capital isn't the problem \u2014 you are", mod: _04_capital_isnt_the_problem_timing_namespaceObject },
-  { slug: "05-trillion-dollar-context", module: 2, lesson: 5, title: "A trillion-dollar context", mod: _05_trillion_dollar_context_timing_namespaceObject },
-  { slug: "06-play-your-game", module: 2, lesson: 6, title: "Play the game you're gifted", mod: _06_play_your_game_timing_namespaceObject },
-  { slug: "07-four-things-to-scale", module: 3, lesson: 7, title: "The four things you need to scale", mod: _07_four_things_to_scale_timing_namespaceObject },
-  { slug: "08-aligning-incentives", module: 3, lesson: 8, title: "Aligning incentives", mod: _08_aligning_incentives_timing_namespaceObject },
-  { slug: "09-levels-of-entrepreneurship", module: 3, lesson: 9, title: "The levels of entrepreneurship", mod: _09_levels_of_entrepreneurship_timing_namespaceObject },
-  { slug: "10-valley-of-scale", module: 4, lesson: 10, title: "The valley where scale goes to die", mod: _10_valley_of_scale_timing_namespaceObject },
-  { slug: "11-how-to-be-a-founder", module: 4, lesson: 11, title: "How to be a founder", mod: _11_how_to_be_a_founder_timing_namespaceObject }
-];
-const PLATFORM_LESSONS = ROWS.map((r) => ({
-  id: `fm-${r.slug}`,
-  module: r.module,
-  lesson: r.lesson,
-  title: r.title,
-  videoSrc: `tp-fm-${r.slug}.mp4`,
-  videoKey: `${KEY_PREFIX}/m${r.module}-l${r.lesson}-${r.slug.replace(/^\d+-/, "")}.mp4`,
-  totalFrames: r.mod.TOTAL_FRAMES,
-  component: make(r.mod.content)
-}));
-
-;// ./src/theplatform/founders-mindset-vusi/Thumbnail.tsx
-
-
-
-
-
-
-const Thumbnail = ({
-  portraitSrc = "tp-fm-vusi-portrait.jpg"
-}) => {
-  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { backgroundColor: theplatform_shared_colors_colors.yellow, fontFamily: overpass }, children: [
-    /* @__PURE__ */ (0,jsx_runtime.jsx)(
-      esm.AbsoluteFill,
-      {
-        style: {
-          backgroundImage: `radial-gradient(${theplatform_shared_colors_colors.ink}1A 3px, transparent 3px)`,
-          backgroundSize: "54px 54px",
-          opacity: 0.5
-        }
-      }
-    ),
-    /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { position: "absolute", top: 70, right: 600, opacity: 0.16, transform: "rotate(8deg)" }, children: /* @__PURE__ */ (0,jsx_runtime.jsx)(Bulb, { size: 190, stroke: theplatform_shared_colors_colors.ink, spark: theplatform_shared_colors_colors.ink, lit: 0, strokeWidth: 6 }) }),
-    /* @__PURE__ */ (0,jsx_runtime.jsxs)(
-      "div",
-      {
-        style: {
-          position: "absolute",
-          top: 0,
-          left: 0,
-          right: 0,
-          height: 104,
-          background: theplatform_shared_colors_colors.ink,
-          display: "flex",
-          alignItems: "center",
-          gap: 18,
-          padding: "0 70px"
-        },
-        children: [
-          /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { fontWeight: 800, fontSize: 32, letterSpacing: 4, color: theplatform_shared_colors_colors.white, textTransform: "uppercase" }, children: "It's not about ideas." }),
-          /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { fontWeight: 800, fontSize: 32, letterSpacing: 4, color: theplatform_shared_colors_colors.yellow, textTransform: "uppercase" }, children: "It's about making ideas happen." })
-        ]
-      }
-    ),
-    /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { position: "absolute", left: 90, top: 196, width: 1040 }, children: [
-      /* @__PURE__ */ (0,jsx_runtime.jsx)(
-        "span",
-        {
-          style: {
-            display: "inline-block",
-            fontWeight: 800,
-            fontSize: 29,
-            letterSpacing: 6,
-            textTransform: "uppercase",
-            color: theplatform_shared_colors_colors.ink,
-            background: `${theplatform_shared_colors_colors.ink}14`,
-            padding: "12px 26px",
-            borderRadius: 999,
-            border: `2px solid ${theplatform_shared_colors_colors.ink}3D`
-          },
-          children: "The Platform Nigeria \xB7 Keynote"
-        }
-      ),
-      /* @__PURE__ */ (0,jsx_runtime.jsxs)(
-        "div",
-        {
-          style: {
-            marginTop: 34,
-            fontWeight: 900,
-            fontSize: 150,
-            lineHeight: 0.95,
-            letterSpacing: -5,
-            color: theplatform_shared_colors_colors.ink
-          },
-          children: [
-            "The Founder's",
-            /* @__PURE__ */ (0,jsx_runtime.jsx)("br", {}),
-            "Mindset"
-          ]
-        }
-      ),
-      /* @__PURE__ */ (0,jsx_runtime.jsx)(
-        "div",
-        {
-          style: {
-            marginTop: 26,
-            display: "inline-block",
-            fontWeight: 900,
-            fontSize: 70,
-            letterSpacing: -1.5,
-            color: theplatform_shared_colors_colors.yellow,
-            background: theplatform_shared_colors_colors.ink,
-            padding: "12px 30px",
-            borderRadius: 14
-          },
-          children: "Making ideas happen"
-        }
-      )
-    ] }),
-    /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { position: "absolute", left: 96, bottom: 86, display: "flex", alignItems: "center", gap: 22 }, children: [
-      /* @__PURE__ */ (0,jsx_runtime.jsx)(Bulb, { size: 64, stroke: theplatform_shared_colors_colors.ink, spark: theplatform_shared_colors_colors.ink, lit: 0, strokeWidth: 5 }),
-      /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { children: [
-        /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { fontWeight: 900, fontSize: 54, letterSpacing: -1.5, color: theplatform_shared_colors_colors.ink, lineHeight: 1 }, children: "Vusi Thembekwayo" }),
-        /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { fontWeight: 600, fontSize: 32, color: theplatform_shared_colors_colors.ink, opacity: 0.78, marginTop: 6 }, children: "Founder & CEO, My Growth Fund Venture Partners" })
-      ] })
-    ] }),
-    /* @__PURE__ */ (0,jsx_runtime.jsx)(
-      "div",
-      {
-        style: {
-          position: "absolute",
-          right: 80,
-          top: 168,
-          width: 700,
-          height: 770,
-          borderRadius: 40,
-          border: `12px solid ${theplatform_shared_colors_colors.ink}`,
-          overflow: "hidden",
-          background: theplatform_shared_colors_colors.ink,
-          boxShadow: `0 40px 90px -28px ${theplatform_shared_colors_colors.ink}99`
-        },
-        children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
-          esm.Img,
-          {
-            src: (0,esm.staticFile)(portraitSrc),
-            alt: "Vusi Thembekwayo",
-            style: { width: "100%", height: "100%", objectFit: "cover", objectPosition: "50% 16%" }
-          }
-        )
-      }
-    ),
-    /* @__PURE__ */ (0,jsx_runtime.jsx)(
-      "div",
-      {
-        style: {
-          position: "absolute",
-          right: 80,
-          top: 168,
-          background: theplatform_shared_colors_colors.magenta,
-          color: theplatform_shared_colors_colors.white,
-          fontWeight: 800,
-          fontSize: 28,
-          letterSpacing: 3,
-          textTransform: "uppercase",
-          padding: "12px 24px",
-          borderRadius: "40px 0 28px 0"
-        },
-        children: "Keynote"
-      }
-    )
-  ] });
-};
-
 ;// ./src/theplatform/affiong-williams-it-is-not-about-ideas/01-plant-trees/timing.ts
 
 const _01_plant_trees_timing_sec = (s) => Math.round(s * 30);
@@ -118238,9 +116656,9 @@ const _14_the_charge_timing_content = {
 
 
 
-const registry_make = (content) => ({ videoSrc, logoSrc }) => /* @__PURE__ */ (0,jsx_runtime.jsx)(Talk_Talk, { videoSrc, logoSrc, content, showLogo: false });
-const registry_KEY_PREFIX = "instincthub/uploads/affiong-williams-plant-trees";
-const registry_ROWS = [
+const make = (content) => ({ videoSrc, logoSrc }) => /* @__PURE__ */ (0,jsx_runtime.jsx)(Talk_Talk, { videoSrc, logoSrc, content, showLogo: false });
+const KEY_PREFIX = "instincthub/uploads/affiong-williams-plant-trees";
+const ROWS = [
   { slug: "01-plant-trees", module: 1, lesson: 1, title: "Plant trees you may never sit under", mod: _01_plant_trees_timing_namespaceObject },
   { slug: "02-mango-tree", module: 1, lesson: 2, title: "The life of a mango tree", mod: _02_mango_tree_timing_namespaceObject },
   { slug: "03-build-for-the-future", module: 1, lesson: 3, title: "Build for 2075, not this quarter", mod: _03_build_for_the_future_timing_namespaceObject },
@@ -118256,15 +116674,15 @@ const registry_ROWS = [
   { slug: "13-shape-the-future", module: 5, lesson: 13, title: "Builders shape the Nigeria of the future", mod: _13_shape_the_future_timing_namespaceObject },
   { slug: "14-the-charge", module: 5, lesson: 14, title: "The charge: plant trees you may never sit under", mod: _14_the_charge_timing_namespaceObject }
 ];
-const AFFIONG_LESSONS = registry_ROWS.map((r) => ({
+const AFFIONG_LESSONS = ROWS.map((r) => ({
   id: `aw-${r.slug}`,
   module: r.module,
   lesson: r.lesson,
   title: r.title,
   videoSrc: `tp-${`aw-${r.slug}`}.mp4`,
-  videoKey: `${registry_KEY_PREFIX}/m${r.module}-l${r.lesson}-${r.slug.replace(/^\d+-/, "")}.mp4`,
+  videoKey: `${KEY_PREFIX}/m${r.module}-l${r.lesson}-${r.slug.replace(/^\d+-/, "")}.mp4`,
   totalFrames: r.mod.TOTAL_FRAMES,
-  component: registry_make(r.mod.content)
+  component: make(r.mod.content)
 }));
 
 ;// ./src/theplatform/affiong-williams-it-is-not-about-ideas/Thumbnail.tsx
@@ -118274,7 +116692,7 @@ const AFFIONG_LESSONS = registry_ROWS.map((r) => ({
 
 
 
-const Thumbnail_Thumbnail = ({
+const Thumbnail = ({
   portraitSrc = "tp-aw-affiong-portrait.jpg"
 }) => {
   return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { backgroundColor: theplatform_shared_colors_colors.yellow, fontFamily: overpass }, children: [
@@ -118421,1158 +116839,360 @@ const Thumbnail_Thumbnail = ({
   ] });
 };
 
-;// ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/01-the-question/timing.ts
+;// ./src/instincthub/_shared/colors.ts
 
-const _01_the_question_timing_sec = (s) => Math.round(s * 30);
-const _01_the_question_timing_TOTAL_FRAMES = _01_the_question_timing_sec(53);
-const _01_the_question_timing_content = {
-  trackerTitle: "The Niggling Question",
-  trackerIn: _01_the_question_timing_sec(10),
-  totalFrames: _01_the_question_timing_TOTAL_FRAMES,
-  hook: {
-    in: _01_the_question_timing_sec(2),
-    out: _01_the_question_timing_sec(9),
-    eyebrow: "When Success Is Not Enough \xB7 01",
-    line1: "Is this all",
-    line1Accent: "I'm meant to do?",
-    line2: "The question that finds you even at the top of your game."
-  },
-  speaker: {
-    in: _01_the_question_timing_sec(10),
-    out: _01_the_question_timing_sec(21),
-    name: "Prof. Modupe Elebute-Odunsi",
-    credential: "MD, FRCPath",
-    title: "Founder & CEO, Marcelle Ruth Cancer Centre"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "The niggle",
-      title: "A question\nthat will not leave",
-      caption: "Even when you are succeeding, it whispers: is this all?",
-      activeAt: _01_the_question_timing_sec(23)
-    },
-    {
-      n: 2,
-      short: "Respond?",
-      title: "Respond, or\nlet it ride?",
-      caption: "What you do with the question decides the second half.",
-      activeAt: _01_the_question_timing_sec(35)
-    }
-  ],
-  quotes: [],
-  stats: [],
-  cutaways: [],
-  closing: {
-    in: _01_the_question_timing_sec(46),
-    out: _01_the_question_timing_TOTAL_FRAMES + _01_the_question_timing_sec(2),
-    eyebrow: "Lesson 1",
-    title: "Don't ignore",
-    titleAccent: "the niggle.",
-    subtitle: "Next: where her own calling began.",
-    chips: ["When Success Is Not Enough"]
-  }
+const instincthub_shared_colors_colors = {
+  // Core brand
+  cyan: "#00838F",
+  // Dark Cyra — THE brand color. Bars, badges, fills, active states
+  tiffany: "#0FABBC",
+  // Bright cyan — accent text/eyebrows on dark panels
+  viridian: "#009BA2",
+  // Secondary cyan — gradients, secondary badges
+  green: "#00C5A2",
+  // Caribbean Green — stats, success, positive moments
+  turquoiseDeep: "#206D62",
+  // Deep green-cyan — dark accent surfaces
+  // Dark surfaces (legibility panels over footage)
+  gunmetal: "#2C333A",
+  // Primary frosted panel surface
+  slate: "#314A52",
+  // Slightly teal-leaning dark variant / heading tone
+  inkDeep: "#171C21",
+  // Deepest page background (cutaways)
+  // Light surfaces
+  white: "#FFFFFF",
+  magnolia: "#F4F3FE",
+  // Light brand canvas (placeholder background)
+  // Text tuned for legibility on dark surfaces
+  textDim: "#E6EBEE",
+  // Cool off-white body on gunmetal
+  textMuted: "#8C9BB5",
+  // Dimmed / inactive labels (Rhythm-derived, lifted)
+  rhythm: "#69779B",
+  // Subtext on LIGHT surfaces only
+  // Feedback (use only when the content calls for it)
+  warning: "#FBEB5B",
+  // Corn
+  error: "#EA5F5E"
+  // Old Rose
 };
 
-;// ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/02-calling-born-early/timing.ts
+;// ./node_modules/.pnpm/@remotion+google-fonts@4.0.421_react-dom@19.2.3_react@19.2.3__react@19.2.3/node_modules/@remotion/google-fonts/dist/esm/Montserrat.mjs
+// src/base.ts
 
-const _02_calling_born_early_timing_sec = (s) => Math.round(s * 30);
-const _02_calling_born_early_timing_TOTAL_FRAMES = _02_calling_born_early_timing_sec(98);
-const _02_calling_born_early_timing_content = {
-  trackerTitle: "A Calling Born Early",
-  trackerIn: _02_calling_born_early_timing_sec(10),
-  totalFrames: _02_calling_born_early_timing_TOTAL_FRAMES,
-  hook: {
-    in: _02_calling_born_early_timing_sec(2),
-    out: _02_calling_born_early_timing_sec(9),
-    eyebrow: "When Success Is Not Enough \xB7 02",
-    line1: "The calling",
-    line1Accent: "came early.",
-    line2: "A Surulere girl in a house of two professors."
-  },
-  speaker: {
-    in: _02_calling_born_early_timing_sec(10),
-    out: _02_calling_born_early_timing_sec(21),
-    name: "Prof. Modupe Elebute-Odunsi",
-    credential: "MD, FRCPath",
-    title: "Founder & CEO, Marcelle Ruth Cancer Centre"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Surulere roots",
-      title: "Raised on the\nUNILAG campus",
-      caption: "Medical school by twenty, in a household of two professors.",
-      activeAt: _02_calling_born_early_timing_sec(23)
-    },
-    {
-      n: 2,
-      short: "Grandmother",
-      title: "The moment\nat the bedside",
-      caption: "At four or five, watching her grandmother lose a leg to diabetes.",
-      activeAt: _02_calling_born_early_timing_sec(52)
-    },
-    {
-      n: 3,
-      short: "Become a doctor",
-      title: "I wanted to\nmake her better",
-      caption: "That wish became the decision to become a doctor.",
-      activeAt: _02_calling_born_early_timing_sec(76)
-    }
-  ],
-  quotes: [
-    {
-      in: _02_calling_born_early_timing_sec(62),
-      out: _02_calling_born_early_timing_sec(74),
-      text: "All I wanted was to be whatever I needed to make my grandmother better.",
-      attribution: "Prof. Modupe Elebute-Odunsi"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "idea",
-      start: _02_calling_born_early_timing_sec(38),
-      dur: _02_calling_born_early_timing_sec(7),
-      eyebrow: "Her foundation",
-      caption: "Born into a family of educators."
-    }
-  ],
-  closing: {
-    in: _02_calling_born_early_timing_sec(90),
-    out: _02_calling_born_early_timing_TOTAL_FRAMES + _02_calling_born_early_timing_sec(2),
-    eyebrow: "Lesson 2",
-    title: "A calling",
-    titleAccent: "rooted early.",
-    subtitle: "Next: the hard work and the bold first steps.",
-    chips: ["When Success Is Not Enough"]
+
+var Montserrat_loadedFonts = {};
+var Montserrat_withResolvers = function() {
+  let resolve;
+  let reject;
+  const promise = new Promise((res, rej) => {
+    resolve = res;
+    reject = rej;
+  });
+  return { promise, resolve, reject };
+};
+var Montserrat_loadFontFaceOrTimeoutAfter20Seconds = (fontFace) => {
+  const timeout = Montserrat_withResolvers();
+  const int = setTimeout(() => {
+    timeout.reject(new Error("Timed out loading Google Font"));
+  }, 18000);
+  return Promise.race([
+    fontFace.load().then(() => {
+      clearTimeout(int);
+    }),
+    timeout.promise
+  ]);
+};
+var Montserrat_loadFonts = (meta, style, options) => {
+  const weightsAndSubsetsAreSpecified = Array.isArray(options?.weights) && Array.isArray(options?.subsets) && options.weights.length > 0 && options.subsets.length > 0;
+  if (no_react.NoReactInternals.ENABLE_V5_BREAKING_CHANGES && !weightsAndSubsetsAreSpecified) {
+    throw new Error("Loading Google Fonts without specifying weights and subsets is not supported in Remotion v5. Please specify the weights and subsets you need.");
   }
+  const promises = [];
+  const styles = style ? [style] : Object.keys(meta.fonts);
+  let fontsLoaded = 0;
+  for (const style2 of styles) {
+    if (typeof FontFace === "undefined") {
+      continue;
+    }
+    if (!meta.fonts[style2]) {
+      throw new Error(`The font ${meta.fontFamily} does not have a style ${style2}`);
+    }
+    const weights = options?.weights ?? Object.keys(meta.fonts[style2]);
+    for (const weight of weights) {
+      if (!meta.fonts[style2][weight]) {
+        throw new Error(`The font ${meta.fontFamily} does not  have a weight ${weight} in style ${style2}`);
+      }
+      const subsets = options?.subsets ?? Object.keys(meta.fonts[style2][weight]);
+      for (const subset of subsets) {
+        let font = meta.fonts[style2]?.[weight]?.[subset];
+        if (!font) {
+          throw new Error(`weight: ${weight} subset: ${subset} is not available for '${meta.fontFamily}'`);
+        }
+        let fontKey = `${meta.fontFamily}-${style2}-${weight}-${subset}`;
+        const previousPromise = Montserrat_loadedFonts[fontKey];
+        if (previousPromise) {
+          promises.push(previousPromise);
+          continue;
+        }
+        const baseLabel = `Fetching ${meta.fontFamily} font ${JSON.stringify({
+          style: style2,
+          weight,
+          subset
+        })}`;
+        const label = weightsAndSubsetsAreSpecified ? baseLabel : `${baseLabel}. This might be caused by loading too many font variations. Read more: https://www.remotion.dev/docs/troubleshooting/font-loading-errors#render-timeout-when-loading-google-fonts`;
+        const handle = (0,esm.delayRender)(label, { timeoutInMilliseconds: 60000 });
+        fontsLoaded++;
+        const fontFace = new FontFace(meta.fontFamily, `url(${font}) format('woff2')`, {
+          weight,
+          style: style2,
+          unicodeRange: meta.unicodeRanges[subset]
+        });
+        let attempts = 2;
+        const tryToLoad = () => {
+          if (fontFace.status === "loaded") {
+            (0,esm.continueRender)(handle);
+            return;
+          }
+          const promise = Montserrat_loadFontFaceOrTimeoutAfter20Seconds(fontFace).then(() => {
+            (options?.document ?? document).fonts.add(fontFace);
+            (0,esm.continueRender)(handle);
+          }).catch((err) => {
+            Montserrat_loadedFonts[fontKey] = undefined;
+            if (attempts === 0) {
+              throw err;
+            } else {
+              attempts--;
+              tryToLoad();
+            }
+          });
+          Montserrat_loadedFonts[fontKey] = promise;
+          promises.push(promise);
+        };
+        tryToLoad();
+      }
+    }
+    if (fontsLoaded > 20) {
+      console.warn(`Made ${fontsLoaded} network requests to load fonts for ${meta.fontFamily}. Consider loading fewer weights and subsets by passing options to loadFont(). Disable this warning by passing "ignoreTooManyRequestsWarning: true" to "options".`);
+    }
+  }
+  return {
+    fontFamily: meta.fontFamily,
+    fonts: meta.fonts,
+    unicodeRanges: meta.unicodeRanges,
+    waitUntilDone: () => Promise.all(promises).then(() => {
+      return;
+    })
+  };
 };
 
-;// ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/03-work-hard-be-bold/timing.ts
-
-const _03_work_hard_be_bold_timing_sec = (s) => Math.round(s * 30);
-const _03_work_hard_be_bold_timing_TOTAL_FRAMES = _03_work_hard_be_bold_timing_sec(153);
-const _03_work_hard_be_bold_timing_content = {
-  trackerTitle: "Work Hard, Be Bold",
-  trackerIn: _03_work_hard_be_bold_timing_sec(10),
-  totalFrames: _03_work_hard_be_bold_timing_TOTAL_FRAMES,
-  hook: {
-    in: _03_work_hard_be_bold_timing_sec(2),
-    out: _03_work_hard_be_bold_timing_sec(9),
-    eyebrow: "When Success Is Not Enough \xB7 03",
-    line1: "Not clever.",
-    line1Accent: "Just relentless.",
-    line2: "Effort, faith, and the boldness to start before you are ready."
+// src/Montserrat.ts
+var Montserrat_getInfo = () => ({
+  fontFamily: "Montserrat",
+  importName: "Montserrat",
+  version: "v31",
+  url: "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900",
+  unicodeRanges: {
+    "cyrillic-ext": "U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F",
+    cyrillic: "U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116",
+    vietnamese: "U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB",
+    "latin-ext": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+    latin: "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD"
   },
-  speaker: {
-    in: _03_work_hard_be_bold_timing_sec(10),
-    out: _03_work_hard_be_bold_timing_sec(21),
-    name: "Prof. Modupe Elebute-Odunsi",
-    credential: "MD, FRCPath",
-    title: "Founder & CEO, Marcelle Ruth Cancer Centre"
+  fonts: {
+    italic: {
+      "100": {
+        "cyrillic-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2",
+        cyrillic: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2",
+        latin: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2"
+      },
+      "200": {
+        "cyrillic-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2",
+        cyrillic: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2",
+        latin: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2"
+      },
+      "300": {
+        "cyrillic-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2",
+        cyrillic: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2",
+        latin: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2"
+      },
+      "400": {
+        "cyrillic-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2",
+        cyrillic: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2",
+        latin: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2"
+      },
+      "500": {
+        "cyrillic-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2",
+        cyrillic: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2",
+        latin: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2"
+      },
+      "600": {
+        "cyrillic-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2",
+        cyrillic: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2",
+        latin: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2"
+      },
+      "700": {
+        "cyrillic-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2",
+        cyrillic: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2",
+        latin: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2"
+      },
+      "800": {
+        "cyrillic-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2",
+        cyrillic: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2",
+        latin: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2"
+      },
+      "900": {
+        "cyrillic-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2",
+        cyrillic: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2",
+        latin: "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2"
+      }
+    },
+    normal: {
+      "100": {
+        "cyrillic-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2",
+        cyrillic: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2",
+        latin: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2"
+      },
+      "200": {
+        "cyrillic-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2",
+        cyrillic: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2",
+        latin: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2"
+      },
+      "300": {
+        "cyrillic-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2",
+        cyrillic: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2",
+        latin: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2"
+      },
+      "400": {
+        "cyrillic-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2",
+        cyrillic: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2",
+        latin: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2"
+      },
+      "500": {
+        "cyrillic-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2",
+        cyrillic: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2",
+        latin: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2"
+      },
+      "600": {
+        "cyrillic-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2",
+        cyrillic: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2",
+        latin: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2"
+      },
+      "700": {
+        "cyrillic-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2",
+        cyrillic: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2",
+        latin: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2"
+      },
+      "800": {
+        "cyrillic-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2",
+        cyrillic: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2",
+        latin: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2"
+      },
+      "900": {
+        "cyrillic-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2",
+        cyrillic: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2",
+        latin: "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2"
+      }
+    }
   },
-  chapters: [
-    {
-      n: 1,
-      short: "Outwork it",
-      title: "I had to work\nextremely hard",
-      caption: "Science did not come easily; she made the extra effort.",
-      activeAt: _03_work_hard_be_bold_timing_sec(23)
-    },
-    {
-      n: 2,
-      short: "God's gifts",
-      title: "Given what\nyou need",
-      caption: "God gives you the things he wants, to do the things he wants.",
-      activeAt: _03_work_hard_be_bold_timing_sec(55)
-    },
-    {
-      n: 3,
-      short: "Sickle cells",
-      title: "Hooked by\nthe microscope",
-      caption: "A fourth-year fascination with sickle cell disease.",
-      activeAt: _03_work_hard_be_bold_timing_sec(90)
-    },
-    {
-      n: 4,
-      short: "The student clinic",
-      title: "Bold before\nshe was ready",
-      caption: "By fifth year she had co-founded a sickle cell clinic.",
-      activeAt: _03_work_hard_be_bold_timing_sec(125)
-    }
-  ],
-  quotes: [
-    {
-      in: _03_work_hard_be_bold_timing_sec(34),
-      out: _03_work_hard_be_bold_timing_sec(46),
-      text: "Sometimes you just have to make that additional effort to be what you want to be.",
-      attribution: "Prof. Modupe Elebute-Odunsi"
-    }
-  ],
-  stats: [
-    {
-      in: _03_work_hard_be_bold_timing_sec(70),
-      out: _03_work_hard_be_bold_timing_sec(82),
-      value: "14 yrs",
-      label: "of post-graduate training to become a hematologist"
-    }
-  ],
-  cutaways: [
-    {
-      key: "target",
-      start: _03_work_hard_be_bold_timing_sec(105),
-      dur: _03_work_hard_be_bold_timing_sec(7),
-      eyebrow: "The fascination",
-      caption: "Down the microscope: sickle cells, and a question why."
-    }
-  ],
-  closing: {
-    in: _03_work_hard_be_bold_timing_sec(146),
-    out: _03_work_hard_be_bold_timing_TOTAL_FRAMES + _03_work_hard_be_bold_timing_sec(2),
-    eyebrow: "Lesson 3",
-    title: "Effort and",
-    titleAccent: "audacity.",
-    subtitle: "Next: when the title arrived, was it enough?",
-    chips: ["When Success Is Not Enough"]
-  }
+  subsets: ["cyrillic", "cyrillic-ext", "latin", "latin-ext", "vietnamese"]
+});
+var Montserrat_fontFamily = "Montserrat";
+var Montserrat_loadFont = (style, options) => {
+  return Montserrat_loadFonts(Montserrat_getInfo(), style, options);
 };
 
-;// ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/04-success-as-destination/timing.ts
 
-const _04_success_as_destination_timing_sec = (s) => Math.round(s * 30);
-const _04_success_as_destination_timing_TOTAL_FRAMES = _04_success_as_destination_timing_sec(95);
-const _04_success_as_destination_timing_content = {
-  trackerTitle: "Success as a Destination",
-  trackerIn: _04_success_as_destination_timing_sec(10),
-  totalFrames: _04_success_as_destination_timing_TOTAL_FRAMES,
-  hook: {
-    in: _04_success_as_destination_timing_sec(2),
-    out: _04_success_as_destination_timing_sec(9),
-    eyebrow: "Chasing the Title \xB7 04",
-    line1: "I thought",
-    line1Accent: "I'd arrived.",
-    line2: "Then the job she was sure of slipped away."
-  },
-  speaker: {
-    in: _04_success_as_destination_timing_sec(10),
-    out: _04_success_as_destination_timing_sec(21),
-    name: "Prof. Modupe Elebute-Odunsi",
-    credential: "MD, FRCPath",
-    title: "Founder & CEO, Marcelle Ruth Cancer Centre"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "The measure",
-      title: "Become the\nhematologist",
-      caption: "For fourteen years, the title was the whole measure of success.",
-      activeAt: _04_success_as_destination_timing_sec(23)
-    },
-    {
-      n: 2,
-      short: "I'd arrived",
-      title: "I thought\nthat was it",
-      caption: "First consultant job, 2002, St George's. Surely the summit.",
-      activeAt: _04_success_as_destination_timing_sec(44)
-    },
-    {
-      n: 3,
-      short: "The first crack",
-      title: "I didn't\nget the job",
-      caption: "Trained there, two years of research, and still passed over.",
-      activeAt: _04_success_as_destination_timing_sec(63)
-    },
-    {
-      n: 4,
-      short: "The niggle",
-      title: "Maybe this\nisn't my place",
-      caption: "Being acknowledged was not the same as belonging.",
-      activeAt: _04_success_as_destination_timing_sec(80)
-    }
-  ],
-  quotes: [],
-  stats: [
-    {
-      in: _04_success_as_destination_timing_sec(33),
-      out: _04_success_as_destination_timing_sec(42),
-      value: "14 yrs",
-      label: "in the UK to qualify as a hematologist"
-    }
-  ],
-  cutaways: [
-    {
-      key: "target",
-      start: _04_success_as_destination_timing_sec(53),
-      dur: _04_success_as_destination_timing_sec(7),
-      eyebrow: "The interview",
-      caption: "The prize she was sure of went to someone else."
-    }
-  ],
-  closing: {
-    in: _04_success_as_destination_timing_sec(88),
-    out: _04_success_as_destination_timing_TOTAL_FRAMES + _04_success_as_destination_timing_sec(2),
-    eyebrow: "Lesson 4",
-    title: "The title came.",
-    titleAccent: "The niggle stayed.",
-    subtitle: "Next: measuring yourself against everyone else.",
-    chips: ["Chasing the Title"]
+;// ./src/instincthub/_shared/fonts.ts
+
+
+
+const { fontFamily: montserrat } = Montserrat_loadFont("normal", {
+  weights: ["600", "700", "800", "900"],
+  subsets: ["latin"]
+});
+const { fontFamily: _shared_fonts_nunito } = loadFont("normal", {
+  weights: ["400", "500", "600", "700"],
+  subsets: ["latin"]
+});
+
+const fonts_DISPLAY_TRACKING = -1;
+
+;// ./src/instincthub/_shared/Background.tsx
+
+
+
+
+
+const instincthub_shared_Background_Background = ({ videoSrc }) => {
+  if (videoSrc) {
+    return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { backgroundColor: instincthub_shared_colors_colors.inkDeep }, children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(esm.OffthreadVideo, { src: (0,esm.staticFile)(videoSrc) }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        esm.AbsoluteFill,
+        {
+          style: {
+            background: `linear-gradient(to bottom, transparent 58%, ${instincthub_shared_colors_colors.inkDeep}80 100%)`,
+            pointerEvents: "none"
+          }
+        }
+      )
+    ] });
   }
-};
-
-;// ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/05-success-by-comparison/timing.ts
-
-const _05_success_by_comparison_timing_sec = (s) => Math.round(s * 30);
-const _05_success_by_comparison_timing_TOTAL_FRAMES = _05_success_by_comparison_timing_sec(91);
-const _05_success_by_comparison_timing_content = {
-  trackerTitle: "Measured by Comparison",
-  trackerIn: _05_success_by_comparison_timing_sec(10),
-  totalFrames: _05_success_by_comparison_timing_TOTAL_FRAMES,
-  hook: {
-    in: _05_success_by_comparison_timing_sec(2),
-    out: _05_success_by_comparison_timing_sec(9),
-    eyebrow: "Chasing the Title \xB7 05",
-    line1: "Better than",
-    line1Accent: "my peers.",
-    line2: "When success is just a scoreboard against everyone else."
-  },
-  speaker: {
-    in: _05_success_by_comparison_timing_sec(10),
-    out: _05_success_by_comparison_timing_sec(21),
-    name: "Prof. Modupe Elebute-Odunsi",
-    credential: "MD, FRCPath",
-    title: "Founder & CEO, Marcelle Ruth Cancer Centre"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "King's College",
-      title: "Lead the\nrare-disease centre",
-      caption: "Called by the Department of Health to head her own research area.",
-      activeAt: _05_success_by_comparison_timing_sec(23)
-    },
-    {
-      n: 2,
-      short: "The scoreboard",
-      title: "Compared to\neveryone else",
-      caption: "Doing better than her peers became the measure of success.",
-      activeAt: _05_success_by_comparison_timing_sec(45)
-    },
-    {
-      n: 3,
-      short: "The foundation",
-      title: "Standards of\nexcellence",
-      caption: "The NHS embedded a discipline she would carry home.",
-      activeAt: _05_success_by_comparison_timing_sec(68)
-    }
-  ],
-  quotes: [
-    {
-      in: _05_success_by_comparison_timing_sec(33),
-      out: _05_success_by_comparison_timing_sec(44),
-      text: "That's how I measured my success: compared to my peers.",
-      attribution: "Prof. Modupe Elebute-Odunsi"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "network",
-      start: _05_success_by_comparison_timing_sec(55),
-      dur: _05_success_by_comparison_timing_sec(7),
-      eyebrow: "Drug development",
-      caption: "Turning her own research into a treatment for patients."
-    }
-  ],
-  closing: {
-    in: _05_success_by_comparison_timing_sec(85),
-    out: _05_success_by_comparison_timing_TOTAL_FRAMES + _05_success_by_comparison_timing_sec(2),
-    eyebrow: "Lesson 5",
-    title: "A scoreboard is",
-    titleAccent: "not a summit.",
-    subtitle: "Next: the realization that changed everything, at fifty.",
-    chips: ["Chasing the Title"]
-  }
-};
-
-;// ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/06-turning-point-at-fifty/timing.ts
-
-const _06_turning_point_at_fifty_timing_sec = (s) => Math.round(s * 30);
-const _06_turning_point_at_fifty_timing_TOTAL_FRAMES = _06_turning_point_at_fifty_timing_sec(87);
-const _06_turning_point_at_fifty_timing_content = {
-  trackerTitle: "The Turning Point at Fifty",
-  trackerIn: _06_turning_point_at_fifty_timing_sec(10),
-  totalFrames: _06_turning_point_at_fifty_timing_TOTAL_FRAMES,
-  hook: {
-    in: _06_turning_point_at_fifty_timing_sec(2),
-    out: _06_turning_point_at_fifty_timing_sec(9),
-    eyebrow: "Chasing the Title \xB7 06",
-    line1: "Nothing missing.",
-    line1Accent: "Still a disconnect.",
-    line2: "At fifty, success and meaning stopped matching."
-  },
-  speaker: {
-    in: _06_turning_point_at_fifty_timing_sec(10),
-    out: _06_turning_point_at_fifty_timing_sec(21),
-    name: "Prof. Modupe Elebute-Odunsi",
-    credential: "MD, FRCPath",
-    title: "Founder & CEO, Marcelle Ruth Cancer Centre"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "At fifty",
-      title: "The realization\nat fifty",
-      caption: "Not lack, but a gap between achievement and meaning.",
-      activeAt: _06_turning_point_at_fifty_timing_sec(23)
-    },
-    {
-      n: 2,
-      short: "One thing",
-      title: "Go and do it\nat home",
-      caption: "Use everything she had been given, but in Nigeria.",
-      activeAt: _06_turning_point_at_fifty_timing_sec(45)
-    },
-    {
-      n: 3,
-      short: "My people",
-      title: "My real\npatients",
-      caption: "Serving people who were not yet hers no longer fit.",
-      activeAt: _06_turning_point_at_fifty_timing_sec(67)
-    }
-  ],
-  quotes: [
-    {
-      in: _06_turning_point_at_fifty_timing_sec(54),
-      out: _06_turning_point_at_fifty_timing_sec(65),
-      text: "Patients that were not my patients. My real patients. My people.",
-      attribution: "Prof. Modupe Elebute-Odunsi"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "idea",
-      start: _06_turning_point_at_fifty_timing_sec(34),
-      dur: _06_turning_point_at_fifty_timing_sec(7),
-      eyebrow: "The disconnect",
-      caption: "Everything achieved, and yet not aligned."
-    }
-  ],
-  closing: {
-    in: _06_turning_point_at_fifty_timing_sec(81),
-    out: _06_turning_point_at_fifty_timing_TOTAL_FRAMES + _06_turning_point_at_fifty_timing_sec(2),
-    eyebrow: "Lesson 6",
-    title: "Alignment over",
-    titleAccent: "achievement.",
-    subtitle: "Next: acting on the clarity, and leaving security behind.",
-    chips: ["Chasing the Title"]
-  }
-};
-
-;// ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/07-leaving-security/timing.ts
-
-const _07_leaving_security_timing_sec = (s) => Math.round(s * 30);
-const _07_leaving_security_timing_TOTAL_FRAMES = _07_leaving_security_timing_sec(75);
-const _07_leaving_security_timing_content = {
-  trackerTitle: "Leaving Security",
-  trackerIn: _07_leaving_security_timing_sec(10),
-  totalFrames: _07_leaving_security_timing_TOTAL_FRAMES,
-  hook: {
-    in: _07_leaving_security_timing_sec(2),
-    out: _07_leaving_security_timing_sec(9),
-    eyebrow: "Choosing Alignment \xB7 07",
-    line1: "Clarity is easy.",
-    line1Accent: "Leaving is hard.",
-    line2: "Handing back the license took courage, and a few years."
-  },
-  speaker: {
-    in: _07_leaving_security_timing_sec(10),
-    out: _07_leaving_security_timing_sec(21),
-    name: "Prof. Modupe Elebute-Odunsi",
-    credential: "MD, FRCPath",
-    title: "Founder & CEO, Marcelle Ruth Cancer Centre"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "What now?",
-      title: "Or do you\nlet it ride?",
-      caption: "She was successful anyway. The question still demanded an answer.",
-      activeAt: _07_leaving_security_timing_sec(23)
-    },
-    {
-      n: 2,
-      short: "Hand it back",
-      title: "Returning\nthe license",
-      caption: "The GMC asked: are you really sure?",
-      activeAt: _07_leaving_security_timing_sec(41)
-    },
-    {
-      n: 3,
-      short: "The cost",
-      title: "It is hard\nto leave security",
-      caption: "A home, a husband, five children, two still in school.",
-      activeAt: _07_leaving_security_timing_sec(58)
-    }
-  ],
-  quotes: [
-    {
-      in: _07_leaving_security_timing_sec(32),
-      out: _07_leaving_security_timing_sec(40),
-      text: "It is not an easy thing to leave security.",
-      attribution: "Prof. Modupe Elebute-Odunsi"
-    }
-  ],
-  stats: [
-    {
-      in: _07_leaving_security_timing_sec(60),
-      out: _07_leaving_security_timing_sec(69),
-      value: "5",
-      label: "children, the youngest two still in school"
-    }
-  ],
-  cutaways: [],
-  closing: {
-    in: _07_leaving_security_timing_sec(70),
-    out: _07_leaving_security_timing_TOTAL_FRAMES + _07_leaving_security_timing_sec(2),
-    eyebrow: "Lesson 7",
-    title: "Clarity demands",
-    titleAccent: "courage.",
-    subtitle: "Next: faith, and a four-year bridge out.",
-    chips: ["Choosing Alignment"]
-  }
-};
-
-;// ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/08-god-orders-your-steps/timing.ts
-
-const _08_god_orders_your_steps_timing_sec = (s) => Math.round(s * 30);
-const _08_god_orders_your_steps_timing_TOTAL_FRAMES = _08_god_orders_your_steps_timing_sec(65);
-const _08_god_orders_your_steps_timing_content = {
-  trackerTitle: "God Orders Your Steps",
-  trackerIn: _08_god_orders_your_steps_timing_sec(10),
-  totalFrames: _08_god_orders_your_steps_timing_TOTAL_FRAMES,
-  hook: {
-    in: _08_god_orders_your_steps_timing_sec(2),
-    out: _08_god_orders_your_steps_timing_sec(9),
-    eyebrow: "Choosing Alignment \xB7 08",
-    line1: "Every step",
-    line1Accent: "was ordered.",
-    line2: "Faith, plus a four-year bridge to the other side."
-  },
-  speaker: {
-    in: _08_god_orders_your_steps_timing_sec(10),
-    out: _08_god_orders_your_steps_timing_sec(21),
-    name: "Prof. Modupe Elebute-Odunsi",
-    credential: "MD, FRCPath",
-    title: "Founder & CEO, Marcelle Ruth Cancer Centre"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Ordered steps",
-      title: "God orders\nyour steps",
-      caption: "Every challenge and joy was part of the journey.",
-      activeAt: _08_god_orders_your_steps_timing_sec(23)
-    },
-    {
-      n: 2,
-      short: "The bridge",
-      title: "Four years\npart-time",
-      caption: "A gracious boss let her transition while she did the groundwork.",
-      activeAt: _08_god_orders_your_steps_timing_sec(42)
-    }
-  ],
-  quotes: [
-    {
-      in: _08_god_orders_your_steps_timing_sec(33),
-      out: _08_god_orders_your_steps_timing_sec(41),
-      text: "Believe that God orders your steps.",
-      attribution: "Prof. Modupe Elebute-Odunsi"
-    }
-  ],
-  stats: [
-    {
-      in: _08_god_orders_your_steps_timing_sec(51),
-      out: _08_god_orders_your_steps_timing_sec(60),
-      value: "4 yrs",
-      label: "working part-time to build the bridge home"
-    }
-  ],
-  cutaways: [],
-  closing: {
-    in: _08_god_orders_your_steps_timing_sec(60),
-    out: _08_god_orders_your_steps_timing_TOTAL_FRAMES + _08_god_orders_your_steps_timing_sec(2),
-    eyebrow: "Lesson 8",
-    title: "Faith, then",
-    titleAccent: "a plan.",
-    subtitle: "Next: going home, when everyone else was leaving.",
-    chips: ["Choosing Alignment"]
-  }
-};
-
-;// ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/09-going-home/timing.ts
-
-const _09_going_home_timing_sec = (s) => Math.round(s * 30);
-const _09_going_home_timing_TOTAL_FRAMES = _09_going_home_timing_sec(113);
-const _09_going_home_timing_content = {
-  trackerTitle: "Going Home Against the Tide",
-  trackerIn: _09_going_home_timing_sec(10),
-  totalFrames: _09_going_home_timing_TOTAL_FRAMES,
-  hook: {
-    in: _09_going_home_timing_sec(2),
-    out: _09_going_home_timing_sec(9),
-    eyebrow: "Building It at Home \xB7 09",
-    line1: "Everyone left.",
-    line1Accent: "She came back.",
-    line2: "Lagos, end of 2019, into COVID and the great exodus."
-  },
-  speaker: {
-    in: _09_going_home_timing_sec(10),
-    out: _09_going_home_timing_sec(21),
-    name: "Prof. Modupe Elebute-Odunsi",
-    credential: "MD, FRCPath",
-    title: "Founder & CEO, Marcelle Ruth Cancer Centre"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Choose alignment",
-      title: "Sacrifices\nhad to be made",
-      caption: "Leaving a world-class structure to build one from scratch.",
-      activeAt: _09_going_home_timing_sec(23)
-    },
-    {
-      n: 2,
-      short: "Your team",
-      title: "It is about\nyour team",
-      caption: "A hospital is people, now and for the future.",
-      activeAt: _09_going_home_timing_sec(48)
-    },
-    {
-      n: 3,
-      short: "The exodus",
-      title: "Are you\nsure?",
-      caption: "Ninety-nine percent said do not do this.",
-      activeAt: _09_going_home_timing_sec(72)
-    },
-    {
-      n: 4,
-      short: "Build anyway",
-      title: "Three buildings,\none vision",
-      caption: "A one-stop centre rising while others fled.",
-      activeAt: _09_going_home_timing_sec(98)
-    }
-  ],
-  quotes: [
-    {
-      in: _09_going_home_timing_sec(82),
-      out: _09_going_home_timing_sec(94),
-      text: "Ninety-nine point nine percent said: absolutely not, are you sure?",
-      attribution: "Prof. Modupe Elebute-Odunsi"
-    }
-  ],
-  stats: [
-    {
-      in: _09_going_home_timing_sec(58),
-      out: _09_going_home_timing_sec(69),
-      value: "2019",
-      label: "back to Lagos, into COVID and the japa wave"
-    }
-  ],
-  cutaways: [
-    {
-      key: "launch",
-      start: _09_going_home_timing_sec(34),
-      dur: _09_going_home_timing_sec(7),
-      eyebrow: "Against the current",
-      caption: "Bankers and doctors leaving; she was building."
-    }
-  ],
-  closing: {
-    in: _09_going_home_timing_sec(107),
-    out: _09_going_home_timing_TOTAL_FRAMES + _09_going_home_timing_sec(2),
-    eyebrow: "Lesson 9",
-    title: "Build when",
-    titleAccent: "others flee.",
-    subtitle: "Next: one building, one team, one standard.",
-    chips: ["Building It at Home"]
-  }
-};
-
-;// ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/10-one-building-one-team/timing.ts
-
-const _10_one_building_one_team_timing_sec = (s) => Math.round(s * 30);
-const _10_one_building_one_team_timing_TOTAL_FRAMES = _10_one_building_one_team_timing_sec(102);
-const _10_one_building_one_team_timing_content = {
-  trackerTitle: "One Building, One Standard",
-  trackerIn: _10_one_building_one_team_timing_sec(10),
-  totalFrames: _10_one_building_one_team_timing_TOTAL_FRAMES,
-  hook: {
-    in: _10_one_building_one_team_timing_sec(2),
-    out: _10_one_building_one_team_timing_sec(9),
-    eyebrow: "Building It at Home \xB7 10",
-    line1: "One building.",
-    line1Accent: "One standard.",
-    line2: "All your care in one place, delivered by the right team."
-  },
-  speaker: {
-    in: _10_one_building_one_team_timing_sec(10),
-    out: _10_one_building_one_team_timing_sec(21),
-    name: "Prof. Modupe Elebute-Odunsi",
-    credential: "MD, FRCPath",
-    title: "Founder & CEO, Marcelle Ruth Cancer Centre"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "One-stop care",
-      title: "All care under\none roof",
-      caption: "No more chasing labs and imaging across the city.",
-      activeAt: _10_one_building_one_team_timing_sec(23)
-    },
-    {
-      n: 2,
-      short: "The team",
-      title: "People who\nbelieve",
-      caption: "A vision needs a team that will hold the standard.",
-      activeAt: _10_one_building_one_team_timing_sec(48)
-    },
-    {
-      n: 3,
-      short: "The support",
-      title: "Thank my\nhusband",
-      caption: "The financial and moral support that made it possible.",
-      activeAt: _10_one_building_one_team_timing_sec(72)
-    }
-  ],
-  quotes: [
-    {
-      in: _10_one_building_one_team_timing_sec(33),
-      out: _10_one_building_one_team_timing_sec(45),
-      text: "There was no point doing it if you are not going to do it to those standards.",
-      attribution: "Prof. Modupe Elebute-Odunsi"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "network",
-      start: _10_one_building_one_team_timing_sec(60),
-      dur: _10_one_building_one_team_timing_sec(7),
-      eyebrow: "The team and the home",
-      caption: "A vision delivered by people who believed."
-    }
-  ],
-  closing: {
-    in: _10_one_building_one_team_timing_sec(96),
-    out: _10_one_building_one_team_timing_TOTAL_FRAMES + _10_one_building_one_team_timing_sec(2),
-    eyebrow: "Lesson 10",
-    title: "Build the team,",
-    titleAccent: "hold the line.",
-    subtitle: "Next: why all of this matters.",
-    chips: ["Building It at Home"]
-  }
-};
-
-;// ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/11-the-human-cost/timing.ts
-
-const _11_the_human_cost_timing_sec = (s) => Math.round(s * 30);
-const _11_the_human_cost_timing_TOTAL_FRAMES = _11_the_human_cost_timing_sec(88);
-const _11_the_human_cost_timing_content = {
-  trackerTitle: "Why It Matters",
-  trackerIn: _11_the_human_cost_timing_sec(10),
-  totalFrames: _11_the_human_cost_timing_TOTAL_FRAMES,
-  hook: {
-    in: _11_the_human_cost_timing_sec(2),
-    out: _11_the_human_cost_timing_sec(9),
-    eyebrow: "Impact and Legacy \xB7 11",
-    line1: "Five staff",
-    line1Accent: "to a movement.",
-    line2: "Behind every statistic, a family kept whole."
-  },
-  speaker: {
-    in: _11_the_human_cost_timing_sec(10),
-    out: _11_the_human_cost_timing_sec(21),
-    name: "Prof. Modupe Elebute-Odunsi",
-    credential: "MD, FRCPath",
-    title: "Founder & CEO, Marcelle Ruth Cancer Centre"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "The growth",
-      title: "Five to over\na hundred",
-      caption: "And more than five thousand patients in five years.",
-      activeAt: _11_the_human_cost_timing_sec(23)
-    },
-    {
-      n: 2,
-      short: "The children",
-      title: "The children\nwho stayed",
-      caption: "No more flying abroad and splitting up the family.",
-      activeAt: _11_the_human_cost_timing_sec(45)
-    },
-    {
-      n: 3,
-      short: "The real cost",
-      title: "The disruption\nto families",
-      caption: "Lost jobs, lost income, families torn apart by distance.",
-      activeAt: _11_the_human_cost_timing_sec(68)
-    }
-  ],
-  quotes: [
-    {
-      in: _11_the_human_cost_timing_sec(55),
-      out: _11_the_human_cost_timing_sec(66),
-      text: "Five children. They split them up: two go here, two go there.",
-      attribution: "Prof. Modupe Elebute-Odunsi"
-    }
-  ],
-  stats: [
-    {
-      in: _11_the_human_cost_timing_sec(33),
-      out: _11_the_human_cost_timing_sec(43),
-      value: "5,000+",
-      label: "patients treated, close to home"
-    }
-  ],
-  cutaways: [],
-  closing: {
-    in: _11_the_human_cost_timing_sec(82),
-    out: _11_the_human_cost_timing_TOTAL_FRAMES + _11_the_human_cost_timing_sec(2),
-    eyebrow: "Lesson 11",
-    title: "This is",
-    titleAccent: "why it matters.",
-    subtitle: "Next: from buildings to a lasting legacy.",
-    chips: ["Impact and Legacy"]
-  }
-};
-
-;// ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/12-stepping-stones-legacy/timing.ts
-
-const _12_stepping_stones_legacy_timing_sec = (s) => Math.round(s * 30);
-const _12_stepping_stones_legacy_timing_TOTAL_FRAMES = _12_stepping_stones_legacy_timing_sec(69);
-const _12_stepping_stones_legacy_timing_content = {
-  trackerTitle: "Stepping Stones to Legacy",
-  trackerIn: _12_stepping_stones_legacy_timing_sec(10),
-  totalFrames: _12_stepping_stones_legacy_timing_TOTAL_FRAMES,
-  hook: {
-    in: _12_stepping_stones_legacy_timing_sec(2),
-    out: _12_stepping_stones_legacy_timing_sec(9),
-    eyebrow: "Impact and Legacy \xB7 12",
-    line1: "Just the",
-    line1Accent: "stepping stone.",
-    line2: "The buildings were never the point. The legacy is."
-  },
-  speaker: {
-    in: _12_stepping_stones_legacy_timing_sec(10),
-    out: _12_stepping_stones_legacy_timing_sec(21),
-    name: "Prof. Modupe Elebute-Odunsi",
-    credential: "MD, FRCPath",
-    title: "Founder & CEO, Marcelle Ruth Cancer Centre"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "A bigger plan",
-      title: "He usually\nhas a bigger",
-      caption: "Respond to the call, and the assignment grows.",
-      activeAt: _12_stepping_stones_legacy_timing_sec(23)
-    },
-    {
-      n: 2,
-      short: "Stepping stone",
-      title: "Just a\nstepping stone",
-      caption: "Even the hospital was only the beginning.",
-      activeAt: _12_stepping_stones_legacy_timing_sec(40)
-    },
-    {
-      n: 3,
-      short: "The legacy",
-      title: "Train the\nnext generation",
-      caption: "First private hospital to train oncology residents in Nigeria.",
-      activeAt: _12_stepping_stones_legacy_timing_sec(56)
-    }
-  ],
-  quotes: [
-    {
-      in: _12_stepping_stones_legacy_timing_sec(48),
-      out: _12_stepping_stones_legacy_timing_sec(56),
-      text: "That was just the stepping stone. It is the impact and the legacy.",
-      attribution: "Prof. Modupe Elebute-Odunsi"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "growth",
-      start: _12_stepping_stones_legacy_timing_sec(32),
-      dur: _12_stepping_stones_legacy_timing_sec(6),
-      eyebrow: "Building beyond",
-      caption: "Respond, and the vision keeps expanding."
-    }
-  ],
-  closing: {
-    in: _12_stepping_stones_legacy_timing_sec(63),
-    out: _12_stepping_stones_legacy_timing_TOTAL_FRAMES + _12_stepping_stones_legacy_timing_sec(2),
-    eyebrow: "Lesson 12",
-    title: "Build the",
-    titleAccent: "legacy.",
-    subtitle: "Next: lifting others, and the charge to you.",
-    chips: ["Impact and Legacy"]
-  }
-};
-
-;// ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/13-lifting-others-the-charge/timing.ts
-
-const _13_lifting_others_the_charge_timing_sec = (s) => Math.round(s * 30);
-const _13_lifting_others_the_charge_timing_TOTAL_FRAMES = _13_lifting_others_the_charge_timing_sec(92);
-const _13_lifting_others_the_charge_timing_content = {
-  trackerTitle: "Lift Others, and Go",
-  trackerIn: _13_lifting_others_the_charge_timing_sec(10),
-  totalFrames: _13_lifting_others_the_charge_timing_TOTAL_FRAMES,
-  hook: {
-    in: _13_lifting_others_the_charge_timing_sec(2),
-    out: _13_lifting_others_the_charge_timing_sec(9),
-    eyebrow: "Impact and Legacy \xB7 13",
-    line1: "When God calls,",
-    line1Accent: "it's never small.",
-    line2: "From a lunch club to a movement, and a charge to you."
-  },
-  speaker: {
-    in: _13_lifting_others_the_charge_timing_sec(10),
-    out: _13_lifting_others_the_charge_timing_sec(21),
-    name: "Prof. Modupe Elebute-Odunsi",
-    credential: "MD, FRCPath",
-    title: "Founder & CEO, Marcelle Ruth Cancer Centre"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Lift women",
-      title: "Women must\nlift each other",
-      caption: "Fifteen senior women became the Women in Healthcare Network.",
-      activeAt: _13_lifting_others_the_charge_timing_sec(23)
-    },
-    {
-      n: 2,
-      short: "Never small",
-      title: "It is never\nsmall",
-      caption: "Twenty expected; hundreds came.",
-      activeAt: _13_lifting_others_the_charge_timing_sec(45)
-    },
-    {
-      n: 3,
-      short: "The charge",
-      title: "Just go\nfor it",
-      caption: "If the question keeps coming, that is God speaking.",
-      activeAt: _13_lifting_others_the_charge_timing_sec(70)
-    }
-  ],
-  quotes: [
-    {
-      in: _13_lifting_others_the_charge_timing_sec(55),
-      out: _13_lifting_others_the_charge_timing_sec(66),
-      text: "When God wants you to do something, it is never small.",
-      attribution: "Prof. Modupe Elebute-Odunsi"
-    }
-  ],
-  stats: [
-    {
-      in: _13_lifting_others_the_charge_timing_sec(33),
-      out: _13_lifting_others_the_charge_timing_sec(43),
-      value: "20 \u2192 500+",
-      label: "women: from a lunch idea to the annual conference"
-    }
-  ],
-  cutaways: [],
-  closing: {
-    in: _13_lifting_others_the_charge_timing_sec(84),
-    out: _13_lifting_others_the_charge_timing_TOTAL_FRAMES + _13_lifting_others_the_charge_timing_sec(2),
-    eyebrow: "The charge",
-    title: "Go for it.",
-    titleAccent: "He will provide.",
-    subtitle: "Prof. Modupe Elebute-Odunsi \xB7 The Platform Nigeria",
-    chips: ["Impact and Legacy"]
-  }
-};
-
-;// ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/registry.tsx
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-const prof_modupe_elebute_odunsi_unlocking_the_second_half_advantagetransition_impact_and_legacy_registry_make = (content) => ({ videoSrc, logoSrc }) => /* @__PURE__ */ (0,jsx_runtime.jsx)(Talk_Talk, { videoSrc, logoSrc, content, showLogo: false });
-const prof_modupe_elebute_odunsi_unlocking_the_second_half_advantagetransition_impact_and_legacy_registry_KEY_PREFIX = "instincthub/uploads/prof-modupe-second-half-advantage";
-const prof_modupe_elebute_odunsi_unlocking_the_second_half_advantagetransition_impact_and_legacy_registry_ROWS = [
-  { slug: "01-the-question", module: 1, lesson: 1, title: "The question that will not go away", mod: _01_the_question_timing_namespaceObject },
-  { slug: "02-calling-born-early", module: 1, lesson: 2, title: "A calling born early", mod: _02_calling_born_early_timing_namespaceObject },
-  { slug: "03-work-hard-be-bold", module: 1, lesson: 3, title: "Work hard, be bold: the early years", mod: _03_work_hard_be_bold_timing_namespaceObject },
-  { slug: "04-success-as-destination", module: 2, lesson: 4, title: "Success as a destination, and the first crack", mod: _04_success_as_destination_timing_namespaceObject },
-  { slug: "05-success-by-comparison", module: 2, lesson: 5, title: "Measuring success by comparison", mod: _05_success_by_comparison_timing_namespaceObject },
-  { slug: "06-turning-point-at-fifty", module: 2, lesson: 6, title: "The turning point at fifty", mod: _06_turning_point_at_fifty_timing_namespaceObject },
-  { slug: "07-leaving-security", module: 3, lesson: 7, title: "Acting on clarity, leaving security", mod: _07_leaving_security_timing_namespaceObject },
-  { slug: "08-god-orders-your-steps", module: 3, lesson: 8, title: "God orders your steps, and the four-year bridge", mod: _08_god_orders_your_steps_timing_namespaceObject },
-  { slug: "09-going-home", module: 4, lesson: 9, title: "Going home when everyone was leaving", mod: _09_going_home_timing_namespaceObject },
-  { slug: "10-one-building-one-team", module: 4, lesson: 10, title: "One building, one team, one standard", mod: _10_one_building_one_team_timing_namespaceObject },
-  { slug: "11-the-human-cost", module: 5, lesson: 11, title: "Why it matters: the human cost", mod: _11_the_human_cost_timing_namespaceObject },
-  { slug: "12-stepping-stones-legacy", module: 5, lesson: 12, title: "Stepping stones and the training legacy", mod: _12_stepping_stones_legacy_timing_namespaceObject },
-  { slug: "13-lifting-others-the-charge", module: 5, lesson: 13, title: "Lifting others, and the charge", mod: _13_lifting_others_the_charge_timing_namespaceObject }
-];
-const MODUPE_LESSONS = prof_modupe_elebute_odunsi_unlocking_the_second_half_advantagetransition_impact_and_legacy_registry_ROWS.map((r) => ({
-  id: `me-${r.slug}`,
-  module: r.module,
-  lesson: r.lesson,
-  title: r.title,
-  videoSrc: `tp-me-${r.slug}.mp4`,
-  videoKey: `${prof_modupe_elebute_odunsi_unlocking_the_second_half_advantagetransition_impact_and_legacy_registry_KEY_PREFIX}/m${r.module}-l${r.lesson}-${r.slug.replace(/^\d+-/, "")}.mp4`,
-  totalFrames: r.mod.TOTAL_FRAMES,
-  component: prof_modupe_elebute_odunsi_unlocking_the_second_half_advantagetransition_impact_and_legacy_registry_make(r.mod.content)
-}));
-
-;// ./src/theplatform/prof-modupe-elebute-odunsi-unlocking-the-second-half-advantagetransition-impact-and-legacy/Thumbnail.tsx
-
-
-
-
-
-
-const prof_modupe_elebute_odunsi_unlocking_the_second_half_advantagetransition_impact_and_legacy_Thumbnail_Thumbnail = ({
-  portraitSrc = "tp-me-modupe-portrait.jpg"
-}) => {
-  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { backgroundColor: theplatform_shared_colors_colors.yellow, fontFamily: overpass }, children: [
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { backgroundColor: instincthub_shared_colors_colors.magnolia }, children: [
     /* @__PURE__ */ (0,jsx_runtime.jsx)(
       esm.AbsoluteFill,
       {
         style: {
-          backgroundImage: `radial-gradient(${theplatform_shared_colors_colors.ink}1A 3px, transparent 3px)`,
-          backgroundSize: "54px 54px",
+          backgroundImage: `radial-gradient(${instincthub_shared_colors_colors.gunmetal}14 1.5px, transparent 1.5px)`,
+          backgroundSize: "42px 42px",
           opacity: 0.5
         }
       }
     ),
-    /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { position: "absolute", top: 70, right: 600, opacity: 0.16, transform: "rotate(8deg)" }, children: /* @__PURE__ */ (0,jsx_runtime.jsx)(Bulb, { size: 190, stroke: theplatform_shared_colors_colors.ink, spark: theplatform_shared_colors_colors.ink, lit: 0, strokeWidth: 6 }) }),
-    /* @__PURE__ */ (0,jsx_runtime.jsxs)(
-      "div",
-      {
-        style: {
-          position: "absolute",
-          top: 0,
-          left: 0,
-          right: 0,
-          height: 104,
-          background: theplatform_shared_colors_colors.ink,
-          display: "flex",
-          alignItems: "center",
-          gap: 18,
-          padding: "0 70px"
-        },
-        children: [
-          /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { fontWeight: 800, fontSize: 32, letterSpacing: 4, color: theplatform_shared_colors_colors.white, textTransform: "uppercase" }, children: "Is this all I'm meant to do?" }),
-          /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { fontWeight: 800, fontSize: 32, letterSpacing: 4, color: theplatform_shared_colors_colors.yellow, textTransform: "uppercase" }, children: "Go for it." })
-        ]
-      }
-    ),
-    /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { position: "absolute", left: 90, top: 184, width: 1090 }, children: [
-      /* @__PURE__ */ (0,jsx_runtime.jsx)(
-        "span",
-        {
-          style: {
-            display: "inline-block",
-            fontWeight: 800,
-            fontSize: 29,
-            letterSpacing: 6,
-            textTransform: "uppercase",
-            color: theplatform_shared_colors_colors.ink,
-            background: `${theplatform_shared_colors_colors.ink}14`,
-            padding: "12px 26px",
-            borderRadius: 999,
-            border: `2px solid ${theplatform_shared_colors_colors.ink}3D`
-          },
-          children: "The Platform Nigeria \xB7 Keynote"
-        }
-      ),
-      /* @__PURE__ */ (0,jsx_runtime.jsxs)(
-        "div",
-        {
-          style: {
-            marginTop: 30,
-            fontWeight: 900,
-            fontSize: 100,
-            lineHeight: 0.94,
-            letterSpacing: -3,
-            color: theplatform_shared_colors_colors.ink
-          },
-          children: [
-            "Unlocking the",
-            /* @__PURE__ */ (0,jsx_runtime.jsx)("br", {}),
-            "Second Half",
-            /* @__PURE__ */ (0,jsx_runtime.jsx)("br", {}),
-            "Advantage"
-          ]
-        }
-      ),
-      /* @__PURE__ */ (0,jsx_runtime.jsx)(
-        "div",
-        {
-          style: {
-            marginTop: 28,
-            display: "inline-block",
-            fontWeight: 900,
-            fontSize: 46,
-            letterSpacing: -0.5,
-            color: theplatform_shared_colors_colors.yellow,
-            background: theplatform_shared_colors_colors.ink,
-            padding: "12px 28px",
-            borderRadius: 14
-          },
-          children: "Transition \xB7 Impact \xB7 Legacy"
-        }
-      )
-    ] }),
-    /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { position: "absolute", left: 96, bottom: 74, display: "flex", alignItems: "center", gap: 22 }, children: [
-      /* @__PURE__ */ (0,jsx_runtime.jsx)(Bulb, { size: 64, stroke: theplatform_shared_colors_colors.ink, spark: theplatform_shared_colors_colors.ink, lit: 0, strokeWidth: 5 }),
-      /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { children: [
-        /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { fontWeight: 900, fontSize: 46, letterSpacing: -1.5, color: theplatform_shared_colors_colors.ink, lineHeight: 1 }, children: "Prof. Modupe Elebute-Odunsi" }),
-        /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { fontWeight: 600, fontSize: 29, color: theplatform_shared_colors_colors.ink, opacity: 0.78, marginTop: 6 }, children: "Founder & CEO, Marcelle Ruth Cancer Centre" })
-      ] })
-    ] }),
     /* @__PURE__ */ (0,jsx_runtime.jsx)(
-      "div",
+      esm.AbsoluteFill,
       {
         style: {
-          position: "absolute",
-          right: 80,
-          top: 168,
-          width: 700,
-          height: 770,
-          borderRadius: 40,
-          border: `12px solid ${theplatform_shared_colors_colors.ink}`,
-          overflow: "hidden",
-          background: theplatform_shared_colors_colors.ink,
-          boxShadow: `0 40px 90px -28px ${theplatform_shared_colors_colors.ink}99`
-        },
-        children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
-          esm.Img,
-          {
-            src: (0,esm.staticFile)(portraitSrc),
-            alt: "Prof. Modupe Elebute-Odunsi",
-            style: { width: "100%", height: "100%", objectFit: "cover", objectPosition: "46% 10%" }
-          }
-        )
+          background: `radial-gradient(ellipse at 50% 30%, ${instincthub_shared_colors_colors.cyan}24 0%, transparent 58%)`
+        }
       }
     ),
     /* @__PURE__ */ (0,jsx_runtime.jsx)(
@@ -119580,2106 +117200,1473 @@ const prof_modupe_elebute_odunsi_unlocking_the_second_half_advantagetransition_i
       {
         style: {
           position: "absolute",
-          right: 80,
-          top: 168,
-          background: theplatform_shared_colors_colors.magenta,
-          color: theplatform_shared_colors_colors.white,
-          fontWeight: 800,
-          fontSize: 28,
+          left: 90,
+          top: 96,
+          fontFamily: montserrat,
+          fontSize: 18,
+          fontWeight: 700,
           letterSpacing: 3,
-          textTransform: "uppercase",
-          padding: "12px 24px",
-          borderRadius: "40px 0 28px 0"
+          color: `${instincthub_shared_colors_colors.slate}B3`,
+          textTransform: "uppercase"
         },
-        children: "Keynote"
+        children: "Footage placeholder \xB7 set videoSrc to composite"
       }
     )
   ] });
 };
 
-;// ./src/theplatform/timilola-adetu-second-half-advantage/01-eighteen-month-question/timing.ts
+;// ./src/instincthub/_shared/marks.tsx
 
-const _01_eighteen_month_question_timing_sec = (s) => Math.round(s * 30);
-const _01_eighteen_month_question_timing_TOTAL_FRAMES = _01_eighteen_month_question_timing_sec(138);
-const _01_eighteen_month_question_timing_content = {
-  trackerTitle: "The Turning Point",
-  trackerIn: _01_eighteen_month_question_timing_sec(10),
-  totalFrames: _01_eighteen_month_question_timing_TOTAL_FRAMES,
-  hook: {
-    in: _01_eighteen_month_question_timing_sec(2),
-    out: _01_eighteen_month_question_timing_sec(9),
-    eyebrow: "The Turning Point \xB7 01",
-    line1: "What if, in 18 months,",
-    line1Accent: "everything changed?",
-    line2: "The good girl who followed every rule, then walked away at forty."
-  },
-  speaker: {
-    in: _01_eighteen_month_question_timing_sec(10),
-    out: _01_eighteen_month_question_timing_sec(21),
-    name: "Timilola Adetu",
-    credential: "BSc, ACII",
-    title: "Founder, SKLD Integrated Services"
-  },
-  chapters: [
+
+
+const Cap = ({
+  size = 64,
+  stroke = instincthub_shared_colors_colors.white,
+  accent = instincthub_shared_colors_colors.tiffany,
+  lit = 1,
+  strokeWidth = 4
+}) => /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: size, height: size, viewBox: "0 0 64 64", fill: "none", children: [
+  /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "32", cy: "28", r: "22", fill: accent, opacity: 0.18 * lit }),
+  /* @__PURE__ */ (0,jsx_runtime.jsx)(
+    "path",
     {
-      n: 1,
-      short: "The question",
-      title: "Will you still\nbe doing this?",
-      caption: "In 18 months, could some part of your life look completely different?",
-      activeAt: _01_eighteen_month_question_timing_sec(24)
-    },
-    {
-      n: 2,
-      short: "The good girl",
-      title: "A perfect\ncorporate climb",
-      caption: "Hardworking, by the book, faultless, and quietly restless.",
-      activeAt: _01_eighteen_month_question_timing_sec(50)
-    },
-    {
-      n: 3,
-      short: "She's me",
-      title: "That young\nlady is me",
-      caption: "At forty she left a 14-year career with no business training.",
-      activeAt: _01_eighteen_month_question_timing_sec(96)
+      d: "M32 12 L58 24 L32 36 L6 24 Z",
+      stroke,
+      strokeWidth,
+      strokeLinejoin: "round"
     }
-  ],
-  quotes: [
+  ),
+  /* @__PURE__ */ (0,jsx_runtime.jsx)(
+    "path",
     {
-      in: _01_eighteen_month_question_timing_sec(78),
-      out: _01_eighteen_month_question_timing_sec(90),
-      text: "Well, yes, she was crazy. That young lady is me.",
-      attribution: "Timilola Adetu"
+      d: "M18 30 v10 c0 5 28 5 28 0 v-10",
+      stroke,
+      strokeWidth,
+      strokeLinecap: "round",
+      strokeLinejoin: "round"
     }
-  ],
-  stats: [
+  ),
+  /* @__PURE__ */ (0,jsx_runtime.jsx)(
+    "path",
     {
-      in: _01_eighteen_month_question_timing_sec(110),
-      out: _01_eighteen_month_question_timing_sec(122),
-      value: "14 \u2192 25+",
-      label: "years: a corporate career, then her own business"
+      d: "M58 24 v14",
+      stroke: accent,
+      strokeWidth,
+      strokeLinecap: "round",
+      opacity: lit
     }
-  ],
-  cutaways: [],
-  closing: {
-    in: _01_eighteen_month_question_timing_sec(131),
-    out: _01_eighteen_month_question_timing_TOTAL_FRAMES + _01_eighteen_month_question_timing_sec(2),
-    eyebrow: "Lesson 1",
-    title: "She bet on",
-    titleAccent: "a second half.",
-    subtitle: "Next: what tipped the decision at forty.",
-    chips: ["The Turning Point"]
-  }
-};
+  ),
+  /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "58", cy: "42", r: "3.5", fill: accent, opacity: lit })
+] });
 
-;// ./src/theplatform/timilola-adetu-second-half-advantage/02-what-tipped-the-decision/timing.ts
-
-const _02_what_tipped_the_decision_timing_sec = (s) => Math.round(s * 30);
-const _02_what_tipped_the_decision_timing_TOTAL_FRAMES = _02_what_tipped_the_decision_timing_sec(115);
-const _02_what_tipped_the_decision_timing_content = {
-  trackerTitle: "Why She Leapt",
-  trackerIn: _02_what_tipped_the_decision_timing_sec(10),
-  totalFrames: _02_what_tipped_the_decision_timing_TOTAL_FRAMES,
-  hook: {
-    in: _02_what_tipped_the_decision_timing_sec(2),
-    out: _02_what_tipped_the_decision_timing_sec(9),
-    eyebrow: "The Turning Point \xB7 02",
-    line1: "Timilola",
-    line1Accent: "at forty.",
-    line2: "The mindset and the maths behind a very bold move."
-  },
-  speaker: {
-    in: _02_what_tipped_the_decision_timing_sec(10),
-    out: _02_what_tipped_the_decision_timing_sec(21),
-    name: "Timilola Adetu",
-    credential: "BSc, ACII",
-    title: "Founder, SKLD Integrated Services"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "The spark",
-      title: "A business\nidea, at last",
-      caption: "It surfaced as her eldest son was heading to secondary school.",
-      activeAt: _02_what_tipped_the_decision_timing_sec(24)
-    },
-    {
-      n: 2,
-      short: "Job insecurity",
-      title: "What if they\nlet me go?",
-      caption: "Oil prices rise and fall; the nineties were full of downsizing.",
-      activeAt: _02_what_tipped_the_decision_timing_sec(48)
-    },
-    {
-      n: 3,
-      short: "The window",
-      title: "A window\nto act",
-      caption: "Family, flexibility, health, and a boom in private schools.",
-      activeAt: _02_what_tipped_the_decision_timing_sec(82)
-    }
-  ],
-  quotes: [],
-  stats: [],
-  cutaways: [
-    {
-      key: "idea",
-      start: _02_what_tipped_the_decision_timing_sec(33),
-      dur: _02_what_tipped_the_decision_timing_sec(7),
-      eyebrow: "The spark",
-      caption: "A back-to-school business that would always stay relevant."
-    }
-  ],
-  closing: {
-    in: _02_what_tipped_the_decision_timing_sec(108),
-    out: _02_what_tipped_the_decision_timing_TOTAL_FRAMES + _02_what_tipped_the_decision_timing_sec(2),
-    eyebrow: "Lesson 2",
-    title: "She chose",
-    titleAccent: "what stays relevant.",
-    subtitle: "Next: the reflections that signal it is your turn.",
-    chips: ["The Turning Point"]
-  }
-};
-
-;// ./src/theplatform/timilola-adetu-second-half-advantage/03-your-reflections/timing.ts
-
-const _03_your_reflections_timing_sec = (s) => Math.round(s * 30);
-const _03_your_reflections_timing_TOTAL_FRAMES = _03_your_reflections_timing_sec(101);
-const _03_your_reflections_timing_content = {
-  trackerTitle: "Your Reflections",
-  trackerIn: _03_your_reflections_timing_sec(10),
-  totalFrames: _03_your_reflections_timing_TOTAL_FRAMES,
-  hook: {
-    in: _03_your_reflections_timing_sec(2),
-    out: _03_your_reflections_timing_sec(9),
-    eyebrow: "The Turning Point \xB7 03",
-    line1: "Now,",
-    line1Accent: "your turn.",
-    line2: "The honest questions that tell you change is coming."
-  },
-  speaker: {
-    in: _03_your_reflections_timing_sec(10),
-    out: _03_your_reflections_timing_sec(21),
-    name: "Timilola Adetu",
-    credential: "BSc, ACII",
-    title: "Founder, SKLD Integrated Services"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "The signals",
-      title: "What is\nyour story?",
-      caption: "Job security, flexibility, finances, health, family, fulfilment.",
-      activeAt: _03_your_reflections_timing_sec(22)
-    },
-    {
-      n: 2,
-      short: "Purpose",
-      title: "Late bloomers\nfind it too",
-      caption: "She found her purpose only when she dared to move.",
-      activeAt: _03_your_reflections_timing_sec(64)
-    }
-  ],
-  quotes: [
-    {
-      in: _03_your_reflections_timing_sec(40),
-      out: _03_your_reflections_timing_sec(52),
-      text: "What's your story? What are your reflections?",
-      attribution: "Timilola Adetu"
-    }
-  ],
-  stats: [],
-  cutaways: [],
-  closing: {
-    in: _03_your_reflections_timing_sec(94),
-    out: _03_your_reflections_timing_TOTAL_FRAMES + _03_your_reflections_timing_sec(2),
-    eyebrow: "Lesson 3",
-    title: "Be honest",
-    titleAccent: "with yourself.",
-    subtitle: "Next: the mindset that decides your response.",
-    chips: ["The Turning Point"]
-  }
-};
-
-;// ./src/theplatform/timilola-adetu-second-half-advantage/04-mindset-decides-response/timing.ts
-
-const _04_mindset_decides_response_timing_sec = (s) => Math.round(s * 30);
-const _04_mindset_decides_response_timing_TOTAL_FRAMES = _04_mindset_decides_response_timing_sec(78);
-const _04_mindset_decides_response_timing_content = {
-  trackerTitle: "Mindset Is the Engine",
-  trackerIn: _04_mindset_decides_response_timing_sec(9),
-  totalFrames: _04_mindset_decides_response_timing_TOTAL_FRAMES,
-  hook: {
-    in: _04_mindset_decides_response_timing_sec(2),
-    out: _04_mindset_decides_response_timing_sec(9),
-    eyebrow: "Mindset Is the Engine \xB7 04",
-    line1: "Change is constant.",
-    line1Accent: "Mindset decides.",
-    line2: "How you respond depends on the mind you bring to it."
-  },
-  speaker: {
-    in: _04_mindset_decides_response_timing_sec(10),
-    out: _04_mindset_decides_response_timing_sec(20),
-    name: "Timilola Adetu",
-    credential: "BSc, ACII",
-    title: "Founder, SKLD Integrated Services"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "The definition",
-      title: "What a\nmindset is",
-      caption: "The set of beliefs and habits that shape how you respond.",
-      activeAt: _04_mindset_decides_response_timing_sec(22)
-    },
-    {
-      n: 2,
-      short: "Growth",
-      title: "Your skills\naren't fixed",
-      caption: "A growth mind adapts, and that is exactly what she did.",
-      activeAt: _04_mindset_decides_response_timing_sec(46)
-    },
-    {
-      n: 3,
-      short: "The courage",
-      title: "Courage\nto pivot",
-      caption: "At forty-plus, that mindset is your second-half advantage.",
-      activeAt: _04_mindset_decides_response_timing_sec(60)
-    }
-  ],
-  quotes: [
-    {
-      in: _04_mindset_decides_response_timing_sec(30),
-      out: _04_mindset_decides_response_timing_sec(42),
-      text: "Your skills, your abilities, they are not fixed.",
-      attribution: "Timilola Adetu"
-    }
-  ],
-  stats: [],
-  cutaways: [],
-  closing: {
-    in: _04_mindset_decides_response_timing_sec(71),
-    out: _04_mindset_decides_response_timing_TOTAL_FRAMES + _04_mindset_decides_response_timing_sec(2),
-    eyebrow: "Lesson 4",
-    title: "Bring a",
-    titleAccent: "growth mindset.",
-    subtitle: "Next: growth versus a fixed mind.",
-    chips: ["Mindset Is the Engine"]
-  }
-};
-
-;// ./src/theplatform/timilola-adetu-second-half-advantage/05-growth-vs-fixed/timing.ts
-
-const _05_growth_vs_fixed_timing_sec = (s) => Math.round(s * 30);
-const _05_growth_vs_fixed_timing_TOTAL_FRAMES = _05_growth_vs_fixed_timing_sec(94);
-const _05_growth_vs_fixed_timing_content = {
-  trackerTitle: "Growth vs Fixed",
-  trackerIn: _05_growth_vs_fixed_timing_sec(10),
-  totalFrames: _05_growth_vs_fixed_timing_TOTAL_FRAMES,
-  hook: {
-    in: _05_growth_vs_fixed_timing_sec(2),
-    out: _05_growth_vs_fixed_timing_sec(9),
-    eyebrow: "Mindset Is the Engine \xB7 05",
-    line1: "Growth,",
-    line1Accent: "or fixed?",
-    line2: "Two mindsets, two completely different second halves."
-  },
-  speaker: {
-    in: _05_growth_vs_fixed_timing_sec(10),
-    out: _05_growth_vs_fixed_timing_sec(21),
-    name: "Timilola Adetu",
-    credential: "BSc, ACII",
-    title: "Founder, SKLD Integrated Services"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Fixed",
-      title: "If it ain't\nbroke...",
-      caption: "The fixed mind says stay put for twenty, thirty years.",
-      activeAt: _05_growth_vs_fixed_timing_sec(22)
-    },
-    {
-      n: 2,
-      short: "Respond",
-      title: "Act quickly,\nact positively",
-      caption: "Don't look back in regret; the past is never wasted.",
-      activeAt: _05_growth_vs_fixed_timing_sec(48)
-    }
-  ],
-  quotes: [
-    {
-      in: _05_growth_vs_fixed_timing_sec(70),
-      out: _05_growth_vs_fixed_timing_sec(84),
-      text: "To thine own self be true. Be true to yourself.",
-      attribution: "Timilola Adetu"
-    }
-  ],
-  stats: [],
-  cutaways: [],
-  closing: {
-    in: _05_growth_vs_fixed_timing_sec(87),
-    out: _05_growth_vs_fixed_timing_TOTAL_FRAMES + _05_growth_vs_fixed_timing_sec(2),
-    eyebrow: "Lesson 5",
-    title: "Choose the",
-    titleAccent: "growth mind.",
-    subtitle: "Next: the leap from the boardroom to the shop floor.",
-    chips: ["Mindset Is the Engine"]
-  }
-};
-
-;// ./src/theplatform/timilola-adetu-second-half-advantage/06-vi-to-onikan/timing.ts
-
-const _06_vi_to_onikan_timing_sec = (s) => Math.round(s * 30);
-const _06_vi_to_onikan_timing_TOTAL_FRAMES = _06_vi_to_onikan_timing_sec(92);
-const _06_vi_to_onikan_timing_content = {
-  trackerTitle: "Building It for Real",
-  trackerIn: _06_vi_to_onikan_timing_sec(10),
-  totalFrames: _06_vi_to_onikan_timing_TOTAL_FRAMES,
-  hook: {
-    in: _06_vi_to_onikan_timing_sec(2),
-    out: _06_vi_to_onikan_timing_sec(9),
-    eyebrow: "Building It for Real \xB7 06",
-    line1: "From VI",
-    line1Accent: "to Onikan.",
-    line2: "An air-conditioned office, traded for area boys and a generator."
-  },
-  speaker: {
-    in: _06_vi_to_onikan_timing_sec(10),
-    out: _06_vi_to_onikan_timing_sec(21),
-    name: "Timilola Adetu",
-    credential: "BSc, ACII",
-    title: "Founder, SKLD Integrated Services"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "The blessing",
-      title: "Are you sure?\nI'll support you",
-      caption: "Her husband thought her crazy, then backed her anyway.",
-      activeAt: _06_vi_to_onikan_timing_sec(22)
-    },
-    {
-      n: 2,
-      short: "The reality",
-      title: "A tush shop,\nby a mama put",
-      caption: "No help desk, no HSE; just her, Onikan, and Ghana High.",
-      activeAt: _06_vi_to_onikan_timing_sec(46)
-    },
-    {
-      n: 3,
-      short: "The nerve",
-      title: "No customer\nfor two months",
-      caption: "A seasonal business, and the discipline to hold her nerve.",
-      activeAt: _06_vi_to_onikan_timing_sec(74)
-    }
-  ],
-  quotes: [],
-  stats: [],
-  cutaways: [
-    {
-      key: "launch",
-      start: _06_vi_to_onikan_timing_sec(31),
-      dur: _06_vi_to_onikan_timing_sec(7),
-      eyebrow: "September 2000",
-      caption: "Her first store opens at Onikan, opposite a mama put."
-    }
-  ],
-  closing: {
-    in: _06_vi_to_onikan_timing_sec(85),
-    out: _06_vi_to_onikan_timing_TOTAL_FRAMES + _06_vi_to_onikan_timing_sec(2),
-    eyebrow: "Lesson 6",
-    title: "She rolled up",
-    titleAccent: "her sleeves.",
-    subtitle: "Next: the corporate discipline that saved her.",
-    chips: ["Building It for Real"]
-  }
-};
-
-;// ./src/theplatform/timilola-adetu-second-half-advantage/07-corporate-discipline/timing.ts
-
-const _07_corporate_discipline_timing_sec = (s) => Math.round(s * 30);
-const _07_corporate_discipline_timing_TOTAL_FRAMES = _07_corporate_discipline_timing_sec(62);
-const _07_corporate_discipline_timing_content = {
-  trackerTitle: "Corporate Discipline",
-  trackerIn: _07_corporate_discipline_timing_sec(9),
-  totalFrames: _07_corporate_discipline_timing_TOTAL_FRAMES,
-  hook: {
-    in: _07_corporate_discipline_timing_sec(2),
-    out: _07_corporate_discipline_timing_sec(8),
-    eyebrow: "Building It for Real \xB7 07",
-    line1: "No MD hat.",
-    line1Accent: "Sleeves up.",
-    line2: "The corporate discipline that stood her in good stead."
-  },
-  speaker: {
-    in: _07_corporate_discipline_timing_sec(9),
-    out: _07_corporate_discipline_timing_sec(19),
-    name: "Timilola Adetu",
-    credential: "BSc, ACII",
-    title: "Founder, SKLD Integrated Services"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Outsource",
-      title: "Outsource\nwhat you can't",
-      caption: "Audit, accounts, the services she could not yet afford.",
-      activeAt: _07_corporate_discipline_timing_sec(20)
-    },
-    {
-      n: 2,
-      short: "Serve",
-      title: "She served\ncustomers herself",
-      caption: "Hours on her feet, stacking shelves, learning the codes.",
-      activeAt: _07_corporate_discipline_timing_sec(38)
-    }
-  ],
-  quotes: [
-    {
-      in: _07_corporate_discipline_timing_sec(42),
-      out: _07_corporate_discipline_timing_sec(53),
-      text: "If you don't lay a good example for your staff, they won't do it.",
-      attribution: "Timilola Adetu"
-    }
-  ],
-  stats: [],
-  cutaways: [],
-  closing: {
-    in: _07_corporate_discipline_timing_sec(55),
-    out: _07_corporate_discipline_timing_TOTAL_FRAMES + _07_corporate_discipline_timing_sec(2),
-    eyebrow: "Lesson 7",
-    title: "Lead from",
-    titleAccent: "the shop floor.",
-    subtitle: "Next: the one word that doubled the business.",
-    chips: ["Building It for Real"]
-  }
-};
-
-;// ./src/theplatform/timilola-adetu-second-half-advantage/08-targets-revelation/timing.ts
-
-const _08_targets_revelation_timing_sec = (s) => Math.round(s * 30);
-const _08_targets_revelation_timing_TOTAL_FRAMES = _08_targets_revelation_timing_sec(44);
-const _08_targets_revelation_timing_content = {
-  trackerTitle: "The Targets Revelation",
-  trackerIn: _08_targets_revelation_timing_sec(9),
-  totalFrames: _08_targets_revelation_timing_TOTAL_FRAMES,
-  hook: {
-    in: _08_targets_revelation_timing_sec(2),
-    out: _08_targets_revelation_timing_sec(8),
-    eyebrow: "Building It for Real \xB7 08",
-    line1: "What do you",
-    line1Accent: "mean, targets?",
-    line2: "Twelve years in, one hire changed everything."
-  },
-  speaker: {
-    in: _08_targets_revelation_timing_sec(9),
-    out: _08_targets_revelation_timing_sec(18),
-    name: "Timilola Adetu",
-    credential: "BSc, ACII",
-    title: "Founder, SKLD Integrated Services"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "The COO",
-      title: "He set\nthe targets",
-      caption: "A consultant, a COO, and revenue doubled in two years.",
-      activeAt: _08_targets_revelation_timing_sec(28)
-    }
-  ],
-  quotes: [
-    {
-      in: _08_targets_revelation_timing_sec(30),
-      out: _08_targets_revelation_timing_sec(40),
-      text: "What do you mean, targets? We buy now and we sell.",
-      attribution: "Timilola Adetu"
-    }
-  ],
-  stats: [
-    {
-      in: _08_targets_revelation_timing_sec(19),
-      out: _08_targets_revelation_timing_sec(27),
-      value: "\u20A65.7M \u2192 \u20A6161M",
-      label: "revenue, built over twelve years"
-    }
-  ],
-  cutaways: [],
-  closing: {
-    in: _08_targets_revelation_timing_sec(40),
-    out: _08_targets_revelation_timing_TOTAL_FRAMES + _08_targets_revelation_timing_sec(2),
-    eyebrow: "Lesson 8",
-    title: "Let someone",
-    titleAccent: "raise the bar.",
-    subtitle: "Next: letting others expand the vision.",
-    chips: ["Building It for Real"]
-  }
-};
-
-;// ./src/theplatform/timilola-adetu-second-half-advantage/09-let-others-in/timing.ts
-
-const _09_let_others_in_timing_sec = (s) => Math.round(s * 30);
-const _09_let_others_in_timing_TOTAL_FRAMES = _09_let_others_in_timing_sec(62);
-const _09_let_others_in_timing_content = {
-  trackerTitle: "Scaling Beyond Yourself",
-  trackerIn: _09_let_others_in_timing_sec(9),
-  totalFrames: _09_let_others_in_timing_TOTAL_FRAMES,
-  hook: {
-    in: _09_let_others_in_timing_sec(2),
-    out: _09_let_others_in_timing_sec(8),
-    eyebrow: "Scaling Beyond Yourself \xB7 09",
-    line1: "Let others",
-    line1Accent: "into the vision.",
-    line2: "A growth mind accepts the ideas it did not think of."
-  },
-  speaker: {
-    in: _09_let_others_in_timing_sec(9),
-    out: _09_let_others_in_timing_sec(19),
-    name: "Timilola Adetu",
-    credential: "BSc, ACII",
-    title: "Founder, SKLD Integrated Services"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Accept ideas",
-      title: "Accept\nother ideas",
-      caption: "Without a growth mind, you cannot take what others offer.",
-      activeAt: _09_let_others_in_timing_sec(20)
-    },
-    {
-      n: 2,
-      short: "Expand it",
-      title: "Let them\nrun with it",
-      caption: "It was her vision; she let others expand it and run.",
-      activeAt: _09_let_others_in_timing_sec(40)
-    }
-  ],
-  quotes: [
-    {
-      in: _09_let_others_in_timing_sec(28),
-      out: _09_let_others_in_timing_sec(38),
-      text: "You have to let other people come into that vision.",
-      attribution: "Timilola Adetu"
-    }
-  ],
-  stats: [
-    {
-      in: _09_let_others_in_timing_sec(43),
-      out: _09_let_others_in_timing_sec(53),
-      value: "6.5x",
-      label: "revenue, after she let the team lead"
-    }
-  ],
-  cutaways: [],
-  closing: {
-    in: _09_let_others_in_timing_sec(55),
-    out: _09_let_others_in_timing_TOTAL_FRAMES + _09_let_others_in_timing_sec(2),
-    eyebrow: "Lesson 9",
-    title: "Share the",
-    titleAccent: "vision.",
-    subtitle: "Next: jobs, growth, and succession.",
-    chips: ["Scaling Beyond Yourself"]
-  }
-};
-
-;// ./src/theplatform/timilola-adetu-second-half-advantage/10-jobs-and-succession/timing.ts
-
-const _10_jobs_and_succession_timing_sec = (s) => Math.round(s * 30);
-const _10_jobs_and_succession_timing_TOTAL_FRAMES = _10_jobs_and_succession_timing_sec(43);
-const _10_jobs_and_succession_timing_content = {
-  trackerTitle: "Jobs and Succession",
-  trackerIn: _10_jobs_and_succession_timing_sec(9),
-  totalFrames: _10_jobs_and_succession_timing_TOTAL_FRAMES,
-  hook: {
-    in: _10_jobs_and_succession_timing_sec(2),
-    out: _10_jobs_and_succession_timing_sec(8),
-    eyebrow: "Scaling Beyond Yourself \xB7 10",
-    line1: "Two staff",
-    line1Accent: "to three hundred.",
-    line2: "Growth you can count, and a successor you can name."
-  },
-  speaker: {
-    in: _10_jobs_and_succession_timing_sec(9),
-    out: _10_jobs_and_succession_timing_sec(17),
-    name: "Timilola Adetu",
-    credential: "BSc, ACII",
-    title: "Founder, SKLD Integrated Services"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Succession",
-      title: "From COO\nto CEO",
-      caption: "The man she hired rose to lead the company she built.",
-      activeAt: _10_jobs_and_succession_timing_sec(28)
-    }
-  ],
-  quotes: [],
-  stats: [
-    {
-      in: _10_jobs_and_succession_timing_sec(18),
-      out: _10_jobs_and_succession_timing_sec(27),
-      value: "2 \u2192 310",
-      label: "staff, from 2000 to last year"
-    }
-  ],
-  cutaways: [],
-  closing: {
-    in: _10_jobs_and_succession_timing_sec(37),
-    out: _10_jobs_and_succession_timing_TOTAL_FRAMES + _10_jobs_and_succession_timing_sec(2),
-    eyebrow: "Lesson 10",
-    title: "Build past",
-    titleAccent: "yourself.",
-    subtitle: "Next: why it's not about age.",
-    chips: ["Scaling Beyond Yourself"]
-  }
-};
-
-;// ./src/theplatform/timilola-adetu-second-half-advantage/11-not-about-age/timing.ts
-
-const _11_not_about_age_timing_sec = (s) => Math.round(s * 30);
-const _11_not_about_age_timing_TOTAL_FRAMES = _11_not_about_age_timing_sec(70);
-const _11_not_about_age_timing_content = {
-  trackerTitle: "It's Not About Age",
-  trackerIn: _11_not_about_age_timing_sec(10),
-  totalFrames: _11_not_about_age_timing_TOTAL_FRAMES,
-  hook: {
-    in: _11_not_about_age_timing_sec(2),
-    out: _11_not_about_age_timing_sec(9),
-    eyebrow: "Scaling Beyond Yourself \xB7 11",
-    line1: "It's not",
-    line1Accent: "about age.",
-    line2: "A new brand, private equity, and a runway walk at sixty-five."
-  },
-  speaker: {
-    in: _11_not_about_age_timing_sec(10),
-    out: _11_not_about_age_timing_sec(20),
-    name: "Timilola Adetu",
-    credential: "BSc, ACII",
-    title: "Founder, SKLD Integrated Services"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "The brand",
-      title: "Her own\nuniform brand",
-      caption: "Marcelle Hughes, a family name turned flagship label.",
-      activeAt: _11_not_about_age_timing_sec(20)
-    },
-    {
-      n: 2,
-      short: "Big leagues",
-      title: "Private equity\nat sixty",
-      caption: "A more expansive mind took on outside investment.",
-      activeAt: _11_not_about_age_timing_sec(40)
-    },
-    {
-      n: 3,
-      short: "Still going",
-      title: "Still going\nstrong at 66",
-      caption: "Proof that the second half can be the boldest half.",
-      activeAt: _11_not_about_age_timing_sec(58)
-    }
-  ],
-  quotes: [
-    {
-      in: _11_not_about_age_timing_sec(30),
-      out: _11_not_about_age_timing_sec(40),
-      text: "It's not about age.",
-      attribution: "Timilola Adetu"
-    }
-  ],
-  stats: [],
-  cutaways: [],
-  closing: {
-    in: _11_not_about_age_timing_sec(63),
-    out: _11_not_about_age_timing_TOTAL_FRAMES + _11_not_about_age_timing_sec(2),
-    eyebrow: "Lesson 11",
-    title: "The boldest",
-    titleAccent: "half yet.",
-    subtitle: "Next: don't let them pigeonhole you.",
-    chips: ["Scaling Beyond Yourself"]
-  }
-};
-
-;// ./src/theplatform/timilola-adetu-second-half-advantage/12-dont-be-pigeonholed/timing.ts
-
-const _12_dont_be_pigeonholed_timing_sec = (s) => Math.round(s * 30);
-const _12_dont_be_pigeonholed_timing_TOTAL_FRAMES = _12_dont_be_pigeonholed_timing_sec(149);
-const _12_dont_be_pigeonholed_timing_content = {
-  trackerTitle: "The Charge",
-  trackerIn: _12_dont_be_pigeonholed_timing_sec(10),
-  totalFrames: _12_dont_be_pigeonholed_timing_TOTAL_FRAMES,
-  hook: {
-    in: _12_dont_be_pigeonholed_timing_sec(2),
-    out: _12_dont_be_pigeonholed_timing_sec(9),
-    eyebrow: "The Charge \xB7 12",
-    line1: "Don't be",
-    line1Accent: "pigeonholed.",
-    line2: "Build range, change yourself, and find your mentors."
-  },
-  speaker: {
-    in: _12_dont_be_pigeonholed_timing_sec(10),
-    out: _12_dont_be_pigeonholed_timing_sec(21),
-    name: "Timilola Adetu",
-    credential: "BSc, ACII",
-    title: "Founder, SKLD Integrated Services"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Range",
-      title: "Don't be\npigeonholed",
-      caption: "She moved across treasury, HR, planning, and insurance.",
-      activeAt: _12_dont_be_pigeonholed_timing_sec(24)
-    },
-    {
-      n: 2,
-      short: "Change you",
-      title: "Change\nyourself",
-      caption: "Fold it, scale it, or fix the trait that holds you back.",
-      activeAt: _12_dont_be_pigeonholed_timing_sec(58)
-    },
-    {
-      n: 3,
-      short: "Assertive",
-      title: "I made myself\nassertive",
-      caption: "Told she never would be, she read every book until she was.",
-      activeAt: _12_dont_be_pigeonholed_timing_sec(90)
-    },
-    {
-      n: 4,
-      short: "Mentors",
-      title: "Find your\nmentors",
-      caption: "No prize for secrecy; do the research, know your onions.",
-      activeAt: _12_dont_be_pigeonholed_timing_sec(120)
-    }
-  ],
-  quotes: [
-    {
-      in: _12_dont_be_pigeonholed_timing_sec(108),
-      out: _12_dont_be_pigeonholed_timing_sec(120),
-      text: "If you don't know your onions, get an expert that knows it.",
-      attribution: "Timilola Adetu"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "network",
-      start: _12_dont_be_pigeonholed_timing_sec(46),
-      dur: _12_dont_be_pigeonholed_timing_sec(7),
-      eyebrow: "Build range",
-      caption: "Move across departments, divisions, and whole industries."
-    }
-  ],
-  closing: {
-    in: _12_dont_be_pigeonholed_timing_sec(142),
-    out: _12_dont_be_pigeonholed_timing_TOTAL_FRAMES + _12_dont_be_pigeonholed_timing_sec(2),
-    eyebrow: "Lesson 12",
-    title: "Grow your",
-    titleAccent: "range.",
-    subtitle: "Next: passion, pace, and a third career.",
-    chips: ["The Charge"]
-  }
-};
-
-;// ./src/theplatform/timilola-adetu-second-half-advantage/13-passion-pace-empower/timing.ts
-
-const _13_passion_pace_empower_timing_sec = (s) => Math.round(s * 30);
-const _13_passion_pace_empower_timing_TOTAL_FRAMES = _13_passion_pace_empower_timing_sec(111);
-const _13_passion_pace_empower_timing_content = {
-  trackerTitle: "Passion, Pace, Legacy",
-  trackerIn: _13_passion_pace_empower_timing_sec(10),
-  totalFrames: _13_passion_pace_empower_timing_TOTAL_FRAMES,
-  hook: {
-    in: _13_passion_pace_empower_timing_sec(2),
-    out: _13_passion_pace_empower_timing_sec(9),
-    eyebrow: "The Charge \xB7 13",
-    line1: "It's never",
-    line1Accent: "too late.",
-    line2: "Passion to sustain you, a pace of your own, a team you empower."
-  },
-  speaker: {
-    in: _13_passion_pace_empower_timing_sec(10),
-    out: _13_passion_pace_empower_timing_sec(21),
-    name: "Timilola Adetu",
-    credential: "BSc, ACII",
-    title: "Founder, SKLD Integrated Services"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Passion",
-      title: "Passion\nsustains you",
-      caption: "Without it you tire of the work and walk away.",
-      activeAt: _13_passion_pace_empower_timing_sec(22)
-    },
-    {
-      n: 2,
-      short: "Your pace",
-      title: "Walk to your\nown clock",
-      caption: "Start small; don't work to another person's clock.",
-      activeAt: _13_passion_pace_empower_timing_sec(46)
-    },
-    {
-      n: 3,
-      short: "Empower",
-      title: "Empower them\nfor real",
-      caption: "Delegate, then truly hand over the power; don't snatch it back.",
-      activeAt: _13_passion_pace_empower_timing_sec(70)
-    },
-    {
-      n: 4,
-      short: "The charge",
-      title: "It's never\ntoo late",
-      caption: "A growth mind, open to possibility, now into a third career.",
-      activeAt: _13_passion_pace_empower_timing_sec(90)
-    }
-  ],
-  quotes: [
-    {
-      in: _13_passion_pace_empower_timing_sec(94),
-      out: _13_passion_pace_empower_timing_sec(103),
-      text: "It's never too late to start.",
-      attribution: "Timilola Adetu"
-    }
-  ],
-  stats: [
-    {
-      in: _13_passion_pace_empower_timing_sec(30),
-      out: _13_passion_pace_empower_timing_sec(40),
-      value: "40 \u2192 66",
-      label: "from her first leap to a thriving third act"
-    }
-  ],
-  cutaways: [],
-  closing: {
-    in: _13_passion_pace_empower_timing_sec(104),
-    out: _13_passion_pace_empower_timing_TOTAL_FRAMES + _13_passion_pace_empower_timing_sec(2),
-    eyebrow: "The finish",
-    title: "Now,",
-    titleAccent: "go for it.",
-    subtitle: "The Second Half Advantage with Timilola Adetu.",
-    chips: ["The Platform Nigeria"]
-  }
-};
-
-;// ./src/theplatform/timilola-adetu-second-half-advantage/registry.tsx
+;// ./src/instincthub/_shared/LogoBug.tsx
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-const timilola_adetu_second_half_advantage_registry_make = (content) => ({ videoSrc, logoSrc }) => /* @__PURE__ */ (0,jsx_runtime.jsx)(Talk_Talk, { videoSrc, logoSrc, content, showLogo: false });
-const timilola_adetu_second_half_advantage_registry_KEY_PREFIX = "instincthub/uploads/timilola-adetu-second-half-advantage";
-const timilola_adetu_second_half_advantage_registry_ROWS = [
-  { slug: "01-eighteen-month-question", module: 1, lesson: 1, title: "The 18-month question, and that young lady is me", mod: _01_eighteen_month_question_timing_namespaceObject },
-  { slug: "02-what-tipped-the-decision", module: 1, lesson: 2, title: "Timilola at 40: what tipped the decision", mod: _02_what_tipped_the_decision_timing_namespaceObject },
-  { slug: "03-your-reflections", module: 1, lesson: 3, title: "Your reflections: the signals of change", mod: _03_your_reflections_timing_namespaceObject },
-  { slug: "04-mindset-decides-response", module: 2, lesson: 4, title: "Change is constant; mindset decides your response", mod: _04_mindset_decides_response_timing_namespaceObject },
-  { slug: "05-growth-vs-fixed", module: 2, lesson: 5, title: "Growth vs fixed mindset; respond without regret", mod: _05_growth_vs_fixed_timing_namespaceObject },
-  { slug: "06-vi-to-onikan", module: 3, lesson: 6, title: "From VI to Onikan: the leap and the reality", mod: _06_vi_to_onikan_timing_namespaceObject },
-  { slug: "07-corporate-discipline", module: 3, lesson: 7, title: "Corporate discipline; roll up your sleeves", mod: _07_corporate_discipline_timing_namespaceObject },
-  { slug: "08-targets-revelation", module: 3, lesson: 8, title: "The targets revelation: bringing in a COO", mod: _08_targets_revelation_timing_namespaceObject },
-  { slug: "09-let-others-in", module: 4, lesson: 9, title: "Let others into your vision", mod: _09_let_others_in_timing_namespaceObject },
-  { slug: "10-jobs-and-succession", module: 4, lesson: 10, title: "Jobs and succession: 2 to 310, COO to CEO", mod: _10_jobs_and_succession_timing_namespaceObject },
-  { slug: "11-not-about-age", module: 4, lesson: 11, title: "It's not about age: brand, equity, never too late", mod: _11_not_about_age_timing_namespaceObject },
-  { slug: "12-dont-be-pigeonholed", module: 5, lesson: 12, title: "Don't be pigeonholed; change yourself, find mentors", mod: _12_dont_be_pigeonholed_timing_namespaceObject },
-  { slug: "13-passion-pace-empower", module: 5, lesson: 13, title: "Passion, pace, empower your team, and the third career", mod: _13_passion_pace_empower_timing_namespaceObject }
-];
-const TIMILOLA_LESSONS = timilola_adetu_second_half_advantage_registry_ROWS.map((r) => ({
-  id: `tl-${r.slug}`,
-  module: r.module,
-  lesson: r.lesson,
-  title: r.title,
-  videoSrc: `tp-tl-${r.slug}.mp4`,
-  videoKey: `${timilola_adetu_second_half_advantage_registry_KEY_PREFIX}/m${r.module}-l${r.lesson}-${r.slug.replace(/^\d+-/, "")}.mp4`,
-  totalFrames: r.mod.TOTAL_FRAMES,
-  component: timilola_adetu_second_half_advantage_registry_make(r.mod.content)
-}));
-
-;// ./src/theplatform/timilola-adetu-second-half-advantage/Thumbnail.tsx
-
-
-
-
-
-
-const timilola_adetu_second_half_advantage_Thumbnail_Thumbnail = ({
-  portraitSrc = "tp-tl-timilola-portrait.jpg"
-}) => {
-  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { backgroundColor: theplatform_shared_colors_colors.yellow, fontFamily: overpass }, children: [
-    /* @__PURE__ */ (0,jsx_runtime.jsx)(
-      esm.AbsoluteFill,
-      {
-        style: {
-          backgroundImage: `radial-gradient(${theplatform_shared_colors_colors.ink}1A 3px, transparent 3px)`,
-          backgroundSize: "54px 54px",
-          opacity: 0.5
-        }
-      }
-    ),
-    /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { position: "absolute", top: 70, right: 600, opacity: 0.16, transform: "rotate(8deg)" }, children: /* @__PURE__ */ (0,jsx_runtime.jsx)(Bulb, { size: 190, stroke: theplatform_shared_colors_colors.ink, spark: theplatform_shared_colors_colors.ink, lit: 0, strokeWidth: 6 }) }),
-    /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+const _shared_LogoBug_LogoBug = ({ logoSrc }) => {
+  const frame = (0,esm.useCurrentFrame)();
+  const appear = (0,esm.interpolate)(frame, [8, 22], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp"
+  });
+  const chip = {
+    position: "absolute",
+    top: 48,
+    right: 64,
+    opacity: appear,
+    transform: `translateY(${(0,esm.interpolate)(appear, [0, 1], [-14, 0])}px)`,
+    display: "flex",
+    alignItems: "center"
+  };
+  if (logoSrc) {
+    return /* @__PURE__ */ (0,jsx_runtime.jsx)(
       "div",
       {
         style: {
-          position: "absolute",
-          top: 0,
-          left: 0,
-          right: 0,
-          height: 104,
-          background: theplatform_shared_colors_colors.ink,
-          display: "flex",
-          alignItems: "center",
-          gap: 18,
-          padding: "0 70px"
-        },
-        children: [
-          /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { fontWeight: 800, fontSize: 32, letterSpacing: 4, color: theplatform_shared_colors_colors.white, textTransform: "uppercase" }, children: "She left at forty." }),
-          /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { fontWeight: 800, fontSize: 32, letterSpacing: 4, color: theplatform_shared_colors_colors.yellow, textTransform: "uppercase" }, children: "It's never too late." })
-        ]
-      }
-    ),
-    /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { position: "absolute", left: 90, top: 184, width: 1090 }, children: [
-      /* @__PURE__ */ (0,jsx_runtime.jsx)(
-        "span",
-        {
-          style: {
-            display: "inline-block",
-            fontWeight: 800,
-            fontSize: 29,
-            letterSpacing: 6,
-            textTransform: "uppercase",
-            color: theplatform_shared_colors_colors.ink,
-            background: `${theplatform_shared_colors_colors.ink}14`,
-            padding: "12px 26px",
-            borderRadius: 999,
-            border: `2px solid ${theplatform_shared_colors_colors.ink}3D`
-          },
-          children: "The Platform Nigeria \xB7 Keynote"
-        }
-      ),
-      /* @__PURE__ */ (0,jsx_runtime.jsxs)(
-        "div",
-        {
-          style: {
-            marginTop: 30,
-            fontWeight: 900,
-            fontSize: 104,
-            lineHeight: 0.94,
-            letterSpacing: -3,
-            color: theplatform_shared_colors_colors.ink
-          },
-          children: [
-            "The Second",
-            /* @__PURE__ */ (0,jsx_runtime.jsx)("br", {}),
-            "Half",
-            /* @__PURE__ */ (0,jsx_runtime.jsx)("br", {}),
-            "Advantage"
-          ]
-        }
-      ),
-      /* @__PURE__ */ (0,jsx_runtime.jsx)(
-        "div",
-        {
-          style: {
-            marginTop: 28,
-            display: "inline-block",
-            fontWeight: 900,
-            fontSize: 46,
-            letterSpacing: -0.5,
-            color: theplatform_shared_colors_colors.yellow,
-            background: theplatform_shared_colors_colors.ink,
-            padding: "12px 28px",
-            borderRadius: 14
-          },
-          children: "Transition \xB7 Impact \xB7 Legacy"
-        }
-      )
-    ] }),
-    /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { position: "absolute", left: 96, bottom: 74, display: "flex", alignItems: "center", gap: 22 }, children: [
-      /* @__PURE__ */ (0,jsx_runtime.jsx)(Bulb, { size: 64, stroke: theplatform_shared_colors_colors.ink, spark: theplatform_shared_colors_colors.ink, lit: 0, strokeWidth: 5 }),
-      /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { children: [
-        /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { fontWeight: 900, fontSize: 48, letterSpacing: -1.5, color: theplatform_shared_colors_colors.ink, lineHeight: 1 }, children: "Timilola Adetu" }),
-        /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { fontWeight: 600, fontSize: 29, color: theplatform_shared_colors_colors.ink, opacity: 0.78, marginTop: 6 }, children: "Founder, SKLD Integrated Services" })
-      ] })
-    ] }),
-    /* @__PURE__ */ (0,jsx_runtime.jsx)(
-      "div",
-      {
-        style: {
-          position: "absolute",
-          right: 80,
-          top: 168,
-          width: 700,
-          height: 770,
-          borderRadius: 40,
-          border: `12px solid ${theplatform_shared_colors_colors.ink}`,
-          overflow: "hidden",
-          background: theplatform_shared_colors_colors.ink,
-          boxShadow: `0 40px 90px -28px ${theplatform_shared_colors_colors.ink}99`
+          ...chip,
+          padding: "14px 22px",
+          borderRadius: 14,
+          background: `${instincthub_shared_colors_colors.white}F2`,
+          boxShadow: `0 14px 36px -18px rgba(0,0,0,0.65)`,
+          border: `1px solid ${instincthub_shared_colors_colors.white}`
         },
         children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
           esm.Img,
           {
-            src: (0,esm.staticFile)(portraitSrc),
-            alt: "Timilola Adetu",
-            style: { width: "100%", height: "100%", objectFit: "cover", objectPosition: "52% 4%" }
+            src: (0,esm.staticFile)(logoSrc),
+            alt: "InstinctHub",
+            style: { height: 46, width: "auto", display: "block" }
           }
         )
       }
+    );
+  }
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+    "div",
+    {
+      style: {
+        ...chip,
+        gap: 14,
+        padding: "12px 22px 12px 16px",
+        borderRadius: 14,
+        background: `${instincthub_shared_colors_colors.gunmetal}F2`,
+        boxShadow: `0 16px 40px -18px rgba(0,0,0,0.7)`,
+        border: `1.5px solid ${instincthub_shared_colors_colors.cyan}59`
+      },
+      children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(Cap, { size: 40, stroke: instincthub_shared_colors_colors.white, accent: instincthub_shared_colors_colors.tiffany, strokeWidth: 4 }),
+        /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { display: "flex", alignItems: "baseline", lineHeight: 1 }, children: [
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "span",
+            {
+              style: {
+                fontFamily: montserrat,
+                fontWeight: 800,
+                fontSize: 24,
+                color: instincthub_shared_colors_colors.white,
+                letterSpacing: -0.5
+              },
+              children: "instinct"
+            }
+          ),
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "span",
+            {
+              style: {
+                fontFamily: _shared_fonts_nunito,
+                fontWeight: 600,
+                fontSize: 24,
+                color: instincthub_shared_colors_colors.tiffany,
+                letterSpacing: -0.5
+              },
+              children: "hub"
+            }
+          )
+        ] })
+      ]
+    }
+  );
+};
+
+;// ./src/instincthub/_shared/theme.ts
+
+
+const theme_panel = {
+  background: `${instincthub_shared_colors_colors.gunmetal}F0`,
+  border: `1.5px solid ${instincthub_shared_colors_colors.cyan}59`,
+  borderRadius: 24,
+  boxShadow: `0 28px 70px -24px rgba(0,0,0,0.75), 0 0 0 6px ${instincthub_shared_colors_colors.gunmetal}40`
+};
+const cyanShadow = `0 18px 44px -12px ${instincthub_shared_colors_colors.cyan}66, 0 0 0 5px ${instincthub_shared_colors_colors.tiffany}26`;
+const theme_ENTER_SPRING = { damping: 21, stiffness: 84 };
+const theme_CHILD_SPRING = { damping: 24, stiffness: 92 };
+const theme_MARGIN = { side: 80, top: 150, bottom: 150 };
+
+;// ./src/instincthub/_shared/HookOverlay.tsx
+
+
+
+
+
+
+const instincthub_shared_HookOverlay_HookOverlay = ({ data }) => {
+  const frame = (0,esm.useCurrentFrame)();
+  const { fps } = (0,esm.useVideoConfig)();
+  const local = frame - data.in;
+  const span = data.out - data.in;
+  if (local < 0 || local > span + 22) return null;
+  const enter = (0,esm.spring)({ frame: local, fps, config: theme_ENTER_SPRING });
+  const line2 = (0,esm.spring)({ frame: local - 16, fps, config: theme_CHILD_SPRING });
+  const exit = (0,esm.interpolate)(local, [span, span + 20], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+    easing: esm.Easing.in(esm.Easing.cubic)
+  });
+  const appear = enter * (1 - exit);
+  return /* @__PURE__ */ (0,jsx_runtime.jsx)(
+    "div",
+    {
+      style: {
+        position: "absolute",
+        left: 80,
+        bottom: 230,
+        maxWidth: 1180,
+        opacity: appear,
+        transform: `translateY(${(0,esm.interpolate)(appear, [0, 1], [40, 0])}px)`
+      },
+      children: /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { display: "inline-block", padding: "30px 46px 36px", ...theme_panel }, children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          "div",
+          {
+            style: {
+              fontFamily: montserrat,
+              fontSize: 19,
+              fontWeight: 700,
+              letterSpacing: 4,
+              color: instincthub_shared_colors_colors.tiffany,
+              textTransform: "uppercase",
+              marginBottom: 16
+            },
+            children: data.eyebrow
+          }
+        ),
+        /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+          "div",
+          {
+            style: {
+              fontFamily: montserrat,
+              fontWeight: 800,
+              fontSize: 76,
+              lineHeight: 1.06,
+              color: instincthub_shared_colors_colors.white,
+              letterSpacing: fonts_DISPLAY_TRACKING
+            },
+            children: [
+              data.line1,
+              data.line1Accent ? /* @__PURE__ */ (0,jsx_runtime.jsxs)("span", { style: { color: instincthub_shared_colors_colors.tiffany }, children: [
+                " ",
+                data.line1Accent
+              ] }) : null
+            ]
+          }
+        ),
+        data.line2 ? /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          "div",
+          {
+            style: {
+              fontFamily: _shared_fonts_nunito,
+              fontWeight: 400,
+              fontSize: 32,
+              color: instincthub_shared_colors_colors.textDim,
+              marginTop: 16,
+              opacity: line2,
+              transform: `translateY(${(0,esm.interpolate)(line2, [0, 1], [16, 0])}px)`
+            },
+            children: data.line2
+          }
+        ) : null
+      ] })
+    }
+  );
+};
+
+;// ./src/instincthub/_shared/InstructorLowerThird.tsx
+
+
+
+
+
+
+const InstructorLowerThird_InstructorLowerThird = ({
+  data
+}) => {
+  const frame = (0,esm.useCurrentFrame)();
+  const { fps } = (0,esm.useVideoConfig)();
+  const local = frame - data.in;
+  const span = data.out - data.in;
+  if (local < 0 || local > span + 22) return null;
+  const enter = (0,esm.spring)({ frame: local, fps, config: theme_ENTER_SPRING });
+  const titleP = (0,esm.spring)({ frame: local - 12, fps, config: theme_CHILD_SPRING });
+  const exit = (0,esm.interpolate)(local, [span, span + 20], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+    easing: esm.Easing.in(esm.Easing.cubic)
+  });
+  const appear = enter * (1 - exit);
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+    "div",
+    {
+      style: {
+        position: "absolute",
+        left: 80,
+        bottom: 150,
+        opacity: appear,
+        transform: `translateX(${(0,esm.interpolate)(appear, [0, 1], [-50, 0])}px)`,
+        display: "flex",
+        alignItems: "stretch",
+        borderRadius: 18,
+        overflow: "hidden",
+        background: theme_panel.background,
+        border: theme_panel.border,
+        boxShadow: theme_panel.boxShadow
+      },
+      children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { width: 10, background: instincthub_shared_colors_colors.cyan, flexShrink: 0 } }),
+        /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { padding: "26px 40px 28px 34px" }, children: [
+          /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { display: "flex", alignItems: "baseline", gap: 16 }, children: [
+            /* @__PURE__ */ (0,jsx_runtime.jsx)(
+              "div",
+              {
+                style: {
+                  fontFamily: montserrat,
+                  fontWeight: 800,
+                  fontSize: 54,
+                  lineHeight: 1,
+                  color: instincthub_shared_colors_colors.white,
+                  letterSpacing: -1
+                },
+                children: data.name
+              }
+            ),
+            data.credential ? /* @__PURE__ */ (0,jsx_runtime.jsx)(
+              "div",
+              {
+                style: {
+                  fontFamily: montserrat,
+                  fontWeight: 700,
+                  fontSize: 28,
+                  color: instincthub_shared_colors_colors.tiffany,
+                  letterSpacing: 0.5
+                },
+                children: data.credential
+              }
+            ) : null
+          ] }),
+          /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+            "div",
+            {
+              style: {
+                marginTop: 12,
+                display: "flex",
+                alignItems: "center",
+                gap: 16,
+                opacity: titleP,
+                transform: `translateY(${(0,esm.interpolate)(titleP, [0, 1], [12, 0])}px)`
+              },
+              children: [
+                /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { width: 40, height: 3, borderRadius: 999, background: instincthub_shared_colors_colors.cyan } }),
+                /* @__PURE__ */ (0,jsx_runtime.jsx)(
+                  "div",
+                  {
+                    style: {
+                      fontFamily: _shared_fonts_nunito,
+                      fontWeight: 500,
+                      fontSize: 30,
+                      color: instincthub_shared_colors_colors.textDim
+                    },
+                    children: data.title
+                  }
+                )
+              ]
+            }
+          )
+        ] })
+      ]
+    }
+  );
+};
+
+;// ./src/instincthub/_shared/OutlineReveal.tsx
+
+
+
+
+
+
+const _shared_OutlineReveal_OutlineReveal = ({ data }) => {
+  const frame = (0,esm.useCurrentFrame)();
+  const { fps } = (0,esm.useVideoConfig)();
+  const local = frame - data.in;
+  const span = data.out - data.in;
+  if (local < 0 || local > span + 24) return null;
+  const enter = (0,esm.spring)({ frame: local, fps, config: theme_ENTER_SPRING });
+  const exit = (0,esm.interpolate)(local, [span, span + 22], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+    easing: esm.Easing.in(esm.Easing.cubic)
+  });
+  const appear = enter * (1 - exit);
+  return /* @__PURE__ */ (0,jsx_runtime.jsx)(
+    "div",
+    {
+      style: {
+        position: "absolute",
+        left: 80,
+        top: 232,
+        width: 900,
+        opacity: appear,
+        transform: `translateX(${(0,esm.interpolate)(appear, [0, 1], [-60, 0])}px)`
+      },
+      children: /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { padding: "40px 48px 44px", ...theme_panel }, children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          "div",
+          {
+            style: {
+              fontFamily: montserrat,
+              fontSize: 19,
+              fontWeight: 700,
+              letterSpacing: 4,
+              color: instincthub_shared_colors_colors.tiffany,
+              textTransform: "uppercase",
+              marginBottom: 26
+            },
+            children: data.title
+          }
+        ),
+        /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { display: "flex", flexDirection: "column", gap: 20 }, children: data.items.map((item, i) => {
+          const itemP = (0,esm.spring)({
+            frame: local - 10 - i * 7,
+            fps,
+            config: theme_CHILD_SPRING
+          });
+          return /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+            "div",
+            {
+              style: {
+                display: "flex",
+                alignItems: "center",
+                gap: 22,
+                opacity: itemP,
+                transform: `translateX(${(0,esm.interpolate)(itemP, [0, 1], [-20, 0])}px)`
+              },
+              children: [
+                /* @__PURE__ */ (0,jsx_runtime.jsx)(
+                  "div",
+                  {
+                    style: {
+                      flexShrink: 0,
+                      width: 48,
+                      height: 48,
+                      borderRadius: 12,
+                      background: instincthub_shared_colors_colors.cyan,
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                      fontFamily: montserrat,
+                      fontWeight: 800,
+                      fontSize: 24,
+                      color: instincthub_shared_colors_colors.white
+                    },
+                    children: i + 1
+                  }
+                ),
+                /* @__PURE__ */ (0,jsx_runtime.jsx)(
+                  "div",
+                  {
+                    style: {
+                      fontFamily: _shared_fonts_nunito,
+                      fontWeight: 600,
+                      fontSize: 34,
+                      color: instincthub_shared_colors_colors.white,
+                      lineHeight: 1.2
+                    },
+                    children: item
+                  }
+                )
+              ]
+            },
+            i
+          );
+        }) })
+      ] })
+    }
+  );
+};
+
+;// ./src/instincthub/_shared/SectionReveal.tsx
+
+
+
+
+
+
+const _shared_SectionReveal_HOLD = 195;
+const SectionReveal_SectionReveal = ({ data, total }) => {
+  const frame = (0,esm.useCurrentFrame)();
+  const { fps } = (0,esm.useVideoConfig)();
+  if (data.noReveal) return null;
+  const local = frame - data.activeAt;
+  if (local < -2 || local > _shared_SectionReveal_HOLD + 26) return null;
+  const enter = (0,esm.spring)({ frame: local, fps, config: theme_ENTER_SPRING });
+  const exit = (0,esm.interpolate)(local, [_shared_SectionReveal_HOLD, _shared_SectionReveal_HOLD + 22], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+    easing: esm.Easing.in(esm.Easing.cubic)
+  });
+  const titleP = (0,esm.spring)({ frame: local - 10, fps, config: theme_CHILD_SPRING });
+  const capP = (0,esm.spring)({ frame: local - 20, fps, config: theme_CHILD_SPRING });
+  const appear = enter * (1 - exit);
+  const slideX = (0,esm.interpolate)(enter, [0, 1], [-70, 0]) + exit * -50;
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+    "div",
+    {
+      style: {
+        position: "absolute",
+        left: 80,
+        top: 250,
+        width: 760,
+        opacity: appear,
+        transform: `translateX(${slideX}px) scale(${(0,esm.interpolate)(appear, [0, 1], [0.96, 1])})`
+      },
+      children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          "div",
+          {
+            style: {
+              position: "absolute",
+              top: -96,
+              left: -8,
+              fontFamily: montserrat,
+              fontWeight: 900,
+              fontSize: 240,
+              lineHeight: 1,
+              color: instincthub_shared_colors_colors.tiffany,
+              opacity: 0.2 * appear,
+              letterSpacing: fonts_DISPLAY_TRACKING,
+              userSelect: "none"
+            },
+            children: String(data.n).padStart(2, "0")
+          }
+        ),
+        /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+          "div",
+          {
+            style: {
+              position: "relative",
+              padding: "40px 46px 44px",
+              display: "flex",
+              flexDirection: "column",
+              gap: 22,
+              ...theme_panel,
+              borderRadius: 26
+            },
+            children: [
+              /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+                "div",
+                {
+                  style: {
+                    alignSelf: "flex-start",
+                    fontFamily: montserrat,
+                    fontSize: 18,
+                    fontWeight: 700,
+                    letterSpacing: 3,
+                    color: instincthub_shared_colors_colors.tiffany,
+                    padding: "8px 18px",
+                    borderRadius: 999,
+                    border: `1.5px solid ${instincthub_shared_colors_colors.cyan}66`,
+                    background: `${instincthub_shared_colors_colors.cyan}26`,
+                    textTransform: "uppercase"
+                  },
+                  children: [
+                    "Section ",
+                    data.n,
+                    " of ",
+                    total
+                  ]
+                }
+              ),
+              /* @__PURE__ */ (0,jsx_runtime.jsx)(
+                "div",
+                {
+                  style: {
+                    fontFamily: montserrat,
+                    fontWeight: 800,
+                    fontSize: 58,
+                    lineHeight: 1.08,
+                    color: instincthub_shared_colors_colors.white,
+                    letterSpacing: fonts_DISPLAY_TRACKING,
+                    whiteSpace: "pre-line",
+                    opacity: titleP,
+                    transform: `translateY(${(0,esm.interpolate)(titleP, [0, 1], [18, 0])}px)`
+                  },
+                  children: data.title
+                }
+              ),
+              /* @__PURE__ */ (0,jsx_runtime.jsx)(
+                "div",
+                {
+                  style: {
+                    fontFamily: _shared_fonts_nunito,
+                    fontWeight: 400,
+                    fontSize: 29,
+                    lineHeight: 1.42,
+                    color: instincthub_shared_colors_colors.textDim,
+                    opacity: capP,
+                    transform: `translateY(${(0,esm.interpolate)(capP, [0, 1], [14, 0])}px)`,
+                    borderLeft: `3px solid ${instincthub_shared_colors_colors.cyan}`,
+                    paddingLeft: 20
+                  },
+                  children: data.caption
+                }
+              )
+            ]
+          }
+        )
+      ]
+    }
+  );
+};
+
+;// ./src/instincthub/_shared/SectionTracker.tsx
+
+
+
+
+
+
+const _shared_SectionTracker_Check = ({ color }) => /* @__PURE__ */ (0,jsx_runtime.jsx)("svg", { width: "22", height: "22", viewBox: "0 0 24 24", children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
+  "path",
+  {
+    d: "M5 13 l4 4 L19 7",
+    fill: "none",
+    stroke: color,
+    strokeWidth: 3,
+    strokeLinecap: "round",
+    strokeLinejoin: "round"
+  }
+) });
+const SectionTracker_stateAt = (sections, i, frame, fadeAt) => {
+  var _a;
+  const start = sections[i].activeAt;
+  const next = ((_a = sections[i + 1]) == null ? void 0 : _a.activeAt) ?? fadeAt;
+  if (frame < start) return "upcoming";
+  if (frame < next) return "active";
+  return "done";
+};
+const _shared_SectionTracker_TrackerCard = ({ section, state, enter }) => {
+  const isActive = state === "active";
+  const isDone = state === "done";
+  const panelBg = isActive ? `${instincthub_shared_colors_colors.gunmetal}F2` : isDone ? `${instincthub_shared_colors_colors.gunmetal}C7` : `${instincthub_shared_colors_colors.gunmetal}9E`;
+  const borderColor = isActive ? instincthub_shared_colors_colors.cyan : isDone ? `${instincthub_shared_colors_colors.cyan}4D` : `${instincthub_shared_colors_colors.textMuted}40`;
+  const labelColor = isActive ? instincthub_shared_colors_colors.white : isDone ? instincthub_shared_colors_colors.textDim : instincthub_shared_colors_colors.textMuted;
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+    "div",
+    {
+      style: {
+        position: "relative",
+        display: "flex",
+        alignItems: "center",
+        gap: 18,
+        padding: "16px 22px",
+        borderRadius: 16,
+        background: panelBg,
+        border: `1.5px solid ${borderColor}`,
+        boxShadow: isActive ? cyanShadow : "0 10px 24px -16px rgba(0,0,0,0.6)",
+        transform: `translateX(${(0,esm.interpolate)(enter, [0, 1], [60, 0])}px) scale(${isActive ? 1.04 : 1})`,
+        opacity: enter
+      },
+      children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          "div",
+          {
+            style: {
+              flexShrink: 0,
+              width: 46,
+              height: 46,
+              borderRadius: 999,
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+              background: isActive ? instincthub_shared_colors_colors.cyan : isDone ? `${instincthub_shared_colors_colors.green}26` : `${instincthub_shared_colors_colors.textMuted}33`,
+              fontFamily: montserrat,
+              fontSize: 20,
+              fontWeight: 800,
+              color: isActive ? instincthub_shared_colors_colors.white : labelColor
+            },
+            children: isDone ? /* @__PURE__ */ (0,jsx_runtime.jsx)(_shared_SectionTracker_Check, { color: instincthub_shared_colors_colors.green }) : String(section.n).padStart(2, "0")
+          }
+        ),
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          "div",
+          {
+            style: {
+              fontFamily: _shared_fonts_nunito,
+              fontSize: 25,
+              fontWeight: isActive ? 700 : 600,
+              color: labelColor,
+              lineHeight: 1.12,
+              flex: 1
+            },
+            children: section.short
+          }
+        )
+      ]
+    }
+  );
+};
+const SectionTracker_SectionTracker = ({ title, sections, trackerIn, fadeAt }) => {
+  const frame = (0,esm.useCurrentFrame)();
+  const { fps } = (0,esm.useVideoConfig)();
+  const localFrame = frame - trackerIn;
+  if (localFrame < 0) return null;
+  const railEnter = (0,esm.spring)({ frame: localFrame, fps, config: { damping: 20, stiffness: 80 } });
+  const activeIndex = sections.reduce(
+    (acc, _s, i) => SectionTracker_stateAt(sections, i, frame, fadeAt) === "active" ? i : acc,
+    -1
+  );
+  const doneCount = sections.filter(
+    (_s, i) => SectionTracker_stateAt(sections, i, frame, fadeAt) === "done"
+  ).length;
+  const counter = Math.max(activeIndex + 1, doneCount);
+  const fadeOut = (0,esm.interpolate)(frame, [fadeAt, fadeAt + 24], [1, 0], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+    easing: esm.Easing.in(esm.Easing.cubic)
+  });
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+    "div",
+    {
+      style: {
+        position: "absolute",
+        top: 150,
+        bottom: 150,
+        right: 64,
+        width: 408,
+        display: "flex",
+        flexDirection: "column",
+        justifyContent: "center",
+        gap: 12,
+        opacity: fadeOut,
+        transform: `translateX(${(0,esm.interpolate)(fadeOut, [0, 1], [40, 0])}px)`
+      },
+      children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+          "div",
+          {
+            style: {
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "space-between",
+              marginBottom: 6,
+              transform: `translateX(${(0,esm.interpolate)(railEnter, [0, 1], [60, 0])}px)`,
+              opacity: railEnter
+            },
+            children: [
+              /* @__PURE__ */ (0,jsx_runtime.jsx)(
+                "div",
+                {
+                  style: {
+                    fontFamily: montserrat,
+                    fontSize: 18,
+                    fontWeight: 700,
+                    letterSpacing: 3,
+                    color: instincthub_shared_colors_colors.tiffany,
+                    textTransform: "uppercase"
+                  },
+                  children: title
+                }
+              ),
+              /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+                "div",
+                {
+                  style: {
+                    fontFamily: montserrat,
+                    fontSize: 18,
+                    fontWeight: 700,
+                    color: instincthub_shared_colors_colors.textDim
+                  },
+                  children: [
+                    String(counter).padStart(2, "0"),
+                    " / ",
+                    String(sections.length).padStart(2, "0")
+                  ]
+                }
+              )
+            ]
+          }
+        ),
+        sections.map((s, i) => {
+          const cardEnter = (0,esm.spring)({
+            frame: localFrame - i * 5,
+            fps,
+            config: { damping: 20, stiffness: 80 }
+          });
+          return /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            _shared_SectionTracker_TrackerCard,
+            {
+              section: s,
+              state: SectionTracker_stateAt(sections, i, frame, fadeAt),
+              enter: cardEnter
+            },
+            i
+          );
+        })
+      ]
+    }
+  );
+};
+
+;// ./src/instincthub/_shared/QuoteOverlay.tsx
+
+
+
+
+
+
+const _shared_QuoteOverlay_QuoteOverlay = ({ data }) => {
+  const frame = (0,esm.useCurrentFrame)();
+  const { fps } = (0,esm.useVideoConfig)();
+  const local = frame - data.in;
+  const span = data.out - data.in;
+  if (local < 0 || local > span + 24) return null;
+  const enter = (0,esm.spring)({ frame: local, fps, config: theme_ENTER_SPRING });
+  const attrP = (0,esm.spring)({ frame: local - 16, fps, config: theme_CHILD_SPRING });
+  const exit = (0,esm.interpolate)(local, [span, span + 22], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+    easing: esm.Easing.in(esm.Easing.cubic)
+  });
+  const appear = enter * (1 - exit);
+  return /* @__PURE__ */ (0,jsx_runtime.jsx)(
+    "div",
+    {
+      style: {
+        position: "absolute",
+        left: 80,
+        bottom: 200,
+        width: 1040,
+        opacity: appear,
+        transform: `translateY(${(0,esm.interpolate)(appear, [0, 1], [40, 0])}px)`
+      },
+      children: /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { position: "relative", padding: "40px 48px 40px 52px", ...theme_panel, borderRadius: 26 }, children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          "div",
+          {
+            style: {
+              position: "absolute",
+              top: 2,
+              left: 28,
+              fontFamily: montserrat,
+              fontWeight: 900,
+              fontSize: 128,
+              lineHeight: 1,
+              color: instincthub_shared_colors_colors.tiffany,
+              userSelect: "none"
+            },
+            children: "\u201C"
+          }
+        ),
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          "div",
+          {
+            style: {
+              fontFamily: _shared_fonts_nunito,
+              fontWeight: 600,
+              fontSize: 40,
+              lineHeight: 1.3,
+              color: instincthub_shared_colors_colors.white,
+              paddingLeft: 72,
+              paddingTop: 20,
+              letterSpacing: -0.5
+            },
+            children: data.text
+          }
+        ),
+        /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+          "div",
+          {
+            style: {
+              marginTop: 22,
+              paddingLeft: 72,
+              display: "flex",
+              alignItems: "center",
+              gap: 16,
+              opacity: attrP,
+              transform: `translateY(${(0,esm.interpolate)(attrP, [0, 1], [12, 0])}px)`
+            },
+            children: [
+              /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { width: 44, height: 3, borderRadius: 999, background: instincthub_shared_colors_colors.cyan } }),
+              /* @__PURE__ */ (0,jsx_runtime.jsx)(
+                "div",
+                {
+                  style: {
+                    fontFamily: montserrat,
+                    fontWeight: 700,
+                    fontSize: 25,
+                    letterSpacing: 1,
+                    color: instincthub_shared_colors_colors.tiffany,
+                    textTransform: "uppercase"
+                  },
+                  children: data.attribution
+                }
+              )
+            ]
+          }
+        )
+      ] })
+    }
+  );
+};
+
+;// ./src/instincthub/_shared/StatCallout.tsx
+
+
+
+
+
+
+const instincthub_shared_StatCallout_StatCallout = ({ data }) => {
+  const frame = (0,esm.useCurrentFrame)();
+  const { fps } = (0,esm.useVideoConfig)();
+  const local = frame - data.in;
+  const span = data.out - data.in;
+  if (local < 0 || local > span + 22) return null;
+  const enter = (0,esm.spring)({ frame: local, fps, config: theme_ENTER_SPRING });
+  const exit = (0,esm.interpolate)(local, [span, span + 20], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+    easing: esm.Easing.in(esm.Easing.cubic)
+  });
+  const appear = enter * (1 - exit);
+  const counted = (0,esm.interpolate)(local, [6, 40], [0, data.count ?? 0], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+    easing: esm.Easing.out(esm.Easing.cubic)
+  });
+  const withCommas = (n) => Math.round(n).toLocaleString("en-US");
+  const figure = data.count != null ? `${data.prefix ?? ""}${withCommas(counted)}${data.suffix ?? ""}` : data.value;
+  return /* @__PURE__ */ (0,jsx_runtime.jsx)(
+    "div",
+    {
+      style: {
+        position: "absolute",
+        left: 80,
+        bottom: 220,
+        width: 800,
+        opacity: appear,
+        transform: `translateY(${(0,esm.interpolate)(appear, [0, 1], [40, 0])}px)`
+      },
+      children: /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+        "div",
+        {
+          style: {
+            padding: "34px 44px",
+            display: "flex",
+            alignItems: "center",
+            gap: 34,
+            ...theme_panel,
+            borderRadius: 26
+          },
+          children: [
+            /* @__PURE__ */ (0,jsx_runtime.jsx)(
+              "div",
+              {
+                style: {
+                  fontFamily: montserrat,
+                  fontWeight: 900,
+                  fontSize: 112,
+                  lineHeight: 1,
+                  letterSpacing: fonts_DISPLAY_TRACKING,
+                  color: instincthub_shared_colors_colors.green,
+                  flexShrink: 0,
+                  whiteSpace: "nowrap"
+                },
+                children: figure
+              }
+            ),
+            /* @__PURE__ */ (0,jsx_runtime.jsx)(
+              "div",
+              {
+                style: {
+                  fontFamily: _shared_fonts_nunito,
+                  fontWeight: 500,
+                  fontSize: 30,
+                  lineHeight: 1.34,
+                  color: instincthub_shared_colors_colors.textDim
+                },
+                children: data.label
+              }
+            )
+          ]
+        }
+      )
+    }
+  );
+};
+
+;// ./src/instincthub/_shared/illustrations.tsx
+
+
+
+
+const instincthub_shared_illustrations_clamp = (x, lo = 0, hi = 1) => Math.max(lo, Math.min(hi, x));
+const instincthub_shared_illustrations_seg = (p, from, to) => instincthub_shared_illustrations_clamp((p - from) / (to - from));
+const instincthub_shared_illustrations_VIEW = "0 0 720 440";
+const instincthub_shared_illustrations_DASH = 1900;
+const instincthub_shared_illustrations_stroke = (color, w = 5) => ({
+  fill: "none",
+  stroke: color,
+  strokeWidth: w,
+  strokeLinecap: "round",
+  strokeLinejoin: "round"
+});
+const instincthub_shared_illustrations_drawn = (prog) => ({
+  strokeDasharray: instincthub_shared_illustrations_DASH,
+  strokeDashoffset: instincthub_shared_illustrations_DASH * (1 - prog)
+});
+const _shared_illustrations_Label = ({
+  x,
+  y,
+  text,
+  show,
+  color = instincthub_shared_colors_colors.tiffany
+}) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
+  "text",
+  {
+    x,
+    y,
+    fill: color,
+    fontFamily: montserrat,
+    fontSize: "20",
+    fontWeight: 700,
+    letterSpacing: "2",
+    textAnchor: "middle",
+    opacity: instincthub_shared_illustrations_clamp(show),
+    children: text
+  }
+);
+const illustrations_Idea = ({ p, t }) => {
+  const float = Math.sin(t / 22) * 6;
+  const ray = (a) => {
+    const r1 = 150;
+    const r2 = 184;
+    const rad = a * Math.PI / 180;
+    return {
+      x1: 360 + Math.cos(rad) * r1,
+      y1: 150 + Math.sin(rad) * r1,
+      x2: 360 + Math.cos(rad) * r2,
+      y2: 150 + Math.sin(rad) * r2
+    };
+  };
+  const raysShow = instincthub_shared_illustrations_seg(p, 0.6, 1);
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "760", height: "440", viewBox: instincthub_shared_illustrations_VIEW, children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)("g", { transform: `translate(0 ${float})`, children: [
+      [-60, -35, -10, 190, 215, 240].map((a, i) => {
+        const r = ray(a);
+        return /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          "line",
+          {
+            x1: r.x1,
+            y1: r.y1,
+            x2: r.x2,
+            y2: r.y2,
+            ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.green, 5),
+            opacity: raysShow
+          },
+          i
+        );
+      }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        "path",
+        {
+          d: "M360 40 a86 86 0 0 1 52 154 c-9 7 -14 16 -14 28 h-76 c0 -12 -5 -21 -14 -28 A86 86 0 0 1 360 40Z",
+          ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.white),
+          style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0, 0.6))
+        }
+      ),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M328 232 h64 M336 258 h48 M344 282 h32", ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.white), style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0.4, 0.8)) }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M338 150 l22 -34 l22 34", ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.green), style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0.55, 1)) })
+    ] }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(_shared_illustrations_Label, { x: 360, y: 372, text: "THE IDEA", show: instincthub_shared_illustrations_seg(p, 0.8, 1) })
+  ] });
+};
+const Funnel = ({ p, t }) => {
+  const drip = t / 2 % 60;
+  const dropY = 270 + drip * 1.6;
+  const dropShow = instincthub_shared_illustrations_seg(p, 0.85, 1) * (dropY < 352 ? 1 : 0);
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "760", height: "440", viewBox: instincthub_shared_illustrations_VIEW, children: [
+    [
+      [250, 36],
+      [330, 22],
+      [410, 30],
+      [470, 44]
+    ].map(([x, y], i) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      "circle",
+      {
+        cx: x,
+        cy: y + Math.sin((t + i * 14) / 18) * 5,
+        r: "9",
+        ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.tiffany, 4),
+        opacity: instincthub_shared_illustrations_seg(p, 0.5, 0.85)
+      },
+      i
+    )),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      "path",
+      {
+        d: "M200 80 H520 L420 230 V300 H300 V230 Z",
+        ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.white),
+        style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0, 0.55))
+      }
+    ),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M236 134 H484 M268 182 H452", ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.tiffany, 4), style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0.35, 0.7)) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "360", cy: dropY, r: "11", fill: instincthub_shared_colors_colors.green, opacity: dropShow }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M330 352 h60", ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.green, 5), style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0.7, 1)) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(_shared_illustrations_Label, { x: 360, y: 398, text: "THE FUNNEL", show: instincthub_shared_illustrations_seg(p, 0.8, 1) })
+  ] });
+};
+const illustrations_Growth = ({ p, t }) => {
+  const pulse = 1 + Math.sin(t / 14) * 0.12;
+  const tipShow = instincthub_shared_illustrations_seg(p, 0.85, 1);
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "760", height: "440", viewBox: instincthub_shared_illustrations_VIEW, children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M120 60 V340 H620", ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.white), style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0, 0.35)) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M112 130 h8 M112 200 h8 M112 270 h8 M210 340 v8 M330 340 v8 M450 340 v8 M570 340 v8", ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.textMuted, 3), style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0.2, 0.5)) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      "path",
+      {
+        d: "M120 312 C 220 300, 290 296, 360 268",
+        ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.tiffany, 4),
+        style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0.3, 0.6)),
+        opacity: 0.8
+      }
     ),
     /* @__PURE__ */ (0,jsx_runtime.jsx)(
-      "div",
+      "path",
+      {
+        d: "M120 312 C 230 296, 330 270, 400 220 C 460 178, 520 130, 586 92",
+        ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.white),
+        style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0.35, 0.9))
+      }
+    ),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M560 86 l26 6 -12 24", ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.white), style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0.85, 1)) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "586", cy: "92", r: 10 * pulse, fill: instincthub_shared_colors_colors.green, opacity: tipShow }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(_shared_illustrations_Label, { x: 370, y: 398, text: "GROWTH", show: instincthub_shared_illustrations_seg(p, 0.8, 1) })
+  ] });
+};
+const illustrations_Target = ({ p, t }) => {
+  const float = Math.sin(t / 24) * 5;
+  const arrowP = instincthub_shared_illustrations_seg(p, 0.55, 0.85);
+  const ax = 360 + (1 - arrowP) * 260;
+  const ay = 190 - (1 - arrowP) * 150;
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "760", height: "440", viewBox: instincthub_shared_illustrations_VIEW, children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)("g", { transform: `translate(0 ${float})`, children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "360", cy: "190", r: "140", ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.white), style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0, 0.4)) }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "360", cy: "190", r: "95", ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.tiffany, 4), style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0.15, 0.55)) }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "360", cy: "190", r: "50", ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.white), style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0.3, 0.7)) }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "360", cy: "190", r: "16", fill: instincthub_shared_colors_colors.green, opacity: instincthub_shared_illustrations_seg(p, 0.82, 1) }),
+      /* @__PURE__ */ (0,jsx_runtime.jsxs)("g", { opacity: instincthub_shared_illustrations_seg(p, 0.55, 0.7), children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: `M${ax} ${ay} l-34 22`, ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.white) }),
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          "path",
+          {
+            d: `M${ax - 34} ${ay + 22} l12 -2 M${ax - 34} ${ay + 22} l4 -12`,
+            ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.white, 4)
+          }
+        ),
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          "path",
+          {
+            d: `M${ax} ${ay} l14 -9 m-14 9 l4 -16`,
+            ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.tiffany, 4)
+          }
+        )
+      ] })
+    ] }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(_shared_illustrations_Label, { x: 360, y: 398, text: "THE RIGHT CUSTOMER", show: instincthub_shared_illustrations_seg(p, 0.8, 1) })
+  ] });
+};
+const illustrations_Network = ({ p, t }) => {
+  const nodes = [
+    [360, 190],
+    // centre
+    [200, 90],
+    [520, 100],
+    [580, 250],
+    [430, 330],
+    [230, 310],
+    [140, 200]
+  ];
+  const pulse = 1 + Math.sin(t / 14) * 0.12;
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "760", height: "440", viewBox: instincthub_shared_illustrations_VIEW, children: [
+    nodes.slice(1).map(([x, y], i) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      "line",
+      {
+        x1: 360,
+        y1: 190,
+        x2: x,
+        y2: y,
+        ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.tiffany, 4),
+        style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0.1 + i * 0.08, 0.5 + i * 0.08)),
+        opacity: 0.8
+      },
+      i
+    )),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      "path",
+      {
+        d: "M200 90 L520 100 M580 250 L430 330 M230 310 L140 200",
+        ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.textMuted, 3),
+        style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0.5, 0.85)),
+        opacity: 0.6
+      }
+    ),
+    nodes.slice(1).map(([x, y], i) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      "circle",
+      {
+        cx: x,
+        cy: y + Math.sin((t + i * 16) / 20) * 4,
+        r: "17",
+        ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.white),
+        style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0.2 + i * 0.06, 0.6 + i * 0.06))
+      },
+      i
+    )),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "360", cy: "190", r: 22 * pulse, fill: instincthub_shared_colors_colors.green, opacity: instincthub_shared_illustrations_seg(p, 0.75, 1) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "360", cy: "190", r: "30", ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.white), style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0, 0.35)) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(_shared_illustrations_Label, { x: 360, y: 398, text: "WORD OF MOUTH", show: instincthub_shared_illustrations_seg(p, 0.8, 1) })
+  ] });
+};
+const illustrations_Deal = ({ p, t }) => {
+  const float = Math.sin(t / 22) * 5;
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "760", height: "440", viewBox: instincthub_shared_illustrations_VIEW, children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)("g", { transform: `translate(0 ${float})`, children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        "path",
+        {
+          d: "M170 170 Q 360 40 550 170",
+          ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.tiffany, 4),
+          style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0.5, 0.85)),
+          opacity: 0.8
+        }
+      ),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        "path",
+        {
+          d: "M120 250 h70 l60 -18 l70 36 l24 -10",
+          ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.white),
+          style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0, 0.45))
+        }
+      ),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M120 222 v56", ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.white), style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0.1, 0.4)) }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        "path",
+        {
+          d: "M600 250 h-70 l-60 -18 l-70 36 l-24 -10",
+          ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.white),
+          style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0.15, 0.6))
+        }
+      ),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M600 222 v56", ...instincthub_shared_illustrations_stroke(instincthub_shared_colors_colors.white), style: instincthub_shared_illustrations_drawn(instincthub_shared_illustrations_seg(p, 0.25, 0.55)) }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "360", cy: "252", r: "15", fill: instincthub_shared_colors_colors.green, opacity: instincthub_shared_illustrations_seg(p, 0.8, 1) })
+    ] }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(_shared_illustrations_Label, { x: 360, y: 372, text: "CLOSE THE DEAL", show: instincthub_shared_illustrations_seg(p, 0.8, 1) })
+  ] });
+};
+const instincthub_shared_illustrations_ILLUSTRATIONS = {
+  idea: illustrations_Idea,
+  funnel: Funnel,
+  growth: illustrations_Growth,
+  target: illustrations_Target,
+  network: illustrations_Network,
+  deal: illustrations_Deal
+};
+
+;// ./src/instincthub/_shared/Cutaway.tsx
+
+
+
+
+
+
+const instincthub_shared_Cutaway_Cutaway = ({ data }) => {
+  const frame = (0,esm.useCurrentFrame)();
+  const { fps } = (0,esm.useVideoConfig)();
+  const local = frame - data.start;
+  if (local < 0 || local > data.dur) return null;
+  const fadeIn = (0,esm.interpolate)(local, [0, 12], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp"
+  });
+  const fadeOut = (0,esm.interpolate)(local, [data.dur - 14, data.dur], [1, 0], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+    easing: esm.Easing.in(esm.Easing.cubic)
+  });
+  const scene = fadeIn * fadeOut;
+  const p = (0,esm.spring)({ frame: local - 4, fps, config: { damping: 22, stiffness: 80 } });
+  const eyebrowP = (0,esm.spring)({ frame: local, fps, config: { damping: 20, stiffness: 90 } });
+  const captionP = (0,esm.spring)({ frame: local - 16, fps, config: { damping: 22, stiffness: 90 } });
+  if (data.videoSrc) {
+    const zoom = (0,esm.interpolate)(local, [0, data.dur], [1.06, 1.13], {
+      extrapolateLeft: "clamp",
+      extrapolateRight: "clamp"
+    });
+    return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { opacity: scene, backgroundColor: instincthub_shared_colors_colors.inkDeep }, children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(esm.AbsoluteFill, { style: { transform: `scale(${zoom})` }, children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        esm.OffthreadVideo,
+        {
+          src: (0,esm.staticFile)(data.videoSrc),
+          muted: true,
+          style: {
+            width: "100%",
+            height: "100%",
+            objectFit: "cover",
+            objectPosition: data.videoFocus ?? "50% 50%"
+          }
+        }
+      ) }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        esm.AbsoluteFill,
+        {
+          style: {
+            background: `linear-gradient(to bottom, ${instincthub_shared_colors_colors.inkDeep}D9 0%, transparent 26%, transparent 50%, ${instincthub_shared_colors_colors.inkDeep}D9 84%, ${instincthub_shared_colors_colors.inkDeep}F2 100%)`,
+            pointerEvents: "none"
+          }
+        }
+      ),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        esm.AbsoluteFill,
+        {
+          style: {
+            background: `radial-gradient(120% 80% at 50% 50%, transparent 52%, ${instincthub_shared_colors_colors.cyan}1F 100%)`,
+            pointerEvents: "none"
+          }
+        }
+      ),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        "div",
+        {
+          style: {
+            position: "absolute",
+            top: 84,
+            left: 0,
+            right: 0,
+            display: "flex",
+            justifyContent: "center"
+          },
+          children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "div",
+            {
+              style: {
+                fontFamily: montserrat,
+                fontSize: 22,
+                fontWeight: 700,
+                letterSpacing: 5,
+                color: instincthub_shared_colors_colors.white,
+                textTransform: "uppercase",
+                padding: "12px 28px",
+                borderRadius: 999,
+                background: `${instincthub_shared_colors_colors.cyan}E6`,
+                boxShadow: `0 14px 40px -14px ${instincthub_shared_colors_colors.cyan}`,
+                opacity: eyebrowP,
+                transform: `translateY(${(0,esm.interpolate)(eyebrowP, [0, 1], [-18, 0])}px)`
+              },
+              children: data.eyebrow
+            }
+          )
+        }
+      ),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        "div",
+        {
+          style: {
+            position: "absolute",
+            left: 0,
+            right: 0,
+            bottom: 168,
+            display: "flex",
+            justifyContent: "center",
+            padding: "0 120px"
+          },
+          children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "div",
+            {
+              style: {
+                maxWidth: 1400,
+                padding: "26px 46px",
+                borderRadius: 22,
+                background: `${instincthub_shared_colors_colors.gunmetal}E6`,
+                border: `1.5px solid ${instincthub_shared_colors_colors.cyan}59`,
+                boxShadow: `0 28px 70px -24px rgba(0,0,0,0.8)`,
+                fontFamily: montserrat,
+                fontWeight: 800,
+                fontSize: 48,
+                lineHeight: 1.16,
+                color: instincthub_shared_colors_colors.white,
+                textAlign: "center",
+                letterSpacing: fonts_DISPLAY_TRACKING,
+                opacity: captionP,
+                transform: `translateY(${(0,esm.interpolate)(captionP, [0, 1], [22, 0])}px)`
+              },
+              children: data.caption
+            }
+          )
+        }
+      )
+    ] });
+  }
+  const Illu = instincthub_shared_illustrations_ILLUSTRATIONS[data.key];
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { opacity: scene }, children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(esm.AbsoluteFill, { style: { backgroundColor: instincthub_shared_colors_colors.inkDeep } }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      esm.AbsoluteFill,
       {
         style: {
-          position: "absolute",
-          right: 80,
-          top: 168,
-          background: theplatform_shared_colors_colors.magenta,
-          color: theplatform_shared_colors_colors.white,
-          fontWeight: 800,
-          fontSize: 28,
-          letterSpacing: 3,
-          textTransform: "uppercase",
-          padding: "12px 24px",
-          borderRadius: "40px 0 28px 0"
+          backgroundImage: `radial-gradient(${instincthub_shared_colors_colors.white}0F 1.5px, transparent 1.5px)`,
+          backgroundSize: "46px 46px",
+          opacity: 0.6
+        }
+      }
+    ),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      esm.AbsoluteFill,
+      {
+        style: {
+          background: `radial-gradient(ellipse at 50% 38%, ${instincthub_shared_colors_colors.cyan}33 0%, transparent 60%)`
+        }
+      }
+    ),
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+      esm.AbsoluteFill,
+      {
+        style: {
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          justifyContent: "center",
+          padding: "96px 120px 200px",
+          gap: 34
         },
-        children: "Keynote"
+        children: [
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "div",
+            {
+              style: {
+                fontFamily: montserrat,
+                fontSize: 22,
+                fontWeight: 700,
+                letterSpacing: 5,
+                color: instincthub_shared_colors_colors.tiffany,
+                textTransform: "uppercase",
+                padding: "10px 24px",
+                border: `1.5px solid ${instincthub_shared_colors_colors.cyan}73`,
+                borderRadius: 999,
+                background: `${instincthub_shared_colors_colors.cyan}1F`,
+                opacity: eyebrowP,
+                transform: `translateY(${(0,esm.interpolate)(eyebrowP, [0, 1], [-16, 0])}px)`
+              },
+              children: data.eyebrow
+            }
+          ),
+          /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { height: 440, display: "flex", alignItems: "center", justifyContent: "center" }, children: Illu ? /* @__PURE__ */ (0,jsx_runtime.jsx)(Illu, { p, t: local }) : null }),
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "div",
+            {
+              style: {
+                fontFamily: montserrat,
+                fontWeight: 800,
+                fontSize: 46,
+                lineHeight: 1.18,
+                color: instincthub_shared_colors_colors.white,
+                textAlign: "center",
+                maxWidth: 1340,
+                letterSpacing: fonts_DISPLAY_TRACKING,
+                opacity: captionP,
+                transform: `translateY(${(0,esm.interpolate)(captionP, [0, 1], [18, 0])}px)`
+              },
+              children: data.caption
+            }
+          )
+        ]
       }
     )
   ] });
 };
 
-;// ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/01-starting-point/timing.ts
-
-const _01_starting_point_timing_sec = (s) => Math.round(s * 30);
-const _01_starting_point_timing_TOTAL_FRAMES = _01_starting_point_timing_sec(222);
-const _01_starting_point_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _01_starting_point_timing_sec(10),
-  totalFrames: _01_starting_point_timing_TOTAL_FRAMES,
-  hook: {
-    in: _01_starting_point_timing_sec(2),
-    out: _01_starting_point_timing_sec(10),
-    eyebrow: "Making Ideas Happen \xB7 01",
-    line1: "It is not where you start.",
-    line1Accent: "It is that you start.",
-    line2: "John Alamu on an unlikely beginning."
-  },
-  speaker: {
-    in: _01_starting_point_timing_sec(11),
-    out: _01_starting_point_timing_sec(24),
-    name: "John Alamu",
-    credential: "Johnvents Group",
-    title: "Founder & Group MD, CapitalSage Holdings"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Where I started",
-      title: "Third class,\nthen a master's",
-      caption: "An unbougie grade was not the end of the story.",
-      activeAt: _01_starting_point_timing_sec(8)
-    },
-    {
-      n: 2,
-      short: "Two problems",
-      title: "Two problems\nbecame the bedrock",
-      caption: "Farmers' access to finance, and access to markets.",
-      activeAt: _01_starting_point_timing_sec(101)
-    },
-    {
-      n: 3,
-      short: "Not too young",
-      title: "Not too young.\nNever too late.",
-      caption: "The best time to plant a tree was twenty years ago.",
-      activeAt: _01_starting_point_timing_sec(196)
-    }
-  ],
-  quotes: [
-    {
-      in: _01_starting_point_timing_sec(196),
-      out: _01_starting_point_timing_sec(206),
-      text: "You are not too young to start. And it is never too late.",
-      attribution: "John Alamu"
-    }
-  ],
-  stats: [
-    {
-      in: _01_starting_point_timing_sec(67),
-      out: _01_starting_point_timing_sec(80),
-      value: "3rd class",
-      label: "The degree class he refused to be defined by."
-    }
-  ],
-  cutaways: [
-    {
-      key: "target",
-      start: _01_starting_point_timing_sec(120),
-      dur: _01_starting_point_timing_sec(7),
-      eyebrow: "The opportunity",
-      caption: "Two farmer problems, turned into one business."
-    }
-  ],
-  closing: {
-    in: _01_starting_point_timing_sec(210),
-    out: _01_starting_point_timing_TOTAL_FRAMES + _01_starting_point_timing_sec(3),
-    eyebrow: "Lesson 1 recap",
-    title: "Your starting point",
-    titleAccent: "is not your limit.",
-    subtitle: "Next: start with what you have.",
-    chips: ["Making Ideas Happen"]
-  }
-};
-
-;// ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/02-start-with-what-you-have/timing.ts
-
-const _02_start_with_what_you_have_timing_sec = (s) => Math.round(s * 30);
-const _02_start_with_what_you_have_timing_TOTAL_FRAMES = _02_start_with_what_you_have_timing_sec(82);
-const _02_start_with_what_you_have_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _02_start_with_what_you_have_timing_sec(8),
-  totalFrames: _02_start_with_what_you_have_timing_TOTAL_FRAMES,
-  hook: {
-    in: _02_start_with_what_you_have_timing_sec(2),
-    out: _02_start_with_what_you_have_timing_sec(9),
-    eyebrow: "Making Ideas Happen \xB7 02",
-    line1: "He started with",
-    line1Accent: "100,000 naira.",
-    line2: "Ten women, ten loans, one company."
-  },
-  speaker: {
-    in: _02_start_with_what_you_have_timing_sec(10),
-    out: _02_start_with_what_you_have_timing_sec(22),
-    name: "John Alamu",
-    title: "Founder & Group MD, CapitalSage Holdings"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "The first capital",
-      title: "100,000 naira and\nten market women",
-      caption: "Microloans of ten thousand naira each, formed into groups.",
-      activeAt: _02_start_with_what_you_have_timing_sec(8)
-    },
-    {
-      n: 2,
-      short: "Name it, start it",
-      title: "Many ideas,\none Johnvent",
-      caption: "He stopped perfecting the name and started.",
-      activeAt: _02_start_with_what_you_have_timing_sec(34)
-    },
-    {
-      n: 3,
-      short: "On quitting",
-      title: "Should you quit\nyour paid job?",
-      caption: "Try it and you will suffer; let one stabilise first.",
-      activeAt: _02_start_with_what_you_have_timing_sec(54)
-    }
-  ],
-  quotes: [
-    {
-      in: _02_start_with_what_you_have_timing_sec(56),
-      out: _02_start_with_what_you_have_timing_sec(70),
-      text: "If you try it, you will suffer. I tried it, and I collected water.",
-      attribution: "John Alamu"
-    }
-  ],
-  stats: [
-    {
-      in: _02_start_with_what_you_have_timing_sec(12),
-      out: _02_start_with_what_you_have_timing_sec(26),
-      count: 1e5,
-      prefix: "\u20A6",
-      label: "His entire starting capital, lent to ten women."
-    }
-  ],
-  cutaways: [
-    {
-      key: "network",
-      start: _02_start_with_what_you_have_timing_sec(36),
-      dur: _02_start_with_what_you_have_timing_sec(7),
-      eyebrow: "The first move",
-      caption: "Ten women, formed into groups, each given ten thousand naira."
-    }
-  ],
-  closing: {
-    in: _02_start_with_what_you_have_timing_sec(72),
-    out: _02_start_with_what_you_have_timing_TOTAL_FRAMES + _02_start_with_what_you_have_timing_sec(3),
-    eyebrow: "Lesson 2 recap",
-    title: "Start with",
-    titleAccent: "what you have.",
-    subtitle: "Next: resilience beats ideas.",
-    chips: ["Making Ideas Happen"]
-  }
-};
-
-;// ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/03-resilience-beats-ideas/timing.ts
-
-const _03_resilience_beats_ideas_timing_sec = (s) => Math.round(s * 30);
-const _03_resilience_beats_ideas_timing_TOTAL_FRAMES = _03_resilience_beats_ideas_timing_sec(144);
-const _03_resilience_beats_ideas_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _03_resilience_beats_ideas_timing_sec(8),
-  totalFrames: _03_resilience_beats_ideas_timing_TOTAL_FRAMES,
-  hook: {
-    in: _03_resilience_beats_ideas_timing_sec(2),
-    out: _03_resilience_beats_ideas_timing_sec(9),
-    eyebrow: "Making Ideas Happen \xB7 03",
-    line1: "Everybody has ideas.",
-    line1Accent: "Few have resilience.",
-    line2: "The land dispute that landed him in a cell."
-  },
-  speaker: {
-    in: _03_resilience_beats_ideas_timing_sec(10),
-    out: _03_resilience_beats_ideas_timing_sec(22),
-    name: "John Alamu",
-    title: "Founder & Group MD, CapitalSage Holdings"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "The land trap",
-      title: "A leased farm,\na powerful chief",
-      caption: "The land never belonged to the man who leased it.",
-      activeAt: _03_resilience_beats_ideas_timing_sec(2)
-    },
-    {
-      n: 2,
-      short: "The cell",
-      title: "Locked up over\nland he never stole",
-      caption: "No money to bail himself; his mother came.",
-      activeAt: _03_resilience_beats_ideas_timing_sec(51)
-    },
-    {
-      n: 3,
-      short: "Resilience",
-      title: "The real problem\nis not ideas",
-      caption: "In Nigeria, the scarce thing is resilience.",
-      activeAt: _03_resilience_beats_ideas_timing_sec(84)
-    }
-  ],
-  quotes: [
-    {
-      in: _03_resilience_beats_ideas_timing_sec(86),
-      out: _03_resilience_beats_ideas_timing_sec(100),
-      text: "Having an idea is good. Everybody has ideas. The problem we have is resilience.",
-      attribution: "John Alamu"
-    }
-  ],
-  stats: [
-    {
-      in: _03_resilience_beats_ideas_timing_sec(118),
-      out: _03_resilience_beats_ideas_timing_sec(132),
-      count: 5,
-      suffix: " countries",
-      label: "Where Credit Assist now offers financial services."
-    }
-  ],
-  cutaways: [
-    {
-      key: "idea",
-      start: _03_resilience_beats_ideas_timing_sec(104),
-      dur: _03_resilience_beats_ideas_timing_sec(8),
-      eyebrow: "Two choices",
-      caption: "Quit the journey, or come out of the cell stronger."
-    }
-  ],
-  closing: {
-    in: _03_resilience_beats_ideas_timing_sec(134),
-    out: _03_resilience_beats_ideas_timing_TOTAL_FRAMES + _03_resilience_beats_ideas_timing_sec(3),
-    eyebrow: "Lesson 3 recap",
-    title: "Resilience",
-    titleAccent: "beats ideas.",
-    subtitle: "Next: honour your destiny helpers.",
-    chips: ["Making Ideas Happen"]
-  }
-};
-
-;// ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/04-destiny-helpers/timing.ts
-
-const _04_destiny_helpers_timing_sec = (s) => Math.round(s * 30);
-const _04_destiny_helpers_timing_TOTAL_FRAMES = _04_destiny_helpers_timing_sec(95);
-const _04_destiny_helpers_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _04_destiny_helpers_timing_sec(8),
-  totalFrames: _04_destiny_helpers_timing_TOTAL_FRAMES,
-  hook: {
-    in: _04_destiny_helpers_timing_sec(2),
-    out: _04_destiny_helpers_timing_sec(9),
-    eyebrow: "Making Ideas Happen \xB7 04",
-    line1: "The man who jailed him",
-    line1Accent: "gave him 200 acres.",
-    line2: "Resilience attracts destiny helpers."
-  },
-  speaker: {
-    in: _04_destiny_helpers_timing_sec(10),
-    out: _04_destiny_helpers_timing_sec(22),
-    name: "John Alamu",
-    title: "Founder & Group MD, CapitalSage Holdings"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "200 acres free",
-      title: "From a cell to\n200 free acres",
-      caption: "The chief who jailed him became his first benefactor.",
-      activeAt: _04_destiny_helpers_timing_sec(2)
-    },
-    {
-      n: 2,
-      short: "Honour them",
-      title: "Honour your\ndestiny helpers",
-      caption: "Do not put the people who lift you on do-not-disturb.",
-      activeAt: _04_destiny_helpers_timing_sec(41)
-    },
-    {
-      n: 3,
-      short: "Your staff",
-      title: "Only your staff\ncan make you a billionaire",
-      caption: "You cannot do it alone.",
-      activeAt: _04_destiny_helpers_timing_sec(73)
-    }
-  ],
-  quotes: [
-    {
-      in: _04_destiny_helpers_timing_sec(55),
-      out: _04_destiny_helpers_timing_sec(70),
-      text: "We put our phones on do-not-disturb so our destiny helpers cannot stress us.",
-      attribution: "John Alamu"
-    }
-  ],
-  stats: [
-    {
-      in: _04_destiny_helpers_timing_sec(25),
-      out: _04_destiny_helpers_timing_sec(38),
-      count: 200,
-      suffix: " acres",
-      label: "Given to him for free, after he sold his dream."
-    }
-  ],
-  cutaways: [
-    {
-      key: "network",
-      start: _04_destiny_helpers_timing_sec(74),
-      dur: _04_destiny_helpers_timing_sec(7),
-      eyebrow: "Destiny helpers",
-      caption: "Your staff are your greatest destiny helpers."
-    }
-  ],
-  closing: {
-    in: _04_destiny_helpers_timing_sec(85),
-    out: _04_destiny_helpers_timing_TOTAL_FRAMES + _04_destiny_helpers_timing_sec(3),
-    eyebrow: "Lesson 4 recap",
-    title: "Honour your",
-    titleAccent: "destiny helpers.",
-    subtitle: "Next: ideas are living entities.",
-    chips: ["Making Ideas Happen"]
-  }
-};
-
-;// ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/05-ideas-are-living/timing.ts
-
-const _05_ideas_are_living_timing_sec = (s) => Math.round(s * 30);
-const _05_ideas_are_living_timing_TOTAL_FRAMES = _05_ideas_are_living_timing_sec(104);
-const _05_ideas_are_living_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _05_ideas_are_living_timing_sec(8),
-  totalFrames: _05_ideas_are_living_timing_TOTAL_FRAMES,
-  hook: {
-    in: _05_ideas_are_living_timing_sec(2),
-    out: _05_ideas_are_living_timing_sec(9),
-    eyebrow: "Making Ideas Happen \xB7 05",
-    line1: "Ideas are not loyal.",
-    line1Accent: "They go to who executes.",
-    line2: "Why analysis paralysis costs you the idea."
-  },
-  speaker: {
-    in: _05_ideas_are_living_timing_sec(10),
-    out: _05_ideas_are_living_timing_sec(22),
-    name: "John Alamu",
-    title: "Founder & Group MD, CapitalSage Holdings"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Living entities",
-      title: "Ideas are\nliving entities",
-      caption: "They look for a human ready to partner and execute.",
-      activeAt: _05_ideas_are_living_timing_sec(3)
-    },
-    {
-      n: 2,
-      short: "Not loyal",
-      title: "Ideas are\nnot loyal",
-      caption: "Delay, and the idea moves to whoever is ready.",
-      activeAt: _05_ideas_are_living_timing_sec(55)
-    },
-    {
-      n: 3,
-      short: "Execute",
-      title: "A plan in\nfive minutes",
-      caption: "Winners are not the best planners; they are the executors.",
-      activeAt: _05_ideas_are_living_timing_sec(80)
-    }
-  ],
-  quotes: [
-    {
-      in: _05_ideas_are_living_timing_sec(43),
-      out: _05_ideas_are_living_timing_sec(56),
-      text: "That idea was not stolen. It simply moved to the person who was ready for it.",
-      attribution: "John Alamu"
-    }
-  ],
-  stats: [
-    {
-      in: _05_ideas_are_living_timing_sec(80),
-      out: _05_ideas_are_living_timing_sec(94),
-      value: "5 min",
-      label: "How long a business plan now takes; execution is the edge."
-    }
-  ],
-  cutaways: [
-    {
-      key: "idea",
-      start: _05_ideas_are_living_timing_sec(28),
-      dur: _05_ideas_are_living_timing_sec(8),
-      eyebrow: "What is an idea?",
-      caption: "An energetic being, looking for someone to execute it."
-    }
-  ],
-  closing: {
-    in: _05_ideas_are_living_timing_sec(95),
-    out: _05_ideas_are_living_timing_TOTAL_FRAMES + _05_ideas_are_living_timing_sec(3),
-    eyebrow: "Lesson 5 recap",
-    title: "Ideas reward",
-    titleAccent: "the executor.",
-    subtitle: "Next: audacity built a factory.",
-    chips: ["Making Ideas Happen"]
-  }
-};
-
-;// ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/06-audacity-factory/timing.ts
-
-const _06_audacity_factory_timing_sec = (s) => Math.round(s * 30);
-const _06_audacity_factory_timing_TOTAL_FRAMES = _06_audacity_factory_timing_sec(204);
-const _06_audacity_factory_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _06_audacity_factory_timing_sec(8),
-  totalFrames: _06_audacity_factory_timing_TOTAL_FRAMES,
-  hook: {
-    in: _06_audacity_factory_timing_sec(2),
-    out: _06_audacity_factory_timing_sec(9),
-    eyebrow: "Making Ideas Happen \xB7 06",
-    line1: "He had never made anything.",
-    line1Accent: "He said: I am interested.",
-    line2: "Audacity, and a cocoa factory."
-  },
-  speaker: {
-    in: _06_audacity_factory_timing_sec(10),
-    out: _06_audacity_factory_timing_sec(22),
-    name: "John Alamu",
-    title: "Founder & Group MD, CapitalSage Holdings"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "The dinner",
-      title: "A factory offered\nover dinner",
-      caption: "What do you actually use your dinners for?",
-      activeAt: _06_audacity_factory_timing_sec(18)
-    },
-    {
-      n: 2,
-      short: "Too small",
-      title: "Who are you?\nYou are too small",
-      caption: "Cocoa is not a young person's trade. He insisted anyway.",
-      activeAt: _06_audacity_factory_timing_sec(112)
-    },
-    {
-      n: 3,
-      short: "Audacity",
-      title: "It is called\naudacity",
-      caption: "Baba, you are the one who will help me.",
-      activeAt: _06_audacity_factory_timing_sec(151)
-    },
-    {
-      n: 4,
-      short: "Ten plants",
-      title: "Now the largest\ncocoa processor",
-      caption: "Ten plants in Nigeria, from one bold ask.",
-      activeAt: _06_audacity_factory_timing_sec(184)
-    }
-  ],
-  quotes: [
-    {
-      in: _06_audacity_factory_timing_sec(166),
-      out: _06_audacity_factory_timing_sec(180),
-      text: "Baba, you are the one who will help me. I do not have the money.",
-      attribution: "John Alamu"
-    }
-  ],
-  stats: [
-    {
-      in: _06_audacity_factory_timing_sec(183),
-      out: _06_audacity_factory_timing_sec(195),
-      count: 10,
-      suffix: " plants",
-      label: "Cocoa processing plants run across Nigeria today."
-    }
-  ],
-  cutaways: [
-    {
-      key: "deal",
-      start: _06_audacity_factory_timing_sec(42),
-      dur: _06_audacity_factory_timing_sec(8),
-      eyebrow: "The offer",
-      caption: "A struggling factory, looking for an investor."
-    }
-  ],
-  closing: {
-    in: _06_audacity_factory_timing_sec(196),
-    out: _06_audacity_factory_timing_TOTAL_FRAMES + _06_audacity_factory_timing_sec(3),
-    eyebrow: "Lesson 6 recap",
-    title: "Audacity",
-    titleAccent: "built a factory.",
-    subtitle: "Next: founder is not always CEO.",
-    chips: ["Making Ideas Happen"]
-  }
-};
-
-;// ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/07-founder-not-ceo/timing.ts
-
-const _07_founder_not_ceo_timing_sec = (s) => Math.round(s * 30);
-const _07_founder_not_ceo_timing_TOTAL_FRAMES = _07_founder_not_ceo_timing_sec(132);
-const _07_founder_not_ceo_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _07_founder_not_ceo_timing_sec(8),
-  totalFrames: _07_founder_not_ceo_timing_TOTAL_FRAMES,
-  hook: {
-    in: _07_founder_not_ceo_timing_sec(2),
-    out: _07_founder_not_ceo_timing_sec(9),
-    eyebrow: "Making Ideas Happen \xB7 07",
-    line1: "He is the founder.",
-    line1Accent: "Not the right CEO.",
-    line2: "The wisdom of knowing what you are not."
-  },
-  speaker: {
-    in: _07_founder_not_ceo_timing_sec(10),
-    out: _07_founder_not_ceo_timing_sec(22),
-    name: "John Alamu",
-    title: "Founder & Group MD, CapitalSage Holdings"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Founder vs CEO",
-      title: "Founder is not\nalways the CEO",
-      caption: "He stepped back so the company could grow.",
-      activeAt: _07_founder_not_ceo_timing_sec(17)
-    },
-    {
-      n: 2,
-      short: "Know your gap",
-      title: "Wisdom is knowing\nwhat you do not know",
-      caption: "So he built a strong management team.",
-      activeAt: _07_founder_not_ceo_timing_sec(45)
-    },
-    {
-      n: 3,
-      short: "Your role",
-      title: "Not everyone is\nan entrepreneur",
-      caption: "Builder, runner, or professional: know your core competence.",
-      activeAt: _07_founder_not_ceo_timing_sec(97)
-    }
-  ],
-  quotes: [
-    {
-      in: _07_founder_not_ceo_timing_sec(60),
-      out: _07_founder_not_ceo_timing_sec(74),
-      text: "The wisdom in executing ideas is knowing what you do not know.",
-      attribution: "John Alamu"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "network",
-      start: _07_founder_not_ceo_timing_sec(34),
-      dur: _07_founder_not_ceo_timing_sec(7),
-      eyebrow: "The fix",
-      caption: "A strong management team, not a one-man show."
-    }
-  ],
-  closing: {
-    in: _07_founder_not_ceo_timing_sec(122),
-    out: _07_founder_not_ceo_timing_TOTAL_FRAMES + _07_founder_not_ceo_timing_sec(3),
-    eyebrow: "Lesson 7 recap",
-    title: "Know your",
-    titleAccent: "core competence.",
-    subtitle: "Next: trust your founder's instinct.",
-    chips: ["Making Ideas Happen"]
-  }
-};
-
-;// ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/08-founders-instinct/timing.ts
-
-const _08_founders_instinct_timing_sec = (s) => Math.round(s * 30);
-const _08_founders_instinct_timing_TOTAL_FRAMES = _08_founders_instinct_timing_sec(80);
-const _08_founders_instinct_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _08_founders_instinct_timing_sec(8),
-  totalFrames: _08_founders_instinct_timing_TOTAL_FRAMES,
-  hook: {
-    in: _08_founders_instinct_timing_sec(2),
-    out: _08_founders_instinct_timing_sec(9),
-    eyebrow: "Making Ideas Happen \xB7 08",
-    line1: "They will say",
-    line1Accent: "you are crazy.",
-    line2: "That conviction is founder's instinct."
-  },
-  speaker: {
-    in: _08_founders_instinct_timing_sec(10),
-    out: _08_founders_instinct_timing_sec(22),
-    name: "John Alamu",
-    title: "Founder & Group MD, CapitalSage Holdings"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "The conviction",
-      title: "A faith in your idea\nno one else has",
-      caption: "Even when friends ask if you are crazy.",
-      activeAt: _08_founders_instinct_timing_sec(5)
-    },
-    {
-      n: 2,
-      short: "Nurture it",
-      title: "The worst case\nis that you fail",
-      caption: "So nurture the instinct instead of fearing it.",
-      activeAt: _08_founders_instinct_timing_sec(25)
-    },
-    {
-      n: 3,
-      short: "In hiring",
-      title: "One question,\nand he knows",
-      caption: "Founder's instinct, proven in recruitment.",
-      activeAt: _08_founders_instinct_timing_sec(41)
-    }
-  ],
-  quotes: [
-    {
-      in: _08_founders_instinct_timing_sec(34),
-      out: _08_founders_instinct_timing_sec(48),
-      text: "The worst that can happen is that you fail. That is the worst.",
-      attribution: "John Alamu"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "idea",
-      start: _08_founders_instinct_timing_sec(52),
-      dur: _08_founders_instinct_timing_sec(7),
-      eyebrow: "Founder's instinct",
-      caption: "One question, and he knows this is the person."
-    }
-  ],
-  closing: {
-    in: _08_founders_instinct_timing_sec(70),
-    out: _08_founders_instinct_timing_TOTAL_FRAMES + _08_founders_instinct_timing_sec(3),
-    eyebrow: "Lesson 8 recap",
-    title: "Trust your",
-    titleAccent: "founder's instinct.",
-    subtitle: "Next: there is no work-life balance.",
-    chips: ["Making Ideas Happen"]
-  }
-};
-
-;// ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/09-no-work-life-balance/timing.ts
-
-const _09_no_work_life_balance_timing_sec = (s) => Math.round(s * 30);
-const _09_no_work_life_balance_timing_TOTAL_FRAMES = _09_no_work_life_balance_timing_sec(84);
-const _09_no_work_life_balance_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _09_no_work_life_balance_timing_sec(8),
-  totalFrames: _09_no_work_life_balance_timing_TOTAL_FRAMES,
-  hook: {
-    in: _09_no_work_life_balance_timing_sec(2),
-    out: _09_no_work_life_balance_timing_sec(9),
-    eyebrow: "Making Ideas Happen \xB7 09",
-    line1: "Work-life balance?",
-    line1Accent: "Not for founders.",
-    line2: "The honest cost of building."
-  },
-  speaker: {
-    in: _09_no_work_life_balance_timing_sec(10),
-    out: _09_no_work_life_balance_timing_sec(22),
-    name: "John Alamu",
-    title: "Founder & Group MD, CapitalSage Holdings"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "No balance",
-      title: "There is no\nwork-life balance",
-      caption: "Want balance? Then you are a CEO, not a founder.",
-      activeAt: _09_no_work_life_balance_timing_sec(2)
-    },
-    {
-      n: 2,
-      short: "The hours",
-      title: "No Friday off,\nno Saturday off",
-      caption: "Building demands so much effort, so much.",
-      activeAt: _09_no_work_life_balance_timing_sec(27)
-    },
-    {
-      n: 3,
-      short: "The environment",
-      title: "No Silicon Valley\nhere",
-      caption: "In Africa, you find the money yourself.",
-      activeAt: _09_no_work_life_balance_timing_sec(51)
-    }
-  ],
-  quotes: [
-    {
-      in: _09_no_work_life_balance_timing_sec(35),
-      out: _09_no_work_life_balance_timing_sec(48),
-      text: "If you want to balance life with work, you are not a founder. You are a CEO.",
-      attribution: "John Alamu"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "growth",
-      start: _09_no_work_life_balance_timing_sec(63),
-      dur: _09_no_work_life_balance_timing_sec(8),
-      eyebrow: "The environment",
-      caption: "No Silicon Valley funding. You raise it yourself."
-    }
-  ],
-  closing: {
-    in: _09_no_work_life_balance_timing_sec(74),
-    out: _09_no_work_life_balance_timing_TOTAL_FRAMES + _09_no_work_life_balance_timing_sec(3),
-    eyebrow: "Lesson 9 recap",
-    title: "Building has",
-    titleAccent: "a real cost.",
-    subtitle: "Next: your staff will humble you.",
-    chips: ["Making Ideas Happen"]
-  }
-};
-
-;// ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/10-staff-will-humble-you/timing.ts
-
-const _10_staff_will_humble_you_timing_sec = (s) => Math.round(s * 30);
-const _10_staff_will_humble_you_timing_TOTAL_FRAMES = _10_staff_will_humble_you_timing_sec(225);
-const _10_staff_will_humble_you_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _10_staff_will_humble_you_timing_sec(8),
-  totalFrames: _10_staff_will_humble_you_timing_TOTAL_FRAMES,
-  hook: {
-    in: _10_staff_will_humble_you_timing_sec(2),
-    out: _10_staff_will_humble_you_timing_sec(9),
-    eyebrow: "Making Ideas Happen \xB7 10",
-    line1: "His staff",
-    line1Accent: "put him in a cell.",
-    line2: "And they are still his greatest asset."
-  },
-  speaker: {
-    in: _10_staff_will_humble_you_timing_sec(10),
-    out: _10_staff_will_humble_you_timing_sec(22),
-    name: "John Alamu",
-    title: "Founder & Group MD, CapitalSage Holdings"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Staff humble you",
-      title: "Staff will\nhumble you",
-      caption: "A misplaced collateral, and he was in a cell again.",
-      activeAt: _10_staff_will_humble_you_timing_sec(2)
-    },
-    {
-      n: 2,
-      short: "The regret",
-      title: "Do not quit\ntoo early",
-      caption: "Run both jobs until one truly stabilises.",
-      activeAt: _10_staff_will_humble_you_timing_sec(59)
-    },
-    {
-      n: 3,
-      short: "The lawyer",
-      title: "The lawyer who\nlet him sleep there",
-      caption: "Today, that same lawyer is his company secretary.",
-      activeAt: _10_staff_will_humble_you_timing_sec(98)
-    },
-    {
-      n: 4,
-      short: "Greatest asset",
-      title: "Still your\ngreatest asset",
-      caption: "Build people from the ground up.",
-      activeAt: _10_staff_will_humble_you_timing_sec(152)
-    }
-  ],
-  quotes: [
-    {
-      in: _10_staff_will_humble_you_timing_sec(125),
-      out: _10_staff_will_humble_you_timing_sec(139),
-      text: "Your lawyers will frustrate you. Your staff will frustrate you. Yet they are your greatest asset.",
-      attribution: "John Alamu"
-    }
-  ],
-  stats: [
-    {
-      in: _10_staff_will_humble_you_timing_sec(176),
-      out: _10_staff_will_humble_you_timing_sec(190),
-      count: 3e3,
-      suffix: "+ staff",
-      label: "Employed today; many of them trained on the job."
-    }
-  ],
-  cutaways: [
-    {
-      key: "network",
-      start: _10_staff_will_humble_you_timing_sec(205),
-      dur: _10_staff_will_humble_you_timing_sec(8),
-      eyebrow: "The lesson",
-      caption: "Build people from the ground up."
-    }
-  ],
-  closing: {
-    in: _10_staff_will_humble_you_timing_sec(215),
-    out: _10_staff_will_humble_you_timing_TOTAL_FRAMES + _10_staff_will_humble_you_timing_sec(3),
-    eyebrow: "Lesson 10 recap",
-    title: "People are",
-    titleAccent: "the business.",
-    subtitle: "Next: protect your idea from the wolves.",
-    chips: ["Making Ideas Happen"]
-  }
-};
-
-;// ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/11-protect-your-idea/timing.ts
-
-const _11_protect_your_idea_timing_sec = (s) => Math.round(s * 30);
-const _11_protect_your_idea_timing_TOTAL_FRAMES = _11_protect_your_idea_timing_sec(50);
-const _11_protect_your_idea_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _11_protect_your_idea_timing_sec(6),
-  totalFrames: _11_protect_your_idea_timing_TOTAL_FRAMES,
-  hook: {
-    in: _11_protect_your_idea_timing_sec(2),
-    out: _11_protect_your_idea_timing_sec(8),
-    eyebrow: "Making Ideas Happen \xB7 11",
-    line1: "There are wolves.",
-    line1Accent: "Protect your idea.",
-    line2: "On your board, your desk, your inner circle."
-  },
-  speaker: {
-    in: _11_protect_your_idea_timing_sec(9),
-    out: _11_protect_your_idea_timing_sec(20),
-    name: "John Alamu",
-    title: "Founder & Group MD, CapitalSage Holdings"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "The wolves",
-      title: "Protect\nyour idea",
-      caption: "Even a social media giant learned this the hard way.",
-      activeAt: _11_protect_your_idea_timing_sec(2)
-    },
-    {
-      n: 2,
-      short: "Who they are",
-      title: "The wolves can be\nyour most trusted",
-      caption: "On your board, as your PA, beside you every day.",
-      activeAt: _11_protect_your_idea_timing_sec(25)
-    }
-  ],
-  quotes: [
-    {
-      in: _11_protect_your_idea_timing_sec(28),
-      out: _11_protect_your_idea_timing_sec(41),
-      text: "The wolves can be sitting on your board, as your PA, as your most trusted staff.",
-      attribution: "John Alamu"
-    }
-  ],
-  stats: [],
-  cutaways: [],
-  closing: {
-    in: _11_protect_your_idea_timing_sec(42),
-    out: _11_protect_your_idea_timing_TOTAL_FRAMES + _11_protect_your_idea_timing_sec(3),
-    eyebrow: "Lesson 11 recap",
-    title: "Guard",
-    titleAccent: "your idea.",
-    subtitle: "Next: become the next frontier.",
-    chips: ["Making Ideas Happen"]
-  }
-};
-
-;// ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/12-learn-from-asia/timing.ts
-
-const _12_learn_from_asia_timing_sec = (s) => Math.round(s * 30);
-const _12_learn_from_asia_timing_TOTAL_FRAMES = _12_learn_from_asia_timing_sec(96);
-const _12_learn_from_asia_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _12_learn_from_asia_timing_sec(8),
-  totalFrames: _12_learn_from_asia_timing_TOTAL_FRAMES,
-  hook: {
-    in: _12_learn_from_asia_timing_sec(2),
-    out: _12_learn_from_asia_timing_sec(9),
-    eyebrow: "Making Ideas Happen \xB7 12",
-    line1: "Power is shifting",
-    line1Accent: "to Asia.",
-    line2: "What are they doing that we are not?"
-  },
-  speaker: {
-    in: _12_learn_from_asia_timing_sec(10),
-    out: _12_learn_from_asia_timing_sec(22),
-    name: "John Alamu",
-    title: "Founder & Group MD, CapitalSage Holdings"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "West to Asia",
-      title: "Power is shifting\nto Asia",
-      caption: "Even the influencers now advertise cars from China.",
-      activeAt: _12_learn_from_asia_timing_sec(2)
-    },
-    {
-      n: 2,
-      short: "Quality over noise",
-      title: "Focus on the job,\nnot the paparazzi",
-      caption: "Lagos chases polish; choose quality instead.",
-      activeAt: _12_learn_from_asia_timing_sec(23)
-    },
-    {
-      n: 3,
-      short: "Be the frontier",
-      title: "Be accountable,\nbe self-aware",
-      caption: "An eight-to-five person cannot be the new frontier.",
-      activeAt: _12_learn_from_asia_timing_sec(70)
-    }
-  ],
-  quotes: [
-    {
-      in: _12_learn_from_asia_timing_sec(40),
-      out: _12_learn_from_asia_timing_sec(54),
-      text: "We focus on being polished, rather than being quality.",
-      attribution: "John Alamu"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "growth",
-      start: _12_learn_from_asia_timing_sec(60),
-      dur: _12_learn_from_asia_timing_sec(8),
-      eyebrow: "The next frontier",
-      caption: "Understand what Asia is doing, then do better."
-    }
-  ],
-  closing: {
-    in: _12_learn_from_asia_timing_sec(87),
-    out: _12_learn_from_asia_timing_TOTAL_FRAMES + _12_learn_from_asia_timing_sec(3),
-    eyebrow: "Lesson 12 recap",
-    title: "Choose quality,",
-    titleAccent: "be accountable.",
-    subtitle: "Next: test your idea, then put God first.",
-    chips: ["Making Ideas Happen"]
-  }
-};
-
-;// ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/13-test-and-put-god-first/timing.ts
-
-const _13_test_and_put_god_first_timing_sec = (s) => Math.round(s * 30);
-const _13_test_and_put_god_first_timing_TOTAL_FRAMES = _13_test_and_put_god_first_timing_sec(114);
-const _13_test_and_put_god_first_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _13_test_and_put_god_first_timing_sec(8),
-  totalFrames: _13_test_and_put_god_first_timing_TOTAL_FRAMES,
-  hook: {
-    in: _13_test_and_put_god_first_timing_sec(2),
-    out: _13_test_and_put_god_first_timing_sec(9),
-    eyebrow: "Making Ideas Happen \xB7 13",
-    line1: "Test the idea.",
-    line1Accent: "Then put God first.",
-    line2: "The closing charge."
-  },
-  speaker: {
-    in: _13_test_and_put_god_first_timing_sec(10),
-    out: _13_test_and_put_god_first_timing_sec(22),
-    name: "John Alamu",
-    title: "Founder & Group MD, CapitalSage Holdings"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Hard questions",
-      title: "Ask the hard\nquestions",
-      caption: "Founder-market fit, and what competition really says.",
-      activeAt: _13_test_and_put_god_first_timing_sec(2)
-    },
-    {
-      n: 2,
-      short: "Copy what works",
-      title: "He stopped\ninnovating",
-      caption: "Test against competition; copy what works better.",
-      activeAt: _13_test_and_put_god_first_timing_sec(20)
-    },
-    {
-      n: 3,
-      short: "Put God first",
-      title: "Put God\nfirst",
-      caption: "The most intelligent plan still needs it.",
-      activeAt: _13_test_and_put_god_first_timing_sec(75)
-    }
-  ],
-  quotes: [
-    {
-      in: _13_test_and_put_god_first_timing_sec(31),
-      out: _13_test_and_put_god_first_timing_sec(45),
-      text: "I used to like to innovate. Now I do not innovate. I copy what works.",
-      attribution: "John Alamu"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "target",
-      start: _13_test_and_put_god_first_timing_sec(46),
-      dur: _13_test_and_put_god_first_timing_sec(8),
-      eyebrow: "Test it",
-      caption: "If nobody is doing it, be careful. If they are, do it better."
-    }
-  ],
-  closing: {
-    in: _13_test_and_put_god_first_timing_sec(100),
-    out: _13_test_and_put_god_first_timing_TOTAL_FRAMES + _13_test_and_put_god_first_timing_sec(4),
-    eyebrow: "Course recap",
-    title: "It is not about ideas.",
-    titleAccent: "It is about making them happen.",
-    subtitle: "John Alamu \xB7 The Platform Nigeria",
-    chips: ["Making Ideas Happen"]
-  }
-};
-
-;// ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/registry.tsx
+;// ./src/instincthub/_shared/ClosingCard.tsx
 
 
 
@@ -121687,1113 +118674,1772 @@ const _13_test_and_put_god_first_timing_content = {
 
 
 
-
-
-
-
-
-
-
-
-
-const john_alamu_it_is_not_about_ideas_its_about_making_ideas_happen_registry_make = (content) => ({ videoSrc, logoSrc }) => /* @__PURE__ */ (0,jsx_runtime.jsx)(Talk_Talk, { videoSrc, logoSrc, content, showLogo: false });
-const john_alamu_it_is_not_about_ideas_its_about_making_ideas_happen_registry_KEY_PREFIX = "instincthub/uploads/john-alamu-making-ideas-happen";
-const john_alamu_it_is_not_about_ideas_its_about_making_ideas_happen_registry_ROWS = [
-  { slug: "01-starting-point", module: 1, lesson: 1, title: "Your starting point is not your limit", mod: _01_starting_point_timing_namespaceObject },
-  { slug: "02-start-with-what-you-have", module: 1, lesson: 2, title: "Start with what you have", mod: _02_start_with_what_you_have_timing_namespaceObject },
-  { slug: "03-resilience-beats-ideas", module: 1, lesson: 3, title: "Resilience beats ideas", mod: _03_resilience_beats_ideas_timing_namespaceObject },
-  { slug: "04-destiny-helpers", module: 2, lesson: 4, title: "Honour your destiny helpers", mod: _04_destiny_helpers_timing_namespaceObject },
-  { slug: "05-ideas-are-living", module: 2, lesson: 5, title: "Ideas are living entities", mod: _05_ideas_are_living_timing_namespaceObject },
-  { slug: "06-audacity-factory", module: 2, lesson: 6, title: "Audacity built a factory", mod: _06_audacity_factory_timing_namespaceObject },
-  { slug: "07-founder-not-ceo", module: 3, lesson: 7, title: "Founder is not always CEO", mod: _07_founder_not_ceo_timing_namespaceObject },
-  { slug: "08-founders-instinct", module: 3, lesson: 8, title: "Trust your founder's instinct", mod: _08_founders_instinct_timing_namespaceObject },
-  { slug: "09-no-work-life-balance", module: 3, lesson: 9, title: "There is no work-life balance", mod: _09_no_work_life_balance_timing_namespaceObject },
-  { slug: "10-staff-will-humble-you", module: 4, lesson: 10, title: "Your staff will humble you", mod: _10_staff_will_humble_you_timing_namespaceObject },
-  { slug: "11-protect-your-idea", module: 4, lesson: 11, title: "Protect your idea from the wolves", mod: _11_protect_your_idea_timing_namespaceObject },
-  { slug: "12-learn-from-asia", module: 5, lesson: 12, title: "Learn from Asia, choose quality", mod: _12_learn_from_asia_timing_namespaceObject },
-  { slug: "13-test-and-put-god-first", module: 5, lesson: 13, title: "Test your idea, then put God first", mod: _13_test_and_put_god_first_timing_namespaceObject }
-];
-const JOHN_ALAMU_LESSONS = john_alamu_it_is_not_about_ideas_its_about_making_ideas_happen_registry_ROWS.map((r) => ({
-  id: `ja-${r.slug}`,
-  module: r.module,
-  lesson: r.lesson,
-  title: r.title,
-  videoSrc: `tp-ja-${r.slug}.mp4`,
-  videoKey: `${john_alamu_it_is_not_about_ideas_its_about_making_ideas_happen_registry_KEY_PREFIX}/m${r.module}-l${r.lesson}-${r.slug.replace(/^\d+-/, "")}.mp4`,
-  totalFrames: r.mod.TOTAL_FRAMES,
-  component: john_alamu_it_is_not_about_ideas_its_about_making_ideas_happen_registry_make(r.mod.content)
-}));
-
-;// ./src/theplatform/john-alamu-it-is-not-about-ideas-its-about-making-ideas-happen/Thumbnail.tsx
-
-
-
-
-
-
-const john_alamu_it_is_not_about_ideas_its_about_making_ideas_happen_Thumbnail_Thumbnail = ({
-  portraitSrc = "tp-ja-john-portrait.jpg"
-}) => {
-  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { backgroundColor: theplatform_shared_colors_colors.yellow, fontFamily: overpass }, children: [
-    /* @__PURE__ */ (0,jsx_runtime.jsx)(
-      esm.AbsoluteFill,
-      {
-        style: {
-          backgroundImage: `radial-gradient(${theplatform_shared_colors_colors.ink}1A 3px, transparent 3px)`,
-          backgroundSize: "54px 54px",
-          opacity: 0.5
-        }
-      }
-    ),
-    /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { position: "absolute", top: 70, right: 600, opacity: 0.16, transform: "rotate(8deg)" }, children: /* @__PURE__ */ (0,jsx_runtime.jsx)(Bulb, { size: 190, stroke: theplatform_shared_colors_colors.ink, spark: theplatform_shared_colors_colors.ink, lit: 0, strokeWidth: 6 }) }),
-    /* @__PURE__ */ (0,jsx_runtime.jsxs)(
-      "div",
-      {
-        style: {
-          position: "absolute",
-          top: 0,
-          left: 0,
-          right: 0,
-          height: 104,
-          background: theplatform_shared_colors_colors.ink,
-          display: "flex",
-          alignItems: "center",
-          gap: 18,
-          padding: "0 70px"
-        },
-        children: [
-          /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { fontWeight: 800, fontSize: 32, letterSpacing: 4, color: theplatform_shared_colors_colors.white, textTransform: "uppercase" }, children: "It is not about ideas." }),
-          /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { fontWeight: 800, fontSize: 32, letterSpacing: 4, color: theplatform_shared_colors_colors.yellow, textTransform: "uppercase" }, children: "It is about making them happen." })
-        ]
-      }
-    ),
-    /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { position: "absolute", left: 90, top: 188, width: 1080 }, children: [
-      /* @__PURE__ */ (0,jsx_runtime.jsx)(
-        "span",
-        {
-          style: {
-            display: "inline-block",
-            fontWeight: 800,
-            fontSize: 29,
-            letterSpacing: 6,
-            textTransform: "uppercase",
-            color: theplatform_shared_colors_colors.ink,
-            background: `${theplatform_shared_colors_colors.ink}14`,
-            padding: "12px 26px",
-            borderRadius: 999,
-            border: `2px solid ${theplatform_shared_colors_colors.ink}3D`
-          },
-          children: "The Platform Nigeria \xB7 Keynote"
-        }
-      ),
-      /* @__PURE__ */ (0,jsx_runtime.jsxs)(
-        "div",
-        {
-          style: {
-            marginTop: 30,
-            fontWeight: 900,
-            fontSize: 120,
-            lineHeight: 0.94,
-            letterSpacing: -4,
-            color: theplatform_shared_colors_colors.ink
-          },
-          children: [
-            "Making",
-            /* @__PURE__ */ (0,jsx_runtime.jsx)("br", {}),
-            "Ideas",
-            /* @__PURE__ */ (0,jsx_runtime.jsx)("br", {}),
-            "Happen"
-          ]
-        }
-      ),
-      /* @__PURE__ */ (0,jsx_runtime.jsx)(
-        "div",
-        {
-          style: {
-            marginTop: 28,
-            display: "inline-block",
-            fontWeight: 900,
-            fontSize: 50,
-            letterSpacing: -1,
-            color: theplatform_shared_colors_colors.yellow,
-            background: theplatform_shared_colors_colors.ink,
-            padding: "12px 28px",
-            borderRadius: 14
-          },
-          children: "Execution over ideas"
-        }
-      )
-    ] }),
-    /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { position: "absolute", left: 96, bottom: 80, display: "flex", alignItems: "center", gap: 22 }, children: [
-      /* @__PURE__ */ (0,jsx_runtime.jsx)(Bulb, { size: 64, stroke: theplatform_shared_colors_colors.ink, spark: theplatform_shared_colors_colors.ink, lit: 0, strokeWidth: 5 }),
-      /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { children: [
-        /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { fontWeight: 900, fontSize: 52, letterSpacing: -1.5, color: theplatform_shared_colors_colors.ink, lineHeight: 1 }, children: "John Alamu" }),
-        /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { fontWeight: 600, fontSize: 31, color: theplatform_shared_colors_colors.ink, opacity: 0.78, marginTop: 6 }, children: "Founder & Group MD, CapitalSage Holdings" })
-      ] })
-    ] }),
-    /* @__PURE__ */ (0,jsx_runtime.jsx)(
-      "div",
-      {
-        style: {
-          position: "absolute",
-          right: 80,
-          top: 168,
-          width: 700,
-          height: 770,
-          borderRadius: 40,
-          border: `12px solid ${theplatform_shared_colors_colors.ink}`,
-          overflow: "hidden",
-          background: theplatform_shared_colors_colors.ink,
-          boxShadow: `0 40px 90px -28px ${theplatform_shared_colors_colors.ink}99`
-        },
-        children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
-          esm.Img,
+const _shared_ClosingCard_ClosingCard = ({ data }) => {
+  const frame = (0,esm.useCurrentFrame)();
+  const { fps } = (0,esm.useVideoConfig)();
+  const local = frame - data.in;
+  if (local < 0 || frame > data.out + 26) return null;
+  const enter = (0,esm.spring)({ frame: local, fps, config: theme_ENTER_SPRING });
+  const sub = (0,esm.spring)({ frame: local - 14, fps, config: theme_CHILD_SPRING });
+  const chips = (0,esm.spring)({ frame: local - 26, fps, config: theme_CHILD_SPRING });
+  const exit = (0,esm.interpolate)(frame, [data.out, data.out + 24], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+    easing: esm.Easing.in(esm.Easing.cubic)
+  });
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+    "div",
+    {
+      style: {
+        position: "absolute",
+        left: 80,
+        bottom: 200,
+        display: "inline-block",
+        maxWidth: 1220,
+        padding: "34px 50px 40px",
+        ...theme_panel,
+        borderRadius: 26,
+        opacity: enter * (1 - exit),
+        transform: `translateY(${(0,esm.interpolate)(enter, [0, 1], [44, 0]) + exit * 40}px)`
+      },
+      children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { display: "flex", alignItems: "center", gap: 14, marginBottom: 16 }, children: [
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(Cap, { size: 36, stroke: instincthub_shared_colors_colors.white, accent: instincthub_shared_colors_colors.tiffany, strokeWidth: 4, lit: enter }),
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "div",
+            {
+              style: {
+                fontFamily: montserrat,
+                fontSize: 19,
+                fontWeight: 700,
+                letterSpacing: 4,
+                color: instincthub_shared_colors_colors.tiffany,
+                textTransform: "uppercase"
+              },
+              children: data.eyebrow
+            }
+          )
+        ] }),
+        /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+          "div",
           {
-            src: (0,esm.staticFile)(portraitSrc),
-            alt: "John Alamu",
-            style: { width: "100%", height: "100%", objectFit: "cover", objectPosition: "50% 16%" }
+            style: {
+              fontFamily: montserrat,
+              fontWeight: 800,
+              fontSize: 70,
+              lineHeight: 1.06,
+              color: instincthub_shared_colors_colors.white,
+              letterSpacing: fonts_DISPLAY_TRACKING,
+              textShadow: "0 6px 30px rgba(0,0,0,0.5)"
+            },
+            children: [
+              data.title,
+              data.titleAccent ? /* @__PURE__ */ (0,jsx_runtime.jsxs)("span", { style: { color: instincthub_shared_colors_colors.tiffany }, children: [
+                " ",
+                data.titleAccent
+              ] }) : null
+            ]
           }
-        )
-      }
-    ),
-    /* @__PURE__ */ (0,jsx_runtime.jsx)(
-      "div",
-      {
-        style: {
-          position: "absolute",
-          right: 80,
-          top: 168,
-          background: theplatform_shared_colors_colors.magenta,
-          color: theplatform_shared_colors_colors.white,
-          fontWeight: 800,
-          fontSize: 28,
-          letterSpacing: 3,
-          textTransform: "uppercase",
-          padding: "12px 24px",
-          borderRadius: "40px 0 28px 0"
-        },
-        children: "Keynote"
-      }
-    )
+        ),
+        data.subtitle ? /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          "div",
+          {
+            style: {
+              fontFamily: _shared_fonts_nunito,
+              fontWeight: 400,
+              fontSize: 32,
+              color: instincthub_shared_colors_colors.textDim,
+              marginTop: 18,
+              maxWidth: 1060,
+              opacity: sub,
+              transform: `translateY(${(0,esm.interpolate)(sub, [0, 1], [16, 0])}px)`
+            },
+            children: data.subtitle
+          }
+        ) : null,
+        data.chips && data.chips.length ? /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          "div",
+          {
+            style: {
+              display: "flex",
+              gap: 16,
+              marginTop: 26,
+              flexWrap: "wrap",
+              opacity: chips,
+              transform: `translateY(${(0,esm.interpolate)(chips, [0, 1], [14, 0])}px)`
+            },
+            children: data.chips.map((c) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
+              "div",
+              {
+                style: {
+                  fontFamily: _shared_fonts_nunito,
+                  fontSize: 24,
+                  fontWeight: 700,
+                  color: instincthub_shared_colors_colors.white,
+                  padding: "12px 26px",
+                  borderRadius: 999,
+                  background: instincthub_shared_colors_colors.cyan
+                },
+                children: c
+              },
+              c
+            ))
+          }
+        ) : null
+      ]
+    }
+  );
+};
+
+;// ./src/instincthub/_shared/Lesson.tsx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const slideGate = (frame, windows) => {
+  let gate = 1;
+  for (const [a, b] of windows ?? []) {
+    gate = Math.min(
+      gate,
+      (0,esm.interpolate)(frame, [a - 42, a - 30, b + 30, b + 42], [1, 0, 0, 1], {
+        extrapolateLeft: "clamp",
+        extrapolateRight: "clamp"
+      })
+    );
+  }
+  return gate;
+};
+const Lesson_Lesson = ({
+  videoSrc,
+  logoSrc,
+  content,
+  showLogo = true
+}) => {
+  const c = content;
+  const frame = (0,esm.useCurrentFrame)();
+  const gate = slideGate(frame, c.slideWindows);
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(instincthub_shared_Background_Background, { videoSrc }),
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { opacity: gate }, children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(instincthub_shared_HookOverlay_HookOverlay, { data: c.hook }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(InstructorLowerThird_InstructorLowerThird, { data: c.instructor }),
+      c.outline ? /* @__PURE__ */ (0,jsx_runtime.jsx)(_shared_OutlineReveal_OutlineReveal, { data: c.outline }) : null,
+      c.sections.map((s) => /* @__PURE__ */ (0,jsx_runtime.jsx)(SectionReveal_SectionReveal, { data: s, total: c.sections.length }, s.n)),
+      c.quotes.map((q, i) => /* @__PURE__ */ (0,jsx_runtime.jsx)(_shared_QuoteOverlay_QuoteOverlay, { data: q }, `q${i}`)),
+      c.stats.map((s, i) => /* @__PURE__ */ (0,jsx_runtime.jsx)(instincthub_shared_StatCallout_StatCallout, { data: s }, `s${i}`)),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        SectionTracker_SectionTracker,
+        {
+          title: c.trackerTitle,
+          sections: c.sections,
+          trackerIn: c.trackerIn,
+          fadeAt: c.closing.in
+        }
+      ),
+      showLogo ? /* @__PURE__ */ (0,jsx_runtime.jsx)(_shared_LogoBug_LogoBug, { logoSrc }) : null,
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(_shared_ClosingCard_ClosingCard, { data: c.closing }),
+      c.cutaways.map((cut) => /* @__PURE__ */ (0,jsx_runtime.jsx)(instincthub_shared_Cutaway_Cutaway, { data: cut }, cut.key + cut.start))
+    ] })
   ] });
 };
 
-;// ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/01-execution-at-scale/timing.ts
+;// ./src/instincthub/marketing-and-sales/map.ts
 
-const _01_execution_at_scale_timing_sec = (s) => Math.round(s * 30);
-const _01_execution_at_scale_timing_TOTAL_FRAMES = _01_execution_at_scale_timing_sec(125);
-const _01_execution_at_scale_timing_content = {
-  trackerTitle: "Execution at Scale",
-  trackerIn: _01_execution_at_scale_timing_sec(8),
-  totalFrames: _01_execution_at_scale_timing_TOTAL_FRAMES,
+const map_sec = (s) => Math.round(s * 30);
+const rangesFrames = (ranges) => map_sec(ranges.reduce((acc, [a, b]) => acc + (b - a), 0));
+const makeSrcMapper = (ranges) => (srcSec) => {
+  let acc = 0;
+  for (const [a, b] of ranges) {
+    if (srcSec >= a && srcSec <= b) return map_sec(acc + (srcSec - a));
+    acc += b - a;
+  }
+  throw new Error(`Cue ${srcSec}s falls outside the kept ranges`);
+};
+
+;// ./src/instincthub/marketing-and-sales/01-the-only-non-negotiable/timing.ts
+
+
+const RANGES = [[519.7, 759]];
+const m = makeSrcMapper(RANGES);
+const _01_the_only_non_negotiable_timing_TOTAL_FRAMES = rangesFrames(RANGES);
+const _01_the_only_non_negotiable_timing_content = {
+  trackerTitle: "Customers First",
+  trackerIn: map_sec(20),
+  totalFrames: _01_the_only_non_negotiable_timing_TOTAL_FRAMES,
+  slideWindows: [
+    [map_sec(1), map_sec(11)],
+    [map_sec(48), map_sec(58)],
+    [map_sec(109), map_sec(119)],
+    [map_sec(133), map_sec(143)],
+    [map_sec(219), map_sec(223)]
+  ],
   hook: {
-    in: _01_execution_at_scale_timing_sec(2),
-    out: _01_execution_at_scale_timing_sec(9),
-    eyebrow: "Execution at Scale \xB7 01",
-    line1: "From a small company",
-    line1Accent: "to a unicorn.",
-    line2: "Tosin Eniolorunda on what execution actually builds."
+    in: map_sec(12),
+    out: map_sec(21),
+    eyebrow: "Marketing & Sales \xB7 Lesson 1",
+    line1: "Your business won't prosper",
+    line1Accent: "until you know what you're selling.",
+    line2: "Bob Jones on the one requirement investors cannot waive."
   },
-  speaker: {
-    in: _01_execution_at_scale_timing_sec(11),
-    out: _01_execution_at_scale_timing_sec(23),
-    name: "Tosin Eniolorunda",
-    title: "Founder & CEO, Moniepoint"
+  instructor: {
+    in: map_sec(24),
+    out: map_sec(34),
+    name: "Bob Jones",
+    title: "Serial Entrepreneur \xB7 MIT Sloan"
   },
-  chapters: [
+  outline: {
+    in: m(549),
+    out: m(566),
+    title: "In this lesson",
+    items: [
+      "Where opportunity hides",
+      "What investors really fear",
+      "The one non-negotiable",
+      "The customer math"
+    ]
+  },
+  sections: [
     {
       n: 1,
-      short: "Stand on giants",
-      title: "Stand on the\nshoulders of a giant",
-      caption: "Join where the state of the art already is, then launch from there.",
-      activeAt: _01_execution_at_scale_timing_sec(4)
+      short: "Find dissatisfaction",
+      title: "How is your end user\ndissatisfied?",
+      caption: "The recession study: winners kept asking this one question.",
+      activeAt: m(578.5)
     },
     {
       n: 2,
-      short: "The scale",
-      title: "What execution\nactually built",
-      caption: "Africa's leading payment infrastructure, built from scratch.",
-      activeAt: _01_execution_at_scale_timing_sec(34)
+      short: "What you're selling",
+      title: "Know what you are\nreally selling",
+      caption: "Your business might survive, but it won't prosper without this.",
+      activeAt: m(639.5)
+    },
+    {
+      n: 3,
+      short: "Investor fear",
+      title: "Investors live\nin terror",
+      caption: "Eight of ten bets fail, and their fund dies with yours.",
+      activeAt: m(663)
+    },
+    {
+      n: 4,
+      short: "The non-negotiable",
+      title: "Customers are the\nnon-negotiable",
+      caption: "With customers, everything else follows.",
+      activeAt: m(708)
+    },
+    {
+      n: 5,
+      short: "Customer math",
+      title: "Do the\ncustomer math",
+      caption: "Acquisition cost, lifetime value, time to prosperity.",
+      activeAt: m(743.5)
     }
   ],
-  quotes: [],
+  quotes: [
+    {
+      in: m(722),
+      out: m(735),
+      text: "If you have customers, people will think you're smart, and you will make money.",
+      attribution: "Bob Jones"
+    }
+  ],
   stats: [
     {
-      in: _01_execution_at_scale_timing_sec(48),
-      out: _01_execution_at_scale_timing_sec(60),
+      in: m(668),
+      out: m(682),
       value: "8 / 10",
-      label: "Offline transactions in Nigeria run on Moniepoint's rails."
-    },
-    {
-      in: _01_execution_at_scale_timing_sec(62),
-      out: _01_execution_at_scale_timing_sec(74),
-      count: 6,
-      suffix: "M",
-      label: "Businesses on the platform, plus about 10 million personal customers."
-    },
-    {
-      in: _01_execution_at_scale_timing_sec(80),
-      out: _01_execution_at_scale_timing_sec(92),
-      value: "500T",
-      prefix: "",
-      label: "Naira in value across 14 billion transactions last year."
-    },
-    {
-      in: _01_execution_at_scale_timing_sec(96),
-      out: _01_execution_at_scale_timing_sec(108),
-      count: 200,
-      prefix: "$",
-      suffix: "M",
-      label: "Raised from foreign investors, most reinvested into Nigeria."
-    }
-  ],
-  cutaways: [
-    {
-      key: "growth",
-      start: _01_execution_at_scale_timing_sec(110),
-      dur: _01_execution_at_scale_timing_sec(8),
-      eyebrow: "Built from scratch",
-      caption: "Africa's largest merchant acquirer, processing billions monthly."
-    }
-  ],
-  closing: {
-    in: _01_execution_at_scale_timing_sec(119),
-    out: _01_execution_at_scale_timing_TOTAL_FRAMES + _01_execution_at_scale_timing_sec(2),
-    eyebrow: "Lesson 1 recap",
-    title: "Execution",
-    titleAccent: "at scale.",
-    subtitle: "Next: why ideas are free, and execution is everything.",
-    chips: ["Execution Over Ideas"]
-  }
-};
-
-;// ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/02-ideas-are-free/timing.ts
-
-const _02_ideas_are_free_timing_sec = (s) => Math.round(s * 30);
-const _02_ideas_are_free_timing_TOTAL_FRAMES = _02_ideas_are_free_timing_sec(45);
-const _02_ideas_are_free_timing_content = {
-  trackerTitle: "Ideas vs Execution",
-  trackerIn: _02_ideas_are_free_timing_sec(6),
-  totalFrames: _02_ideas_are_free_timing_TOTAL_FRAMES,
-  hook: {
-    in: _02_ideas_are_free_timing_sec(1),
-    out: _02_ideas_are_free_timing_sec(8),
-    eyebrow: "The Thesis \xB7 02",
-    line1: "Ideas are free.",
-    line1Accent: "Execution is everything.",
-    line2: "The one idea the whole talk turns on."
-  },
-  speaker: {
-    in: _02_ideas_are_free_timing_sec(9),
-    out: _02_ideas_are_free_timing_sec(19),
-    name: "Tosin Eniolorunda",
-    title: "Founder & CEO, Moniepoint"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Ideas are free",
-      title: "An idea is\na dime a dozen",
-      caption: "It is nothing, and it is not waiting for you.",
-      activeAt: _02_ideas_are_free_timing_sec(3)
-    }
-  ],
-  quotes: [
-    {
-      in: _02_ideas_are_free_timing_sec(21),
-      out: _02_ideas_are_free_timing_sec(31),
-      text: "Ideas are free. Execution is everything.",
-      attribution: "Tosin Eniolorunda"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "idea",
-      start: _02_ideas_are_free_timing_sec(32),
-      dur: _02_ideas_are_free_timing_sec(7),
-      eyebrow: "The thesis",
-      caption: "Pick the idea up and truly execute it."
-    }
-  ],
-  closing: {
-    in: _02_ideas_are_free_timing_sec(39),
-    out: _02_ideas_are_free_timing_TOTAL_FRAMES + _02_ideas_are_free_timing_sec(2),
-    eyebrow: "Lesson 2 recap",
-    title: "Execution",
-    titleAccent: "is everything.",
-    subtitle: "Next: the biggest challenge you will face is you.",
-    chips: ["Execution Over Ideas"]
-  }
-};
-
-;// ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/03-biggest-challenge-is-you/timing.ts
-
-const _03_biggest_challenge_is_you_timing_sec = (s) => Math.round(s * 30);
-const _03_biggest_challenge_is_you_timing_TOTAL_FRAMES = _03_biggest_challenge_is_you_timing_sec(73);
-const _03_biggest_challenge_is_you_timing_content = {
-  trackerTitle: "Conquer Yourself",
-  trackerIn: _03_biggest_challenge_is_you_timing_sec(6),
-  totalFrames: _03_biggest_challenge_is_you_timing_TOTAL_FRAMES,
-  hook: {
-    in: _03_biggest_challenge_is_you_timing_sec(1),
-    out: _03_biggest_challenge_is_you_timing_sec(8),
-    eyebrow: "Conquer Yourself \xB7 03",
-    line1: "The biggest challenge",
-    line1Accent: "is you.",
-    line2: "Master the inner game before the outer one."
-  },
-  speaker: {
-    in: _03_biggest_challenge_is_you_timing_sec(10),
-    out: _03_biggest_challenge_is_you_timing_sec(21),
-    name: "Tosin Eniolorunda",
-    title: "Founder & CEO, Moniepoint"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "It is you",
-      title: "The biggest battle\nis internal",
-      caption: "Conquer yourself and you conquer the world.",
-      activeAt: _03_biggest_challenge_is_you_timing_sec(3)
-    },
-    {
-      n: 2,
-      short: "A mental model",
-      title: "Build a mental model\nshaped by what works",
-      caption: "Grounded in reality, conviction, and what actually works.",
-      activeAt: _03_biggest_challenge_is_you_timing_sec(38)
-    }
-  ],
-  quotes: [
-    {
-      in: _03_biggest_challenge_is_you_timing_sec(22),
-      out: _03_biggest_challenge_is_you_timing_sec(33),
-      text: "When you conquer yourself, you conquer the world.",
-      attribution: "Tosin Eniolorunda"
-    }
-  ],
-  stats: [
-    {
-      in: _03_biggest_challenge_is_you_timing_sec(46),
-      out: _03_biggest_challenge_is_you_timing_sec(57),
-      count: 7,
-      label: "Internal principles that build, and diagnose, a great organization."
+      label: "Of ten venture-backed startups, eight will fail. Investors know it."
     }
   ],
   cutaways: [
     {
       key: "target",
-      start: _03_biggest_challenge_is_you_timing_sec(60),
-      dur: _03_biggest_challenge_is_you_timing_sec(6),
-      eyebrow: "The inner game",
-      caption: "Keep a calm mind and aim at what you can control."
+      start: m(642),
+      dur: map_sec(10),
+      eyebrow: "The real question",
+      caption: "Who wants it? Who cares? And how do you find them?"
     }
   ],
   closing: {
-    in: _03_biggest_challenge_is_you_timing_sec(66),
-    out: _03_biggest_challenge_is_you_timing_TOTAL_FRAMES + _03_biggest_challenge_is_you_timing_sec(2),
-    eyebrow: "Lesson 3 recap",
-    title: "Conquer yourself,",
-    titleAccent: "then the seven principles.",
-    subtitle: "Next: principle one, goals.",
-    chips: ["Execution Over Ideas"]
+    in: map_sec(229),
+    out: _01_the_only_non_negotiable_timing_TOTAL_FRAMES + map_sec(2),
+    eyebrow: "Lesson 1 recap",
+    title: "No customers,",
+    titleAccent: "no business.",
+    subtitle: "Next: being unique and important at the same time.",
+    chips: ["Customers first", "8/10 fail", "CAC vs LTV"]
   }
 };
 
-;// ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/04-goals-write-the-number/timing.ts
+;// ./src/instincthub/marketing-and-sales/02-unique-and-important/timing.ts
 
-const _04_goals_write_the_number_timing_sec = (s) => Math.round(s * 30);
-const _04_goals_write_the_number_timing_TOTAL_FRAMES = _04_goals_write_the_number_timing_sec(190);
-const _04_goals_write_the_number_timing_content = {
-  trackerTitle: "Principle 1 \xB7 Goals",
-  trackerIn: _04_goals_write_the_number_timing_sec(6),
-  totalFrames: _04_goals_write_the_number_timing_TOTAL_FRAMES,
+
+const timing_RANGES = [[759, 902.5]];
+const timing_m = makeSrcMapper(timing_RANGES);
+const _02_unique_and_important_timing_TOTAL_FRAMES = rangesFrames(timing_RANGES);
+const _02_unique_and_important_timing_content = {
+  trackerTitle: "Unique & Important",
+  trackerIn: map_sec(18),
+  totalFrames: _02_unique_and_important_timing_TOTAL_FRAMES,
+  slideWindows: [
+    [map_sec(3), map_sec(13)],
+    [map_sec(99), map_sec(109)],
+    [map_sec(126), map_sec(130)]
+  ],
   hook: {
-    in: _04_goals_write_the_number_timing_sec(1),
-    out: _04_goals_write_the_number_timing_sec(8),
-    eyebrow: "Principle 1 \xB7 Goals",
-    line1: "If it isn't a number,",
-    line1Accent: "it's just vibes.",
-    line2: "Goals: the first of seven principles."
+    in: map_sec(14),
+    out: map_sec(22),
+    eyebrow: "Marketing & Sales \xB7 Lesson 2",
+    line1: "Be important. Be unique.",
+    line1Accent: "The sweet spot is both.",
+    line2: "Air is important but not unique. A decal is the reverse."
   },
-  speaker: {
-    in: _04_goals_write_the_number_timing_sec(10),
-    out: _04_goals_write_the_number_timing_sec(21),
-    name: "Tosin Eniolorunda",
-    title: "Founder & CEO, Moniepoint"
+  instructor: {
+    in: map_sec(23),
+    out: map_sec(33),
+    name: "Bob Jones",
+    title: "Serial Entrepreneur \xB7 MIT Sloan"
   },
-  chapters: [
+  sections: [
     {
       n: 1,
-      short: "Write it down",
-      title: "Goals become\nwritten numbers",
-      caption: "If a goal cannot become a number on paper, it is just vibes.",
-      activeAt: _04_goals_write_the_number_timing_sec(3)
+      short: "Two descriptors",
+      title: "Important and unique:\naim for both",
+      caption: "Most offerings score on one. The sweet spot is the overlap.",
+      activeAt: timing_m(774),
+      noReveal: true
     },
     {
       n: 2,
-      short: "The $100M number",
-      title: "My number was\n$100 million",
-      caption: "An obligation to everyone who took a chance to join.",
-      activeAt: _04_goals_write_the_number_timing_sec(50)
+      short: "Air, made valuable",
+      title: "Positioning decides\nwhat air is worth",
+      caption: "100 feet down in the kelp beds, air is priceless.",
+      activeAt: timing_m(795)
     },
     {
       n: 3,
-      short: "Know the metrics",
-      title: "Know what\nwinning looks like",
-      caption: "Revenue, margin, cash flow, profit. Name the numbers.",
-      activeAt: _04_goals_write_the_number_timing_sec(140)
+      short: "Who finds it unique?",
+      title: "Who finds your offering\nunique and important?",
+      caption: "Start there, then tell them, then take their money.",
+      activeAt: timing_m(868.5)
+    },
+    {
+      n: 4,
+      short: "Simple \u2260 easy",
+      title: "Simple is not\nthe same as easy",
+      caption: "Miss both tests and you will flounder.",
+      activeAt: timing_m(879)
     }
   ],
   quotes: [],
   stats: [
     {
-      in: _04_goals_write_the_number_timing_sec(70),
-      out: _04_goals_write_the_number_timing_sec(82),
-      value: "$100M",
-      label: "The founding goal Tosin wrote down for Moniepoint."
-    },
-    {
-      in: _04_goals_write_the_number_timing_sec(96),
-      out: _04_goals_write_the_number_timing_sec(108),
-      value: "1%",
-      label: "Equity offered to early hires, the pitch worth about a million dollars."
-    },
-    {
-      in: _04_goals_write_the_number_timing_sec(120),
-      out: _04_goals_write_the_number_timing_sec(132),
-      count: 5e3,
-      label: "Employees today. You cannot point each one in the right direction by hand."
+      in: timing_m(835),
+      out: timing_m(849),
+      value: "$6B",
+      label: "Sealed Air built six billion dollars on bubbles of air."
     }
   ],
   cutaways: [
     {
-      key: "target",
-      start: _04_goals_write_the_number_timing_sec(174),
-      dur: _04_goals_write_the_number_timing_sec(8),
-      eyebrow: "Principle 1",
-      caption: "Set the number. Know what winning looks like."
+      key: "idea",
+      start: timing_m(789),
+      dur: map_sec(9),
+      eyebrow: "The test",
+      caption: "Air is important, not unique. An MIT decal is unique, not important."
     }
   ],
   closing: {
-    in: _04_goals_write_the_number_timing_sec(183),
-    out: _04_goals_write_the_number_timing_TOTAL_FRAMES + _04_goals_write_the_number_timing_sec(2),
+    in: map_sec(134),
+    out: _02_unique_and_important_timing_TOTAL_FRAMES + map_sec(2),
+    eyebrow: "Lesson 2 recap",
+    title: "Unique and important,",
+    titleAccent: "together.",
+    subtitle: "Next: a perfect plan meets the real market.",
+    chips: ["Positioning", "$0.15 \u2192 $4", "Sweet spot"]
+  }
+};
+
+;// ./src/instincthub/marketing-and-sales/03-regain-the-perfect-plan/timing.ts
+
+
+const _03_regain_the_perfect_plan_timing_RANGES = [[902.5, 1213.5]];
+const _03_regain_the_perfect_plan_timing_m = makeSrcMapper(_03_regain_the_perfect_plan_timing_RANGES);
+const _03_regain_the_perfect_plan_timing_TOTAL_FRAMES = rangesFrames(_03_regain_the_perfect_plan_timing_RANGES);
+const _03_regain_the_perfect_plan_timing_content = {
+  trackerTitle: "The Perfect Plan",
+  trackerIn: map_sec(20),
+  totalFrames: _03_regain_the_perfect_plan_timing_TOTAL_FRAMES,
+  slideWindows: [
+    [map_sec(2), map_sec(19)],
+    [map_sec(124), map_sec(134)],
+    [map_sec(163), map_sec(173)],
+    [map_sec(210), map_sec(220)]
+  ],
+  hook: {
+    in: map_sec(20),
+    out: map_sec(29),
+    eyebrow: "Marketing & Sales \xB7 Lesson 3",
+    line1: "A $200M business about to vanish,",
+    line1Accent: "and the perfect replacement plan.",
+    line2: "Every box ticked. Watch closely."
+  },
+  instructor: {
+    in: map_sec(30),
+    out: map_sec(40),
+    name: "Bob Jones",
+    title: "Serial Entrepreneur \xB7 MIT Sloan"
+  },
+  sections: [
+    {
+      n: 1,
+      short: "A sleepy business",
+      title: "$200M a year,\nabout to go away",
+      caption: "Leveraged buyout, a 50% growth target, then managed care arrived.",
+      activeAt: _03_regain_the_perfect_plan_timing_m(922.5),
+      noReveal: true
+    },
+    {
+      n: 2,
+      short: "The big idea",
+      title: "Reposition for a\nbroader market",
+      caption: "ICU nutrition for people out walking the street. Nobody had done it.",
+      activeAt: _03_regain_the_perfect_plan_timing_m(990)
+    },
+    {
+      n: 3,
+      short: "A findable market",
+      title: "400,000 patients,\nthree visits a week",
+      caption: "Fluid-restricted, malnourished, and listed in a federal document.",
+      activeAt: _03_regain_the_perfect_plan_timing_m(1037)
+    },
+    {
+      n: 4,
+      short: "Regain",
+      title: "Good science,\nglowing surveys",
+      caption: "Peer-reviewed results. Clinicians: all patients, 7 days a week, $3 a bar.",
+      activeAt: _03_regain_the_perfect_plan_timing_m(1106)
+    },
+    {
+      n: 5,
+      short: "The launch",
+      title: "Beauty shots, brochures,\nsales force, launch",
+      caption: "Commission plans and incentives. What could possibly go wrong?",
+      activeAt: _03_regain_the_perfect_plan_timing_m(1202)
+    }
+  ],
+  quotes: [
+    {
+      in: _03_regain_the_perfect_plan_timing_m(1007),
+      out: _03_regain_the_perfect_plan_timing_m(1019),
+      text: "Like most entrepreneurs, it was a triumph of energy over good sense.",
+      attribution: "Bob Jones"
+    }
+  ],
+  stats: [
+    {
+      in: _03_regain_the_perfect_plan_timing_m(938),
+      out: _03_regain_the_perfect_plan_timing_m(951),
+      value: "$3 \u2192 $70",
+      label: "A liter of IV solution cost $3 to make and sold for $70."
+    },
+    {
+      in: _03_regain_the_perfect_plan_timing_m(1051),
+      out: _03_regain_the_perfect_plan_timing_m(1063),
+      value: "400k",
+      label: "Dialysis patients, three times a week, at 300 listed centers."
+    }
+  ],
+  cutaways: [
+    {
+      key: "idea",
+      start: _03_regain_the_perfect_plan_timing_m(1088),
+      dur: map_sec(10),
+      eyebrow: "The product",
+      caption: "High in what they need, none of what they don't, zero fluids."
+    }
+  ],
+  closing: {
+    in: map_sec(301),
+    out: _03_regain_the_perfect_plan_timing_TOTAL_FRAMES + map_sec(2),
+    eyebrow: "Lesson 3 recap",
+    title: "A perfect plan,",
+    titleAccent: "on paper.",
+    subtitle: "Next: the launch, and a complete disaster.",
+    chips: ["Regain", "$3 \u2192 $70", "400k patients"]
+  }
+};
+
+;// ./src/instincthub/marketing-and-sales/04-a-complete-disaster/timing.ts
+
+
+const _04_a_complete_disaster_timing_RANGES = [[1213.5, 1379.5]];
+const _04_a_complete_disaster_timing_m = makeSrcMapper(_04_a_complete_disaster_timing_RANGES);
+const _04_a_complete_disaster_timing_TOTAL_FRAMES = rangesFrames(_04_a_complete_disaster_timing_RANGES);
+const _04_a_complete_disaster_timing_content = {
+  trackerTitle: "The Disaster",
+  trackerIn: map_sec(18),
+  totalFrames: _04_a_complete_disaster_timing_TOTAL_FRAMES,
+  slideWindows: [
+    [map_sec(5), map_sec(15)],
+    [map_sec(54), map_sec(57)],
+    [map_sec(126), map_sec(136)]
+  ],
+  hook: {
+    in: map_sec(16),
+    out: map_sec(25),
+    eyebrow: "Marketing & Sales \xB7 Lesson 4",
+    line1: "Forecast: $400,000 a month.",
+    line1Accent: "Reality: $32,000.",
+    line2: "What actually went wrong with Regain."
+  },
+  instructor: {
+    in: map_sec(26),
+    out: map_sec(36),
+    name: "Bob Jones",
+    title: "Serial Entrepreneur \xB7 MIT Sloan"
+  },
+  sections: [
+    {
+      n: 1,
+      short: "The faceplant",
+      title: "Less than 10%\nof forecast",
+      caption: "A monthly ritual of standing before peers with terrible numbers.",
+      activeAt: _04_a_complete_disaster_timing_m(1217),
+      noReveal: true
+    },
+    {
+      n: 2,
+      short: "The autopsy",
+      title: "What did I\ndo wrong?",
+      caption: "Taste? Liquid loyalty? Plausible answers, all wrong.",
+      activeAt: _04_a_complete_disaster_timing_m(1258)
+    },
+    {
+      n: 3,
+      short: "The real answer",
+      title: "I misidentified\nmy customer",
+      caption: "Clinicians answered the survey. Patients had to buy it and eat it.",
+      activeAt: _04_a_complete_disaster_timing_m(1332)
+    },
+    {
+      n: 4,
+      short: "Rx vs consumer",
+      title: "This is not the\nprescription world",
+      caption: "They pay with their own money, eat it, like it, and buy it again.",
+      activeAt: _04_a_complete_disaster_timing_m(1356)
+    }
+  ],
+  quotes: [],
+  stats: [
+    {
+      in: _04_a_complete_disaster_timing_m(1242),
+      out: _04_a_complete_disaster_timing_m(1256),
+      value: "$400k \u2192 $32k",
+      label: "Monthly forecast vs what actually came in."
+    }
+  ],
+  cutaways: [],
+  closing: {
+    in: map_sec(156),
+    out: _04_a_complete_disaster_timing_TOTAL_FRAMES + map_sec(2),
     eyebrow: "Lesson 4 recap",
-    title: "Goals are",
-    titleAccent: "written numbers.",
-    subtitle: "Next: build a structure that serves the goal.",
-    chips: ["Goals & Structure"]
+    title: "Wrong customer,",
+    titleAccent: "wrong everything.",
+    subtitle: "Next: the costs you only discover too late.",
+    chips: ["<10% of forecast", "Survey the buyer"]
   }
 };
 
-;// ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/05-structure-serves-goals/timing.ts
+;// ./src/instincthub/marketing-and-sales/05-no-money-wrong-channel/timing.ts
 
-const _05_structure_serves_goals_timing_sec = (s) => Math.round(s * 30);
-const _05_structure_serves_goals_timing_TOTAL_FRAMES = _05_structure_serves_goals_timing_sec(190);
-const _05_structure_serves_goals_timing_content = {
-  trackerTitle: "Principle 2 \xB7 Structure",
-  trackerIn: _05_structure_serves_goals_timing_sec(6),
-  totalFrames: _05_structure_serves_goals_timing_TOTAL_FRAMES,
+
+const _05_no_money_wrong_channel_timing_RANGES = [[1379.5, 1572]];
+const _05_no_money_wrong_channel_timing_m = makeSrcMapper(_05_no_money_wrong_channel_timing_RANGES);
+const _05_no_money_wrong_channel_timing_TOTAL_FRAMES = rangesFrames(_05_no_money_wrong_channel_timing_RANGES);
+const _05_no_money_wrong_channel_timing_content = {
+  trackerTitle: "Money & Channel",
+  trackerIn: map_sec(18),
+  totalFrames: _05_no_money_wrong_channel_timing_TOTAL_FRAMES,
   hook: {
-    in: _05_structure_serves_goals_timing_sec(1),
-    out: _05_structure_serves_goals_timing_sec(8),
-    eyebrow: "Principle 2 \xB7 Structure",
-    line1: "Structure serves the goal,",
-    line1Accent: "not the person.",
-    line2: "How Moniepoint reached every corner of Nigeria."
+    in: map_sec(2),
+    out: map_sec(11),
+    eyebrow: "Marketing & Sales \xB7 Lesson 5",
+    line1: "The people who needed it couldn't pay,",
+    line1Accent: "and the shelves weren't open.",
+    line2: "Two more ways the perfect plan was wrong."
   },
-  speaker: {
-    in: _05_structure_serves_goals_timing_sec(10),
-    out: _05_structure_serves_goals_timing_sec(21),
-    name: "Tosin Eniolorunda",
-    title: "Founder & CEO, Moniepoint"
+  instructor: {
+    in: map_sec(13),
+    out: map_sec(23),
+    name: "Bob Jones",
+    title: "Serial Entrepreneur \xB7 MIT Sloan"
   },
-  chapters: [
+  sections: [
     {
       n: 1,
-      short: "Like elections",
-      title: "Win it the way\nelections are won",
-      caption: "Ward to local government to state to national.",
-      activeAt: _05_structure_serves_goals_timing_sec(20)
+      short: "No buyers",
+      title: "3 of 4 had never managed\ntheir own health",
+      caption: "Decades of unmanaged diabetes and blood pressure led them here.",
+      activeAt: _05_no_money_wrong_channel_timing_m(1386)
     },
     {
       n: 2,
-      short: "Serve the goal",
-      title: "Structure serves\nthe goal, not a person",
-      caption: "Do not build the org around one smart individual.",
-      activeAt: _05_structure_serves_goals_timing_sec(80)
+      short: "No money",
+      title: "Public aid, then\nbeer and cigarettes",
+      caption: "If your customer has $5, know what they will actually spend it on.",
+      activeAt: _05_no_money_wrong_channel_timing_m(1418)
     },
     {
       n: 3,
-      short: "Clear ownership",
-      title: "Make ownership\nunmistakable",
-      caption: "Whoever owns a goal must have all they need to hit it.",
-      activeAt: _05_structure_serves_goals_timing_sec(132)
+      short: "Wrong channel",
+      title: "We knew hospitals.\nThis needed pharmacies.",
+      caption: "Retail wouldn't carry it, and the price of entry was brutal.",
+      activeAt: _05_no_money_wrong_channel_timing_m(1436)
+    },
+    {
+      n: 4,
+      short: "Slotting fees",
+      title: "Pay for the shelf,\nor stay off it",
+      caption: "Crest occupies that linear foot, and Crest pays its way.",
+      activeAt: _05_no_money_wrong_channel_timing_m(1498)
     }
   ],
   quotes: [
     {
-      in: _05_structure_serves_goals_timing_sec(34),
-      out: _05_structure_serves_goals_timing_sec(46),
-      text: "To spread across Nigeria, we had to win at every ward.",
-      attribution: "Tosin Eniolorunda"
-    },
-    {
-      in: _05_structure_serves_goals_timing_sec(100),
-      out: _05_structure_serves_goals_timing_sec(112),
-      text: "Structure should be in service of the goals you have.",
-      attribution: "Tosin Eniolorunda"
+      in: _05_no_money_wrong_channel_timing_m(1522),
+      out: _05_no_money_wrong_channel_timing_m(1534),
+      text: "Don't go to any trouble. Just write me a check.",
+      attribution: "Every retail pharmacy chain"
     }
   ],
-  stats: [],
+  stats: [
+    {
+      in: _05_no_money_wrong_channel_timing_m(1539),
+      out: _05_no_money_wrong_channel_timing_m(1553),
+      value: "$1M / qtr",
+      label: "Slotting fees at a major chain, plus 6% of top-line revenue."
+    }
+  ],
   cutaways: [
     {
-      key: "network",
-      start: _05_structure_serves_goals_timing_sec(58),
-      dur: _05_structure_serves_goals_timing_sec(8),
-      eyebrow: "The distribution engine",
-      caption: "Ward to local government to state to national. Win at every level."
+      key: "deal",
+      start: _05_no_money_wrong_channel_timing_m(1488),
+      dur: map_sec(9),
+      eyebrow: "The education",
+      caption: "A linear foot of shelf space is a revenue machine with no vacancy."
     }
   ],
   closing: {
-    in: _05_structure_serves_goals_timing_sec(177),
-    out: _05_structure_serves_goals_timing_TOTAL_FRAMES + _05_structure_serves_goals_timing_sec(2),
+    in: map_sec(182),
+    out: _05_no_money_wrong_channel_timing_TOTAL_FRAMES + map_sec(2),
     eyebrow: "Lesson 5 recap",
-    title: "Structure",
-    titleAccent: "serves the goal.",
-    subtitle: "Next: the hardest constraint of all, people.",
-    chips: ["Goals & Structure"]
+    title: "The channel is part of",
+    titleAccent: "the product.",
+    subtitle: "Next: paying for the mistake, and the lesson that stuck.",
+    chips: ["No budget", "No channel", "$1M/qtr fees"]
   }
 };
 
-;// ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/06-hardest-constraint-people/timing.ts
+;// ./src/instincthub/marketing-and-sales/06-paying-for-the-mistake/timing.ts
 
-const _06_hardest_constraint_people_timing_sec = (s) => Math.round(s * 30);
-const _06_hardest_constraint_people_timing_TOTAL_FRAMES = _06_hardest_constraint_people_timing_sec(116);
-const _06_hardest_constraint_people_timing_content = {
-  trackerTitle: "Principle 3 \xB7 People",
-  trackerIn: _06_hardest_constraint_people_timing_sec(6),
-  totalFrames: _06_hardest_constraint_people_timing_TOTAL_FRAMES,
+
+const _06_paying_for_the_mistake_timing_RANGES = [
+  [1572, 1696.5],
+  [3421, 3451.5]
+];
+const _06_paying_for_the_mistake_timing_m = makeSrcMapper(_06_paying_for_the_mistake_timing_RANGES);
+const _06_paying_for_the_mistake_timing_TOTAL_FRAMES = rangesFrames(_06_paying_for_the_mistake_timing_RANGES);
+const _06_paying_for_the_mistake_timing_content = {
+  trackerTitle: "Paying For It",
+  trackerIn: map_sec(18),
+  totalFrames: _06_paying_for_the_mistake_timing_TOTAL_FRAMES,
+  slideWindows: [
+    [map_sec(2), map_sec(12)],
+    [map_sec(54), map_sec(64)]
+  ],
   hook: {
-    in: _06_hardest_constraint_people_timing_sec(1),
-    out: _06_hardest_constraint_people_timing_sec(8),
-    eyebrow: "Principle 3 \xB7 People",
-    line1: "The right people",
-    line1Accent: "in the right roles.",
-    line2: "The hardest constraint on building world-class."
+    in: map_sec(13),
+    out: map_sec(21.5),
+    eyebrow: "Marketing & Sales \xB7 Lesson 6",
+    line1: "It ruined a year of my life.",
+    line1Accent: "Here's what it taught.",
+    line2: "The bill for misidentifying a customer."
   },
-  speaker: {
-    in: _06_hardest_constraint_people_timing_sec(10),
-    out: _06_hardest_constraint_people_timing_sec(21),
-    name: "Tosin Eniolorunda",
-    title: "Founder & CEO, Moniepoint"
+  instructor: {
+    in: map_sec(22.5),
+    out: map_sec(32),
+    name: "Bob Jones",
+    title: "Serial Entrepreneur \xB7 MIT Sloan"
   },
-  chapters: [
+  sections: [
     {
       n: 1,
-      short: "Right roles",
-      title: "The right people\nin the right roles",
-      caption: "Principle three, and the hardest to satisfy.",
-      activeAt: _06_hardest_constraint_people_timing_sec(3)
+      short: "The fallout",
+      title: "One launch nearly\nsank the IPO",
+      caption: "In the doghouse with the boss, the peers, and Wall Street.",
+      activeAt: _06_paying_for_the_mistake_timing_m(1590)
     },
     {
       n: 2,
-      short: "World-class bar",
-      title: "You compete\nwith the world",
-      caption: "Tosin's biggest competition comes from China, not next door.",
-      activeAt: _06_hardest_constraint_people_timing_sec(64)
+      short: "A year of pain",
+      title: "Twelve months\nof train wreck",
+      caption: "Each month: it's just taking a little longer than we thought.",
+      activeAt: _06_paying_for_the_mistake_timing_m(1604)
+    },
+    {
+      n: 3,
+      short: "The salvage",
+      title: "Inside sales and\n40 state programs",
+      caption: "Reimbursement won state by state, then a quiet exit.",
+      activeAt: _06_paying_for_the_mistake_timing_m(1636.5)
+    },
+    {
+      n: 4,
+      short: "The lesson",
+      title: "Know who writes\nthe check",
+      caption: "Stakeholders matter, but the customer decides.",
+      activeAt: _06_paying_for_the_mistake_timing_m(3422)
     }
   ],
   quotes: [
     {
-      in: _06_hardest_constraint_people_timing_sec(88),
-      out: _06_hardest_constraint_people_timing_sec(100),
-      text: "I am competing globally. I need world-class people.",
-      attribution: "Tosin Eniolorunda"
+      in: _06_paying_for_the_mistake_timing_m(1683),
+      out: _06_paying_for_the_mistake_timing_m(1695),
+      text: "I escaped financially intact, spiritually battered and abused, much wiser, but considerably sadder.",
+      attribution: "Bob Jones"
     }
   ],
   stats: [
     {
-      in: _06_hardest_constraint_people_timing_sec(30),
-      out: _06_hardest_constraint_people_timing_sec(42),
-      count: 500,
-      label: "Open roles at Moniepoint, and a real struggle to fill them well."
+      in: _06_paying_for_the_mistake_timing_m(1645),
+      out: _06_paying_for_the_mistake_timing_m(1658),
+      count: 40,
+      label: "States where Medicaid reimbursement was fought for, one by one."
     }
   ],
-  cutaways: [
-    {
-      key: "deal",
-      start: _06_hardest_constraint_people_timing_sec(102),
-      dur: _06_hardest_constraint_people_timing_sec(7),
-      eyebrow: "Principle 3",
-      caption: "Hire for the global standard, not the local one."
-    }
-  ],
+  cutaways: [],
   closing: {
-    in: _06_hardest_constraint_people_timing_sec(109),
-    out: _06_hardest_constraint_people_timing_TOTAL_FRAMES + _06_hardest_constraint_people_timing_sec(2),
+    in: map_sec(145),
+    out: _06_paying_for_the_mistake_timing_TOTAL_FRAMES + map_sec(2),
     eyebrow: "Lesson 6 recap",
-    title: "People are",
-    titleAccent: "the hardest constraint.",
-    subtitle: "Next: the number one trait, customer obsession.",
-    chips: ["The Right People"]
+    title: "Tuition paid:",
+    titleAccent: "know your customer.",
+    subtitle: "Next: a new venture that got it right from day one.",
+    chips: ["Sold the business", "Lesson learned"]
   }
 };
 
-;// ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/07-customer-obsession/timing.ts
+;// ./src/instincthub/marketing-and-sales/07-find-the-emotional-problem/timing.ts
 
-const _07_customer_obsession_timing_sec = (s) => Math.round(s * 30);
-const _07_customer_obsession_timing_TOTAL_FRAMES = _07_customer_obsession_timing_sec(265);
-const _07_customer_obsession_timing_content = {
-  trackerTitle: "Trait 1 \xB7 Customer Obsession",
-  trackerIn: _07_customer_obsession_timing_sec(6),
-  totalFrames: _07_customer_obsession_timing_TOTAL_FRAMES,
+
+const _07_find_the_emotional_problem_timing_RANGES = [[1696.5, 1948]];
+const _07_find_the_emotional_problem_timing_m = makeSrcMapper(_07_find_the_emotional_problem_timing_RANGES);
+const _07_find_the_emotional_problem_timing_TOTAL_FRAMES = rangesFrames(_07_find_the_emotional_problem_timing_RANGES);
+const _07_find_the_emotional_problem_timing_content = {
+  trackerTitle: "The Real Problem",
+  trackerIn: map_sec(20),
+  totalFrames: _07_find_the_emotional_problem_timing_TOTAL_FRAMES,
+  slideWindows: [
+    [map_sec(6), map_sec(16)],
+    [map_sec(25), map_sec(45)],
+    [map_sec(103), map_sec(113)],
+    [map_sec(152), map_sec(162)]
+  ],
   hook: {
-    in: _07_customer_obsession_timing_sec(1),
-    out: _07_customer_obsession_timing_sec(8),
-    eyebrow: "Trait 1 \xB7 Customer Obsession",
-    line1: "Make your customers",
-    line1Accent: "love you.",
-    line2: "The number one trait, ahead of revenue."
+    in: map_sec(16.5),
+    out: map_sec(24.5),
+    eyebrow: "Marketing & Sales \xB7 Lesson 7",
+    line1: "Parents checking a sleeping child at 2am.",
+    line1Accent: "That's a problem worth solving.",
+    line2: "The discovery that built NiteBite."
   },
-  speaker: {
-    in: _07_customer_obsession_timing_sec(10),
-    out: _07_customer_obsession_timing_sec(21),
-    name: "Tosin Eniolorunda",
-    title: "Founder & CEO, Moniepoint"
+  instructor: {
+    in: map_sec(45.5),
+    out: map_sec(55),
+    name: "Bob Jones",
+    title: "Serial Entrepreneur \xB7 MIT Sloan"
   },
-  chapters: [
+  sections: [
     {
       n: 1,
-      short: "Love beats revenue",
-      title: "Make customers\nlove you",
-      caption: "The number one job, ahead of even revenue.",
-      activeAt: _07_customer_obsession_timing_sec(3)
+      short: "New venture",
+      title: "A field big enough\nto get noticed",
+      caption: "And a need small enough for one underpaid employee: diabetes.",
+      activeAt: _07_find_the_emotional_problem_timing_m(1745)
     },
     {
       n: 2,
-      short: "Basic: reliability",
-      title: "Basic:\njust be reliable",
-      caption: "Reliable infrastructure in an unreliable country.",
-      activeAt: _07_customer_obsession_timing_sec(56)
+      short: "The numbers",
+      title: "10 million diagnosed,\n4 million on insulin",
+      caption: "Get the dose wrong and blood sugar crashes.",
+      activeAt: _07_find_the_emotional_problem_timing_m(1764)
     },
     {
       n: 3,
-      short: "Performance: speed",
-      title: "Performance:\nsettle them instantly",
-      caption: "Banks paid merchants next day. Moniepoint did instant.",
-      activeAt: _07_customer_obsession_timing_sec(120)
+      short: "The danger",
+      title: "Tight control triples\nlow blood sugar",
+      caption: "From 2am until morning is the danger zone.",
+      activeAt: _07_find_the_emotional_problem_timing_m(1810)
     },
     {
       n: 4,
-      short: "Delighters",
-      title: "Delighters:\nwhat they don't expect",
-      caption: "Warn them a bank is down before their money hangs.",
-      activeAt: _07_customer_obsession_timing_sec(178)
+      short: "The fear",
+      title: "I'm afraid I'll die\nin my sleep",
+      caption: "Focus groups surfaced the real, emotional problem.",
+      activeAt: _07_find_the_emotional_problem_timing_m(1884)
+    },
+    {
+      n: 5,
+      short: "Parents at 2am",
+      title: "Is she asleep,\nor in a coma?",
+      caption: "Every night, parents stood at the bedroom door and wondered.",
+      activeAt: _07_find_the_emotional_problem_timing_m(1920)
     }
   ],
   quotes: [
     {
-      in: _07_customer_obsession_timing_sec(96),
-      out: _07_customer_obsession_timing_sec(108),
-      text: "Building reliable systems in an unreliable country is something else entirely.",
-      attribution: "Tosin Eniolorunda"
-    },
-    {
-      in: _07_customer_obsession_timing_sec(228),
-      out: _07_customer_obsession_timing_sec(240),
-      text: "When customers love you, the money will follow.",
-      attribution: "Tosin Eniolorunda"
+      in: _07_find_the_emotional_problem_timing_m(1900),
+      out: _07_find_the_emotional_problem_timing_m(1913),
+      text: "I have an alarm clock go off every hour or two, just to make sure I don't have a good night's sleep, ever.",
+      attribution: "Focus group patient"
     }
   ],
   stats: [
     {
-      in: _07_customer_obsession_timing_sec(150),
-      out: _07_customer_obsession_timing_sec(162),
-      value: "Instant",
-      label: "Moniepoint settles merchants instantly, not the next day."
+      in: _07_find_the_emotional_problem_timing_m(1782),
+      out: _07_find_the_emotional_problem_timing_m(1795),
+      value: "10M / 4M",
+      label: "People diagnosed with diabetes; those injecting insulin daily."
     }
   ],
   cutaways: [
     {
-      key: "deal",
-      start: _07_customer_obsession_timing_sec(244),
-      dur: _07_customer_obsession_timing_sec(8),
-      eyebrow: "Trait 1",
-      caption: "Keep delighting. Today's delighter is tomorrow's basic."
+      key: "idea",
+      start: _07_find_the_emotional_problem_timing_m(1837.5),
+      dur: map_sec(9),
+      eyebrow: "The danger zone",
+      caption: "The snack runs out at 2am. The insulin keeps working until dawn."
     }
   ],
   closing: {
-    in: _07_customer_obsession_timing_sec(254),
-    out: _07_customer_obsession_timing_TOTAL_FRAMES + _07_customer_obsession_timing_sec(2),
+    in: map_sec(241),
+    out: _07_find_the_emotional_problem_timing_TOTAL_FRAMES + map_sec(2),
     eyebrow: "Lesson 7 recap",
-    title: "Customers love you,",
-    titleAccent: "money follows.",
-    subtitle: "Next: craft, ownership, and candor.",
-    chips: ["The Right People"]
+    title: "Find the fear,",
+    titleAccent: "find the product.",
+    subtitle: "Next: letting customers shape everything, even the name.",
+    chips: ["10M market", "2am danger zone", "Real fear"]
   }
 };
 
-;// ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/08-traits-craft-to-candor/timing.ts
+;// ./src/instincthub/marketing-and-sales/08-customers-shape-the-product/timing.ts
 
-const _08_traits_craft_to_candor_timing_sec = (s) => Math.round(s * 30);
-const _08_traits_craft_to_candor_timing_TOTAL_FRAMES = _08_traits_craft_to_candor_timing_sec(131);
-const _08_traits_craft_to_candor_timing_content = {
-  trackerTitle: "Traits to Hire For",
-  trackerIn: _08_traits_craft_to_candor_timing_sec(6),
-  totalFrames: _08_traits_craft_to_candor_timing_TOTAL_FRAMES,
+
+const _08_customers_shape_the_product_timing_RANGES = [
+  [1948, 2011],
+  [2047, 2164]
+];
+const _08_customers_shape_the_product_timing_m = makeSrcMapper(_08_customers_shape_the_product_timing_RANGES);
+const _08_customers_shape_the_product_timing_TOTAL_FRAMES = rangesFrames(_08_customers_shape_the_product_timing_RANGES);
+const _08_customers_shape_the_product_timing_content = {
+  trackerTitle: "Customer-Shaped",
+  trackerIn: map_sec(18),
+  totalFrames: _08_customers_shape_the_product_timing_TOTAL_FRAMES,
+  slideWindows: [
+    [map_sec(7), map_sec(17)],
+    [map_sec(156), map_sec(166)]
+  ],
   hook: {
-    in: _08_traits_craft_to_candor_timing_sec(1),
-    out: _08_traits_craft_to_candor_timing_sec(8),
-    eyebrow: "Traits 2 to 6 \xB7 People",
-    line1: "Craft, ownership,",
-    line1Accent: "candor.",
-    line2: "The traits that let an organization scale."
+    in: map_sec(17.5),
+    out: map_sec(26.5),
+    eyebrow: "Marketing & Sales \xB7 Lesson 8",
+    line1: "They didn't buy a medical product.",
+    line1Accent: "They bought peace of mind in a wrapper.",
+    line2: "How customers named, packaged, and saved NiteBite."
   },
-  speaker: {
-    in: _08_traits_craft_to_candor_timing_sec(10),
-    out: _08_traits_craft_to_candor_timing_sec(21),
-    name: "Tosin Eniolorunda",
-    title: "Founder & CEO, Moniepoint"
+  instructor: {
+    in: map_sec(27),
+    out: map_sec(37),
+    name: "Bob Jones",
+    title: "Serial Entrepreneur \xB7 MIT Sloan"
   },
-  chapters: [
+  sections: [
     {
       n: 1,
-      short: "Craft & systems",
-      title: "Craft, then\nsystems over memory",
-      caption: "Be excellent, and encode it so it does not rely on memory.",
-      activeAt: _08_traits_craft_to_candor_timing_sec(6)
+      short: "The invention",
+      title: "Timed-release\nglucose",
+      caption: "Sucrose, protein, uncooked cornstarch: a patented birthday cake.",
+      activeAt: _08_customers_shape_the_product_timing_m(1968)
     },
     {
       n: 2,
-      short: "Own it, move fast",
-      title: "Ownership\nand urgency",
-      caption: "People who own outcomes and move with urgency.",
-      activeAt: _08_traits_craft_to_candor_timing_sec(48)
+      short: "Their identity",
+      title: "I'm not a diabetic.\nI'm a person.",
+      caption: "Lawyers and bankers managing a condition, privately.",
+      activeAt: _08_customers_shape_the_product_timing_m(2052)
     },
     {
       n: 3,
-      short: "No politics",
-      title: "No ego.\nMeritocracy.",
-      caption: "Hierarchy breeds politics. Scale needs candor and merit.",
-      activeAt: _08_traits_craft_to_candor_timing_sec(86)
-    }
-  ],
-  quotes: [
-    {
-      in: _08_traits_craft_to_candor_timing_sec(100),
-      out: _08_traits_craft_to_candor_timing_sec(112),
-      text: "Politics is caused by a boss who is not meritocratic.",
-      attribution: "Tosin Eniolorunda"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "network",
-      start: _08_traits_craft_to_candor_timing_sec(114),
-      dur: _08_traits_craft_to_candor_timing_sec(7),
-      eyebrow: "Traits 2 to 6",
-      caption: "Merit over hierarchy lets information, and the org, flow."
-    }
-  ],
-  closing: {
-    in: _08_traits_craft_to_candor_timing_sec(122),
-    out: _08_traits_craft_to_candor_timing_TOTAL_FRAMES + _08_traits_craft_to_candor_timing_sec(2),
-    eyebrow: "Lesson 8 recap",
-    title: "Hire for craft",
-    titleAccent: "and candor.",
-    subtitle: "Next: how to motivate the people you hire.",
-    chips: ["The Right People"]
-  }
-};
-
-;// ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/09-four-ms-motivation/timing.ts
-
-const _09_four_ms_motivation_timing_sec = (s) => Math.round(s * 30);
-const _09_four_ms_motivation_timing_TOTAL_FRAMES = _09_four_ms_motivation_timing_sec(191);
-const _09_four_ms_motivation_timing_content = {
-  trackerTitle: "Principle 4 \xB7 The Four Ms",
-  trackerIn: _09_four_ms_motivation_timing_sec(6),
-  totalFrames: _09_four_ms_motivation_timing_TOTAL_FRAMES,
-  hook: {
-    in: _09_four_ms_motivation_timing_sec(1),
-    out: _09_four_ms_motivation_timing_sec(8),
-    eyebrow: "Principle 4 \xB7 Motivation",
-    line1: "Meaning, mastery,",
-    line1Accent: "membership, money.",
-    line2: "What your people expect from you."
-  },
-  speaker: {
-    in: _09_four_ms_motivation_timing_sec(10),
-    out: _09_four_ms_motivation_timing_sec(21),
-    name: "Tosin Eniolorunda",
-    title: "Founder & CEO, Moniepoint"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Meaning",
-      title: "Meaning:\nwhy are we doing this?",
-      caption: "People need to see how the mission fits their own destiny.",
-      activeAt: _09_four_ms_motivation_timing_sec(20)
-    },
-    {
-      n: 2,
-      short: "Mastery",
-      title: "Mastery:\nkeep them challenged",
-      caption: "Nobody wants to stay still. Growth keeps people.",
-      activeAt: _09_four_ms_motivation_timing_sec(86)
-    },
-    {
-      n: 3,
-      short: "Membership",
-      title: "Membership:\na tribe to belong to",
-      caption: "Recognized inside and out. I work for Moniepoint.",
-      activeAt: _09_four_ms_motivation_timing_sec(118)
+      short: "Customers saved us",
+      title: "The label that would\nhave killed it",
+      caption: "Customers refused 'for diabetes' on the pack. We listened.",
+      activeAt: _08_customers_shape_the_product_timing_m(2090)
     },
     {
       n: 4,
-      short: "Money is last",
-      title: "Money\nis not the highest",
-      caption: "Past a point, people turn down more pay for meaning.",
-      activeAt: _09_four_ms_motivation_timing_sec(150)
+      short: "Make it normal",
+      title: "Make it look like\nan energy bar",
+      caption: "Kids would rather eat worms than be different at a sleepover.",
+      activeAt: _08_customers_shape_the_product_timing_m(2115)
     }
   ],
   quotes: [
     {
-      in: _09_four_ms_motivation_timing_sec(160),
-      out: _09_four_ms_motivation_timing_sec(174),
-      text: "When basic needs are met, money is no longer the highest.",
-      attribution: "Tosin Eniolorunda"
+      in: _08_customers_shape_the_product_timing_m(2072),
+      out: _08_customers_shape_the_product_timing_m(2085),
+      text: "It's nobody's damn business whether or not I have diabetes.",
+      attribution: "A NiteBite customer"
     }
   ],
   stats: [],
+  cutaways: [],
+  closing: {
+    in: map_sec(170),
+    out: _08_customers_shape_the_product_timing_TOTAL_FRAMES + map_sec(2),
+    eyebrow: "Lesson 8 recap",
+    title: "Let customers",
+    titleAccent: "shape the product.",
+    subtitle: "Next: flying pigs, free samples, and 500 calls a day.",
+    chips: ["No medical name", "Energy-bar look", "Listen first"]
+  }
+};
+
+;// ./src/instincthub/marketing-and-sales/09-advertise-to-the-fear/timing.ts
+
+
+const _09_advertise_to_the_fear_timing_RANGES = [[2173, 2546.5]];
+const _09_advertise_to_the_fear_timing_m = makeSrcMapper(_09_advertise_to_the_fear_timing_RANGES);
+const _09_advertise_to_the_fear_timing_TOTAL_FRAMES = rangesFrames(_09_advertise_to_the_fear_timing_RANGES);
+const _09_advertise_to_the_fear_timing_content = {
+  trackerTitle: "Grow the Funnel",
+  trackerIn: map_sec(20),
+  totalFrames: _09_advertise_to_the_fear_timing_TOTAL_FRAMES,
+  slideWindows: [
+    [map_sec(59), map_sec(69)],
+    [map_sec(146), map_sec(156)]
+  ],
+  hook: {
+    in: map_sec(2),
+    out: map_sec(11),
+    eyebrow: "Marketing & Sales \xB7 Lesson 9",
+    line1: "Every ad in the magazine was a needle.",
+    line1Accent: "Ours was a flying pig.",
+    line2: "Standing out, sampling, and finding the influencers."
+  },
+  instructor: {
+    in: map_sec(13),
+    out: map_sec(24),
+    name: "Bob Jones",
+    title: "Serial Entrepreneur \xB7 MIT Sloan"
+  },
+  sections: [
+    {
+      n: 1,
+      short: "Stand out",
+      title: "In a sea of needles,\nfly a pig",
+      caption: "So ludicrously out of place that nobody turned the page.",
+      activeAt: _09_advertise_to_the_fear_timing_m(2180)
+    },
+    {
+      n: 2,
+      short: "The offer",
+      title: "Call 1-800 for a free\nsample: 500 calls a day",
+      caption: "Phones, people, a database: growth you could hear.",
+      activeAt: _09_advertise_to_the_fear_timing_m(2242.5)
+    },
+    {
+      n: 3,
+      short: "Influencers",
+      title: "Find who your\ncustomer listens to",
+      caption: "Certified Diabetes Educators, all findable on one website.",
+      activeAt: _09_advertise_to_the_fear_timing_m(2329.5)
+    },
+    {
+      n: 4,
+      short: "Their frustration",
+      title: "The educators' pain\nis compliance",
+      caption: "I tell them what to do, and they don't do it.",
+      activeAt: _09_advertise_to_the_fear_timing_m(2399)
+    },
+    {
+      n: 5,
+      short: "Cold calls",
+      title: "Thirty seconds,\nthen a referral",
+      caption: "Who else should we call? Thousands of clinician advocates.",
+      activeAt: _09_advertise_to_the_fear_timing_m(2446)
+    }
+  ],
+  quotes: [
+    {
+      in: _09_advertise_to_the_fear_timing_m(2522),
+      out: _09_advertise_to_the_fear_timing_m(2535),
+      text: "Their reward was not financial. Their patients came back and said: this stuff's awesome.",
+      attribution: "Bob Jones"
+    }
+  ],
+  stats: [
+    {
+      in: _09_advertise_to_the_fear_timing_m(2256),
+      out: _09_advertise_to_the_fear_timing_m(2271),
+      count: 500,
+      suffix: "/day",
+      label: "Calls into a ratty office above a Kendall Square barber shop."
+    },
+    {
+      in: _09_advertise_to_the_fear_timing_m(2300),
+      out: _09_advertise_to_the_fear_timing_m(2314),
+      value: "$0",
+      label: "Slotting fees paid to enter every major pharmacy chain."
+    }
+  ],
   cutaways: [
     {
       key: "growth",
-      start: _09_four_ms_motivation_timing_sec(176),
-      dur: _09_four_ms_motivation_timing_sec(7),
-      eyebrow: "Principle 4",
-      caption: "Meaning and mastery keep people that money cannot."
+      start: _09_advertise_to_the_fear_timing_m(2282),
+      dur: map_sec(9),
+      eyebrow: "Scaling up",
+      caption: "Three computers to a table, elbow to elbow, and onto something."
     }
   ],
   closing: {
-    in: _09_four_ms_motivation_timing_sec(184),
-    out: _09_four_ms_motivation_timing_TOTAL_FRAMES + _09_four_ms_motivation_timing_sec(2),
+    in: map_sec(364),
+    out: _09_advertise_to_the_fear_timing_TOTAL_FRAMES + map_sec(2),
     eyebrow: "Lesson 9 recap",
-    title: "Motivate with",
-    titleAccent: "the four Ms.",
-    subtitle: "Next: incentives and context.",
-    chips: ["Motivate & Run the Machine"]
+    title: "Reach the fear,",
+    titleAccent: "feed the funnel.",
+    subtitle: "Next: turning phone orders into pharmacy shelves.",
+    chips: ["Flying pigs", "$0 slotting", "CDE network"]
   }
 };
 
-;// ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/10-incentives-and-context/timing.ts
+;// ./src/instincthub/marketing-and-sales/10-phone-orders-to-shelves/timing.ts
 
-const _10_incentives_and_context_timing_sec = (s) => Math.round(s * 30);
-const _10_incentives_and_context_timing_TOTAL_FRAMES = _10_incentives_and_context_timing_sec(70);
-const _10_incentives_and_context_timing_content = {
-  trackerTitle: "Principles 5 & 6",
-  trackerIn: _10_incentives_and_context_timing_sec(6),
-  totalFrames: _10_incentives_and_context_timing_TOTAL_FRAMES,
+
+const _10_phone_orders_to_shelves_timing_RANGES = [[2547, 2812]];
+const _10_phone_orders_to_shelves_timing_m = makeSrcMapper(_10_phone_orders_to_shelves_timing_RANGES);
+const _10_phone_orders_to_shelves_timing_TOTAL_FRAMES = rangesFrames(_10_phone_orders_to_shelves_timing_RANGES);
+const _10_phone_orders_to_shelves_timing_content = {
+  trackerTitle: "Into Retail",
+  trackerIn: map_sec(20),
+  totalFrames: _10_phone_orders_to_shelves_timing_TOTAL_FRAMES,
+  slideWindows: [
+    [map_sec(0), map_sec(10)],
+    [map_sec(61), map_sec(71)],
+    [map_sec(124), map_sec(134)]
+  ],
   hook: {
-    in: _10_incentives_and_context_timing_sec(1),
-    out: _10_incentives_and_context_timing_sec(8),
-    eyebrow: "Principles 5 & 6",
-    line1: "Incentives",
-    line1Accent: "and context.",
-    line2: "Reward the work, and give people what they need to do it."
+    in: map_sec(10.5),
+    out: map_sec(19.5),
+    eyebrow: "Marketing & Sales \xB7 Lesson 10",
+    line1: "Nobody stocks a product they've never heard of.",
+    line1Accent: "Unless five customers already asked.",
+    line2: "The demand chain that opened Walgreens."
   },
-  speaker: {
-    in: _10_incentives_and_context_timing_sec(9),
-    out: _10_incentives_and_context_timing_sec(20),
-    name: "Tosin Eniolorunda",
-    title: "Founder & CEO, Moniepoint"
+  instructor: {
+    in: map_sec(20),
+    out: map_sec(30),
+    name: "Bob Jones",
+    title: "Serial Entrepreneur \xB7 MIT Sloan"
   },
-  chapters: [
+  sections: [
     {
       n: 1,
-      short: "Incentives",
-      title: "Incentivize\nthe behaviour",
-      caption: "Commissions, rewards, public recognition.",
-      activeAt: _10_incentives_and_context_timing_sec(4)
+      short: "The flowchart",
+      title: "Educators tell patients.\nPatients call us.",
+      caption: "Attractive, but retail is where the money is.",
+      activeAt: _10_phone_orders_to_shelves_timing_m(2560)
     },
     {
       n: 2,
-      short: "Context",
-      title: "Maybe it's your\ncontext, not them",
-      caption: "People cannot make good calls without the full picture.",
-      activeAt: _10_incentives_and_context_timing_sec(36)
-    }
-  ],
-  quotes: [
-    {
-      in: _10_incentives_and_context_timing_sec(50),
-      out: _10_incentives_and_context_timing_sec(60),
-      text: "Sometimes the person is not bad. Sometimes it is your own problem.",
-      attribution: "Tosin Eniolorunda"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "deal",
-      start: _10_incentives_and_context_timing_sec(60),
-      dur: _10_incentives_and_context_timing_sec(6),
-      eyebrow: "Principles 5 & 6",
-      caption: "Reward outcomes, and give people their context."
-    }
-  ],
-  closing: {
-    in: _10_incentives_and_context_timing_sec(64),
-    out: _10_incentives_and_context_timing_TOTAL_FRAMES + _10_incentives_and_context_timing_sec(2),
-    eyebrow: "Lesson 10 recap",
-    title: "Incentivize,",
-    titleAccent: "and give context.",
-    subtitle: "Next: systems, governance, and the diagnostic.",
-    chips: ["Motivate & Run the Machine"]
-  }
-};
-
-;// ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/11-systems-governance-diagnostic/timing.ts
-
-const _11_systems_governance_diagnostic_timing_sec = (s) => Math.round(s * 30);
-const _11_systems_governance_diagnostic_timing_TOTAL_FRAMES = _11_systems_governance_diagnostic_timing_sec(115);
-const _11_systems_governance_diagnostic_timing_content = {
-  trackerTitle: "Systems & Governance",
-  trackerIn: _11_systems_governance_diagnostic_timing_sec(6),
-  totalFrames: _11_systems_governance_diagnostic_timing_TOTAL_FRAMES,
-  hook: {
-    in: _11_systems_governance_diagnostic_timing_sec(1),
-    out: _11_systems_governance_diagnostic_timing_sec(8),
-    eyebrow: "Principle 7 \xB7 Governance",
-    line1: "Systems and",
-    line1Accent: "governance.",
-    line2: "Encode judgment, then correct the drift."
-  },
-  speaker: {
-    in: _11_systems_governance_diagnostic_timing_sec(9),
-    out: _11_systems_governance_diagnostic_timing_sec(20),
-    name: "Tosin Eniolorunda",
-    title: "Founder & CEO, Moniepoint"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Systems",
-      title: "Systems\nencode judgment",
-      caption: "Memory fails. Systems catch mistakes before they happen.",
-      activeAt: _11_systems_governance_diagnostic_timing_sec(4)
-    },
-    {
-      n: 2,
-      short: "Governance",
-      title: "Governance:\ncorrect the drift",
-      caption: "Reviews close the gap between reality and the plan.",
-      activeAt: _11_systems_governance_diagnostic_timing_sec(34)
+      short: "Qualify hard",
+      title: "Free fudge attracts\neveryone. Qualify.",
+      caption: "What brand of insulin do you use? Sorry, next.",
+      activeAt: _10_phone_orders_to_shelves_timing_m(2618.5)
     },
     {
       n: 3,
-      short: "Diagnose",
-      title: "Use it to\ndiagnose anything",
-      caption: "When something breaks, ask which of the seven failed.",
-      activeAt: _11_systems_governance_diagnostic_timing_sec(72)
+      short: "The nudge",
+      title: "End free shipping,\npoint them to retail",
+      caption: "Wouldn't it be easier to buy it where you buy your insulin?",
+      activeAt: _10_phone_orders_to_shelves_timing_m(2681.5)
+    },
+    {
+      n: 4,
+      short: "The leverage",
+      title: "Diabetes shoppers are\npharmacy gold",
+      caption: "Monitors, strips, insulin: the most valuable basket in the store.",
+      activeAt: _10_phone_orders_to_shelves_timing_m(2692)
+    },
+    {
+      n: 5,
+      short: "The Jost play",
+      title: "Five customers and a\n$99.95 starter pack",
+      caption: "Priced under the corporate-approval line, with zero return risk.",
+      activeAt: _10_phone_orders_to_shelves_timing_m(2719)
     }
   ],
   quotes: [
     {
-      in: _11_systems_governance_diagnostic_timing_sec(88),
-      out: _11_systems_governance_diagnostic_timing_sec(100),
-      text: "Use these seven and you should be on your path to creating a unicorn.",
-      attribution: "Tosin Eniolorunda"
+      in: _10_phone_orders_to_shelves_timing_m(2729),
+      out: _10_phone_orders_to_shelves_timing_m(2741),
+      text: "You tell that turkey that Mabel wants to buy this stuff.",
+      attribution: "A NiteBite customer, about her pharmacist"
+    }
+  ],
+  stats: [
+    {
+      in: _10_phone_orders_to_shelves_timing_m(2702),
+      out: _10_phone_orders_to_shelves_timing_m(2716),
+      value: "3% \u2192 24%",
+      label: "Share of shoppers vs share of retail pharmacy purchases."
+    },
+    {
+      in: _10_phone_orders_to_shelves_timing_m(2778),
+      out: _10_phone_orders_to_shelves_timing_m(2792),
+      value: "$99.95",
+      label: "Starter pack priced just under the manager's $100 approval limit."
+    }
+  ],
+  cutaways: [
+    {
+      key: "funnel",
+      start: _10_phone_orders_to_shelves_timing_m(2580),
+      dur: map_sec(10),
+      eyebrow: "The chain",
+      caption: "Educators to patients to us to retailers: build the demand chain."
+    }
+  ],
+  closing: {
+    in: map_sec(255),
+    out: _10_phone_orders_to_shelves_timing_TOTAL_FRAMES + map_sec(2),
+    eyebrow: "Lesson 10 recap",
+    title: "Demand first,",
+    titleAccent: "shelves second.",
+    subtitle: "Next: educators on Saturdays, and the wholesaler waltz.",
+    chips: ["Qualify leads", "3% \u2192 24%", "$99.95 pack"]
+  }
+};
+
+;// ./src/instincthub/marketing-and-sales/11-educators-and-wholesalers/timing.ts
+
+
+const _11_educators_and_wholesalers_timing_RANGES = [
+  [2818, 3070],
+  [3774, 3856]
+];
+const _11_educators_and_wholesalers_timing_m = makeSrcMapper(_11_educators_and_wholesalers_timing_RANGES);
+const _11_educators_and_wholesalers_timing_TOTAL_FRAMES = rangesFrames(_11_educators_and_wholesalers_timing_RANGES);
+const _11_educators_and_wholesalers_timing_content = {
+  trackerTitle: "Allies & Gatekeepers",
+  trackerIn: map_sec(20),
+  totalFrames: _11_educators_and_wholesalers_timing_TOTAL_FRAMES,
+  slideWindows: [
+    [map_sec(0), map_sec(3)],
+    [map_sec(88), map_sec(98)],
+    [map_sec(133), map_sec(143)]
+  ],
+  hook: {
+    in: map_sec(4),
+    out: map_sec(13),
+    eyebrow: "Marketing & Sales \xB7 Lesson 11",
+    line1: "Content for their Saturday class,",
+    line1Accent: "margins for the wholesaler.",
+    line2: "Make saying yes the easiest thing they do all week."
+  },
+  instructor: {
+    in: map_sec(14),
+    out: map_sec(24),
+    name: "Bob Jones",
+    title: "Serial Entrepreneur \xB7 MIT Sloan"
+  },
+  sections: [
+    {
+      n: 1,
+      short: "Saturday classes",
+      title: "Give educators\ncontent",
+      caption: "Their hardest job is filling a monthly agenda. Fill it for them.",
+      activeAt: _11_educators_and_wholesalers_timing_m(2832)
+    },
+    {
+      n: 2,
+      short: "Close the loop",
+      title: "Put the pharmacist\nin the room",
+      caption: "He stands up, he talks, and he stocks the product.",
+      activeAt: _11_educators_and_wholesalers_timing_m(2873)
+    },
+    {
+      n: 3,
+      short: "Wholesalers",
+      title: "Retailers buy through\nwholesalers",
+      caption: "5,000 invoices become one bill. That is the gate.",
+      activeAt: _11_educators_and_wholesalers_timing_m(2916.5)
+    },
+    {
+      n: 4,
+      short: "Make it painless",
+      title: "Bring the order\nwith the margin",
+      caption: "We did the selling. You just key us into the system.",
+      activeAt: _11_educators_and_wholesalers_timing_m(2961.5)
+    },
+    {
+      n: 5,
+      short: "Handling pushback",
+      title: "When fees are\ntheir revenue",
+      caption: "A near-guaranteed income stream beats slotting fees. And there's always number two.",
+      activeAt: _11_educators_and_wholesalers_timing_m(3776)
+    }
+  ],
+  quotes: [
+    {
+      in: _11_educators_and_wholesalers_timing_m(3041),
+      out: _11_educators_and_wholesalers_timing_m(3054),
+      text: "I've built a business for you. Tell me that again.",
+      attribution: "The wholesaler call"
+    }
+  ],
+  stats: [
+    {
+      in: _11_educators_and_wholesalers_timing_m(2925),
+      out: _11_educators_and_wholesalers_timing_m(2939),
+      count: 5e3,
+      label: "Items in even a small drugstore. Nobody wants 5,000 invoices."
+    }
+  ],
+  cutaways: [
+    {
+      key: "network",
+      start: _11_educators_and_wholesalers_timing_m(2893),
+      dur: map_sec(8),
+      eyebrow: "The web",
+      caption: "Educators, patients, pharmacists, wholesalers: one connected sell."
+    }
+  ],
+  closing: {
+    in: map_sec(324),
+    out: _11_educators_and_wholesalers_timing_TOTAL_FRAMES + map_sec(2),
+    eyebrow: "Lesson 11 recap",
+    title: "Make yes the",
+    titleAccent: "easy answer.",
+    subtitle: "Next: fifteen minutes in Clearwater with 10,000 names.",
+    chips: ["Content play", "Wholesaler math", "Kiss some frogs"]
+  }
+};
+
+;// ./src/instincthub/marketing-and-sales/12-the-planogram-meeting/timing.ts
+
+
+const _12_the_planogram_meeting_timing_RANGES = [[3070, 3365]];
+const _12_the_planogram_meeting_timing_m = makeSrcMapper(_12_the_planogram_meeting_timing_RANGES);
+const _12_the_planogram_meeting_timing_TOTAL_FRAMES = rangesFrames(_12_the_planogram_meeting_timing_RANGES);
+const _12_the_planogram_meeting_timing_content = {
+  trackerTitle: "The Clearwater Pitch",
+  trackerIn: map_sec(20),
+  totalFrames: _12_the_planogram_meeting_timing_TOTAL_FRAMES,
+  slideWindows: [
+    [map_sec(245), map_sec(255)],
+    [map_sec(278), map_sec(288)],
+    [map_sec(292), map_sec(295)]
+  ],
+  hook: {
+    in: map_sec(2),
+    out: map_sec(11),
+    eyebrow: "Marketing & Sales \xB7 Lesson 12",
+    line1: "Fifteen minutes, no money for fees,",
+    line1Accent: "and a printout with 10,000 names.",
+    line2: "The meeting that put NiteBite on national shelves."
+  },
+  instructor: {
+    in: map_sec(13),
+    out: map_sec(24),
+    name: "Bob Jones",
+    title: "Serial Entrepreneur \xB7 MIT Sloan"
+  },
+  sections: [
+    {
+      n: 1,
+      short: "The letter",
+      title: "An invitation\nwe never solicited",
+      caption: "Come to Clearwater, Florida, for a fifteen-minute meeting.",
+      activeAt: _12_the_planogram_meeting_timing_m(3075)
+    },
+    {
+      n: 2,
+      short: "Know the room",
+      title: "How is Jeff\nrewarded?",
+      caption: "A week of 15-minute meetings, paid in slotting fees.",
+      activeAt: _12_the_planogram_meeting_timing_m(3140)
+    },
+    {
+      n: 3,
+      short: "Empty handed",
+      title: "Everyone begged.\nWe brought proof.",
+      caption: "No posters, no end caps: one little portfolio.",
+      activeAt: _12_the_planogram_meeting_timing_m(3182)
+    },
+    {
+      n: 4,
+      short: "The printout",
+      title: "10,000 customers\nin your states",
+      caption: "How would you like us to answer their question?",
+      activeAt: _12_the_planogram_meeting_timing_m(3249)
+    },
+    {
+      n: 5,
+      short: "You're in",
+      title: "Customers are\nnegotiating power",
+      caption: "Not charm, not genius: good, old, hard work.",
+      activeAt: _12_the_planogram_meeting_timing_m(3290)
+    }
+  ],
+  quotes: [
+    {
+      in: _12_the_planogram_meeting_timing_m(3325.5),
+      out: _12_the_planogram_meeting_timing_m(3338),
+      text: "You're not generating the demand. We are. So we're not paying you for it, we're bringing you business.",
+      attribution: "Bob Jones"
+    }
+  ],
+  stats: [
+    {
+      in: _12_the_planogram_meeting_timing_m(3260),
+      out: _12_the_planogram_meeting_timing_m(3274),
+      value: "10,000",
+      label: "People with diabetes asking where to buy, in his states alone."
+    }
+  ],
+  cutaways: [
+    {
+      key: "deal",
+      start: _12_the_planogram_meeting_timing_m(3275),
+      dur: map_sec(10),
+      eyebrow: "Hold your breath",
+      caption: "A full minute of silence before the grin: OK, you're in."
+    }
+  ],
+  // Recedes early: the clip's tail (278s+) is the speaker's own summary slide.
+  closing: {
+    in: map_sec(268.5),
+    out: map_sec(277.5),
+    eyebrow: "Lesson 12 recap",
+    title: "Bring customers,",
+    titleAccent: "skip the fees.",
+    subtitle: "Next: the principles that travel to any business.",
+    chips: ["10,000 names", "No slotting fees", "Sold the company"]
+  }
+};
+
+;// ./src/instincthub/marketing-and-sales/13-selling-is-detective-work/timing.ts
+
+
+const _13_selling_is_detective_work_timing_RANGES = [
+  [3459, 3502.5],
+  [3857, 4064]
+];
+const _13_selling_is_detective_work_timing_m = makeSrcMapper(_13_selling_is_detective_work_timing_RANGES);
+const _13_selling_is_detective_work_timing_TOTAL_FRAMES = rangesFrames(_13_selling_is_detective_work_timing_RANGES);
+const _13_selling_is_detective_work_timing_content = {
+  trackerTitle: "Detective Work",
+  trackerIn: map_sec(18),
+  totalFrames: _13_selling_is_detective_work_timing_TOTAL_FRAMES,
+  slideWindows: [
+    [map_sec(62), map_sec(72)],
+    [map_sec(105), map_sec(115)],
+    [map_sec(174), map_sec(180)],
+    [map_sec(214), map_sec(227)]
+  ],
+  hook: {
+    in: map_sec(2),
+    out: map_sec(11),
+    eyebrow: "Marketing & Sales \xB7 Lesson 13",
+    line1: "A year of business school marketing",
+    line1Accent: "in two bullet points.",
+    line2: "Find out what they want. Give it to them."
+  },
+  instructor: {
+    in: map_sec(13),
+    out: map_sec(23),
+    name: "Bob Jones",
+    title: "Serial Entrepreneur \xB7 MIT Sloan"
+  },
+  sections: [
+    {
+      n: 1,
+      short: "Do the homework",
+      title: "Make it impossible\nto say no",
+      caption: "Before every call: what does this person care about?",
+      activeAt: _13_selling_is_detective_work_timing_m(3464)
+    },
+    {
+      n: 2,
+      short: "Two bullets",
+      title: "Find out what they want.\nGive it to them.",
+      caption: "Everything else is regression analysis.",
+      activeAt: _13_selling_is_detective_work_timing_m(3866)
+    },
+    {
+      n: 3,
+      short: "Detective work",
+      title: "It's not sales,\nit's detective work",
+      caption: "Find your customer rather than promote your product.",
+      activeAt: _13_selling_is_detective_work_timing_m(3929)
+    },
+    {
+      n: 4,
+      short: "Talk to them",
+      title: "Calls. Not emails,\nnot surveys.",
+      caption: "Helpful, but not adequate. Talk to them.",
+      activeAt: _13_selling_is_detective_work_timing_m(3946)
+    },
+    {
+      n: 5,
+      short: "Watch them buy",
+      title: "Stand in the store\nand watch",
+      caption: "Then ask the shopper why. The answer is the market.",
+      activeAt: _13_selling_is_detective_work_timing_m(3963)
+    },
+    {
+      n: 6,
+      short: "Faster horses",
+      title: "See behind\nthe ask",
+      caption: "They'd have said faster horses. Find the need underneath.",
+      activeAt: _13_selling_is_detective_work_timing_m(4041)
+    }
+  ],
+  quotes: [
+    {
+      in: _13_selling_is_detective_work_timing_m(3903),
+      out: _13_selling_is_detective_work_timing_m(3916),
+      text: "There is no hocus-pocus that takes the place of focus.",
+      attribution: "Bob Jones's least favourite boss"
+    }
+  ],
+  stats: [
+    {
+      in: _13_selling_is_detective_work_timing_m(3998),
+      out: _13_selling_is_detective_work_timing_m(4012),
+      value: "$8 vs $1.39",
+      label: "Margarine shoppers decided in seconds, every single time."
+    }
+  ],
+  cutaways: [],
+  closing: {
+    in: map_sec(240),
+    out: _13_selling_is_detective_work_timing_TOTAL_FRAMES + map_sec(2),
+    eyebrow: "Lesson 13 recap",
+    title: "Detective work",
+    titleAccent: "beats promotion.",
+    subtitle: "Next: segmenting by motivation and selling benefits.",
+    chips: ["Two bullets", "Talk to them", "Focus"]
+  }
+};
+
+;// ./src/instincthub/marketing-and-sales/14-segment-and-sell-benefits/timing.ts
+
+
+const _14_segment_and_sell_benefits_timing_RANGES = [
+  [3503, 3769],
+  [4064, 4124]
+];
+const _14_segment_and_sell_benefits_timing_m = makeSrcMapper(_14_segment_and_sell_benefits_timing_RANGES);
+const _14_segment_and_sell_benefits_timing_TOTAL_FRAMES = rangesFrames(_14_segment_and_sell_benefits_timing_RANGES);
+const _14_segment_and_sell_benefits_timing_content = {
+  trackerTitle: "Benefits & Segments",
+  trackerIn: map_sec(20),
+  totalFrames: _14_segment_and_sell_benefits_timing_TOTAL_FRAMES,
+  slideWindows: [
+    [map_sec(0), map_sec(10)],
+    [map_sec(55), map_sec(65)],
+    [map_sec(163), map_sec(173)]
+  ],
+  hook: {
+    in: map_sec(10.5),
+    out: map_sec(19.5),
+    eyebrow: "Marketing & Sales \xB7 Lesson 14",
+    line1: "Nobody needs your product.",
+    line1Accent: "They need what it does for them.",
+    line2: "Segmentation, motivation, and what you're really selling."
+  },
+  instructor: {
+    in: map_sec(20),
+    out: map_sec(30),
+    name: "Bob Jones",
+    title: "Serial Entrepreneur \xB7 MIT Sloan"
+  },
+  sections: [
+    {
+      n: 1,
+      short: "Focus",
+      title: "A product for everyone\nis for no one",
+      caption: "Position it, or lose it.",
+      activeAt: _14_segment_and_sell_benefits_timing_m(3516)
+    },
+    {
+      n: 2,
+      short: "Hire the benefit",
+      title: "I didn't need glasses.\nI needed to see.",
+      caption: "Customers hire products to do a job. Sell the job.",
+      activeAt: _14_segment_and_sell_benefits_timing_m(3527)
+    },
+    {
+      n: 3,
+      short: "Segment",
+      title: "Segment by motivation\nto buy",
+      caption: "Pain now at the top, a graveyard at the bottom. Start at the top.",
+      activeAt: _14_segment_and_sell_benefits_timing_m(3550)
+    },
+    {
+      n: 4,
+      short: "What moves people",
+      title: "Pain, fear, greed,\nvanity move people",
+      caption: "Virtue is a tough sell. Peace of mind is not.",
+      activeAt: _14_segment_and_sell_benefits_timing_m(3676.5)
+    },
+    {
+      n: 5,
+      short: "Peace of mind",
+      title: "Regain sold virtue.\nNiteBite sold peace of mind.",
+      caption: "Once we saw it, the ad copy wrote itself.",
+      activeAt: _14_segment_and_sell_benefits_timing_m(3726)
+    },
+    {
+      n: 6,
+      short: "Benefits in 30s",
+      title: "Communicate benefits\nin thirty seconds",
+      caption: "If you can't, the website and the fundraising won't save you.",
+      activeAt: _14_segment_and_sell_benefits_timing_m(4066)
+    }
+  ],
+  quotes: [
+    {
+      in: _14_segment_and_sell_benefits_timing_m(3737),
+      out: _14_segment_and_sell_benefits_timing_m(3750),
+      text: "One bite and the rest is easy.",
+      attribution: "The NiteBite ad copy"
     }
   ],
   stats: [],
   cutaways: [
     {
-      key: "target",
-      start: _11_systems_governance_diagnostic_timing_sec(100),
-      dur: _11_systems_governance_diagnostic_timing_sec(7),
-      eyebrow: "The mental model",
-      caption: "Seven principles to build, and to diagnose."
+      key: "funnel",
+      start: _14_segment_and_sell_benefits_timing_m(3569),
+      dur: map_sec(12),
+      eyebrow: "The pyramid",
+      caption: "Feeling pain now, then worried, then vigilant, then graveyard. Start at the top."
     }
   ],
   closing: {
-    in: _11_systems_governance_diagnostic_timing_sec(106),
-    out: _11_systems_governance_diagnostic_timing_TOTAL_FRAMES + _11_systems_governance_diagnostic_timing_sec(2),
-    eyebrow: "The whole model",
-    title: "Seven principles.",
-    titleAccent: "Now go build.",
-    subtitle: "Ideas are free. Execution is everything.",
-    chips: ["The Seven Principles"]
+    in: map_sec(316),
+    out: _14_segment_and_sell_benefits_timing_TOTAL_FRAMES + map_sec(2),
+    eyebrow: "Lesson 14 recap",
+    title: "Sell benefits,",
+    titleAccent: "to the motivated.",
+    subtitle: "Next: prototypes, iteration, and taking their money.",
+    chips: ["Hire the job", "The pyramid", "30 seconds"]
   }
 };
 
-;// ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/registry.tsx
+;// ./src/instincthub/marketing-and-sales/15-start-small-iterate-win/timing.ts
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-const tosin_eniolorunda_it_is_not_about_ideas_its_about_making_ideas_happen_registry_make = (content) => ({ videoSrc, logoSrc }) => /* @__PURE__ */ (0,jsx_runtime.jsx)(Talk_Talk, { videoSrc, logoSrc, content, showLogo: false });
-const tosin_eniolorunda_it_is_not_about_ideas_its_about_making_ideas_happen_registry_KEY_PREFIX = "instincthub/uploads/tosin-eniolorunda-execution";
-const tosin_eniolorunda_it_is_not_about_ideas_its_about_making_ideas_happen_registry_ROWS = [
-  { slug: "01-execution-at-scale", module: 1, lesson: 1, title: "From software to a unicorn: execution at scale", mod: _01_execution_at_scale_timing_namespaceObject },
-  { slug: "02-ideas-are-free", module: 1, lesson: 2, title: "Ideas are free, execution is everything", mod: _02_ideas_are_free_timing_namespaceObject },
-  { slug: "03-biggest-challenge-is-you", module: 1, lesson: 3, title: "Your biggest challenge is you", mod: _03_biggest_challenge_is_you_timing_namespaceObject },
-  { slug: "04-goals-write-the-number", module: 2, lesson: 4, title: "Goals: write the number down", mod: _04_goals_write_the_number_timing_namespaceObject },
-  { slug: "05-structure-serves-goals", module: 2, lesson: 5, title: "Structure in service of goals", mod: _05_structure_serves_goals_timing_namespaceObject },
-  { slug: "06-hardest-constraint-people", module: 3, lesson: 6, title: "Your hardest constraint is people", mod: _06_hardest_constraint_people_timing_namespaceObject },
-  { slug: "07-customer-obsession", module: 3, lesson: 7, title: "Customer obsession: when customers love you, money follows", mod: _07_customer_obsession_timing_namespaceObject },
-  { slug: "08-traits-craft-to-candor", module: 3, lesson: 8, title: "From craft to candor: the rest of the traits", mod: _08_traits_craft_to_candor_timing_namespaceObject },
-  { slug: "09-four-ms-motivation", module: 4, lesson: 9, title: "Motivation: the four Ms", mod: _09_four_ms_motivation_timing_namespaceObject },
-  { slug: "10-incentives-and-context", module: 4, lesson: 10, title: "Incentives and context", mod: _10_incentives_and_context_timing_namespaceObject },
-  { slug: "11-systems-governance-diagnostic", module: 4, lesson: 11, title: "Systems, governance, and the diagnostic", mod: _11_systems_governance_diagnostic_timing_namespaceObject }
+const _15_start_small_iterate_win_timing_RANGES = [
+  [4135, 4251],
+  [4264, 4336]
 ];
-const TOSIN_LESSONS = tosin_eniolorunda_it_is_not_about_ideas_its_about_making_ideas_happen_registry_ROWS.map((r) => ({
-  id: `te-${r.slug}`,
+const _15_start_small_iterate_win_timing_m = makeSrcMapper(_15_start_small_iterate_win_timing_RANGES);
+const _15_start_small_iterate_win_timing_TOTAL_FRAMES = rangesFrames(_15_start_small_iterate_win_timing_RANGES);
+const _15_start_small_iterate_win_timing_content = {
+  trackerTitle: "Iterate & Win",
+  trackerIn: map_sec(18),
+  totalFrames: _15_start_small_iterate_win_timing_TOTAL_FRAMES,
+  slideWindows: [
+    [map_sec(0), map_sec(10)],
+    [map_sec(124), map_sec(134)],
+    [map_sec(163), map_sec(173)]
+  ],
+  hook: {
+    in: map_sec(10.5),
+    out: map_sec(19.5),
+    eyebrow: "Marketing & Sales \xB7 Lesson 15",
+    line1: "It looked bad, tasted bad, the cap stuck.",
+    line1Accent: "One question mattered: does it work?",
+    line2: "MVPs, iteration, and the course in one line."
+  },
+  instructor: {
+    in: map_sec(20),
+    out: map_sec(30),
+    name: "Bob Jones",
+    title: "Serial Entrepreneur \xB7 MIT Sloan"
+  },
+  sections: [
+    {
+      n: 1,
+      short: "Bare bones",
+      title: "Interview, then build\nthe bare-bones version",
+      caption: "Identify the unmet need before the packaging.",
+      activeAt: _15_start_small_iterate_win_timing_m(4149)
+    },
+    {
+      n: 2,
+      short: "Does it work?",
+      title: "Ugly prototype,\none concern",
+      caption: "If 30 people don't sleep, stop right there.",
+      activeAt: _15_start_small_iterate_win_timing_m(4159)
+    },
+    {
+      n: 3,
+      short: "Iterate",
+      title: "Told no, every day,\nfor six weeks",
+      caption: "They might need it, but they don't want it. Time to iterate.",
+      activeAt: _15_start_small_iterate_win_timing_m(4188)
+    },
+    {
+      n: 4,
+      short: "Then grow",
+      title: "Brand, package, and\nraise once de-risked",
+      caption: "Money comes easier at every proven milestone.",
+      activeAt: _15_start_small_iterate_win_timing_m(4216)
+    },
+    {
+      n: 5,
+      short: "Final questions",
+      title: "Who writes the\nfirst check?",
+      caption: "What evidence do you have that they will pay?",
+      activeAt: _15_start_small_iterate_win_timing_m(4266)
+    },
+    {
+      n: 6,
+      short: "The summary",
+      title: "Customers: the only\nnon-negotiable",
+      caption: "Unique and important, for someone. Go find them.",
+      activeAt: _15_start_small_iterate_win_timing_m(4302)
+    }
+  ],
+  quotes: [],
+  stats: [
+    {
+      in: _15_start_small_iterate_win_timing_m(4168),
+      out: _15_start_small_iterate_win_timing_m(4181),
+      count: 30,
+      label: "People testing the ugly prototype. The only question: does it work?"
+    }
+  ],
+  cutaways: [
+    {
+      key: "growth",
+      start: _15_start_small_iterate_win_timing_m(4234),
+      dur: map_sec(9),
+      eyebrow: "MVP in the wild",
+      caption: "A pancake mix circulating for feedback is market research."
+    }
+  ],
+  closing: {
+    in: map_sec(177),
+    out: _15_start_small_iterate_win_timing_TOTAL_FRAMES + map_sec(2),
+    eyebrow: "Course recap",
+    title: "Find them, tell them,",
+    titleAccent: "take their money.",
+    subtitle: "That closes the course. Apply the two bullets this week.",
+    chips: ["MVP", "Iterate", "Customers"]
+  }
+};
+
+;// ./src/instincthub/marketing-and-sales/registry.tsx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const registry_make = (content) => ({ videoSrc, logoSrc }) => /* @__PURE__ */ (0,jsx_runtime.jsx)(Lesson_Lesson, { videoSrc, logoSrc, content });
+const registry_KEY_PREFIX = "instincthub/uploads/marketing-and-sales-find-your-customer";
+const registry_ROWS = [
+  { slug: "01-the-only-non-negotiable", module: 1, lesson: 1, title: "The only non-negotiable: customers", mod: _01_the_only_non_negotiable_timing_namespaceObject },
+  { slug: "02-unique-and-important", module: 1, lesson: 2, title: "Unique and important", mod: _02_unique_and_important_timing_namespaceObject },
+  { slug: "03-regain-the-perfect-plan", module: 1, lesson: 3, title: "Case study: Regain, the perfect plan", mod: _03_regain_the_perfect_plan_timing_namespaceObject },
+  { slug: "04-a-complete-disaster", module: 2, lesson: 4, title: "A complete disaster", mod: _04_a_complete_disaster_timing_namespaceObject },
+  { slug: "05-no-money-wrong-channel", module: 2, lesson: 5, title: "No money and the wrong channel", mod: _05_no_money_wrong_channel_timing_namespaceObject },
+  { slug: "06-paying-for-the-mistake", module: 2, lesson: 6, title: "Paying for the mistake", mod: _06_paying_for_the_mistake_timing_namespaceObject },
+  { slug: "07-find-the-emotional-problem", module: 3, lesson: 7, title: "Find the emotional problem", mod: _07_find_the_emotional_problem_timing_namespaceObject },
+  { slug: "08-customers-shape-the-product", module: 3, lesson: 8, title: "Let customers shape the product", mod: _08_customers_shape_the_product_timing_namespaceObject },
+  { slug: "09-advertise-to-the-fear", module: 3, lesson: 9, title: "Advertise to the fear, grow the funnel", mod: _09_advertise_to_the_fear_timing_namespaceObject },
+  { slug: "10-phone-orders-to-shelves", module: 4, lesson: 10, title: "From phone orders to pharmacy shelves", mod: _10_phone_orders_to_shelves_timing_namespaceObject },
+  { slug: "11-educators-and-wholesalers", module: 4, lesson: 11, title: "Educators and wholesalers", mod: _11_educators_and_wholesalers_timing_namespaceObject },
+  { slug: "12-the-planogram-meeting", module: 4, lesson: 12, title: "The planogram meeting", mod: _12_the_planogram_meeting_timing_namespaceObject },
+  { slug: "13-selling-is-detective-work", module: 5, lesson: 13, title: "Selling is detective work", mod: _13_selling_is_detective_work_timing_namespaceObject },
+  { slug: "14-segment-and-sell-benefits", module: 5, lesson: 14, title: "Segment by motivation, sell benefits", mod: _14_segment_and_sell_benefits_timing_namespaceObject },
+  { slug: "15-start-small-iterate-win", module: 5, lesson: 15, title: "Start small, iterate, win", mod: _15_start_small_iterate_win_timing_namespaceObject }
+];
+const MARKETING_SALES_LESSONS = registry_ROWS.map((r) => ({
+  id: `ih-ms-${r.slug}`,
   module: r.module,
   lesson: r.lesson,
   title: r.title,
-  videoSrc: `tp-te-${r.slug}.mp4`,
-  videoKey: `${tosin_eniolorunda_it_is_not_about_ideas_its_about_making_ideas_happen_registry_KEY_PREFIX}/m${r.module}-l${r.lesson}-${r.slug.replace(/^\d+-/, "")}.mp4`,
+  videoSrc: `ih-ms-${r.slug}.mp4`,
+  videoKey: `${registry_KEY_PREFIX}/m${r.module}-l${r.lesson}-${r.slug.replace(/^\d+-/, "")}.mp4`,
   totalFrames: r.mod.TOTAL_FRAMES,
-  component: tosin_eniolorunda_it_is_not_about_ideas_its_about_making_ideas_happen_registry_make(r.mod.content)
+  component: registry_make(r.mod.content)
 }));
 
-;// ./src/theplatform/tosin-eniolorunda-it-is-not-about-ideas-its-about-making-ideas-happen/Thumbnail.tsx
+;// ./src/instincthub/marketing-and-sales/Thumbnail.tsx
 
 
 
 
 
-
-const tosin_eniolorunda_it_is_not_about_ideas_its_about_making_ideas_happen_Thumbnail_Thumbnail = ({
-  portraitSrc = "tp-te-tosin-portrait.jpg"
+const Thumbnail_Thumbnail = ({
+  portraitSrc = "ih-ms-speaker-portrait.jpg"
 }) => {
-  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { backgroundColor: theplatform_shared_colors_colors.yellow, fontFamily: overpass }, children: [
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { backgroundColor: instincthub_shared_colors_colors.inkDeep, fontFamily: _shared_fonts_nunito }, children: [
     /* @__PURE__ */ (0,jsx_runtime.jsx)(
       esm.AbsoluteFill,
       {
         style: {
-          backgroundImage: `radial-gradient(${theplatform_shared_colors_colors.ink}1A 3px, transparent 3px)`,
-          backgroundSize: "54px 54px",
-          opacity: 0.5
+          backgroundImage: `radial-gradient(${instincthub_shared_colors_colors.tiffany}14 3px, transparent 3px)`,
+          backgroundSize: "56px 56px"
         }
       }
     ),
-    /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { position: "absolute", top: 70, right: 600, opacity: 0.16, transform: "rotate(8deg)" }, children: /* @__PURE__ */ (0,jsx_runtime.jsx)(Bulb, { size: 190, stroke: theplatform_shared_colors_colors.ink, spark: theplatform_shared_colors_colors.ink, lit: 0, strokeWidth: 6 }) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      esm.AbsoluteFill,
+      {
+        style: {
+          background: `radial-gradient(900px 700px at 18% 88%, ${instincthub_shared_colors_colors.cyan}33, transparent 70%)`
+        }
+      }
+    ),
     /* @__PURE__ */ (0,jsx_runtime.jsxs)(
       "div",
       {
@@ -122802,36 +120448,252 @@ const tosin_eniolorunda_it_is_not_about_ideas_its_about_making_ideas_happen_Thum
           top: 0,
           left: 0,
           right: 0,
-          height: 104,
-          background: theplatform_shared_colors_colors.ink,
+          height: 100,
+          background: instincthub_shared_colors_colors.cyan,
           display: "flex",
           alignItems: "center",
           gap: 18,
           padding: "0 70px"
         },
         children: [
-          /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { fontWeight: 800, fontSize: 32, letterSpacing: 4, color: theplatform_shared_colors_colors.white, textTransform: "uppercase" }, children: "Ideas are free." }),
-          /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { fontWeight: 800, fontSize: 32, letterSpacing: 4, color: theplatform_shared_colors_colors.yellow, textTransform: "uppercase" }, children: "Execution is everything." })
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            esm.Img,
+            {
+              src: (0,esm.staticFile)("instincthub-logo-white.png"),
+              alt: "InstinctHub",
+              style: { height: 54, width: "auto", display: "block" }
+            }
+          ),
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "span",
+            {
+              style: {
+                marginLeft: "auto",
+                fontFamily: montserrat,
+                fontWeight: 700,
+                fontSize: 26,
+                letterSpacing: 4,
+                color: `${instincthub_shared_colors_colors.white}D9`,
+                textTransform: "uppercase"
+              },
+              children: "Marketing & Sales"
+            }
+          )
         ]
       }
     ),
-    /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { position: "absolute", left: 90, top: 184, width: 1080 }, children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { position: "absolute", left: 90, top: 190, width: 1060 }, children: [
       /* @__PURE__ */ (0,jsx_runtime.jsx)(
         "span",
         {
           style: {
             display: "inline-block",
-            fontWeight: 800,
-            fontSize: 29,
+            fontFamily: montserrat,
+            fontWeight: 700,
+            fontSize: 27,
             letterSpacing: 6,
             textTransform: "uppercase",
-            color: theplatform_shared_colors_colors.ink,
-            background: `${theplatform_shared_colors_colors.ink}14`,
+            color: instincthub_shared_colors_colors.tiffany,
+            background: `${instincthub_shared_colors_colors.cyan}26`,
+            border: `2px solid ${instincthub_shared_colors_colors.cyan}66`,
             padding: "12px 26px",
-            borderRadius: 999,
-            border: `2px solid ${theplatform_shared_colors_colors.ink}3D`
+            borderRadius: 999
           },
-          children: "The Platform Nigeria \xB7 Keynote"
+          children: "15 lessons \xB7 2 real product launches"
+        }
+      ),
+      /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+        "div",
+        {
+          style: {
+            marginTop: 32,
+            fontFamily: montserrat,
+            fontWeight: 900,
+            fontSize: 112,
+            lineHeight: 0.96,
+            letterSpacing: -3,
+            color: instincthub_shared_colors_colors.white
+          },
+          children: [
+            "Find Your",
+            /* @__PURE__ */ (0,jsx_runtime.jsx)("br", {}),
+            "Customer",
+            /* @__PURE__ */ (0,jsx_runtime.jsx)("br", {}),
+            /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { color: instincthub_shared_colors_colors.tiffany }, children: "First" })
+          ]
+        }
+      ),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        "div",
+        {
+          style: {
+            marginTop: 30,
+            display: "inline-block",
+            fontFamily: montserrat,
+            fontWeight: 800,
+            fontSize: 44,
+            letterSpacing: -0.5,
+            color: instincthub_shared_colors_colors.white,
+            background: instincthub_shared_colors_colors.cyan,
+            padding: "14px 30px",
+            borderRadius: 14
+          },
+          children: "The only non-negotiable"
+        }
+      )
+    ] }),
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { position: "absolute", left: 96, bottom: 70 }, children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        "div",
+        {
+          style: {
+            fontFamily: montserrat,
+            fontWeight: 800,
+            fontSize: 46,
+            letterSpacing: -1,
+            color: instincthub_shared_colors_colors.white,
+            lineHeight: 1
+          },
+          children: "Bob Jones"
+        }
+      ),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { fontWeight: 600, fontSize: 28, color: instincthub_shared_colors_colors.textMuted, marginTop: 8 }, children: "Serial Entrepreneur \xB7 MIT Sloan" })
+    ] }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      "div",
+      {
+        style: {
+          position: "absolute",
+          right: 80,
+          top: 170,
+          width: 660,
+          height: 760,
+          borderRadius: 36,
+          border: `10px solid ${instincthub_shared_colors_colors.cyan}`,
+          overflow: "hidden",
+          background: instincthub_shared_colors_colors.gunmetal,
+          boxShadow: `0 40px 100px -28px rgba(0,0,0,0.85), 0 0 0 6px ${instincthub_shared_colors_colors.tiffany}33`
+        },
+        children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          esm.Img,
+          {
+            src: (0,esm.staticFile)(portraitSrc),
+            alt: "Bob Jones lecturing",
+            style: { width: "100%", height: "100%", objectFit: "cover", objectPosition: "50% 18%" }
+          }
+        )
+      }
+    ),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      "div",
+      {
+        style: {
+          position: "absolute",
+          right: 80,
+          top: 170,
+          background: instincthub_shared_colors_colors.green,
+          color: instincthub_shared_colors_colors.inkDeep,
+          fontFamily: montserrat,
+          fontWeight: 800,
+          fontSize: 26,
+          letterSpacing: 3,
+          textTransform: "uppercase",
+          padding: "12px 24px",
+          borderRadius: "36px 0 26px 0"
+        },
+        children: "Case Study"
+      }
+    )
+  ] });
+};
+
+;// ./src/instincthub/0003-technology-access-point-to-childrren/Thumbnail.tsx
+
+
+
+
+
+const _0003_technology_access_point_to_childrren_Thumbnail_Thumbnail = ({
+  portraitSrc = "ih-tap-portrait.jpg"
+}) => {
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { backgroundColor: instincthub_shared_colors_colors.inkDeep, fontFamily: _shared_fonts_nunito }, children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      esm.AbsoluteFill,
+      {
+        style: {
+          backgroundImage: `radial-gradient(${instincthub_shared_colors_colors.tiffany}14 3px, transparent 3px)`,
+          backgroundSize: "56px 56px"
+        }
+      }
+    ),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      esm.AbsoluteFill,
+      {
+        style: {
+          background: `radial-gradient(960px 760px at 16% 86%, ${instincthub_shared_colors_colors.cyan}40, transparent 70%)`
+        }
+      }
+    ),
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+      "div",
+      {
+        style: {
+          position: "absolute",
+          top: 0,
+          left: 0,
+          right: 0,
+          height: 100,
+          background: instincthub_shared_colors_colors.cyan,
+          display: "flex",
+          alignItems: "center",
+          gap: 18,
+          padding: "0 70px"
+        },
+        children: [
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            esm.Img,
+            {
+              src: (0,esm.staticFile)("instincthub-logo-white.png"),
+              alt: "InstinctHub",
+              style: { height: 52, width: "auto", display: "block" }
+            }
+          ),
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "span",
+            {
+              style: {
+                marginLeft: "auto",
+                fontFamily: montserrat,
+                fontWeight: 700,
+                fontSize: 26,
+                letterSpacing: 4,
+                color: `${instincthub_shared_colors_colors.white}E6`,
+                textTransform: "uppercase"
+              },
+              children: "Digital Parenting"
+            }
+          )
+        ]
+      }
+    ),
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { position: "absolute", left: 90, top: 176, width: 1080 }, children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        "span",
+        {
+          style: {
+            display: "inline-block",
+            fontFamily: montserrat,
+            fontWeight: 700,
+            fontSize: 26,
+            letterSpacing: 5,
+            textTransform: "uppercase",
+            color: instincthub_shared_colors_colors.tiffany,
+            background: `${instincthub_shared_colors_colors.cyan}26`,
+            border: `2px solid ${instincthub_shared_colors_colors.cyan}73`,
+            padding: "12px 26px",
+            borderRadius: 999
+          },
+          children: "What every parent must know"
         }
       ),
       /* @__PURE__ */ (0,jsx_runtime.jsxs)(
@@ -122839,18 +120701,20 @@ const tosin_eniolorunda_it_is_not_about_ideas_its_about_making_ideas_happen_Thum
         {
           style: {
             marginTop: 30,
+            fontFamily: montserrat,
             fontWeight: 900,
             fontSize: 118,
-            lineHeight: 0.92,
-            letterSpacing: -4,
-            color: theplatform_shared_colors_colors.ink
+            lineHeight: 0.96,
+            letterSpacing: -3,
+            color: instincthub_shared_colors_colors.white
           },
           children: [
-            "Ideas Are Free.",
+            "The ",
+            /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { color: instincthub_shared_colors_colors.tiffany }, children: "#1 Access" }),
             /* @__PURE__ */ (0,jsx_runtime.jsx)("br", {}),
-            "Execution Is",
+            "Point to Your",
             /* @__PURE__ */ (0,jsx_runtime.jsx)("br", {}),
-            "Everything."
+            "Child"
           ]
         }
       ),
@@ -122860,24 +120724,41 @@ const tosin_eniolorunda_it_is_not_about_ideas_its_about_making_ideas_happen_Thum
           style: {
             marginTop: 30,
             display: "inline-block",
-            fontWeight: 900,
-            fontSize: 50,
-            letterSpacing: -1,
-            color: theplatform_shared_colors_colors.yellow,
-            background: theplatform_shared_colors_colors.ink,
-            padding: "12px 28px",
+            fontFamily: montserrat,
+            fontWeight: 800,
+            fontSize: 42,
+            letterSpacing: -0.5,
+            color: instincthub_shared_colors_colors.white,
+            background: instincthub_shared_colors_colors.cyan,
+            padding: "14px 30px",
             borderRadius: 14
           },
-          children: "The seven principles"
+          children: "\u2026and how to keep it safe"
         }
       )
     ] }),
-    /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { position: "absolute", left: 96, bottom: 78, display: "flex", alignItems: "center", gap: 22 }, children: [
-      /* @__PURE__ */ (0,jsx_runtime.jsx)(Bulb, { size: 64, stroke: theplatform_shared_colors_colors.ink, spark: theplatform_shared_colors_colors.ink, lit: 0, strokeWidth: 5 }),
-      /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { children: [
-        /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { fontWeight: 900, fontSize: 52, letterSpacing: -1.5, color: theplatform_shared_colors_colors.ink, lineHeight: 1 }, children: "Tosin Eniolorunda" }),
-        /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { fontWeight: 600, fontSize: 31, color: theplatform_shared_colors_colors.ink, opacity: 0.78, marginTop: 6 }, children: "Founder & CEO, Moniepoint" })
-      ] })
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { position: "absolute", left: 96, bottom: 64 }, children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        "div",
+        {
+          style: {
+            fontFamily: montserrat,
+            fontWeight: 800,
+            fontSize: 44,
+            letterSpacing: -1,
+            color: instincthub_shared_colors_colors.white,
+            lineHeight: 1
+          },
+          children: "Noah Olatoye"
+        }
+      ),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        "div",
+        {
+          style: { fontWeight: 600, fontSize: 27, color: instincthub_shared_colors_colors.textMuted, marginTop: 8 },
+          children: "Founder \xB7 InstinctHub"
+        }
+      )
     ] }),
     /* @__PURE__ */ (0,jsx_runtime.jsx)(
       "div",
@@ -122886,20 +120767,25 @@ const tosin_eniolorunda_it_is_not_about_ideas_its_about_making_ideas_happen_Thum
           position: "absolute",
           right: 80,
           top: 168,
-          width: 700,
-          height: 770,
-          borderRadius: 40,
-          border: `12px solid ${theplatform_shared_colors_colors.ink}`,
+          width: 640,
+          height: 760,
+          borderRadius: 36,
+          border: `10px solid ${instincthub_shared_colors_colors.cyan}`,
           overflow: "hidden",
-          background: theplatform_shared_colors_colors.ink,
-          boxShadow: `0 40px 90px -28px ${theplatform_shared_colors_colors.ink}99`
+          background: instincthub_shared_colors_colors.gunmetal,
+          boxShadow: `0 40px 100px -28px rgba(0,0,0,0.85), 0 0 0 6px ${instincthub_shared_colors_colors.tiffany}33`
         },
         children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
           esm.Img,
           {
             src: (0,esm.staticFile)(portraitSrc),
-            alt: "Tosin Eniolorunda",
-            style: { width: "100%", height: "100%", objectFit: "cover", objectPosition: "50% 16%" }
+            alt: "Noah Olatoye",
+            style: {
+              width: "100%",
+              height: "100%",
+              objectFit: "cover",
+              objectPosition: "50% 22%"
+            }
           }
         )
       }
@@ -122911,940 +120797,203 @@ const tosin_eniolorunda_it_is_not_about_ideas_its_about_making_ideas_happen_Thum
           position: "absolute",
           right: 80,
           top: 168,
-          background: theplatform_shared_colors_colors.magenta,
-          color: theplatform_shared_colors_colors.white,
+          background: instincthub_shared_colors_colors.green,
+          color: instincthub_shared_colors_colors.inkDeep,
+          fontFamily: montserrat,
           fontWeight: 800,
-          fontSize: 28,
+          fontSize: 25,
           letterSpacing: 3,
           textTransform: "uppercase",
           padding: "12px 24px",
-          borderRadius: "40px 0 28px 0"
+          borderRadius: "36px 0 26px 0"
         },
-        children: "Keynote"
+        children: "A True Story"
       }
     )
   ] });
 };
 
-;// ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/01-next-bounce/timing.ts
+;// ./src/instincthub/0003-technology-access-point-to-childrren/timing.ts
 
-const _01_next_bounce_timing_sec = (s) => Math.round(s * 30);
-const _01_next_bounce_timing_TOTAL_FRAMES = _01_next_bounce_timing_sec(142);
-const _01_next_bounce_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _01_next_bounce_timing_sec(9),
-  totalFrames: _01_next_bounce_timing_TOTAL_FRAMES,
+const _0003_technology_access_point_to_childrren_timing_FPS = 30;
+const _0003_technology_access_point_to_childrren_timing_sec = (s) => Math.round(s * _0003_technology_access_point_to_childrren_timing_FPS);
+const _0003_technology_access_point_to_childrren_timing_TOTAL_FRAMES = _0003_technology_access_point_to_childrren_timing_sec(483);
+const _0003_technology_access_point_to_childrren_timing_THUMBNAIL_FRAMES = _0003_technology_access_point_to_childrren_timing_sec(1);
+const _0003_technology_access_point_to_childrren_timing_COMPOSITION_FRAMES = _0003_technology_access_point_to_childrren_timing_THUMBNAIL_FRAMES + _0003_technology_access_point_to_childrren_timing_TOTAL_FRAMES;
+const MUSIC_SRC = "ih-tech-access-points-music.mp3";
+const MUSIC_VOLUME = 0.06;
+const _0003_technology_access_point_to_childrren_timing_content = {
+  trackerTitle: "Tech & Your Child",
+  trackerIn: _0003_technology_access_point_to_childrren_timing_sec(22),
+  totalFrames: _0003_technology_access_point_to_childrren_timing_TOTAL_FRAMES,
+  // Opening hook — the thesis of the whole talk (cue 24-26).
   hook: {
-    in: _01_next_bounce_timing_sec(2),
-    out: _01_next_bounce_timing_sec(9),
-    eyebrow: "Why It Matters \xB7 01",
-    line1: "Factory jobs are gone.",
-    line1Accent: "The next bounce could be yours.",
-    line2: "Kemi Adeosun on why this is Nigeria's moment to build."
+    in: _0003_technology_access_point_to_childrren_timing_sec(0.4),
+    out: _0003_technology_access_point_to_childrren_timing_sec(11),
+    eyebrow: "Parenting in the Digital Age",
+    line1: "Technology is the #1",
+    line1Accent: "access point",
+    line2: "to your children today."
   },
-  speaker: {
-    in: _01_next_bounce_timing_sec(11),
-    out: _01_next_bounce_timing_sec(24),
-    name: "Kemi Adeosun",
-    title: "Former Finance Minister of Nigeria \xB7 Founder, Nidacity"
+  // Speaker identity — shown on camera, clear of cutaways and the hook.
+  instructor: {
+    in: _0003_technology_access_point_to_childrren_timing_sec(50),
+    out: _0003_technology_access_point_to_childrren_timing_sec(59),
+    name: "Noah Olatoye",
+    title: "Founder, InstinctHub"
   },
-  chapters: [
+  // The roadmap (right-rail tracker spine). Six beats of the talk.
+  sections: [
     {
       n: 1,
-      short: "The shift",
-      title: "Factory jobs are\ngone for good",
-      caption: "The new engine is nimble, digital, data-driven business.",
-      activeAt: _01_next_bounce_timing_sec(60)
+      short: "What access points are",
+      title: "What \u201Caccess points\u201D\nreally are",
+      caption: "Every connected device is a doorway into your child\u2019s world.",
+      activeAt: _0003_technology_access_point_to_childrren_timing_sec(24.1)
+      // cue 10 — "what is really access points?"
     },
     {
       n: 2,
-      short: "Your moment",
-      title: "The next bounce\nof the ball",
-      caption: "The digital economy has leveled the playing field.",
-      activeAt: _01_next_bounce_timing_sec(99)
-    }
-  ],
-  quotes: [
-    {
-      in: _01_next_bounce_timing_sec(100),
-      out: _01_next_bounce_timing_sec(112),
-      text: "You can walk into a shop in London and see made-in-Nigeria chin chin for sale. You could not do that ten years ago.",
-      attribution: "Kemi Adeosun"
-    }
-  ],
-  stats: [
-    {
-      in: _01_next_bounce_timing_sec(62),
-      out: _01_next_bounce_timing_sec(74),
-      count: 80,
-      suffix: "%",
-      label: "of employed Nigerians work for small businesses, not government or big factories."
-    }
-  ],
-  cutaways: [
-    {
-      key: "launch",
-      start: _01_next_bounce_timing_sec(30),
-      dur: _01_next_bounce_timing_sec(8),
-      eyebrow: "The only way up",
-      caption: "Nigeria jumps when its businesses grow and scale."
-    }
-  ],
-  closing: {
-    in: _01_next_bounce_timing_sec(132),
-    out: _01_next_bounce_timing_TOTAL_FRAMES + _01_next_bounce_timing_sec(2),
-    eyebrow: "Lesson 1 recap",
-    title: "Build the business",
-    titleAccent: "that replaces the factory.",
-    subtitle: "Next: nine businesses, six failures.",
-    chips: ["Why It Matters"]
-  }
-};
-
-;// ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/02-nine-businesses/timing.ts
-
-const _02_nine_businesses_timing_sec = (s) => Math.round(s * 30);
-const _02_nine_businesses_timing_TOTAL_FRAMES = _02_nine_businesses_timing_sec(120);
-const _02_nine_businesses_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _02_nine_businesses_timing_sec(9),
-  totalFrames: _02_nine_businesses_timing_TOTAL_FRAMES,
-  hook: {
-    in: _02_nine_businesses_timing_sec(2),
-    out: _02_nine_businesses_timing_sec(9),
-    eyebrow: "The Confession \xB7 02",
-    line1: "Nine businesses.",
-    line1Accent: "Six failed.",
-    line2: "Why Kemi Adeosun says failure is part of the work."
-  },
-  speaker: {
-    in: _02_nine_businesses_timing_sec(11),
-    out: _02_nine_businesses_timing_sec(23),
-    name: "Kemi Adeosun",
-    title: "Former Finance Minister of Nigeria \xB7 Founder, Nidacity"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Failure is normal",
-      title: "Six failures,\ntwo draws, one fight",
-      caption: "Failure is part of business, not a verdict on your faith.",
-      activeAt: _02_nine_businesses_timing_sec(20)
-    },
-    {
-      n: 2,
-      short: "The lesson",
-      title: "I failed.\nThen I learned.",
-      caption: "Every failure taught her what to do and what not to do.",
-      activeAt: _02_nine_businesses_timing_sec(95)
-    }
-  ],
-  quotes: [
-    {
-      in: _02_nine_businesses_timing_sec(100),
-      out: _02_nine_businesses_timing_sec(110),
-      text: "Not only did I fail, I ended up paying debts. But do you know what else happened? I learned.",
-      attribution: "Kemi Adeosun"
-    }
-  ],
-  stats: [
-    {
-      in: _02_nine_businesses_timing_sec(22),
-      out: _02_nine_businesses_timing_sec(36),
-      value: "6 / 9",
-      label: "businesses failed. Two were draws, one still fights. Failure is part of the journey."
-    }
-  ],
-  cutaways: [
-    {
-      key: "roots",
-      start: _02_nine_businesses_timing_sec(74),
-      dur: _02_nine_businesses_timing_sec(8),
-      eyebrow: "Joseph in prison",
-      caption: "They cannot see what you are learning on the journey."
-    }
-  ],
-  closing: {
-    in: _02_nine_businesses_timing_sec(112),
-    out: _02_nine_businesses_timing_TOTAL_FRAMES + _02_nine_businesses_timing_sec(2),
-    eyebrow: "Lesson 2 recap",
-    title: "Failure is tuition.",
-    titleAccent: "Collect the lesson.",
-    subtitle: "Next: a God idea is not a market exemption.",
-    chips: ["The Confession"]
-  }
-};
-
-;// ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/03-not-a-market-exemption/timing.ts
-
-const _03_not_a_market_exemption_timing_sec = (s) => Math.round(s * 30);
-const _03_not_a_market_exemption_timing_TOTAL_FRAMES = _03_not_a_market_exemption_timing_sec(113);
-const _03_not_a_market_exemption_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _03_not_a_market_exemption_timing_sec(9),
-  totalFrames: _03_not_a_market_exemption_timing_TOTAL_FRAMES,
-  hook: {
-    in: _03_not_a_market_exemption_timing_sec(2),
-    out: _03_not_a_market_exemption_timing_sec(10),
-    eyebrow: "The Four Laws \xB7 03",
-    line1: "A God idea is not",
-    line1Accent: "a market exemption.",
-    line2: "Kemi Adeosun introduces the four laws every idea must pass."
-  },
-  speaker: {
-    in: _03_not_a_market_exemption_timing_sec(12),
-    out: _03_not_a_market_exemption_timing_sec(24),
-    name: "Kemi Adeosun",
-    title: "Former Finance Minister of Nigeria \xB7 Founder, Nidacity"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "No exemption",
-      title: "Anointing does not\nexempt the market",
-      caption: "Even a God-given idea has to compete out there.",
-      activeAt: _03_not_a_market_exemption_timing_sec(15)
-    },
-    {
-      n: 2,
-      short: "Marketing wins",
-      title: "Angels do not\nbring customers",
-      caption: "Marketing brings customers. Prayer is not a sales channel.",
-      activeAt: _03_not_a_market_exemption_timing_sec(64)
-    }
-  ],
-  quotes: [
-    {
-      in: _03_not_a_market_exemption_timing_sec(78),
-      out: _03_not_a_market_exemption_timing_sec(92),
-      text: "Angels do not bring customers. Marketing brings customers.",
-      attribution: "Kemi Adeosun"
-    }
-  ],
-  stats: [
-    {
-      in: _03_not_a_market_exemption_timing_sec(40),
-      out: _03_not_a_market_exemption_timing_sec(52),
-      count: 4,
-      suffix: " laws",
-      label: "every idea must pass: the market, the numbers, timing, and the team."
-    }
-  ],
-  cutaways: [
-    {
-      key: "deal",
-      start: _03_not_a_market_exemption_timing_sec(30),
-      dur: _03_not_a_market_exemption_timing_sec(8),
-      eyebrow: "The hard truth",
-      caption: "An idea has to win customers, not just approval."
-    }
-  ],
-  closing: {
-    in: _03_not_a_market_exemption_timing_sec(100),
-    out: _03_not_a_market_exemption_timing_TOTAL_FRAMES + _03_not_a_market_exemption_timing_sec(2),
-    eyebrow: "Lesson 3 recap",
-    title: "Test your idea",
-    titleAccent: "against four laws.",
-    subtitle: "Next: Law 1, know your market.",
-    chips: ["Module 1 done"]
-  }
-};
-
-;// ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/04-know-your-market/timing.ts
-
-const _04_know_your_market_timing_sec = (s) => Math.round(s * 30);
-const _04_know_your_market_timing_TOTAL_FRAMES = _04_know_your_market_timing_sec(210);
-const _04_know_your_market_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _04_know_your_market_timing_sec(9),
-  totalFrames: _04_know_your_market_timing_TOTAL_FRAMES,
-  hook: {
-    in: _04_know_your_market_timing_sec(2),
-    out: _04_know_your_market_timing_sec(10),
-    eyebrow: "Law 1 \xB7 The Market",
-    line1: "Have you done",
-    line1Accent: "your research?",
-    line2: "Anointed small chops still competes with every other small chops."
-  },
-  speaker: {
-    in: _04_know_your_market_timing_sec(12),
-    out: _04_know_your_market_timing_sec(24),
-    name: "Kemi Adeosun",
-    title: "Former Finance Minister of Nigeria \xB7 Founder, Nidacity"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "The market",
-      title: "Know the market\nyou are entering",
-      caption: "Your anointed business competes with every rival in the category.",
-      activeAt: _04_know_your_market_timing_sec(50)
-    },
-    {
-      n: 2,
-      short: "Study rivals",
-      title: "Study competition as\nwell as yourself",
-      caption: "The salon three doors down is a fact, not a spiritual attack.",
-      activeAt: _04_know_your_market_timing_sec(98)
+      short: "Make screens count",
+      title: "Don\u2019t just fight\nthe screen",
+      caption: "Channel screen time into something meaningful \u2014 and academic.",
+      activeAt: _0003_technology_access_point_to_childrren_timing_sec(86.58)
+      // cue 30 — "children are addicted to screen"
     },
     {
       n: 3,
-      short: "Read the signal",
-      title: "Failure is the market\ntelling you something",
-      caption: "Wrongly priced, wrong market, or wrong timing. Listen.",
-      activeAt: _04_know_your_market_timing_sec(142)
-    }
-  ],
-  quotes: [
-    {
-      in: _04_know_your_market_timing_sec(126),
-      out: _04_know_your_market_timing_sec(140),
-      text: "Understand your competition as well as you understand yourself.",
-      attribution: "Kemi Adeosun"
+      short: "Monitor, don\u2019t smother",
+      title: "Monitor \u2014\nbut don\u2019t smother",
+      caption: "Over-policing only teaches kids to hide what they really do.",
+      activeAt: _0003_technology_access_point_to_childrren_timing_sec(123.44)
+      // cue 46 — "technology offers more potential only if parents monitor"
     },
     {
-      in: _04_know_your_market_timing_sec(184),
-      out: _04_know_your_market_timing_sec(196),
-      text: "Anointing becomes the icing on the cake. But you have to do the work.",
-      attribution: "Kemi Adeosun"
+      n: 4,
+      short: "A true story",
+      title: "A story I\u2019ll\nnever forget",
+      caption: "An unguarded school computer lab \u2014 and the link a friend showed me.",
+      activeAt: _0003_technology_access_point_to_childrren_timing_sec(181.34)
+      // cue 70 — "that leads us to my story"
+    },
+    {
+      n: 5,
+      short: "\u201CExplain it first\u201D",
+      title: "The \u201Cexplain it\nfirst\u201D rule",
+      caption: "If they can\u2019t tell you what it is, they don\u2019t get to show you.",
+      activeAt: _0003_technology_access_point_to_childrren_timing_sec(307.44)
+      // cue 120 — "my hack ever since then"
+    },
+    {
+      n: 6,
+      short: "Walk with them",
+      title: "Walk the journey\nwith them",
+      caption: "Don\u2019t just enrol them \u2014 learn how it works right alongside them.",
+      activeAt: _0003_technology_access_point_to_childrren_timing_sec(351.68)
+      // cue 138 — "one mistake parents make is enroling kids"
     }
   ],
+  // Verbatim pull-quotes, placed in gaps between reveals.
+  quotes: [
+    {
+      in: _0003_technology_access_point_to_childrren_timing_sec(69.5),
+      out: _0003_technology_access_point_to_childrren_timing_sec(79),
+      text: "Technology is the greatest access point to children today.",
+      attribution: "Noah Olatoye"
+    },
+    {
+      in: _0003_technology_access_point_to_childrren_timing_sec(271.4),
+      out: _0003_technology_access_point_to_childrren_timing_sec(281),
+      text: "Negative access points can become a dent in a child\u2019s life \u2014 even when they\u2019re grown.",
+      attribution: "Noah Olatoye"
+    }
+  ],
+  // No hard statistics are spoken; keep the piece clean rather than invent one.
   stats: [],
+  // Full-frame live-action b-roll cutaways (real trimmed clips in public/broll).
+  // Each lands on its sentence and sits in a gap, never over a reveal/quote.
   cutaways: [
     {
-      key: "target",
-      start: _04_know_your_market_timing_sec(66),
-      dur: _04_know_your_market_timing_sec(9),
-      eyebrow: "Do your research",
-      caption: "Know your market and your competition before you open the doors."
+      key: "reality",
+      videoSrc: "broll/teens-phones-night.mp4",
+      start: _0003_technology_access_point_to_childrren_timing_sec(13),
+      dur: _0003_technology_access_point_to_childrren_timing_sec(5.6),
+      eyebrow: "The reality",
+      caption: "Our kids live connected \u2014 often in ways we can\u2019t see."
+    },
+    {
+      key: "always-on",
+      videoSrc: "broll/friends-laptop.mp4",
+      start: _0003_technology_access_point_to_childrren_timing_sec(38),
+      dur: _0003_technology_access_point_to_childrren_timing_sec(6),
+      eyebrow: "Always on",
+      caption: "Connected to each other \u2014 beyond what we know."
+    },
+    {
+      key: "addiction",
+      videoSrc: "broll/kids-phone-addicted.mp4",
+      videoFocus: "50% 40%",
+      start: _0003_technology_access_point_to_childrren_timing_sec(99),
+      dur: _0003_technology_access_point_to_childrren_timing_sec(5.6),
+      eyebrow: "It\u2019s real",
+      caption: "Screen addiction is real \u2014 fighting it head-on rarely works."
+    },
+    {
+      key: "backfire",
+      videoSrc: "broll/kids-parents-toys.mp4",
+      start: _0003_technology_access_point_to_childrren_timing_sec(152),
+      dur: _0003_technology_access_point_to_childrren_timing_sec(6),
+      eyebrow: "When control backfires",
+      caption: "Push too hard, and they hide what they\u2019re really doing."
+    },
+    {
+      key: "no-guardrails",
+      videoSrc: "broll/internet-security.mp4",
+      start: _0003_technology_access_point_to_childrren_timing_sec(204),
+      dur: _0003_technology_access_point_to_childrren_timing_sec(6),
+      eyebrow: "No guardrails",
+      caption: "Internet access \u2014 but no restrictions, and no guidance."
+    },
+    {
+      key: "one-click",
+      videoSrc: "broll/cyber-hoodie.mp4",
+      start: _0003_technology_access_point_to_childrren_timing_sec(235),
+      dur: _0003_technology_access_point_to_childrren_timing_sec(6),
+      eyebrow: "One click",
+      caption: "A friend typed a URL \u2014 and a door opened that shouldn\u2019t have."
+    },
+    {
+      key: "walk-with-them",
+      videoSrc: "broll/kids-sports.mp4",
+      start: _0003_technology_access_point_to_childrren_timing_sec(367),
+      dur: _0003_technology_access_point_to_childrren_timing_sec(6),
+      eyebrow: "Walk with them",
+      caption: "Like coaching a young footballer \u2014 go to the training ground too."
+    },
+    {
+      key: "week-six",
+      videoSrc: "broll/kids-parents-laptop.mp4",
+      start: _0003_technology_access_point_to_childrren_timing_sec(424),
+      dur: _0003_technology_access_point_to_childrren_timing_sec(6),
+      eyebrow: "Week six",
+      caption: "Kids demo what they built \u2014 and parents learn right alongside them."
     }
   ],
+  // Closing CTA — the Summer Coding Class pivot; holds to the end (out beyond
+  // TOTAL_FRAMES so it never recedes before the sign-off).
   closing: {
-    in: _04_know_your_market_timing_sec(198),
-    out: _04_know_your_market_timing_TOTAL_FRAMES + _04_know_your_market_timing_sec(2),
-    eyebrow: "Lesson 4 recap",
-    title: "Do the work.",
-    titleAccent: "Then add the anointing.",
-    subtitle: "Next: should you even be an entrepreneur?",
-    chips: ["Law 1 \xB7 Market"]
+    in: _0003_technology_access_point_to_childrren_timing_sec(400.09),
+    // cue 158 — "this is the reason we introduce summer coding class"
+    out: _0003_technology_access_point_to_childrren_timing_TOTAL_FRAMES + _0003_technology_access_point_to_childrren_timing_sec(2),
+    eyebrow: "InstinctHub \xB7 Summer Coding Class",
+    title: "Summer Coding",
+    titleAccent: "Class",
+    subtitle: "5 weeks of ethical, hands-on tech \u2014 then your child demos it all to you in week 6.",
+    chips: ["Link in description", "Like & Subscribe"]
   }
 };
 
-;// ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/05-not-forced/timing.ts
-
-const _05_not_forced_timing_sec = (s) => Math.round(s * 30);
-const _05_not_forced_timing_TOTAL_FRAMES = _05_not_forced_timing_sec(182);
-const _05_not_forced_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _05_not_forced_timing_sec(9),
-  totalFrames: _05_not_forced_timing_TOTAL_FRAMES,
-  hook: {
-    in: _05_not_forced_timing_sec(2),
-    out: _05_not_forced_timing_sec(10),
-    eyebrow: "Who Should Build \xB7 05",
-    line1: "Not everyone is meant",
-    line1Accent: "to be an entrepreneur.",
-    line2: "Kemi Adeosun on the entrepreneurs of necessity."
-  },
-  speaker: {
-    in: _05_not_forced_timing_sec(12),
-    out: _05_not_forced_timing_sec(24),
-    name: "Kemi Adeosun",
-    title: "Former Finance Minister of Nigeria \xB7 Founder, Nidacity"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Of necessity",
-      title: "Entrepreneurs\nof necessity",
-      caption: "Many would rather earn a salary. No jobs forced them to build.",
-      activeAt: _05_not_forced_timing_sec(19)
-    },
-    {
-      n: 2,
-      short: "Don't be forced",
-      title: "Don't let anyone\nforce you to build",
-      caption: "If you are not called to it, you will fail, anointed or not.",
-      activeAt: _05_not_forced_timing_sec(66)
-    },
-    {
-      n: 3,
-      short: "A few go big",
-      title: "Nations grow when\na few grow big",
-      caption: "Help the John Alamus scale. Don't copy a name you saw win.",
-      activeAt: _05_not_forced_timing_sec(133)
-    }
-  ],
-  quotes: [
-    {
-      in: _05_not_forced_timing_sec(78),
-      out: _05_not_forced_timing_sec(92),
-      text: "Don't let anybody call you to entrepreneurship, because you will fail.",
-      attribution: "Kemi Adeosun"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "growth",
-      start: _05_not_forced_timing_sec(108),
-      dur: _05_not_forced_timing_sec(9),
-      eyebrow: "Where jobs come from",
-      caption: "Free good people to be the CFO, the COO, the company secretary."
-    }
-  ],
-  closing: {
-    in: _05_not_forced_timing_sec(168),
-    out: _05_not_forced_timing_TOTAL_FRAMES + _05_not_forced_timing_sec(2),
-    eyebrow: "Lesson 5 recap",
-    title: "Build because",
-    titleAccent: "you are called to.",
-    subtitle: "Next: the five numbers you must know.",
-    chips: ["Who Should Build"]
-  }
-};
-
-;// ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/06-five-numbers/timing.ts
-
-const _06_five_numbers_timing_sec = (s) => Math.round(s * 30);
-const _06_five_numbers_timing_TOTAL_FRAMES = _06_five_numbers_timing_sec(125);
-const _06_five_numbers_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _06_five_numbers_timing_sec(9),
-  totalFrames: _06_five_numbers_timing_TOTAL_FRAMES,
-  hook: {
-    in: _06_five_numbers_timing_sec(2),
-    out: _06_five_numbers_timing_sec(10),
-    eyebrow: "Law 2 \xB7 The Numbers",
-    line1: "Five numbers decide",
-    line1Accent: "if you have a business.",
-    line2: "You cannot run a business you cannot count."
-  },
-  speaker: {
-    in: _06_five_numbers_timing_sec(12),
-    out: _06_five_numbers_timing_sec(24),
-    name: "Kemi Adeosun",
-    title: "Former Finance Minister of Nigeria \xB7 Founder, Nidacity"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Five numbers",
-      title: "The five numbers\nyou must know",
-      caption: "Revenue, gross profit, net profit, cash flow, break-even.",
-      activeAt: _06_five_numbers_timing_sec(39)
-    },
-    {
-      n: 2,
-      short: "Mind the margin",
-      title: "Volume is nothing\nwithout margin",
-      caption: "A 300% margin on four sales can beat 2% on a thousand.",
-      activeAt: _06_five_numbers_timing_sec(85)
-    }
-  ],
-  quotes: [
-    {
-      in: _06_five_numbers_timing_sec(26),
-      out: _06_five_numbers_timing_sec(38),
-      text: "You cannot run a business without knowing your numbers.",
-      attribution: "Kemi Adeosun"
-    }
-  ],
-  stats: [
-    {
-      in: _06_five_numbers_timing_sec(42),
-      out: _06_five_numbers_timing_sec(56),
-      count: 5,
-      suffix: " numbers",
-      label: "Revenue, gross profit, net profit, cash flow, break-even. Know them cold."
-    },
-    {
-      in: _06_five_numbers_timing_sec(90),
-      out: _06_five_numbers_timing_sec(102),
-      value: "2%",
-      label: "the margin on provisions. How many must you sell to make real money?"
-    }
-  ],
-  cutaways: [
-    {
-      key: "chart",
-      start: _06_five_numbers_timing_sec(58),
-      dur: _06_five_numbers_timing_sec(9),
-      eyebrow: "Know your numbers",
-      caption: "Revenue, gross profit, net profit, cash flow, break-even."
-    }
-  ],
-  closing: {
-    in: _06_five_numbers_timing_sec(112),
-    out: _06_five_numbers_timing_TOTAL_FRAMES + _06_five_numbers_timing_sec(2),
-    eyebrow: "Lesson 6 recap",
-    title: "Know your numbers",
-    titleAccent: "with religious passion.",
-    subtitle: "Next: research with one eye open.",
-    chips: ["Module 2 done"]
-  }
-};
-
-;// ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/07-research-skepticism/timing.ts
-
-const _07_research_skepticism_timing_sec = (s) => Math.round(s * 30);
-const _07_research_skepticism_timing_TOTAL_FRAMES = _07_research_skepticism_timing_sec(165);
-const _07_research_skepticism_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _07_research_skepticism_timing_sec(9),
-  totalFrames: _07_research_skepticism_timing_TOTAL_FRAMES,
-  hook: {
-    in: _07_research_skepticism_timing_sec(2),
-    out: _07_research_skepticism_timing_sec(10),
-    eyebrow: "Law 2 \xB7 In Practice",
-    line1: "Research with",
-    line1Accent: "one eye open.",
-    line2: "The wine seller who was really farming catfish."
-  },
-  speaker: {
-    in: _07_research_skepticism_timing_sec(12),
-    out: _07_research_skepticism_timing_sec(24),
-    name: "Kemi Adeosun",
-    title: "Former Finance Minister of Nigeria \xB7 Founder, Nidacity"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Be skeptical",
-      title: "Do your research\nwith skepticism",
-      caption: "One eye open, and a whole lot of wisdom.",
-      activeAt: _07_research_skepticism_timing_sec(28)
-    },
-    {
-      n: 2,
-      short: "The cover",
-      title: "The wine was\na cover story",
-      caption: "Her real business, catfish ponds, was hidden on purpose.",
-      activeAt: _07_research_skepticism_timing_sec(101)
-    }
-  ],
-  quotes: [
-    {
-      in: _07_research_skepticism_timing_sec(140),
-      out: _07_research_skepticism_timing_sec(150),
-      text: "Some things are not what they seem. Do your research with wisdom.",
-      attribution: "Kemi Adeosun"
-    }
-  ],
-  stats: [
-    {
-      in: _07_research_skepticism_timing_sec(54),
-      out: _07_research_skepticism_timing_sec(66),
-      value: "\u20A65m",
-      label: "in cash, handed to a near-stranger. What business throws off that much?"
-    }
-  ],
-  cutaways: [
-    {
-      key: "target",
-      start: _07_research_skepticism_timing_sec(74),
-      dur: _07_research_skepticism_timing_sec(9),
-      eyebrow: "Look closer",
-      caption: "The obvious business is rarely the real one."
-    }
-  ],
-  closing: {
-    in: _07_research_skepticism_timing_sec(152),
-    out: _07_research_skepticism_timing_TOTAL_FRAMES + _07_research_skepticism_timing_sec(2),
-    eyebrow: "Lesson 7 recap",
-    title: "Look past",
-    titleAccent: "the cover story.",
-    subtitle: "Next: why cutting price is a losing game.",
-    chips: ["Research"]
-  }
-};
-
-;// ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/08-dont-compete-on-price/timing.ts
-
-const _08_dont_compete_on_price_timing_sec = (s) => Math.round(s * 30);
-const _08_dont_compete_on_price_timing_TOTAL_FRAMES = _08_dont_compete_on_price_timing_sec(256);
-const _08_dont_compete_on_price_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _08_dont_compete_on_price_timing_sec(9),
-  totalFrames: _08_dont_compete_on_price_timing_TOTAL_FRAMES,
-  hook: {
-    in: _08_dont_compete_on_price_timing_sec(2),
-    out: _08_dont_compete_on_price_timing_sec(10),
-    eyebrow: "The Pricing Trap \xB7 08",
-    line1: "If your only strategy is",
-    line1Accent: "cutting price, get out.",
-    line2: "Subsidies, Black Friday, and learning from people who have done it."
-  },
-  speaker: {
-    in: _08_dont_compete_on_price_timing_sec(12),
-    out: _08_dont_compete_on_price_timing_sec(24),
-    name: "Kemi Adeosun",
-    title: "Former Finance Minister of Nigeria \xB7 Founder, Nidacity"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "The subsidy",
-      title: "You may be competing\nwith a subsidy",
-      caption: "Some rivals survive only because someone else pays their bills.",
-      activeAt: _08_dont_compete_on_price_timing_sec(40)
-    },
-    {
-      n: 2,
-      short: "Don't follow",
-      title: "Cost-cutting is\nnot a strategy",
-      caption: "Discount chasers are not your customers. Build a brand instead.",
-      activeAt: _08_dont_compete_on_price_timing_sec(108)
-    },
-    {
-      n: 3,
-      short: "Learn from doers",
-      title: "Learn from people\nwho have done it",
-      caption: "A failed entrepreneur makes a real mentor. A dictionary does not.",
-      activeAt: _08_dont_compete_on_price_timing_sec(194)
-    }
-  ],
-  quotes: [
-    {
-      in: _08_dont_compete_on_price_timing_sec(78),
-      out: _08_dont_compete_on_price_timing_sec(90),
-      text: "Know the numbers of your industry with almost religious passion.",
-      attribution: "Kemi Adeosun"
-    },
-    {
-      in: _08_dont_compete_on_price_timing_sec(120),
-      out: _08_dont_compete_on_price_timing_sec(132),
-      text: "If your only strategy is cost cutting, get out of business quickly.",
-      attribution: "Kemi Adeosun"
-    }
-  ],
-  stats: [
-    {
-      in: _08_dont_compete_on_price_timing_sec(68),
-      out: _08_dont_compete_on_price_timing_sec(80),
-      count: 3,
-      suffix: " yrs",
-      label: "and the subsidy ends. Then that rival packs up, and you go down with them."
-    }
-  ],
-  cutaways: [
-    {
-      key: "growth",
-      start: _08_dont_compete_on_price_timing_sec(146),
-      dur: _08_dont_compete_on_price_timing_sec(9),
-      eyebrow: "Build, don't discount",
-      caption: "A business, a brand, an ecosystem. Not a race to the bottom."
-    }
-  ],
-  closing: {
-    in: _08_dont_compete_on_price_timing_sec(244),
-    out: _08_dont_compete_on_price_timing_TOTAL_FRAMES + _08_dont_compete_on_price_timing_sec(2),
-    eyebrow: "Lesson 8 recap",
-    title: "Build a brand,",
-    titleAccent: "not a discount.",
-    subtitle: "Next: Law 3, timing.",
-    chips: ["Pricing"]
-  }
-};
-
-;// ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/09-timing-incubate/timing.ts
-
-const _09_timing_incubate_timing_sec = (s) => Math.round(s * 30);
-const _09_timing_incubate_timing_TOTAL_FRAMES = _09_timing_incubate_timing_sec(121);
-const _09_timing_incubate_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _09_timing_incubate_timing_sec(9),
-  totalFrames: _09_timing_incubate_timing_TOTAL_FRAMES,
-  hook: {
-    in: _09_timing_incubate_timing_sec(2),
-    out: _09_timing_incubate_timing_sec(10),
-    eyebrow: "Law 3 \xB7 Timing",
-    line1: "The right idea at the",
-    line1Accent: "wrong time still fails.",
-    line2: "Kemi Adeosun on incubating before you jump."
-  },
-  speaker: {
-    in: _09_timing_incubate_timing_sec(12),
-    out: _09_timing_incubate_timing_sec(24),
-    name: "Kemi Adeosun",
-    title: "Former Finance Minister of Nigeria \xB7 Founder, Nidacity"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Incubate",
-      title: "Incubate before\nyou jump",
-      caption: "Learn the industry, immerse, equip yourself, then move.",
-      activeAt: _09_timing_incubate_timing_sec(15)
-    },
-    {
-      n: 2,
-      short: "Get ready",
-      title: "Prayer assists readiness,\nit is not readiness",
-      caption: "Use the wait to learn. Your competitors are praying too.",
-      activeAt: _09_timing_incubate_timing_sec(75)
-    }
-  ],
-  quotes: [
-    {
-      in: _09_timing_incubate_timing_sec(86),
-      out: _09_timing_incubate_timing_sec(100),
-      text: "Prayer will not make you ready. It will assist your readiness, but you have to do the work.",
-      attribution: "Kemi Adeosun"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "clock",
-      start: _09_timing_incubate_timing_sec(40),
-      dur: _09_timing_incubate_timing_sec(9),
-      eyebrow: "Right idea, right time",
-      caption: "Where you are now is where the connections are made."
-    }
-  ],
-  closing: {
-    in: _09_timing_incubate_timing_sec(108),
-    out: _09_timing_incubate_timing_TOTAL_FRAMES + _09_timing_incubate_timing_sec(2),
-    eyebrow: "Lesson 9 recap",
-    title: "Do the work",
-    titleAccent: "while you wait.",
-    subtitle: "Next: Law 4, build your team.",
-    chips: ["Module 3 done"]
-  }
-};
-
-;// ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/10-build-your-team/timing.ts
-
-const _10_build_your_team_timing_sec = (s) => Math.round(s * 30);
-const _10_build_your_team_timing_TOTAL_FRAMES = _10_build_your_team_timing_sec(164);
-const _10_build_your_team_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _10_build_your_team_timing_sec(9),
-  totalFrames: _10_build_your_team_timing_TOTAL_FRAMES,
-  hook: {
-    in: _10_build_your_team_timing_sec(2),
-    out: _10_build_your_team_timing_sec(10),
-    eyebrow: "Law 4 \xB7 The Team",
-    line1: "You cannot",
-    line1Accent: "do it all alone.",
-    line2: "Kemi Adeosun on the talent gap and not canceling yourself."
-  },
-  speaker: {
-    in: _10_build_your_team_timing_sec(12),
-    out: _10_build_your_team_timing_sec(24),
-    name: "Kemi Adeosun",
-    title: "Former Finance Minister of Nigeria \xB7 Founder, Nidacity"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Build a team",
-      title: "Build your team\nfrom the bottom up",
-      caption: "No one builds anything that lasts alone.",
-      activeAt: _10_build_your_team_timing_sec(17)
-    },
-    {
-      n: 2,
-      short: "The talent gap",
-      title: "As many jobless\nas jobs unfilled",
-      caption: "Even Dangote says he cannot find the staff he needs.",
-      activeAt: _10_build_your_team_timing_sec(37)
-    },
-    {
-      n: 3,
-      short: "Acquire skills",
-      title: "Don't cancel\nyourself",
-      caption: "Acquire skills. You can teach yourself anything online.",
-      activeAt: _10_build_your_team_timing_sec(101)
-    }
-  ],
-  quotes: [
-    {
-      in: _10_build_your_team_timing_sec(132),
-      out: _10_build_your_team_timing_sec(146),
-      text: "Don't just scroll. Time is an asset.",
-      attribution: "Kemi Adeosun"
-    }
-  ],
-  stats: [],
-  cutaways: [
-    {
-      key: "network",
-      start: _10_build_your_team_timing_sec(74),
-      dur: _10_build_your_team_timing_sec(9),
-      eyebrow: "The talent gap",
-      caption: "An army of people just wants a chance. Build them up."
-    }
-  ],
-  closing: {
-    in: _10_build_your_team_timing_sec(150),
-    out: _10_build_your_team_timing_TOTAL_FRAMES + _10_build_your_team_timing_sec(2),
-    eyebrow: "Lesson 10 recap",
-    title: "Build people,",
-    titleAccent: "and guard your time.",
-    subtitle: "Next: discipline and when to outsource.",
-    chips: ["Law 4 \xB7 Team"]
-  }
-};
-
-;// ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/11-discipline-outsource/timing.ts
-
-const _11_discipline_outsource_timing_sec = (s) => Math.round(s * 30);
-const _11_discipline_outsource_timing_TOTAL_FRAMES = _11_discipline_outsource_timing_sec(108);
-const _11_discipline_outsource_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _11_discipline_outsource_timing_sec(9),
-  totalFrames: _11_discipline_outsource_timing_TOTAL_FRAMES,
-  hook: {
-    in: _11_discipline_outsource_timing_sec(2),
-    out: _11_discipline_outsource_timing_sec(10),
-    eyebrow: "Discipline \xB7 11",
-    line1: "Discipline beats",
-    line1Accent: "inspiration.",
-    line2: "The same four laws apply in government and in business."
-  },
-  speaker: {
-    in: _11_discipline_outsource_timing_sec(12),
-    out: _11_discipline_outsource_timing_sec(24),
-    name: "Kemi Adeosun",
-    title: "Former Finance Minister of Nigeria \xB7 Founder, Nidacity"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "Same laws",
-      title: "The same four laws\napply everywhere",
-      caption: "Government or private sector, idea or office. Be rigid about them.",
-      activeAt: _11_discipline_outsource_timing_sec(25)
-    },
-    {
-      n: 2,
-      short: "Outsource",
-      title: "Outsource what\nstops you growing",
-      caption: "Zephans sewed nothing for three years so she could build a brand.",
-      activeAt: _11_discipline_outsource_timing_sec(83)
-    }
-  ],
-  quotes: [
-    {
-      in: _11_discipline_outsource_timing_sec(64),
-      out: _11_discipline_outsource_timing_sec(78),
-      text: "Be rigid and disciplined about it. What are the numbers? Do I have the team?",
-      attribution: "Kemi Adeosun"
-    }
-  ],
-  stats: [
-    {
-      in: _11_discipline_outsource_timing_sec(86),
-      out: _11_discipline_outsource_timing_sec(96),
-      count: 3,
-      suffix: " yrs",
-      label: "Zephans outsourced all production before buying her first machines."
-    }
-  ],
-  cutaways: [
-    {
-      key: "deal",
-      start: _11_discipline_outsource_timing_sec(44),
-      dur: _11_discipline_outsource_timing_sec(9),
-      eyebrow: "Apply the rules",
-      caption: "Even a minister's best ideas met opposition. Discipline carried them."
-    }
-  ],
-  closing: {
-    in: _11_discipline_outsource_timing_sec(98),
-    out: _11_discipline_outsource_timing_TOTAL_FRAMES + _11_discipline_outsource_timing_sec(2),
-    eyebrow: "Lesson 11 recap",
-    title: "Be disciplined.",
-    titleAccent: "Outsource the rest.",
-    subtitle: "Next: the no-capital myth.",
-    chips: ["Discipline"]
-  }
-};
-
-;// ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/12-no-capital-myth/timing.ts
-
-const _12_no_capital_myth_timing_sec = (s) => Math.round(s * 30);
-const _12_no_capital_myth_timing_TOTAL_FRAMES = _12_no_capital_myth_timing_sec(82);
-const _12_no_capital_myth_timing_content = {
-  trackerTitle: "Making Ideas Happen",
-  trackerIn: _12_no_capital_myth_timing_sec(9),
-  totalFrames: _12_no_capital_myth_timing_TOTAL_FRAMES,
-  hook: {
-    in: _12_no_capital_myth_timing_sec(2),
-    out: _12_no_capital_myth_timing_sec(10),
-    eyebrow: "The Close \xB7 12",
-    line1: "Money is not the",
-    line1Accent: "first thing you need.",
-    line2: "Kemi Adeosun buries the no-capital excuse."
-  },
-  speaker: {
-    in: _12_no_capital_myth_timing_sec(12),
-    out: _12_no_capital_myth_timing_sec(22),
-    name: "Kemi Adeosun",
-    title: "Former Finance Minister of Nigeria \xB7 Founder, Nidacity"
-  },
-  chapters: [
-    {
-      n: 1,
-      short: "The odds",
-      title: "91% fail\nin five years",
-      caption: "The cure is rigor and learning, not luck.",
-      activeAt: _12_no_capital_myth_timing_sec(11)
-    },
-    {
-      n: 2,
-      short: "No capital",
-      title: "Bury the\nno-capital excuse",
-      caption: "She tied 26 geles in one day for seed capital. Now she employs 26.",
-      activeAt: _12_no_capital_myth_timing_sec(41)
-    }
-  ],
-  quotes: [
-    {
-      in: _12_no_capital_myth_timing_sec(64),
-      out: _12_no_capital_myth_timing_sec(72),
-      text: "Money is actually not the first thing you need. You need first of all a great idea.",
-      attribution: "Kemi Adeosun"
-    }
-  ],
-  stats: [
-    {
-      in: _12_no_capital_myth_timing_sec(14),
-      out: _12_no_capital_myth_timing_sec(28),
-      count: 91,
-      suffix: "%",
-      label: "of Nigerian startups fail within five years. Rigor is how you beat the odds."
-    },
-    {
-      in: _12_no_capital_myth_timing_sec(44),
-      out: _12_no_capital_myth_timing_sec(56),
-      value: "\u20A61,000",
-      label: "the seed capital behind a business that now employs 26 people."
-    }
-  ],
-  cutaways: [
-    {
-      key: "seedling",
-      start: _12_no_capital_myth_timing_sec(30),
-      dur: _12_no_capital_myth_timing_sec(9),
-      eyebrow: "No capital needed",
-      caption: "A great idea comes first. The capital follows."
-    }
-  ],
-  closing: {
-    in: _12_no_capital_myth_timing_sec(73),
-    out: _12_no_capital_myth_timing_TOTAL_FRAMES + _12_no_capital_myth_timing_sec(2),
-    eyebrow: "The charge",
-    title: "It is not about ideas.",
-    titleAccent: "It is about making them happen.",
-    subtitle: "You finished the four laws. Now go build.",
-    chips: ["A Great Idea"]
-  }
-};
-
-;// ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/registry.tsx
+;// ./src/instincthub/0003-technology-access-point-to-childrren/index.tsx
 
 
 
@@ -123852,199 +121001,2339 @@ const _12_no_capital_myth_timing_content = {
 
 
 
-
-
-
-
-
-
-
-
-const kemi_adeosun_it_is_not_about_ideas_its_about_making_ideas_happen_registry_make = (content) => ({ videoSrc, logoSrc }) => /* @__PURE__ */ (0,jsx_runtime.jsx)(Talk_Talk, { videoSrc, logoSrc, content, showLogo: false });
-const kemi_adeosun_it_is_not_about_ideas_its_about_making_ideas_happen_registry_KEY_PREFIX = "instincthub/uploads/kemi-adeosun-great-idea";
-const kemi_adeosun_it_is_not_about_ideas_its_about_making_ideas_happen_registry_ROWS = [
-  { slug: "01-next-bounce", module: 1, lesson: 1, title: "The next bounce of the ball", mod: _01_next_bounce_timing_namespaceObject },
-  { slug: "02-nine-businesses", module: 1, lesson: 2, title: "Nine businesses, six failures", mod: _02_nine_businesses_timing_namespaceObject },
-  { slug: "03-not-a-market-exemption", module: 1, lesson: 3, title: "A God idea is not a market exemption", mod: _03_not_a_market_exemption_timing_namespaceObject },
-  { slug: "04-know-your-market", module: 2, lesson: 4, title: "Law 1: Know your market", mod: _04_know_your_market_timing_namespaceObject },
-  { slug: "05-not-forced", module: 2, lesson: 5, title: "Don't be forced into entrepreneurship", mod: _05_not_forced_timing_namespaceObject },
-  { slug: "06-five-numbers", module: 2, lesson: 6, title: "Law 2: The five numbers you must know", mod: _06_five_numbers_timing_namespaceObject },
-  { slug: "07-research-skepticism", module: 3, lesson: 7, title: "Research with skepticism: the wine seller", mod: _07_research_skepticism_timing_namespaceObject },
-  { slug: "08-dont-compete-on-price", module: 3, lesson: 8, title: "Don't compete on price; learn from doers", mod: _08_dont_compete_on_price_timing_namespaceObject },
-  { slug: "09-timing-incubate", module: 3, lesson: 9, title: "Law 3: Timing, incubate before you jump", mod: _09_timing_incubate_timing_namespaceObject },
-  { slug: "10-build-your-team", module: 4, lesson: 10, title: "Law 4: Build your team and the talent gap", mod: _10_build_your_team_timing_namespaceObject },
-  { slug: "11-discipline-outsource", module: 4, lesson: 11, title: "Discipline and knowing when to outsource", mod: _11_discipline_outsource_timing_namespaceObject },
-  { slug: "12-no-capital-myth", module: 4, lesson: 12, title: "The reality check and the no-capital myth", mod: _12_no_capital_myth_timing_namespaceObject }
-];
-const KEMI_LESSONS = kemi_adeosun_it_is_not_about_ideas_its_about_making_ideas_happen_registry_ROWS.map((r) => ({
-  id: `ka-${r.slug}`,
-  module: r.module,
-  lesson: r.lesson,
-  title: r.title,
-  videoSrc: `tp-ka-${r.slug}.mp4`,
-  videoKey: `${kemi_adeosun_it_is_not_about_ideas_its_about_making_ideas_happen_registry_KEY_PREFIX}/m${r.module}-l${r.lesson}-${r.slug.replace(/^\d+-/, "")}.mp4`,
-  totalFrames: r.mod.TOTAL_FRAMES,
-  component: kemi_adeosun_it_is_not_about_ideas_its_about_making_ideas_happen_registry_make(r.mod.content)
-}));
-
-;// ./src/theplatform/kemi-adeosun-it-is-not-about-ideas-its-about-making-ideas-happen/Thumbnail.tsx
-
-
-
-
-
-
-const kemi_adeosun_it_is_not_about_ideas_its_about_making_ideas_happen_Thumbnail_Thumbnail = ({
-  portraitSrc = "tp-ka-kemi-portrait.jpg"
+const TechAccessPointsComposition = ({
+  videoSrc,
+  logoSrc = "instincthub-logo-color.png"
 }) => {
-  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { backgroundColor: theplatform_shared_colors_colors.yellow, fontFamily: overpass }, children: [
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(esm.Sequence, { durationInFrames: _0003_technology_access_point_to_childrren_timing_THUMBNAIL_FRAMES, name: "Thumbnail", children: /* @__PURE__ */ (0,jsx_runtime.jsx)(_0003_technology_access_point_to_childrren_Thumbnail_Thumbnail, {}) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.Sequence, { from: _0003_technology_access_point_to_childrren_timing_THUMBNAIL_FRAMES, durationInFrames: _0003_technology_access_point_to_childrren_timing_TOTAL_FRAMES, name: "Talk", children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(Lesson_Lesson, { videoSrc, logoSrc, content: _0003_technology_access_point_to_childrren_timing_content }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(esm.Audio, { src: (0,esm.staticFile)(MUSIC_SRC), volume: MUSIC_VOLUME })
+    ] })
+  ] });
+};
+
+;// ./src/instincthub/0003-technology-access-point-to-childrren/reels/ClipScene.tsx
+
+
+
+
+const ClipScene_ClipScene = ({
+  videoSrc,
+  trimBefore,
+  trimAfter,
+  objectPosition = "50% 38%",
+  dim = 0,
+  children
+}) => {
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { backgroundColor: instincthub_shared_colors_colors.inkDeep }, children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      esm.OffthreadVideo,
+      {
+        src: (0,esm.staticFile)(videoSrc),
+        trimBefore,
+        trimAfter,
+        style: {
+          width: "100%",
+          height: "100%",
+          objectFit: "cover",
+          objectPosition
+        }
+      }
+    ),
     /* @__PURE__ */ (0,jsx_runtime.jsx)(
       esm.AbsoluteFill,
       {
         style: {
-          backgroundImage: `radial-gradient(${theplatform_shared_colors_colors.ink}1A 3px, transparent 3px)`,
-          backgroundSize: "54px 54px",
+          background: `linear-gradient(to bottom, ${instincthub_shared_colors_colors.inkDeep}D9 0%, transparent 24%, transparent 44%, ${instincthub_shared_colors_colors.inkDeep}F2 100%)`,
+          pointerEvents: "none"
+        }
+      }
+    ),
+    dim > 0 ? /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      esm.AbsoluteFill,
+      {
+        style: {
+          backgroundColor: instincthub_shared_colors_colors.inkDeep,
+          opacity: dim,
+          pointerEvents: "none"
+        }
+      }
+    ) : null,
+    children
+  ] });
+};
+
+;// ./src/instincthub/0003-technology-access-point-to-childrren/reels/ReelKit.tsx
+
+
+
+
+
+const ReelKit_FPS = 30;
+const ReelKit_sec = (s) => Math.round(s * ReelKit_FPS);
+const ReelKit_TD = 9;
+const useReveal = (delay, damping = 18, stiffness = 80) => {
+  const frame = (0,esm.useCurrentFrame)();
+  const { fps } = (0,esm.useVideoConfig)();
+  return (0,esm.spring)({ frame: frame - delay, fps, config: { damping, stiffness } });
+};
+const ReelKit_Eyebrow = ({
+  children,
+  p
+}) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
+  "div",
+  {
+    style: {
+      position: "absolute",
+      top: 140,
+      left: 0,
+      right: 0,
+      display: "flex",
+      justifyContent: "center",
+      opacity: p,
+      transform: `translateY(${(0,esm.interpolate)(p, [0, 1], [-16, 0])}px)`
+    },
+    children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      "div",
+      {
+        style: {
+          fontFamily: montserrat,
+          fontSize: 24,
+          fontWeight: 700,
+          letterSpacing: 4,
+          color: instincthub_shared_colors_colors.tiffany,
+          textTransform: "uppercase",
+          padding: "12px 26px",
+          border: `2px solid ${instincthub_shared_colors_colors.tiffany}66`,
+          borderRadius: 999,
+          background: `${instincthub_shared_colors_colors.inkDeep}AA`
+        },
+        children
+      }
+    )
+  }
+);
+const ReelKit_LowerThird = ({
+  p,
+  children
+}) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
+  "div",
+  {
+    style: {
+      position: "absolute",
+      left: 70,
+      right: 70,
+      bottom: 360,
+      display: "flex",
+      justifyContent: "center",
+      opacity: p,
+      transform: `translateY(${(0,esm.interpolate)(p, [0, 1], [30, 0])}px)`
+    },
+    children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      "div",
+      {
+        style: {
+          padding: "30px 38px",
+          borderRadius: 26,
+          background: `${instincthub_shared_colors_colors.gunmetal}F0`,
+          border: `1.5px solid ${instincthub_shared_colors_colors.tiffany}44`,
+          boxShadow: `0 26px 70px -22px rgba(0,0,0,0.78)`,
+          textAlign: "center"
+        },
+        children
+      }
+    )
+  }
+);
+const Caption = ({ children, size = 72 }) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
+  "div",
+  {
+    style: {
+      fontFamily: _shared_fonts_nunito,
+      fontWeight: 700,
+      fontSize: size,
+      lineHeight: 1.08,
+      color: instincthub_shared_colors_colors.white
+    },
+    children
+  }
+);
+const Hl = ({ children }) => /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { color: instincthub_shared_colors_colors.tiffany }, children });
+const ReelKit_ReelBackground = () => {
+  const frame = (0,esm.useCurrentFrame)();
+  const gy = 42 + Math.sin(frame / 40) * 6;
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { backgroundColor: instincthub_shared_colors_colors.inkDeep }, children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      esm.AbsoluteFill,
+      {
+        style: {
+          background: `radial-gradient(ellipse at 50% ${gy}%, ${instincthub_shared_colors_colors.cyan}55 0%, transparent 60%)`
+        }
+      }
+    ),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(esm.AbsoluteFill, { style: { opacity: 0.06 }, children: /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "1080", height: "1920", children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("defs", { children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        "pattern",
+        {
+          id: "dots-tap-reel",
+          x: "0",
+          y: "0",
+          width: "48",
+          height: "48",
+          patternUnits: "userSpaceOnUse",
+          children: /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "2", cy: "2", r: "1.6", fill: instincthub_shared_colors_colors.tiffany })
+        }
+      ) }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("rect", { width: "1080", height: "1920", fill: "url(#dots-tap-reel)" })
+    ] }) })
+  ] });
+};
+const OutroSCC = ({
+  logoSrc = "instincthub-logo-white.png"
+}) => {
+  const eb = useReveal(2, 18, 80);
+  const title = useReveal(8, 18, 80);
+  const weeks = useReveal(22);
+  const pill = useReveal(34);
+  const brand = useReveal(48);
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(ReelKit_ReelBackground, {}),
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+      esm.AbsoluteFill,
+      {
+        style: {
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          justifyContent: "center",
+          textAlign: "center",
+          padding: "0 86px 300px",
+          gap: 30
+        },
+        children: [
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "div",
+            {
+              style: {
+                fontFamily: montserrat,
+                fontSize: 26,
+                fontWeight: 700,
+                letterSpacing: 5,
+                color: instincthub_shared_colors_colors.tiffany,
+                textTransform: "uppercase",
+                padding: "12px 28px",
+                border: `2px solid ${instincthub_shared_colors_colors.tiffany}66`,
+                borderRadius: 999,
+                background: `${instincthub_shared_colors_colors.inkDeep}88`,
+                opacity: eb,
+                transform: `translateY(${(0,esm.interpolate)(eb, [0, 1], [-16, 0])}px)`
+              },
+              children: "Summer Coding Class \xB7 2026"
+            }
+          ),
+          /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+            "div",
+            {
+              style: {
+                fontFamily: montserrat,
+                fontWeight: 800,
+                fontSize: 92,
+                lineHeight: 1.04,
+                letterSpacing: -1,
+                color: instincthub_shared_colors_colors.white,
+                opacity: title,
+                transform: `translateY(${(0,esm.interpolate)(title, [0, 1], [24, 0])}px)`
+              },
+              children: [
+                "Give your child a",
+                /* @__PURE__ */ (0,jsx_runtime.jsx)("br", {}),
+                /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { color: instincthub_shared_colors_colors.tiffany }, children: "safe" }),
+                " head start."
+              ]
+            }
+          ),
+          /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+            "div",
+            {
+              style: {
+                fontFamily: _shared_fonts_nunito,
+                fontWeight: 600,
+                fontSize: 42,
+                lineHeight: 1.2,
+                color: instincthub_shared_colors_colors.textDim,
+                maxWidth: 820,
+                opacity: weeks
+              },
+              children: [
+                "5 weeks of ethical, hands-on tech \u2014 then they",
+                " ",
+                /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { color: instincthub_shared_colors_colors.tiffany }, children: "demo it all to you" }),
+                " in week 6."
+              ]
+            }
+          ),
+          /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+            "div",
+            {
+              style: {
+                display: "flex",
+                alignItems: "center",
+                gap: 18,
+                fontFamily: montserrat,
+                fontWeight: 700,
+                fontSize: 48,
+                color: instincthub_shared_colors_colors.white,
+                padding: "24px 52px",
+                borderRadius: 999,
+                background: instincthub_shared_colors_colors.cyan,
+                border: `1.5px solid ${instincthub_shared_colors_colors.tiffany}88`,
+                boxShadow: `0 24px 60px -20px ${instincthub_shared_colors_colors.cyan}`,
+                opacity: pill,
+                transform: `translateY(${(0,esm.interpolate)(pill, [0, 1], [16, 0])}px)`
+              },
+              children: [
+                /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "40", height: "40", viewBox: "0 0 24 24", fill: "none", children: [
+                  /* @__PURE__ */ (0,jsx_runtime.jsx)(
+                    "path",
+                    {
+                      d: "M10 13a5 5 0 0 0 7.07 0l3-3a5 5 0 0 0-7.07-7.07L11.5 4.5",
+                      stroke: instincthub_shared_colors_colors.white,
+                      strokeWidth: 2.2,
+                      strokeLinecap: "round"
+                    }
+                  ),
+                  /* @__PURE__ */ (0,jsx_runtime.jsx)(
+                    "path",
+                    {
+                      d: "M14 11a5 5 0 0 0-7.07 0l-3 3a5 5 0 0 0 7.07 7.07L12.5 19.5",
+                      stroke: instincthub_shared_colors_colors.white,
+                      strokeWidth: 2.2,
+                      strokeLinecap: "round"
+                    }
+                  )
+                ] }),
+                "instinctHub.com/scc"
+              ]
+            }
+          ),
+          /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+            "div",
+            {
+              style: {
+                display: "flex",
+                alignItems: "center",
+                gap: 16,
+                opacity: brand
+              },
+              children: [
+                /* @__PURE__ */ (0,jsx_runtime.jsx)(
+                  esm.Img,
+                  {
+                    src: (0,esm.staticFile)(logoSrc),
+                    style: { height: 44, objectFit: "contain" }
+                  }
+                ),
+                /* @__PURE__ */ (0,jsx_runtime.jsx)(
+                  "span",
+                  {
+                    style: {
+                      fontFamily: montserrat,
+                      fontWeight: 700,
+                      fontSize: 24,
+                      letterSpacing: 3,
+                      color: instincthub_shared_colors_colors.textMuted,
+                      textTransform: "uppercase"
+                    },
+                    children: "Link in bio & description"
+                  }
+                )
+              ]
+            }
+          )
+        ]
+      }
+    )
+  ] });
+};
+
+;// ./src/instincthub/0003-technology-access-point-to-childrren/reels/ReelShell.tsx
+
+
+
+
+
+
+const ReelShell_MUSIC_SRC = "reel-music-amazing-plan.mp3";
+const ReelShell_MUSIC_VOLUME = 0.04;
+const MUSIC_FADE = 18;
+const reelFrames = (scenes) => scenes.reduce((a, s) => a + s.duration, 0) - (scenes.length - 1) * ReelKit_TD;
+const ReelShell = ({ scenes }) => {
+  const total = reelFrames(scenes);
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(TransitionSeries, { children: scenes.map((scene, i) => {
+      const isLast = i === scenes.length - 1;
+      return [
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          TransitionSeries.Sequence,
+          {
+            durationInFrames: scene.duration,
+            children: scene.node
+          },
+          scene.key
+        ),
+        !isLast ? /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          TransitionSeries.Transition,
+          {
+            presentation: fade(),
+            timing: linearTiming({ durationInFrames: ReelKit_TD })
+          },
+          `t-${scene.key}`
+        ) : null
+      ];
+    }) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      esm.Audio,
+      {
+        src: (0,esm.staticFile)(ReelShell_MUSIC_SRC),
+        volume: (f) => ReelShell_MUSIC_VOLUME * (0,esm.interpolate)(
+          f,
+          [0, MUSIC_FADE, total - MUSIC_FADE, total],
+          [0, 1, 1, 0],
+          { extrapolateLeft: "clamp", extrapolateRight: "clamp" }
+        )
+      }
+    )
+  ] });
+};
+
+;// ./src/instincthub/0003-technology-access-point-to-childrren/reels/Reel1ScreenReframe.tsx
+
+
+
+
+
+const CLIPS = {
+  hook: { before: 67.3, after: 75.9, pos: "50% 36%" },
+  // cue 24-26 thesis
+  addicted: { before: 86.5, after: 92.2, pos: "50% 38%" },
+  // cue 30-32
+  reframe: { before: 93.7, after: 105.3, pos: "50% 38%" }
+  // cue 33-37
+};
+const HookScene = ({ videoSrc }) => {
+  const eb = useReveal(2);
+  const t = useReveal(8, 18, 80);
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+    ClipScene_ClipScene,
+    {
+      videoSrc,
+      trimBefore: ReelKit_sec(CLIPS.hook.before),
+      trimAfter: ReelKit_sec(CLIPS.hook.after),
+      objectPosition: CLIPS.hook.pos,
+      children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(ReelKit_Eyebrow, { p: eb, children: "Parents, take note" }),
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(ReelKit_LowerThird, { p: t, children: /* @__PURE__ */ (0,jsx_runtime.jsxs)(Caption, { size: 70, children: [
+          "Technology is the ",
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(Hl, { children: "#1 access point" }),
+          " to your children."
+        ] }) })
+      ]
+    }
+  );
+};
+const AddictedScene = ({ videoSrc }) => {
+  const t = useReveal(4, 18, 80);
+  return /* @__PURE__ */ (0,jsx_runtime.jsx)(
+    ClipScene_ClipScene,
+    {
+      videoSrc,
+      trimBefore: ReelKit_sec(CLIPS.addicted.before),
+      trimAfter: ReelKit_sec(CLIPS.addicted.after),
+      objectPosition: CLIPS.addicted.pos,
+      children: /* @__PURE__ */ (0,jsx_runtime.jsx)(ReelKit_LowerThird, { p: t, children: /* @__PURE__ */ (0,jsx_runtime.jsxs)(Caption, { size: 72, children: [
+        "\u201CThey\u2019re addicted to screens.\u201D ",
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(Hl, { children: "It\u2019s real." })
+      ] }) })
+    }
+  );
+};
+const ReframeScene = ({ videoSrc }) => {
+  const t = useReveal(6, 18, 80);
+  return /* @__PURE__ */ (0,jsx_runtime.jsx)(
+    ClipScene_ClipScene,
+    {
+      videoSrc,
+      trimBefore: ReelKit_sec(CLIPS.reframe.before),
+      trimAfter: ReelKit_sec(CLIPS.reframe.after),
+      objectPosition: CLIPS.reframe.pos,
+      children: /* @__PURE__ */ (0,jsx_runtime.jsx)(ReelKit_LowerThird, { p: t, children: /* @__PURE__ */ (0,jsx_runtime.jsxs)(Caption, { size: 66, children: [
+        "So don\u2019t fight it \u2014 ",
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(Hl, { children: "make screen time meaningful." })
+      ] }) })
+    }
+  );
+};
+const scenes = (videoSrc) => [
+  {
+    key: "hook",
+    duration: ReelKit_sec(CLIPS.hook.after) - ReelKit_sec(CLIPS.hook.before),
+    node: /* @__PURE__ */ (0,jsx_runtime.jsx)(HookScene, { videoSrc })
+  },
+  {
+    key: "addicted",
+    duration: ReelKit_sec(CLIPS.addicted.after) - ReelKit_sec(CLIPS.addicted.before),
+    node: /* @__PURE__ */ (0,jsx_runtime.jsx)(AddictedScene, { videoSrc })
+  },
+  {
+    key: "reframe",
+    duration: ReelKit_sec(CLIPS.reframe.after) - ReelKit_sec(CLIPS.reframe.before),
+    node: /* @__PURE__ */ (0,jsx_runtime.jsx)(ReframeScene, { videoSrc })
+  },
+  { key: "outro", duration: ReelKit_sec(6), node: /* @__PURE__ */ (0,jsx_runtime.jsx)(OutroSCC, {}) }
+];
+const REEL1_FRAMES = reelFrames(scenes("x"));
+const Reel1ScreenReframe = ({ videoSrc }) => /* @__PURE__ */ (0,jsx_runtime.jsx)(ReelShell, { scenes: scenes(videoSrc) });
+
+;// ./src/instincthub/0003-technology-access-point-to-childrren/reels/Reel2NeverForget.tsx
+
+
+
+
+
+const Reel2NeverForget_CLIPS = {
+  hook: { before: 163.4, after: 172.2, pos: "50% 36%" },
+  // cue 87-89
+  loaded: { before: 237, after: 250, pos: "50% 38%" },
+  // cue 94-97
+  remember: { before: 259.3, after: 267, pos: "50% 38%" },
+  // cue 101-103
+  rule: { before: 313.9, after: 324.5, pos: "50% 38%" }
+  // cue 122-127
+};
+const Reel2NeverForget_HookScene = ({ videoSrc }) => {
+  const eb = useReveal(2);
+  const t = useReveal(10, 18, 80);
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+    ClipScene_ClipScene,
+    {
+      videoSrc,
+      trimBefore: ReelKit_sec(Reel2NeverForget_CLIPS.hook.before),
+      trimAfter: ReelKit_sec(Reel2NeverForget_CLIPS.hook.after),
+      objectPosition: Reel2NeverForget_CLIPS.hook.pos,
+      children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(ReelKit_Eyebrow, { p: eb, children: "A true story" }),
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(ReelKit_LowerThird, { p: t, children: /* @__PURE__ */ (0,jsx_runtime.jsxs)(Caption, { size: 74, children: [
+          "A day I\u2019ll ",
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(Hl, { children: "never forget." })
+        ] }) })
+      ]
+    }
+  );
+};
+const LoadedScene = ({ videoSrc }) => {
+  const t = useReveal(6, 18, 80);
+  return /* @__PURE__ */ (0,jsx_runtime.jsx)(
+    ClipScene_ClipScene,
+    {
+      videoSrc,
+      trimBefore: ReelKit_sec(Reel2NeverForget_CLIPS.loaded.before),
+      trimAfter: ReelKit_sec(Reel2NeverForget_CLIPS.loaded.after),
+      objectPosition: Reel2NeverForget_CLIPS.loaded.pos,
+      children: /* @__PURE__ */ (0,jsx_runtime.jsx)(ReelKit_LowerThird, { p: t, children: /* @__PURE__ */ (0,jsx_runtime.jsxs)(Caption, { size: 62, children: [
+        "A friend typed in a URL \u2014 and the ",
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(Hl, { children: "wrong thing loaded." })
+      ] }) })
+    }
+  );
+};
+const RememberScene = ({ videoSrc }) => {
+  const t = useReveal(6, 18, 80);
+  return /* @__PURE__ */ (0,jsx_runtime.jsx)(
+    ClipScene_ClipScene,
+    {
+      videoSrc,
+      trimBefore: ReelKit_sec(Reel2NeverForget_CLIPS.remember.before),
+      trimAfter: ReelKit_sec(Reel2NeverForget_CLIPS.remember.after),
+      objectPosition: Reel2NeverForget_CLIPS.remember.pos,
+      children: /* @__PURE__ */ (0,jsx_runtime.jsx)(ReelKit_LowerThird, { p: t, children: /* @__PURE__ */ (0,jsx_runtime.jsxs)(Caption, { size: 64, children: [
+        "Years later, I ",
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(Hl, { children: "still remember that exact site." })
+      ] }) })
+    }
+  );
+};
+const RuleScene = ({ videoSrc }) => {
+  const t = useReveal(6, 18, 80);
+  return /* @__PURE__ */ (0,jsx_runtime.jsx)(
+    ClipScene_ClipScene,
+    {
+      videoSrc,
+      trimBefore: ReelKit_sec(Reel2NeverForget_CLIPS.rule.before),
+      trimAfter: ReelKit_sec(Reel2NeverForget_CLIPS.rule.after),
+      objectPosition: Reel2NeverForget_CLIPS.rule.pos,
+      dim: 0.12,
+      children: /* @__PURE__ */ (0,jsx_runtime.jsx)(ReelKit_LowerThird, { p: t, children: /* @__PURE__ */ (0,jsx_runtime.jsxs)(Caption, { size: 60, children: [
+        "My rule ever since:",
+        " ",
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(Hl, { children: "\u201CExplain it first \u2014 or you can\u2019t show me.\u201D" })
+      ] }) })
+    }
+  );
+};
+const Reel2NeverForget_scenes = (videoSrc) => [
+  {
+    key: "hook",
+    duration: ReelKit_sec(Reel2NeverForget_CLIPS.hook.after) - ReelKit_sec(Reel2NeverForget_CLIPS.hook.before),
+    node: /* @__PURE__ */ (0,jsx_runtime.jsx)(Reel2NeverForget_HookScene, { videoSrc })
+  },
+  {
+    key: "loaded",
+    duration: ReelKit_sec(Reel2NeverForget_CLIPS.loaded.after) - ReelKit_sec(Reel2NeverForget_CLIPS.loaded.before),
+    node: /* @__PURE__ */ (0,jsx_runtime.jsx)(LoadedScene, { videoSrc })
+  },
+  {
+    key: "remember",
+    duration: ReelKit_sec(Reel2NeverForget_CLIPS.remember.after) - ReelKit_sec(Reel2NeverForget_CLIPS.remember.before),
+    node: /* @__PURE__ */ (0,jsx_runtime.jsx)(RememberScene, { videoSrc })
+  },
+  {
+    key: "rule",
+    duration: ReelKit_sec(Reel2NeverForget_CLIPS.rule.after) - ReelKit_sec(Reel2NeverForget_CLIPS.rule.before),
+    node: /* @__PURE__ */ (0,jsx_runtime.jsx)(RuleScene, { videoSrc })
+  },
+  { key: "outro", duration: ReelKit_sec(6), node: /* @__PURE__ */ (0,jsx_runtime.jsx)(OutroSCC, {}) }
+];
+const REEL2_FRAMES = reelFrames(Reel2NeverForget_scenes("x"));
+const Reel2NeverForget = ({ videoSrc }) => /* @__PURE__ */ (0,jsx_runtime.jsx)(ReelShell, { scenes: Reel2NeverForget_scenes(videoSrc) });
+
+;// ./src/instincthub/0003-technology-access-point-to-childrren/reels/Reel3WalkWithThem.tsx
+
+
+
+
+
+const Reel3WalkWithThem_CLIPS = {
+  mistake: { before: 351.6, after: 364.6, pos: "50% 38%" },
+  // cue 138-142
+  journey: { before: 365.5, after: 369, pos: "50% 38%" },
+  // cue 143-144
+  football: { before: 370.2, after: 379.3, pos: "50% 38%" },
+  // cue 145-149
+  payoff: { before: 426.4, after: 434.5, pos: "50% 38%" }
+  // cue 167-170
+};
+const MistakeScene = ({ videoSrc }) => {
+  const eb = useReveal(2);
+  const t = useReveal(8, 18, 80);
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+    ClipScene_ClipScene,
+    {
+      videoSrc,
+      trimBefore: ReelKit_sec(Reel3WalkWithThem_CLIPS.mistake.before),
+      trimAfter: ReelKit_sec(Reel3WalkWithThem_CLIPS.mistake.after),
+      objectPosition: Reel3WalkWithThem_CLIPS.mistake.pos,
+      children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(ReelKit_Eyebrow, { p: eb, children: "Let\u2019s face the truth" }),
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(ReelKit_LowerThird, { p: t, children: /* @__PURE__ */ (0,jsx_runtime.jsxs)(Caption, { size: 64, children: [
+          "Enrolling your child in a program ",
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(Hl, { children: "isn\u2019t all of it." })
+        ] }) })
+      ]
+    }
+  );
+};
+const JourneyScene = ({ videoSrc }) => {
+  const t = useReveal(4, 18, 80);
+  return /* @__PURE__ */ (0,jsx_runtime.jsx)(
+    ClipScene_ClipScene,
+    {
+      videoSrc,
+      trimBefore: ReelKit_sec(Reel3WalkWithThem_CLIPS.journey.before),
+      trimAfter: ReelKit_sec(Reel3WalkWithThem_CLIPS.journey.after),
+      objectPosition: Reel3WalkWithThem_CLIPS.journey.pos,
+      children: /* @__PURE__ */ (0,jsx_runtime.jsx)(ReelKit_LowerThird, { p: t, children: /* @__PURE__ */ (0,jsx_runtime.jsxs)(Caption, { size: 74, children: [
+        "Go through the journey ",
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(Hl, { children: "with them." })
+      ] }) })
+    }
+  );
+};
+const FootballScene = ({ videoSrc }) => {
+  const t = useReveal(6, 18, 80);
+  return /* @__PURE__ */ (0,jsx_runtime.jsx)(
+    ClipScene_ClipScene,
+    {
+      videoSrc,
+      trimBefore: ReelKit_sec(Reel3WalkWithThem_CLIPS.football.before),
+      trimAfter: ReelKit_sec(Reel3WalkWithThem_CLIPS.football.after),
+      objectPosition: Reel3WalkWithThem_CLIPS.football.pos,
+      children: /* @__PURE__ */ (0,jsx_runtime.jsx)(ReelKit_LowerThird, { p: t, children: /* @__PURE__ */ (0,jsx_runtime.jsxs)(Caption, { size: 62, children: [
+        "Like a parent at the ",
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(Hl, { children: "football training ground." })
+      ] }) })
+    }
+  );
+};
+const PayoffScene = ({ videoSrc }) => {
+  const t = useReveal(6, 18, 80);
+  return /* @__PURE__ */ (0,jsx_runtime.jsx)(
+    ClipScene_ClipScene,
+    {
+      videoSrc,
+      trimBefore: ReelKit_sec(Reel3WalkWithThem_CLIPS.payoff.before),
+      trimAfter: ReelKit_sec(Reel3WalkWithThem_CLIPS.payoff.after),
+      objectPosition: Reel3WalkWithThem_CLIPS.payoff.pos,
+      dim: 0.1,
+      children: /* @__PURE__ */ (0,jsx_runtime.jsx)(ReelKit_LowerThird, { p: t, children: /* @__PURE__ */ (0,jsx_runtime.jsxs)(Caption, { size: 62, children: [
+        "At Summer Coding Class, ",
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(Hl, { children: "parents learn too." })
+      ] }) })
+    }
+  );
+};
+const Reel3WalkWithThem_scenes = (videoSrc) => [
+  {
+    key: "mistake",
+    duration: ReelKit_sec(Reel3WalkWithThem_CLIPS.mistake.after) - ReelKit_sec(Reel3WalkWithThem_CLIPS.mistake.before),
+    node: /* @__PURE__ */ (0,jsx_runtime.jsx)(MistakeScene, { videoSrc })
+  },
+  {
+    key: "journey",
+    duration: ReelKit_sec(Reel3WalkWithThem_CLIPS.journey.after) - ReelKit_sec(Reel3WalkWithThem_CLIPS.journey.before),
+    node: /* @__PURE__ */ (0,jsx_runtime.jsx)(JourneyScene, { videoSrc })
+  },
+  {
+    key: "football",
+    duration: ReelKit_sec(Reel3WalkWithThem_CLIPS.football.after) - ReelKit_sec(Reel3WalkWithThem_CLIPS.football.before),
+    node: /* @__PURE__ */ (0,jsx_runtime.jsx)(FootballScene, { videoSrc })
+  },
+  {
+    key: "payoff",
+    duration: ReelKit_sec(Reel3WalkWithThem_CLIPS.payoff.after) - ReelKit_sec(Reel3WalkWithThem_CLIPS.payoff.before),
+    node: /* @__PURE__ */ (0,jsx_runtime.jsx)(PayoffScene, { videoSrc })
+  },
+  { key: "outro", duration: ReelKit_sec(6), node: /* @__PURE__ */ (0,jsx_runtime.jsx)(OutroSCC, {}) }
+];
+const REEL3_FRAMES = reelFrames(Reel3WalkWithThem_scenes("x"));
+const Reel3WalkWithThem = ({ videoSrc }) => /* @__PURE__ */ (0,jsx_runtime.jsx)(ReelShell, { scenes: Reel3WalkWithThem_scenes(videoSrc) });
+
+;// ./src/mmm/he-healed-them-all/colors.ts
+
+const he_healed_them_all_colors_colors = {
+  // Primary brand
+  brandBlue: "#2C5EAD",
+  // deep primary
+  brandSky: "#1591DC",
+  // bright accent
+  // Backgrounds
+  brandDark: "#0A1A30",
+  // deep navy — frosted boxes & cutaway bg
+  brandNavy: "#0E2747",
+  // lifted navy panel
+  white: "#FFFFFF",
+  paper: "#F5F3EC",
+  // Blue scale
+  skyLight: "#5BB8EE",
+  blueDeep: "#1E4582",
+  // Scripture accent (warm gold)
+  gold: "#E9B949",
+  goldSoft: "#F3D68F",
+  // Neutral (blue-grey) scale
+  neutral100: "#EAF1F9",
+  neutral200: "#D4E0EF",
+  neutral400: "#9DB1CC",
+  neutral600: "#5E748F"
+};
+
+;// ./node_modules/.pnpm/@remotion+google-fonts@4.0.421_react-dom@19.2.3_react@19.2.3__react@19.2.3/node_modules/@remotion/google-fonts/dist/esm/PlayfairDisplay.mjs
+// src/base.ts
+
+
+var PlayfairDisplay_loadedFonts = {};
+var PlayfairDisplay_withResolvers = function() {
+  let resolve;
+  let reject;
+  const promise = new Promise((res, rej) => {
+    resolve = res;
+    reject = rej;
+  });
+  return { promise, resolve, reject };
+};
+var PlayfairDisplay_loadFontFaceOrTimeoutAfter20Seconds = (fontFace) => {
+  const timeout = PlayfairDisplay_withResolvers();
+  const int = setTimeout(() => {
+    timeout.reject(new Error("Timed out loading Google Font"));
+  }, 18000);
+  return Promise.race([
+    fontFace.load().then(() => {
+      clearTimeout(int);
+    }),
+    timeout.promise
+  ]);
+};
+var PlayfairDisplay_loadFonts = (meta, style, options) => {
+  const weightsAndSubsetsAreSpecified = Array.isArray(options?.weights) && Array.isArray(options?.subsets) && options.weights.length > 0 && options.subsets.length > 0;
+  if (no_react.NoReactInternals.ENABLE_V5_BREAKING_CHANGES && !weightsAndSubsetsAreSpecified) {
+    throw new Error("Loading Google Fonts without specifying weights and subsets is not supported in Remotion v5. Please specify the weights and subsets you need.");
+  }
+  const promises = [];
+  const styles = style ? [style] : Object.keys(meta.fonts);
+  let fontsLoaded = 0;
+  for (const style2 of styles) {
+    if (typeof FontFace === "undefined") {
+      continue;
+    }
+    if (!meta.fonts[style2]) {
+      throw new Error(`The font ${meta.fontFamily} does not have a style ${style2}`);
+    }
+    const weights = options?.weights ?? Object.keys(meta.fonts[style2]);
+    for (const weight of weights) {
+      if (!meta.fonts[style2][weight]) {
+        throw new Error(`The font ${meta.fontFamily} does not  have a weight ${weight} in style ${style2}`);
+      }
+      const subsets = options?.subsets ?? Object.keys(meta.fonts[style2][weight]);
+      for (const subset of subsets) {
+        let font = meta.fonts[style2]?.[weight]?.[subset];
+        if (!font) {
+          throw new Error(`weight: ${weight} subset: ${subset} is not available for '${meta.fontFamily}'`);
+        }
+        let fontKey = `${meta.fontFamily}-${style2}-${weight}-${subset}`;
+        const previousPromise = PlayfairDisplay_loadedFonts[fontKey];
+        if (previousPromise) {
+          promises.push(previousPromise);
+          continue;
+        }
+        const baseLabel = `Fetching ${meta.fontFamily} font ${JSON.stringify({
+          style: style2,
+          weight,
+          subset
+        })}`;
+        const label = weightsAndSubsetsAreSpecified ? baseLabel : `${baseLabel}. This might be caused by loading too many font variations. Read more: https://www.remotion.dev/docs/troubleshooting/font-loading-errors#render-timeout-when-loading-google-fonts`;
+        const handle = (0,esm.delayRender)(label, { timeoutInMilliseconds: 60000 });
+        fontsLoaded++;
+        const fontFace = new FontFace(meta.fontFamily, `url(${font}) format('woff2')`, {
+          weight,
+          style: style2,
+          unicodeRange: meta.unicodeRanges[subset]
+        });
+        let attempts = 2;
+        const tryToLoad = () => {
+          if (fontFace.status === "loaded") {
+            (0,esm.continueRender)(handle);
+            return;
+          }
+          const promise = PlayfairDisplay_loadFontFaceOrTimeoutAfter20Seconds(fontFace).then(() => {
+            (options?.document ?? document).fonts.add(fontFace);
+            (0,esm.continueRender)(handle);
+          }).catch((err) => {
+            PlayfairDisplay_loadedFonts[fontKey] = undefined;
+            if (attempts === 0) {
+              throw err;
+            } else {
+              attempts--;
+              tryToLoad();
+            }
+          });
+          PlayfairDisplay_loadedFonts[fontKey] = promise;
+          promises.push(promise);
+        };
+        tryToLoad();
+      }
+    }
+    if (fontsLoaded > 20) {
+      console.warn(`Made ${fontsLoaded} network requests to load fonts for ${meta.fontFamily}. Consider loading fewer weights and subsets by passing options to loadFont(). Disable this warning by passing "ignoreTooManyRequestsWarning: true" to "options".`);
+    }
+  }
+  return {
+    fontFamily: meta.fontFamily,
+    fonts: meta.fonts,
+    unicodeRanges: meta.unicodeRanges,
+    waitUntilDone: () => Promise.all(promises).then(() => {
+      return;
+    })
+  };
+};
+
+// src/PlayfairDisplay.ts
+var PlayfairDisplay_getInfo = () => ({
+  fontFamily: "Playfair Display",
+  importName: "PlayfairDisplay",
+  version: "v40",
+  url: "https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900",
+  unicodeRanges: {
+    cyrillic: "U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116",
+    vietnamese: "U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB",
+    "latin-ext": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+    latin: "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD"
+  },
+  fonts: {
+    italic: {
+      "400": {
+        cyrillic: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk72xU.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk72xU.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk72xU.woff2",
+        latin: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7.woff2"
+      },
+      "500": {
+        cyrillic: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk72xU.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk72xU.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk72xU.woff2",
+        latin: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7.woff2"
+      },
+      "600": {
+        cyrillic: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk72xU.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk72xU.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk72xU.woff2",
+        latin: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7.woff2"
+      },
+      "700": {
+        cyrillic: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk72xU.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk72xU.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk72xU.woff2",
+        latin: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7.woff2"
+      },
+      "800": {
+        cyrillic: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk72xU.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk72xU.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk72xU.woff2",
+        latin: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7.woff2"
+      },
+      "900": {
+        cyrillic: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk72xU.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk72xU.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk72xU.woff2",
+        latin: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7.woff2"
+      }
+    },
+    normal: {
+      "400": {
+        cyrillic: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2",
+        latin: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2"
+      },
+      "500": {
+        cyrillic: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2",
+        latin: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2"
+      },
+      "600": {
+        cyrillic: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2",
+        latin: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2"
+      },
+      "700": {
+        cyrillic: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2",
+        latin: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2"
+      },
+      "800": {
+        cyrillic: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2",
+        latin: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2"
+      },
+      "900": {
+        cyrillic: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_.woff2",
+        vietnamese: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_.woff2",
+        "latin-ext": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2",
+        latin: "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2"
+      }
+    }
+  },
+  subsets: ["cyrillic", "latin", "latin-ext", "vietnamese"]
+});
+var PlayfairDisplay_fontFamily = "Playfair Display";
+var PlayfairDisplay_loadFont = (style, options) => {
+  return PlayfairDisplay_loadFonts(PlayfairDisplay_getInfo(), style, options);
+};
+
+
+;// ./src/mmm/he-healed-them-all/fonts.ts
+
+
+
+const { fontFamily: playfair } = PlayfairDisplay_loadFont("normal", {
+  weights: ["600", "700"],
+  subsets: ["latin"]
+});
+const { fontFamily: fonts_inter } = Inter_loadFont("normal", {
+  weights: ["400", "500", "600", "700"],
+  subsets: ["latin"]
+});
+
+
+;// ./src/mmm/he-healed-them-all/Background.tsx
+
+
+
+
+
+const he_healed_them_all_Background_Background = ({ videoSrc }) => {
+  if (videoSrc) {
+    return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { backgroundColor: he_healed_them_all_colors_colors.brandDark }, children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(esm.OffthreadVideo, { src: (0,esm.staticFile)(videoSrc) }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        esm.AbsoluteFill,
+        {
+          style: {
+            background: `linear-gradient(to bottom, transparent 60%, ${he_healed_them_all_colors_colors.brandDark}66 100%)`,
+            pointerEvents: "none"
+          }
+        }
+      )
+    ] });
+  }
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { backgroundColor: he_healed_them_all_colors_colors.brandDark }, children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      esm.AbsoluteFill,
+      {
+        style: {
+          background: `radial-gradient(ellipse at 38% 42%, ${he_healed_them_all_colors_colors.brandBlue}40 0%, transparent 60%)`
+        }
+      }
+    ),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(esm.AbsoluteFill, { style: { opacity: 0.06 }, children: /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "1920", height: "1080", children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("defs", { children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        "pattern",
+        {
+          id: "cross-bg",
+          x: "0",
+          y: "0",
+          width: "58",
+          height: "58",
+          patternUnits: "userSpaceOnUse",
+          children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "path",
+            {
+              d: "M29 16 v26 M18 27 h22",
+              stroke: he_healed_them_all_colors_colors.skyLight,
+              strokeWidth: "2",
+              strokeLinecap: "round"
+            }
+          )
+        }
+      ) }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("rect", { width: "1920", height: "1080", fill: "url(#cross-bg)" })
+    ] }) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      "div",
+      {
+        style: {
+          position: "absolute",
+          left: 90,
+          top: 96,
+          fontFamily: fonts_inter,
+          fontWeight: 600,
+          fontSize: 18,
+          letterSpacing: 3,
+          color: `${he_healed_them_all_colors_colors.white}55`,
+          textTransform: "uppercase"
+        },
+        children: "Footage placeholder \xB7 set videoSrc to composite"
+      }
+    )
+  ] });
+};
+
+;// ./src/mmm/he-healed-them-all/timing.ts
+
+const he_healed_them_all_timing_FPS = 30;
+const he_healed_them_all_timing_sec = (s) => Math.round(s * he_healed_them_all_timing_FPS);
+const he_healed_them_all_timing_TOTAL_FRAMES = he_healed_them_all_timing_sec(374.582542);
+const he_healed_them_all_timing_THUMBNAIL_FRAMES = he_healed_them_all_timing_sec(1);
+const he_healed_them_all_timing_COMPOSITION_FRAMES = he_healed_them_all_timing_THUMBNAIL_FRAMES + he_healed_them_all_timing_TOTAL_FRAMES;
+const VERSES = [
+  {
+    n: 1,
+    ref: "Matthew 12:15b",
+    text: "And great multitudes followed him, and he healed them all.",
+    translation: "KJV",
+    short: "Matthew 12:15",
+    activeAt: he_healed_them_all_timing_sec(45.42)
+  },
+  {
+    n: 2,
+    ref: "Acts 10:38",
+    text: "How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him.",
+    translation: "KJV",
+    short: "Acts 10:38",
+    activeAt: he_healed_them_all_timing_sec(96.44)
+  },
+  {
+    n: 3,
+    ref: "Malachi 4:2",
+    text: "But unto you that fear my name shall the Sun of righteousness arise with healing in his wings.",
+    translation: "KJV",
+    short: "Malachi 4:2",
+    activeAt: he_healed_them_all_timing_sec(174.9)
+  },
+  {
+    n: 4,
+    ref: "John 14:13",
+    text: "And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son.",
+    translation: "KJV",
+    short: "John 14:13",
+    activeAt: he_healed_them_all_timing_sec(190.5)
+  },
+  {
+    n: 5,
+    ref: "Acts 3:6",
+    text: "Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk.",
+    translation: "KJV",
+    short: "Acts 3:6",
+    activeAt: he_healed_them_all_timing_sec(226.9)
+  },
+  {
+    n: 6,
+    ref: "Luke 4:38\u201339",
+    text: "And he stood over her, and rebuked the fever; and it left her: and immediately she arose and ministered unto them.",
+    translation: "KJV",
+    short: "Luke 4:38\u201339",
+    activeAt: he_healed_them_all_timing_sec(261.7)
+  },
+  {
+    n: 7,
+    ref: "Luke 8:43\u201348",
+    text: "She came behind him, and touched the border of his garment: and immediately her issue of blood stanched.",
+    translation: "KJV",
+    short: "Luke 8:43\u201348",
+    activeAt: he_healed_them_all_timing_sec(282.5)
+  },
+  {
+    n: 8,
+    ref: "John 11:43\u201344",
+    text: "He cried with a loud voice, Lazarus, come forth. And he that was dead came forth.",
+    translation: "KJV",
+    short: "John 11:43\u201344",
+    activeAt: he_healed_them_all_timing_sec(303.9)
+  }
+];
+const he_healed_them_all_timing_BEATS = {
+  /** "Beloved, sometimes in our life we need something greater than all." */
+  hookIn: he_healed_them_all_timing_sec(0.26),
+  hookOut: he_healed_them_all_timing_sec(8.6),
+  /** Topic lands ("And He healed them") — the Scripture tracker appears. */
+  trackerIn: he_healed_them_all_timing_sec(39.5),
+  /** Each verse panel stays this long before receding to just the rail. */
+  revealHold: he_healed_them_all_timing_sec(7),
+  /** "Call on him today, ask Jesus to come into your life." (cue 105) */
+  ctaIn: he_healed_them_all_timing_sec(354.5),
+  /** No built-in end card — the CTA holds to the very end of the footage. */
+  ctaOut: he_healed_them_all_timing_sec(373.6)
+};
+const he_healed_them_all_timing_CUTAWAYS = [
+  {
+    key: "bombardment",
+    start: he_healed_them_all_timing_sec(13.7),
+    dur: he_healed_them_all_timing_sec(6.5),
+    eyebrow: "The daily battle",
+    caption: "Daily we are bombarded \u2014 seen, unseen, and spiritual."
+  },
+  {
+    key: "balm",
+    start: he_healed_them_all_timing_sec(79),
+    dur: he_healed_them_all_timing_sec(7),
+    eyebrow: "The Balm in Gilead",
+    caption: "Jesus is the Balm in Gilead \u2014 and what the Balm does is heal."
+  },
+  {
+    key: "threekinds",
+    start: he_healed_them_all_timing_sec(124),
+    dur: he_healed_them_all_timing_sec(8),
+    eyebrow: "Three kinds of healing",
+    caption: "Emotional. Physical. Spiritual. He is able for them all."
+  },
+  {
+    key: "kneebow",
+    start: he_healed_them_all_timing_sec(206),
+    dur: he_healed_them_all_timing_sec(7),
+    eyebrow: "Philippians 2:9\u201310",
+    caption: "At the name of Jesus, every knee shall bow."
+  },
+  {
+    key: "riseup",
+    start: he_healed_them_all_timing_sec(237),
+    dur: he_healed_them_all_timing_sec(6.5),
+    eyebrow: "Acts 3 \xB7 The Beautiful Gate",
+    caption: "\u201CIn the name of Jesus Christ, rise up and walk.\u201D"
+  },
+  {
+    key: "lazarus",
+    start: he_healed_them_all_timing_sec(326),
+    dur: he_healed_them_all_timing_sec(7),
+    eyebrow: "John 11 \xB7 Lazarus",
+    caption: "\u201CLazarus, come forth\u201D \u2014 and the dead man came out."
+  }
+];
+const verseStateAt = (index, frame) => {
+  var _a;
+  const start = VERSES[index].activeAt;
+  const nextStart = ((_a = VERSES[index + 1]) == null ? void 0 : _a.activeAt) ?? Infinity;
+  if (frame < start) return "upcoming";
+  if (frame < nextStart) return "active";
+  return "done";
+};
+
+;// ./src/mmm/he-healed-them-all/HookOverlay.tsx
+
+
+
+
+
+
+const he_healed_them_all_HookOverlay_HookOverlay = () => {
+  const frame = (0,esm.useCurrentFrame)();
+  const { fps } = (0,esm.useVideoConfig)();
+  const local = frame - he_healed_them_all_timing_BEATS.hookIn;
+  const span = he_healed_them_all_timing_BEATS.hookOut - he_healed_them_all_timing_BEATS.hookIn;
+  if (local < 0 || local > span + 22) return null;
+  const enter = (0,esm.spring)({
+    frame: local,
+    fps,
+    config: { damping: 20, stiffness: 80 }
+  });
+  const line2 = (0,esm.spring)({
+    frame: local - 16,
+    fps,
+    config: { damping: 22, stiffness: 90 }
+  });
+  const exit = (0,esm.interpolate)(local, [span, span + 20], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+    easing: esm.Easing.in(esm.Easing.cubic)
+  });
+  const appear = enter * (1 - exit);
+  return /* @__PURE__ */ (0,jsx_runtime.jsx)(
+    "div",
+    {
+      style: {
+        position: "absolute",
+        left: 80,
+        bottom: 150,
+        maxWidth: 1120,
+        opacity: appear,
+        transform: `translateY(${(0,esm.interpolate)(appear, [0, 1], [40, 0])}px)`
+      },
+      children: /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+        "div",
+        {
+          style: {
+            display: "inline-block",
+            padding: "30px 42px 34px",
+            borderRadius: 24,
+            background: `${he_healed_them_all_colors_colors.brandDark}E6`,
+            border: `1.5px solid ${he_healed_them_all_colors_colors.brandSky}55`,
+            boxShadow: `0 28px 70px -24px rgba(0,0,0,0.7), 0 0 0 7px ${he_healed_them_all_colors_colors.brandBlue}1F`
+          },
+          children: [
+            /* @__PURE__ */ (0,jsx_runtime.jsx)(
+              "div",
+              {
+                style: {
+                  fontFamily: fonts_inter,
+                  fontWeight: 600,
+                  fontSize: 20,
+                  letterSpacing: 5,
+                  color: he_healed_them_all_colors_colors.skyLight,
+                  textTransform: "uppercase",
+                  marginBottom: 16
+                },
+                children: "Monday Morning Missive"
+              }
+            ),
+            /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+              "div",
+              {
+                style: {
+                  fontFamily: playfair,
+                  fontWeight: 700,
+                  fontSize: 72,
+                  lineHeight: 1.08,
+                  color: he_healed_them_all_colors_colors.white
+                },
+                children: [
+                  "Sometimes we need something",
+                  " ",
+                  /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { color: he_healed_them_all_colors_colors.skyLight }, children: "greater than all." })
+                ]
+              }
+            ),
+            /* @__PURE__ */ (0,jsx_runtime.jsx)(
+              "div",
+              {
+                style: {
+                  fontFamily: fonts_inter,
+                  fontWeight: 400,
+                  fontSize: 32,
+                  color: he_healed_them_all_colors_colors.neutral200,
+                  marginTop: 16,
+                  opacity: line2,
+                  transform: `translateY(${(0,esm.interpolate)(line2, [0, 1], [16, 0])}px)`
+                },
+                children: "And He healed them all."
+              }
+            )
+          ]
+        }
+      )
+    }
+  );
+};
+
+;// ./src/mmm/he-healed-them-all/BookIcon.tsx
+
+
+
+const BookIcon_DASH = 360;
+const BookIcon_BookIcon = ({
+  size = 120,
+  color = he_healed_them_all_colors_colors.gold,
+  progress = 1
+}) => {
+  const draw = {
+    strokeDasharray: BookIcon_DASH,
+    strokeDashoffset: BookIcon_DASH * (1 - progress)
+  };
+  const soft = Math.max(0, (progress - 0.5) / 0.5);
+  const common = {
+    fill: "none",
+    stroke: color,
+    strokeWidth: 4,
+    strokeLinecap: "round",
+    strokeLinejoin: "round"
+  };
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: size, height: size, viewBox: "0 0 120 120", children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M60 44 V104", ...common, style: draw }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      "path",
+      {
+        d: "M60 44 C46 34 30 34 18 40 V96 C30 90 46 90 60 100 Z",
+        ...common,
+        style: draw
+      }
+    ),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      "path",
+      {
+        d: "M60 44 C74 34 90 34 102 40 V96 C90 90 74 90 60 100 Z",
+        ...common,
+        style: draw
+      }
+    ),
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)("g", { opacity: soft, stroke: color, strokeWidth: 2.4, strokeLinecap: "round", children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M28 54 h22 M28 64 h22 M28 74 h18" }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M70 54 h22 M70 64 h22 M70 74 h18" })
+    ] }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("g", { opacity: soft, ...common, strokeWidth: 4, children: /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M60 30 V12 M52 19 h16" }) })
+  ] });
+};
+
+;// ./src/mmm/he-healed-them-all/VerseReveal.tsx
+
+
+
+
+
+
+
+const VerseReveal = ({ index }) => {
+  const frame = (0,esm.useCurrentFrame)();
+  const { fps } = (0,esm.useVideoConfig)();
+  const verse = VERSES[index];
+  const local = frame - verse.activeAt;
+  const hold = he_healed_them_all_timing_BEATS.revealHold;
+  if (local < -2 || local > hold + 28) return null;
+  const enter = (0,esm.spring)({
+    frame: local,
+    fps,
+    config: { damping: 20, stiffness: 90 }
+  });
+  const draw = (0,esm.spring)({
+    frame: local - 6,
+    fps,
+    config: { damping: 26, stiffness: 70 }
+  });
+  const refP = (0,esm.spring)({
+    frame: local - 10,
+    fps,
+    config: { damping: 22, stiffness: 90 }
+  });
+  const textP = (0,esm.spring)({
+    frame: local - 20,
+    fps,
+    config: { damping: 24, stiffness: 80 }
+  });
+  const exit = (0,esm.interpolate)(local, [hold, hold + 24], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+    easing: esm.Easing.in(esm.Easing.cubic)
+  });
+  const appear = enter * (1 - exit);
+  const slideX = (0,esm.interpolate)(enter, [0, 1], [-70, 0]) + exit * -50;
+  return /* @__PURE__ */ (0,jsx_runtime.jsx)(
+    "div",
+    {
+      style: {
+        position: "absolute",
+        left: 80,
+        top: 250,
+        width: 740,
+        opacity: appear,
+        transform: `translateX(${slideX}px) scale(${(0,esm.interpolate)(
+          appear,
+          [0, 1],
+          [0.96, 1]
+        )})`
+      },
+      children: /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+        "div",
+        {
+          style: {
+            position: "relative",
+            padding: "38px 44px 42px",
+            borderRadius: 28,
+            background: `${he_healed_them_all_colors_colors.brandDark}E6`,
+            border: `1.5px solid ${he_healed_them_all_colors_colors.gold}55`,
+            boxShadow: `0 30px 80px -24px rgba(0,0,0,0.72), 0 0 0 8px ${he_healed_them_all_colors_colors.brandBlue}1A`,
+            display: "flex",
+            flexDirection: "column",
+            gap: 24
+          },
+          children: [
+            /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+              "div",
+              {
+                style: {
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between"
+                },
+                children: [
+                  /* @__PURE__ */ (0,jsx_runtime.jsx)(
+                    "div",
+                    {
+                      style: {
+                        fontFamily: fonts_inter,
+                        fontSize: 18,
+                        fontWeight: 600,
+                        letterSpacing: 4,
+                        color: he_healed_them_all_colors_colors.skyLight,
+                        textTransform: "uppercase"
+                      },
+                      children: "Scripture"
+                    }
+                  ),
+                  /* @__PURE__ */ (0,jsx_runtime.jsx)(
+                    "div",
+                    {
+                      style: {
+                        fontFamily: fonts_inter,
+                        fontSize: 16,
+                        fontWeight: 600,
+                        letterSpacing: 2,
+                        color: he_healed_them_all_colors_colors.neutral400,
+                        padding: "5px 12px",
+                        borderRadius: 999,
+                        border: `1.5px solid ${he_healed_them_all_colors_colors.neutral400}44`
+                      },
+                      children: verse.translation
+                    }
+                  )
+                ]
+              }
+            ),
+            /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { display: "flex", alignItems: "center", gap: 26 }, children: [
+              /* @__PURE__ */ (0,jsx_runtime.jsx)(
+                "div",
+                {
+                  style: {
+                    flexShrink: 0,
+                    width: 110,
+                    height: 110,
+                    borderRadius: 22,
+                    display: "flex",
+                    alignItems: "center",
+                    justifyContent: "center",
+                    background: `${he_healed_them_all_colors_colors.gold}14`,
+                    border: `1.5px solid ${he_healed_them_all_colors_colors.gold}44`
+                  },
+                  children: /* @__PURE__ */ (0,jsx_runtime.jsx)(BookIcon_BookIcon, { size: 82, color: he_healed_them_all_colors_colors.gold, progress: draw })
+                }
+              ),
+              /* @__PURE__ */ (0,jsx_runtime.jsx)(
+                "div",
+                {
+                  style: {
+                    fontFamily: playfair,
+                    fontWeight: 700,
+                    fontSize: 64,
+                    lineHeight: 1.04,
+                    color: he_healed_them_all_colors_colors.gold,
+                    opacity: refP,
+                    transform: `translateY(${(0,esm.interpolate)(refP, [0, 1], [18, 0])}px)`
+                  },
+                  children: verse.ref
+                }
+              )
+            ] }),
+            /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+              "div",
+              {
+                style: {
+                  fontFamily: playfair,
+                  fontWeight: 600,
+                  fontStyle: "italic",
+                  fontSize: 36,
+                  lineHeight: 1.36,
+                  color: he_healed_them_all_colors_colors.white,
+                  opacity: textP,
+                  transform: `translateY(${(0,esm.interpolate)(textP, [0, 1], [14, 0])}px)`,
+                  borderLeft: `3px solid ${he_healed_them_all_colors_colors.brandSky}`,
+                  paddingLeft: 22
+                },
+                children: [
+                  "\u201C",
+                  verse.text,
+                  "\u201D"
+                ]
+              }
+            )
+          ]
+        }
+      )
+    }
+  );
+};
+
+;// ./src/mmm/he-healed-them-all/ScriptureTracker.tsx
+
+
+
+
+
+
+const ScriptureTracker_Check = ({ color }) => /* @__PURE__ */ (0,jsx_runtime.jsx)("svg", { width: "20", height: "20", viewBox: "0 0 24 24", children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
+  "path",
+  {
+    d: "M5 13 l4 4 L19 7",
+    fill: "none",
+    stroke: color,
+    strokeWidth: 3,
+    strokeLinecap: "round",
+    strokeLinejoin: "round"
+  }
+) });
+const ScriptureTracker_Lock = ({ color }) => /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "16", height: "16", viewBox: "0 0 24 24", children: [
+  /* @__PURE__ */ (0,jsx_runtime.jsx)("rect", { x: "5", y: "11", width: "14", height: "9", rx: "2", fill: color }),
+  /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M8 11 V8 a4 4 0 0 1 8 0 v3", fill: "none", stroke: color, strokeWidth: 2.5 })
+] });
+const ScriptureTracker_TrackerCard = ({ index, state, enter }) => {
+  const verse = VERSES[index];
+  const isActive = state === "active";
+  const isDone = state === "done";
+  const isUpcoming = state === "upcoming";
+  const panelBg = isActive ? `${he_healed_them_all_colors_colors.brandBlue}E6` : isDone ? `${he_healed_them_all_colors_colors.brandDark}B8` : `${he_healed_them_all_colors_colors.brandDark}99`;
+  const borderColor = isActive ? he_healed_them_all_colors_colors.gold : isDone ? `${he_healed_them_all_colors_colors.skyLight}55` : `${he_healed_them_all_colors_colors.neutral400}33`;
+  const labelColor = isActive ? he_healed_them_all_colors_colors.white : isDone ? he_healed_them_all_colors_colors.neutral200 : he_healed_them_all_colors_colors.neutral400;
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+    "div",
+    {
+      style: {
+        position: "relative",
+        display: "flex",
+        alignItems: "center",
+        gap: 14,
+        padding: "15px 18px",
+        borderRadius: 16,
+        background: panelBg,
+        border: `1.5px solid ${borderColor}`,
+        boxShadow: isActive ? `0 18px 40px -12px ${he_healed_them_all_colors_colors.brandBlue}AA, 0 0 0 5px ${he_healed_them_all_colors_colors.gold}26` : "0 10px 24px -16px rgba(0,0,0,0.6)",
+        transform: `translateX(${(0,esm.interpolate)(enter, [0, 1], [60, 0])}px) scale(${isActive ? 1.04 : 1})`,
+        opacity: enter * (isUpcoming ? 0.92 : 1)
+      },
+      children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          "div",
+          {
+            style: {
+              flexShrink: 0,
+              width: 40,
+              height: 40,
+              borderRadius: 999,
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+              background: isActive ? he_healed_them_all_colors_colors.gold : isDone ? `${he_healed_them_all_colors_colors.skyLight}22` : `${he_healed_them_all_colors_colors.neutral400}1A`,
+              border: isActive ? "none" : `1.5px solid ${borderColor}`,
+              fontFamily: fonts_inter,
+              fontSize: 17,
+              fontWeight: 700,
+              color: isActive ? he_healed_them_all_colors_colors.brandDark : labelColor
+            },
+            children: isDone ? /* @__PURE__ */ (0,jsx_runtime.jsx)(ScriptureTracker_Check, { color: he_healed_them_all_colors_colors.skyLight }) : String(verse.n).padStart(2, "0")
+          }
+        ),
+        /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { position: "relative", flex: 1, minHeight: 24 }, children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          "div",
+          {
+            style: {
+              fontFamily: fonts_inter,
+              fontSize: 22,
+              fontWeight: 700,
+              color: labelColor,
+              lineHeight: 1.1,
+              filter: isUpcoming ? "blur(7px)" : "none",
+              opacity: isUpcoming ? 0.7 : 1,
+              userSelect: "none"
+            },
+            children: verse.short
+          }
+        ) }),
+        isUpcoming && /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { flexShrink: 0, opacity: 0.6 }, children: /* @__PURE__ */ (0,jsx_runtime.jsx)(ScriptureTracker_Lock, { color: he_healed_them_all_colors_colors.neutral400 }) })
+      ]
+    }
+  );
+};
+const ScriptureTracker = () => {
+  const frame = (0,esm.useCurrentFrame)();
+  const { fps } = (0,esm.useVideoConfig)();
+  const localFrame = frame - he_healed_them_all_timing_BEATS.trackerIn;
+  if (localFrame < 0) return null;
+  const railEnter = (0,esm.spring)({
+    frame: localFrame,
+    fps,
+    config: { damping: 20, stiffness: 80 }
+  });
+  const activeIndex = VERSES.reduce(
+    (acc, _v, i) => verseStateAt(i, frame) === "active" ? i : acc,
+    -1
+  );
+  const doneCount = VERSES.filter((_v, i) => verseStateAt(i, frame) === "done").length;
+  const counter = Math.max(activeIndex + 1, doneCount);
+  const fadeOut = (0,esm.interpolate)(frame, [he_healed_them_all_timing_BEATS.ctaIn, he_healed_them_all_timing_BEATS.ctaIn + 24], [1, 0], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+    easing: esm.Easing.in(esm.Easing.cubic)
+  });
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+    "div",
+    {
+      style: {
+        position: "absolute",
+        top: 84,
+        bottom: 150,
+        right: 72,
+        width: 372,
+        display: "flex",
+        flexDirection: "column",
+        justifyContent: "center",
+        gap: 12,
+        opacity: fadeOut,
+        transform: `translateX(${(0,esm.interpolate)(fadeOut, [0, 1], [40, 0])}px)`
+      },
+      children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+          "div",
+          {
+            style: {
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "space-between",
+              marginBottom: 4,
+              transform: `translateX(${(0,esm.interpolate)(railEnter, [0, 1], [60, 0])}px)`,
+              opacity: railEnter
+            },
+            children: [
+              /* @__PURE__ */ (0,jsx_runtime.jsx)(
+                "div",
+                {
+                  style: {
+                    fontFamily: fonts_inter,
+                    fontSize: 17,
+                    fontWeight: 600,
+                    letterSpacing: 3,
+                    color: he_healed_them_all_colors_colors.skyLight,
+                    textTransform: "uppercase"
+                  },
+                  children: "Scriptures of Healing"
+                }
+              ),
+              /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+                "div",
+                {
+                  style: {
+                    fontFamily: fonts_inter,
+                    fontSize: 17,
+                    fontWeight: 700,
+                    color: he_healed_them_all_colors_colors.neutral200
+                  },
+                  children: [
+                    String(counter).padStart(2, "0"),
+                    " / 08"
+                  ]
+                }
+              )
+            ]
+          }
+        ),
+        VERSES.map((_v, i) => {
+          const cardEnter = (0,esm.spring)({
+            frame: localFrame - i * 4,
+            fps,
+            config: { damping: 20, stiffness: 80 }
+          });
+          return /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            ScriptureTracker_TrackerCard,
+            {
+              index: i,
+              state: verseStateAt(i, frame),
+              enter: cardEnter
+            },
+            i
+          );
+        })
+      ]
+    }
+  );
+};
+
+;// ./src/mmm/he-healed-them-all/CTAOverlay.tsx
+
+
+
+
+
+
+const he_healed_them_all_CTAOverlay_CTAOverlay = () => {
+  const frame = (0,esm.useCurrentFrame)();
+  const { fps } = (0,esm.useVideoConfig)();
+  const local = frame - he_healed_them_all_timing_BEATS.ctaIn;
+  if (local < 0 || frame > he_healed_them_all_timing_BEATS.ctaOut + 26) return null;
+  const enter = (0,esm.spring)({
+    frame: local,
+    fps,
+    config: { damping: 20, stiffness: 80 }
+  });
+  const exit = (0,esm.interpolate)(frame, [he_healed_them_all_timing_BEATS.ctaOut, he_healed_them_all_timing_BEATS.ctaOut + 24], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+    easing: esm.Easing.in(esm.Easing.cubic)
+  });
+  const sub = (0,esm.spring)({
+    frame: local - 14,
+    fps,
+    config: { damping: 22, stiffness: 90 }
+  });
+  const chips = (0,esm.spring)({
+    frame: local - 26,
+    fps,
+    config: { damping: 22, stiffness: 90 }
+  });
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+    "div",
+    {
+      style: {
+        position: "absolute",
+        left: 80,
+        bottom: 150,
+        display: "inline-block",
+        maxWidth: 1150,
+        padding: "32px 46px 36px",
+        borderRadius: 26,
+        background: `${he_healed_them_all_colors_colors.brandDark}E6`,
+        border: `1.5px solid ${he_healed_them_all_colors_colors.brandSky}55`,
+        boxShadow: `0 28px 70px -24px rgba(0,0,0,0.72), 0 0 0 7px ${he_healed_them_all_colors_colors.brandBlue}1F`,
+        opacity: enter * (1 - exit),
+        transform: `translateY(${(0,esm.interpolate)(enter, [0, 1], [44, 0]) + exit * 40}px)`
+      },
+      children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          "div",
+          {
+            style: {
+              fontFamily: fonts_inter,
+              fontSize: 18,
+              fontWeight: 600,
+              letterSpacing: 5,
+              color: he_healed_them_all_colors_colors.skyLight,
+              textTransform: "uppercase",
+              marginBottom: 14
+            },
+            children: "Call on Him today"
+          }
+        ),
+        /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+          "div",
+          {
+            style: {
+              fontFamily: playfair,
+              fontWeight: 700,
+              fontSize: 76,
+              lineHeight: 1.06,
+              color: he_healed_them_all_colors_colors.white,
+              textShadow: "0 6px 30px rgba(0,0,0,0.55)"
+            },
+            children: [
+              "He can ",
+              /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { color: he_healed_them_all_colors_colors.skyLight }, children: "heal you" }),
+              " too."
+            ]
+          }
+        ),
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          "div",
+          {
+            style: {
+              fontFamily: fonts_inter,
+              fontWeight: 400,
+              fontSize: 32,
+              color: he_healed_them_all_colors_colors.neutral200,
+              marginTop: 16,
+              opacity: sub,
+              transform: `translateY(${(0,esm.interpolate)(sub, [0, 1], [16, 0])}px)`,
+              textShadow: "0 4px 20px rgba(0,0,0,0.6)"
+            },
+            children: "You have a story to tell, and a testimony to give."
+          }
+        ),
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          "div",
+          {
+            style: {
+              display: "flex",
+              gap: 16,
+              marginTop: 24,
+              opacity: chips,
+              transform: `translateY(${(0,esm.interpolate)(chips, [0, 1], [14, 0])}px)`
+            },
+            children: ["Monday Morning Missive", "Subscribe & share"].map((c) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
+              "div",
+              {
+                style: {
+                  fontFamily: fonts_inter,
+                  fontSize: 23,
+                  fontWeight: 600,
+                  color: he_healed_them_all_colors_colors.white,
+                  padding: "12px 24px",
+                  borderRadius: 999,
+                  background: `${he_healed_them_all_colors_colors.brandBlue}E6`,
+                  border: `1.5px solid ${he_healed_them_all_colors_colors.brandSky}66`
+                },
+                children: c
+              },
+              c
+            ))
+          }
+        )
+      ]
+    }
+  );
+};
+
+;// ./src/mmm/he-healed-them-all/ThumbnailScene.tsx
+
+
+
+
+
+const he_healed_them_all_ThumbnailScene_ThumbnailScene = () => {
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { backgroundColor: he_healed_them_all_colors_colors.brandDark }, children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      esm.AbsoluteFill,
+      {
+        style: {
+          background: `radial-gradient(ellipse at 72% 46%, ${he_healed_them_all_colors_colors.brandBlue}55 0%, transparent 60%)`
+        }
+      }
+    ),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      esm.AbsoluteFill,
+      {
+        style: {
+          background: `linear-gradient(135deg, ${he_healed_them_all_colors_colors.brandDark} 0%, ${he_healed_them_all_colors_colors.blueDeep}AA 100%)`,
           opacity: 0.5
         }
       }
     ),
-    /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { position: "absolute", top: 70, right: 600, opacity: 0.16, transform: "rotate(8deg)" }, children: /* @__PURE__ */ (0,jsx_runtime.jsx)(Bulb, { size: 190, stroke: theplatform_shared_colors_colors.ink, spark: theplatform_shared_colors_colors.ink, lit: 0, strokeWidth: 6 }) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(esm.AbsoluteFill, { style: { opacity: 0.07 }, children: /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "1920", height: "1080", children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("defs", { children: /* @__PURE__ */ (0,jsx_runtime.jsx)("pattern", { id: "cross-thumb", x: "0", y: "0", width: "62", height: "62", patternUnits: "userSpaceOnUse", children: /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M31 17 v28 M19 29 h24", stroke: he_healed_them_all_colors_colors.skyLight, strokeWidth: "2.2", strokeLinecap: "round" }) }) }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("rect", { width: "1920", height: "1080", fill: "url(#cross-thumb)" })
+    ] }) }),
     /* @__PURE__ */ (0,jsx_runtime.jsxs)(
       "div",
       {
         style: {
           position: "absolute",
+          left: 120,
           top: 0,
-          left: 0,
-          right: 0,
-          height: 104,
-          background: theplatform_shared_colors_colors.ink,
+          bottom: 0,
+          width: 1090,
           display: "flex",
-          alignItems: "center",
-          gap: 18,
-          padding: "0 70px"
+          flexDirection: "column",
+          justifyContent: "center",
+          gap: 30
         },
         children: [
-          /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { fontWeight: 800, fontSize: 32, letterSpacing: 4, color: theplatform_shared_colors_colors.white, textTransform: "uppercase" }, children: "It is not about ideas." }),
-          /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { fontWeight: 800, fontSize: 32, letterSpacing: 4, color: theplatform_shared_colors_colors.yellow, textTransform: "uppercase" }, children: "It is about making them happen." })
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "div",
+            {
+              style: {
+                alignSelf: "flex-start",
+                fontFamily: fonts_inter,
+                fontSize: 28,
+                fontWeight: 600,
+                letterSpacing: 5,
+                color: he_healed_them_all_colors_colors.skyLight,
+                textTransform: "uppercase",
+                padding: "12px 28px",
+                border: `2px solid ${he_healed_them_all_colors_colors.skyLight}66`,
+                borderRadius: 999,
+                background: `${he_healed_them_all_colors_colors.brandBlue}26`
+              },
+              children: "Monday Morning Missive"
+            }
+          ),
+          /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+            "div",
+            {
+              style: {
+                fontFamily: playfair,
+                fontWeight: 700,
+                fontSize: 150,
+                lineHeight: 0.98,
+                color: he_healed_them_all_colors_colors.white,
+                letterSpacing: -1,
+                whiteSpace: "pre-line",
+                textShadow: "0 10px 50px rgba(0,0,0,0.5)"
+              },
+              children: [
+                "He Healed",
+                "\n",
+                /* @__PURE__ */ (0,jsx_runtime.jsx)("span", { style: { color: he_healed_them_all_colors_colors.gold }, children: "Them All" })
+              ]
+            }
+          ),
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "div",
+            {
+              style: {
+                alignSelf: "flex-start",
+                marginTop: 6,
+                fontFamily: fonts_inter,
+                fontWeight: 600,
+                fontSize: 38,
+                color: he_healed_them_all_colors_colors.neutral200
+              },
+              children: "Hon. Justice Oluyinka Gbaja-Biamila"
+            }
+          )
         ]
       }
     ),
-    /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { position: "absolute", left: 90, top: 188, width: 1080 }, children: [
-      /* @__PURE__ */ (0,jsx_runtime.jsx)(
-        "span",
-        {
-          style: {
-            display: "inline-block",
-            fontWeight: 800,
-            fontSize: 29,
-            letterSpacing: 6,
-            textTransform: "uppercase",
-            color: theplatform_shared_colors_colors.ink,
-            background: `${theplatform_shared_colors_colors.ink}14`,
-            padding: "12px 26px",
-            borderRadius: 999,
-            border: `2px solid ${theplatform_shared_colors_colors.ink}3D`
-          },
-          children: "The Platform Nigeria \xB7 Keynote"
-        }
-      ),
-      /* @__PURE__ */ (0,jsx_runtime.jsxs)(
-        "div",
-        {
-          style: {
-            marginTop: 30,
-            fontWeight: 900,
-            fontSize: 122,
-            lineHeight: 0.94,
-            letterSpacing: -4,
-            color: theplatform_shared_colors_colors.ink
-          },
-          children: [
-            "A Great Idea",
-            /* @__PURE__ */ (0,jsx_runtime.jsx)("br", {}),
-            "Is Not",
-            /* @__PURE__ */ (0,jsx_runtime.jsx)("br", {}),
-            "Enough"
-          ]
-        }
-      ),
-      /* @__PURE__ */ (0,jsx_runtime.jsx)(
-        "div",
-        {
-          style: {
-            marginTop: 28,
-            display: "inline-block",
-            fontWeight: 900,
-            fontSize: 50,
-            letterSpacing: -1,
-            color: theplatform_shared_colors_colors.yellow,
-            background: theplatform_shared_colors_colors.ink,
-            padding: "12px 28px",
-            borderRadius: 14
-          },
-          children: "The four laws of building"
-        }
-      )
-    ] }),
-    /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { style: { position: "absolute", left: 96, bottom: 78, display: "flex", alignItems: "center", gap: 22 }, children: [
-      /* @__PURE__ */ (0,jsx_runtime.jsx)(Bulb, { size: 64, stroke: theplatform_shared_colors_colors.ink, spark: theplatform_shared_colors_colors.ink, lit: 0, strokeWidth: 5 }),
-      /* @__PURE__ */ (0,jsx_runtime.jsxs)("div", { children: [
-        /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { fontWeight: 900, fontSize: 52, letterSpacing: -1.5, color: theplatform_shared_colors_colors.ink, lineHeight: 1 }, children: "Kemi Adeosun" }),
-        /* @__PURE__ */ (0,jsx_runtime.jsx)("div", { style: { fontWeight: 600, fontSize: 29, color: theplatform_shared_colors_colors.ink, opacity: 0.78, marginTop: 6 }, children: "Former Finance Minister \xB7 Founder, Nidacity" })
-      ] })
-    ] }),
     /* @__PURE__ */ (0,jsx_runtime.jsx)(
       "div",
       {
         style: {
           position: "absolute",
-          right: 80,
-          top: 168,
-          width: 700,
-          height: 770,
-          borderRadius: 40,
-          border: `12px solid ${theplatform_shared_colors_colors.ink}`,
-          overflow: "hidden",
-          background: theplatform_shared_colors_colors.ink,
-          boxShadow: `0 40px 90px -28px ${theplatform_shared_colors_colors.ink}99`
+          right: 120,
+          top: 0,
+          bottom: 0,
+          width: 480,
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center"
         },
-        children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
-          esm.Img,
-          {
-            src: (0,esm.staticFile)(portraitSrc),
-            alt: "Kemi Adeosun",
-            style: { width: "100%", height: "100%", objectFit: "cover", objectPosition: "50% 10%" }
-          }
-        )
-      }
-    ),
-    /* @__PURE__ */ (0,jsx_runtime.jsx)(
-      "div",
-      {
-        style: {
-          position: "absolute",
-          right: 80,
-          top: 168,
-          background: theplatform_shared_colors_colors.magenta,
-          color: theplatform_shared_colors_colors.white,
-          fontWeight: 800,
-          fontSize: 28,
-          letterSpacing: 3,
-          textTransform: "uppercase",
-          padding: "12px 24px",
-          borderRadius: "40px 0 28px 0"
-        },
-        children: "Keynote"
+        children: /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "470", height: "470", viewBox: "0 0 470 470", children: [
+          /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "235", cy: "210", r: "180", fill: `${he_healed_them_all_colors_colors.brandBlue}40` }),
+          /* @__PURE__ */ (0,jsx_runtime.jsx)("g", { stroke: he_healed_them_all_colors_colors.gold, strokeWidth: 4, strokeLinecap: "round", opacity: 0.75, children: [0, 36, 72, 108, 144, 180, 216, 252, 288, 324].map((deg) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "line",
+            {
+              x1: 235 + 150 * Math.cos(deg * Math.PI / 180),
+              y1: 150 + 150 * Math.sin(deg * Math.PI / 180),
+              x2: 235 + 196 * Math.cos(deg * Math.PI / 180),
+              y2: 150 + 196 * Math.sin(deg * Math.PI / 180)
+            },
+            deg
+          )) }),
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "path",
+            {
+              d: "M235 70 V230 M180 120 h110",
+              fill: "none",
+              stroke: he_healed_them_all_colors_colors.gold,
+              strokeWidth: 12,
+              strokeLinecap: "round"
+            }
+          ),
+          /* @__PURE__ */ (0,jsx_runtime.jsxs)("g", { fill: "none", stroke: he_healed_them_all_colors_colors.white, strokeWidth: 7, strokeLinejoin: "round", strokeLinecap: "round", children: [
+            /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M235 300 V410" }),
+            /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M235 300 C200 276 150 276 110 290 V392 C150 378 200 378 235 402 Z" }),
+            /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M235 300 C270 276 320 276 360 290 V392 C320 378 270 378 235 402 Z" })
+          ] })
+        ] })
       }
     )
+  ] });
+};
+
+;// ./src/mmm/he-healed-them-all/cutaways/scenes.tsx
+
+
+
+
+const scenes_clamp = (x, lo = 0, hi = 1) => Math.max(lo, Math.min(hi, x));
+const scenes_seg = (p, from, to) => scenes_clamp((p - from) / (to - from));
+const scenes_VIEW = "0 0 720 440";
+const cutaways_scenes_DASH = 1600;
+const scenes_stroke = (color, w = 5) => ({
+  fill: "none",
+  stroke: color,
+  strokeWidth: w,
+  strokeLinecap: "round",
+  strokeLinejoin: "round"
+});
+const scenes_drawn = (prog) => ({
+  strokeDasharray: cutaways_scenes_DASH,
+  strokeDashoffset: cutaways_scenes_DASH * (1 - prog)
+});
+const Bombardment = ({ p, t }) => {
+  const sky = he_healed_them_all_colors_colors.skyLight;
+  const arrows = [120, 220, 320, 470, 560];
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "720", height: "440", viewBox: scenes_VIEW, children: [
+    arrows.map((x, i) => {
+      const a = scenes_seg(p, 0.05 + i * 0.06, 0.45 + i * 0.06);
+      const drop = interpolateLocal(t, i);
+      return /* @__PURE__ */ (0,jsx_runtime.jsxs)("g", { opacity: a, transform: `translate(0 ${drop})`, children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: `M${x} 30 L${x - 26} 110`, ...scenes_stroke(sky, 3) }),
+        /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: `M${x - 26} 110 l10 -6 M${x - 26} 110 l4 -11`, ...scenes_stroke(sky, 3) })
+      ] }, x);
+    }),
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)("g", { opacity: scenes_clamp(scenes_seg(p, 0.25, 0.7)), children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        "path",
+        {
+          d: "M360 150 L470 188 V288 c0 70-55 108-110 132 C305 396 250 358 250 288 V188 Z",
+          ...scenes_stroke(he_healed_them_all_colors_colors.white, 6),
+          style: scenes_drawn(scenes_seg(p, 0.25, 0.85))
+        }
+      ),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M360 210 V330 M318 258 h84", ...scenes_stroke(he_healed_them_all_colors_colors.gold, 6), style: scenes_drawn(scenes_seg(p, 0.55, 1)) })
+    ] })
+  ] });
+};
+function interpolateLocal(t, i) {
+  return Math.sin(t / 9 + i) * 4;
+}
+const Balm = ({ p, t }) => {
+  const glow = 0.4 + 0.25 * (0.5 + 0.5 * Math.sin(t / 14));
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "720", height: "440", viewBox: scenes_VIEW, children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("g", { opacity: scenes_clamp(scenes_seg(p, 0.5, 1)) * glow, children: [0, 45, 90, 135, 180, 225, 270, 315].map((deg) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      "line",
+      {
+        x1: 360 + 120 * Math.cos(deg * Math.PI / 180),
+        y1: 210 + 120 * Math.sin(deg * Math.PI / 180),
+        x2: 360 + 168 * Math.cos(deg * Math.PI / 180),
+        y2: 210 + 168 * Math.sin(deg * Math.PI / 180),
+        ...scenes_stroke(he_healed_them_all_colors_colors.gold, 3)
+      },
+      deg
+    )) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      "path",
+      {
+        d: "M330 110 h60 v22 l20 36 a70 70 0 1 1 -120 0 l20 -36 Z",
+        ...scenes_stroke(he_healed_them_all_colors_colors.white, 6),
+        style: scenes_drawn(scenes_seg(p, 0, 0.6))
+      }
+    ),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M338 96 h44", ...scenes_stroke(he_healed_them_all_colors_colors.white, 6), style: scenes_drawn(scenes_seg(p, 0, 0.3)) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M296 250 a70 64 0 0 0 128 0", ...scenes_stroke(he_healed_them_all_colors_colors.brandSky, 5), style: scenes_drawn(scenes_seg(p, 0.4, 0.9)) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M360 222 V300 M330 256 h60", ...scenes_stroke(he_healed_them_all_colors_colors.gold, 6), style: scenes_drawn(scenes_seg(p, 0.55, 1)) })
+  ] });
+};
+const ThreeKinds = ({ p, t }) => {
+  const fy = (ph) => Math.sin(t / 16 + ph) * 5;
+  const cell = (x, ph, label, glyph, d) => /* @__PURE__ */ (0,jsx_runtime.jsxs)("g", { transform: `translate(${x} ${210 + fy(ph)})`, opacity: scenes_clamp(d * 3), children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "0", cy: "0", r: "78", ...scenes_stroke(he_healed_them_all_colors_colors.white, 5), style: scenes_drawn(d) }),
+    glyph,
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      "text",
+      {
+        x: "0",
+        y: "128",
+        fill: he_healed_them_all_colors_colors.neutral200,
+        fontFamily: fonts_inter,
+        fontSize: "22",
+        fontWeight: 600,
+        textAnchor: "middle",
+        letterSpacing: "2",
+        children: label
+      }
+    )
+  ] });
+  const g = he_healed_them_all_colors_colors.gold;
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "760", height: "440", viewBox: "0 0 760 440", children: [
+    cell(
+      140,
+      0,
+      "EMOTIONAL",
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M0 28 C-34 -6 -52 -28 -28 -44 C-12 -54 0 -40 0 -28 C0 -40 12 -54 28 -44 C52 -28 34 -6 0 28 Z", ...scenes_stroke(g, 5), style: scenes_drawn(scenes_seg(p, 0.3, 0.7)) }),
+      scenes_seg(p, 0, 0.5)
+    ),
+    cell(
+      380,
+      1.6,
+      "PHYSICAL",
+      /* @__PURE__ */ (0,jsx_runtime.jsxs)("g", { children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M-26 -26 l52 52 M26 -26 l-52 52", ...scenes_stroke(g, 6), style: scenes_drawn(scenes_seg(p, 0.4, 0.8)) }),
+        /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "0", cy: "0", r: "10", fill: g, opacity: scenes_clamp(scenes_seg(p, 0.6, 0.9)) })
+      ] }),
+      scenes_seg(p, 0.15, 0.65)
+    ),
+    cell(
+      620,
+      3.2,
+      "SPIRITUAL",
+      /* @__PURE__ */ (0,jsx_runtime.jsxs)("g", { ...scenes_stroke(g, 5), style: scenes_drawn(scenes_seg(p, 0.5, 0.9)), children: [
+        /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M-30 6 C-10 -18 22 -18 34 0 C20 -4 6 -2 -4 10 C-12 20 -24 18 -30 6 Z" }),
+        /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M34 0 l14 -10" })
+      ] }),
+      scenes_seg(p, 0.3, 0.8)
+    )
+  ] });
+};
+const KneeBow = ({ p, t }) => {
+  const glow = 0.5 + 0.3 * (0.5 + 0.5 * Math.sin(t / 13));
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "720", height: "440", viewBox: scenes_VIEW, children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("g", { opacity: scenes_clamp(scenes_seg(p, 0.45, 1)) * glow, children: [-50, -25, 0, 25, 50].map((dx) => /* @__PURE__ */ (0,jsx_runtime.jsx)("line", { x1: 420, y1: 120, x2: 420 + dx * 2.4, y2: 36, ...scenes_stroke(he_healed_them_all_colors_colors.gold, 3) }, dx)) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M420 70 V210 M372 120 h96", ...scenes_stroke(he_healed_them_all_colors_colors.gold, 7), style: scenes_drawn(scenes_seg(p, 0, 0.5)) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)("g", { ...scenes_stroke(he_healed_them_all_colors_colors.white, 6), style: scenes_drawn(scenes_seg(p, 0.4, 1)), children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "250", cy: "226", r: "24" }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M250 250 C236 286 250 312 286 320" }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M286 320 H336 M250 300 L226 360 H320" })
+    ] }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M210 372 h170", ...scenes_stroke(`${he_healed_them_all_colors_colors.skyLight}`, 4), style: scenes_drawn(scenes_seg(p, 0.6, 1)) })
+  ] });
+};
+const RiseUp = ({ p, t }) => {
+  const lift = Math.sin(t / 10) * 6;
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "720", height: "440", viewBox: scenes_VIEW, children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      "path",
+      {
+        d: "M150 380 V210 a120 120 0 0 1 240 0 V380",
+        ...scenes_stroke(`${he_healed_them_all_colors_colors.skyLight}`, 5),
+        style: scenes_drawn(scenes_seg(p, 0, 0.5))
+      }
+    ),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M120 380 h300", ...scenes_stroke(he_healed_them_all_colors_colors.skyLight, 5), style: scenes_drawn(scenes_seg(p, 0, 0.4)) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("g", { opacity: scenes_clamp(scenes_seg(p, 0.3, 0.7)), children: /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M470 380 L520 250 M500 268 l34 6", ...scenes_stroke(he_healed_them_all_colors_colors.neutral400, 5) }) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)("g", { transform: `translate(0 ${-lift})`, ...scenes_stroke(he_healed_them_all_colors_colors.white, 6), style: scenes_drawn(scenes_seg(p, 0.4, 1)), children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "300", cy: "150", r: "26" }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M300 176 L296 250" }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M296 196 L250 150 M296 196 L350 152" }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M296 250 L262 312 M296 250 L344 300" })
+    ] }),
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)("g", { opacity: scenes_clamp(scenes_seg(p, 0.7, 1)), fill: he_healed_them_all_colors_colors.gold, children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "240", cy: "120", r: "5" }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "372", cy: "128", r: "5" }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "334", cy: "92", r: "4" })
+    ] })
+  ] });
+};
+const Lazarus = ({ p, t }) => {
+  const beam = 0.45 + 0.3 * (0.5 + 0.5 * Math.sin(t / 12));
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "720", height: "440", viewBox: scenes_VIEW, children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      "path",
+      {
+        d: "M250 380 V210 a110 110 0 0 1 220 0 V380",
+        ...scenes_stroke(he_healed_them_all_colors_colors.neutral400, 6),
+        style: scenes_drawn(scenes_seg(p, 0, 0.5))
+      }
+    ),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M300 380 V232 a60 60 0 0 1 120 0 V380 Z", fill: he_healed_them_all_colors_colors.brandDark, opacity: scenes_clamp(scenes_seg(p, 0.2, 0.5)) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("g", { opacity: scenes_clamp(scenes_seg(p, 0.5, 1)) * beam, children: /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M360 250 L300 380 H420 Z", fill: he_healed_them_all_colors_colors.gold, opacity: 0.18 }) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)("g", { ...scenes_stroke(he_healed_them_all_colors_colors.white, 6), style: scenes_drawn(scenes_seg(p, 0.5, 1)), children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "360", cy: "252", r: "22" }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M360 274 V348 M338 300 h44 M338 330 h44" })
+    ] }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("circle", { cx: "540", cy: "356", r: "34", ...scenes_stroke(he_healed_them_all_colors_colors.neutral400, 6), style: scenes_drawn(scenes_seg(p, 0.3, 0.8)) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)("path", { d: "M150 384 h420", ...scenes_stroke(he_healed_them_all_colors_colors.skyLight, 4), style: scenes_drawn(scenes_seg(p, 0.1, 0.6)) })
+  ] });
+};
+const cutaways_scenes_ILLUSTRATIONS = {
+  bombardment: Bombardment,
+  balm: Balm,
+  threekinds: ThreeKinds,
+  kneebow: KneeBow,
+  riseup: RiseUp,
+  lazarus: Lazarus
+};
+
+;// ./src/mmm/he-healed-them-all/cutaways/Cutaway.tsx
+
+
+
+
+
+
+const cutaways_Cutaway_Cutaway = ({ data }) => {
+  const frame = (0,esm.useCurrentFrame)();
+  const { fps } = (0,esm.useVideoConfig)();
+  const local = frame - data.start;
+  if (local < 0 || local > data.dur) return null;
+  const Illu = cutaways_scenes_ILLUSTRATIONS[data.key];
+  const fadeIn = (0,esm.interpolate)(local, [0, 12], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp"
+  });
+  const fadeOut = (0,esm.interpolate)(local, [data.dur - 14, data.dur], [1, 0], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+    easing: esm.Easing.in(esm.Easing.cubic)
+  });
+  const scene = fadeIn * fadeOut;
+  const p = (0,esm.spring)({ frame: local - 4, fps, config: { damping: 22, stiffness: 80 } });
+  const eyebrowP = (0,esm.spring)({ frame: local, fps, config: { damping: 20, stiffness: 90 } });
+  const captionP = (0,esm.spring)({ frame: local - 16, fps, config: { damping: 22, stiffness: 90 } });
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { style: { opacity: scene }, children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(esm.AbsoluteFill, { style: { backgroundColor: he_healed_them_all_colors_colors.brandDark } }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(
+      esm.AbsoluteFill,
+      {
+        style: {
+          background: `radial-gradient(ellipse at 50% 42%, ${he_healed_them_all_colors_colors.brandBlue}3D 0%, transparent 62%)`
+        }
+      }
+    ),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(esm.AbsoluteFill, { style: { opacity: 0.05 }, children: /* @__PURE__ */ (0,jsx_runtime.jsxs)("svg", { width: "1920", height: "1080", children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("defs", { children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        "pattern",
+        {
+          id: `cross-${data.key}`,
+          x: "0",
+          y: "0",
+          width: "58",
+          height: "58",
+          patternUnits: "userSpaceOnUse",
+          children: /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "path",
+            {
+              d: "M29 16 v26 M18 27 h22",
+              stroke: he_healed_them_all_colors_colors.skyLight,
+              strokeWidth: "2",
+              strokeLinecap: "round"
+            }
+          )
+        }
+      ) }),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)("rect", { width: "1920", height: "1080", fill: `url(#cross-${data.key})` })
+    ] }) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)(
+      esm.AbsoluteFill,
+      {
+        style: {
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          justifyContent: "center",
+          padding: "96px 120px 200px",
+          gap: 38
+        },
+        children: [
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "div",
+            {
+              style: {
+                fontFamily: fonts_inter,
+                fontSize: 22,
+                fontWeight: 600,
+                letterSpacing: 5,
+                color: he_healed_them_all_colors_colors.skyLight,
+                textTransform: "uppercase",
+                padding: "10px 24px",
+                border: `1.5px solid ${he_healed_them_all_colors_colors.skyLight}55`,
+                borderRadius: 999,
+                background: `${he_healed_them_all_colors_colors.brandBlue}26`,
+                opacity: eyebrowP,
+                transform: `translateY(${(0,esm.interpolate)(eyebrowP, [0, 1], [-16, 0])}px)`
+              },
+              children: data.eyebrow
+            }
+          ),
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "div",
+            {
+              style: {
+                height: 430,
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "center"
+              },
+              children: Illu ? /* @__PURE__ */ (0,jsx_runtime.jsx)(Illu, { p, t: local }) : null
+            }
+          ),
+          /* @__PURE__ */ (0,jsx_runtime.jsx)(
+            "div",
+            {
+              style: {
+                fontFamily: playfair,
+                fontWeight: 700,
+                fontSize: 50,
+                lineHeight: 1.18,
+                color: he_healed_them_all_colors_colors.white,
+                textAlign: "center",
+                maxWidth: 1340,
+                opacity: captionP,
+                transform: `translateY(${(0,esm.interpolate)(captionP, [0, 1], [18, 0])}px)`
+              },
+              children: data.caption
+            }
+          )
+        ]
+      }
+    )
+  ] });
+};
+
+;// ./src/mmm/he-healed-them-all/index.tsx
+
+
+
+
+
+
+
+
+
+
+
+
+const he_healed_them_all_Talk = ({ videoSrc }) => /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { children: [
+  /* @__PURE__ */ (0,jsx_runtime.jsx)(he_healed_them_all_Background_Background, { videoSrc }),
+  /* @__PURE__ */ (0,jsx_runtime.jsx)(he_healed_them_all_HookOverlay_HookOverlay, {}),
+  VERSES.map((_v, i) => /* @__PURE__ */ (0,jsx_runtime.jsx)(VerseReveal, { index: i }, i)),
+  /* @__PURE__ */ (0,jsx_runtime.jsx)(ScriptureTracker, {}),
+  /* @__PURE__ */ (0,jsx_runtime.jsx)(he_healed_them_all_CTAOverlay_CTAOverlay, {}),
+  he_healed_them_all_timing_CUTAWAYS.map((c) => /* @__PURE__ */ (0,jsx_runtime.jsx)(cutaways_Cutaway_Cutaway, { data: c }, c.key))
+] });
+const HealedThemAllComposition = ({
+  videoSrc
+}) => {
+  return /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.AbsoluteFill, { children: [
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(esm.Sequence, { durationInFrames: he_healed_them_all_timing_THUMBNAIL_FRAMES, name: "Thumbnail", children: /* @__PURE__ */ (0,jsx_runtime.jsx)(he_healed_them_all_ThumbnailScene_ThumbnailScene, {}) }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(esm.Sequence, { from: he_healed_them_all_timing_THUMBNAIL_FRAMES, name: "Talk", children: /* @__PURE__ */ (0,jsx_runtime.jsx)(he_healed_them_all_Talk, { videoSrc }) })
   ] });
 };
 
 ;// ./src/Root.tsx
-
-
-
 
 
 
@@ -124388,9 +123677,9 @@ const RemotionRoot = () => {
         }
       )
     ] }),
-    /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.Folder, { name: "theplatform", children: [
-      /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.Folder, { name: "founders-mindset-vusi", children: [
-        PLATFORM_LESSONS.map((l) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.Folder, { name: "instincthub", children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.Folder, { name: "marketing-and-sales", children: [
+        MARKETING_SALES_LESSONS.map((l) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
           esm.Composition,
           {
             id: l.id,
@@ -124399,186 +123688,144 @@ const RemotionRoot = () => {
             fps: 30,
             width: 1920,
             height: 1080,
-            defaultProps: { videoSrc: l.videoSrc, logoSrc: "" }
+            defaultProps: {
+              videoSrc: l.videoSrc,
+              logoSrc: "instincthub-logo-color.png"
+            }
           },
           l.id
         )),
         /* @__PURE__ */ (0,jsx_runtime.jsx)(
           esm.Composition,
           {
-            id: "fm-thumbnail",
-            component: Thumbnail,
-            durationInFrames: 1,
-            fps: 30,
-            width: 1920,
-            height: 1080,
-            defaultProps: { portraitSrc: "tp-fm-vusi-portrait.jpg" }
-          }
-        )
-      ] }),
-      /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.Folder, { name: "affiong-williams-plant-trees", children: [
-        AFFIONG_LESSONS.map((l) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
-          esm.Composition,
-          {
-            id: l.id,
-            component: l.component,
-            durationInFrames: l.totalFrames,
-            fps: 30,
-            width: 1920,
-            height: 1080,
-            defaultProps: { videoSrc: l.videoSrc, logoSrc: "" }
-          },
-          l.id
-        )),
-        /* @__PURE__ */ (0,jsx_runtime.jsx)(
-          esm.Composition,
-          {
-            id: "aw-thumbnail",
+            id: "ih-ms-thumbnail",
             component: Thumbnail_Thumbnail,
             durationInFrames: 1,
             fps: 30,
             width: 1920,
             height: 1080,
-            defaultProps: { portraitSrc: "tp-aw-affiong-portrait.jpg" }
+            defaultProps: { portraitSrc: "ih-ms-speaker-portrait.jpg" }
           }
         )
       ] }),
-      /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.Folder, { name: "prof-modupe-second-half-advantage", children: [
-        MODUPE_LESSONS.map((l) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
-          esm.Composition,
-          {
-            id: l.id,
-            component: l.component,
-            durationInFrames: l.totalFrames,
-            fps: 30,
-            width: 1920,
-            height: 1080,
-            defaultProps: { videoSrc: l.videoSrc, logoSrc: "" }
-          },
-          l.id
-        )),
+      /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.Folder, { name: "0003-technology-access-points", children: [
         /* @__PURE__ */ (0,jsx_runtime.jsx)(
           esm.Composition,
           {
-            id: "me-thumbnail",
-            component: prof_modupe_elebute_odunsi_unlocking_the_second_half_advantagetransition_impact_and_legacy_Thumbnail_Thumbnail,
+            id: "ih-tap-technology-access-points",
+            component: TechAccessPointsComposition,
+            durationInFrames: _0003_technology_access_point_to_childrren_timing_COMPOSITION_FRAMES,
+            fps: 30,
+            width: 1920,
+            height: 1080,
+            defaultProps: {
+              videoSrc: "ih-tech-access-points.mp4",
+              logoSrc: "instincthub-logo-color.png"
+            }
+          }
+        ),
+        /* @__PURE__ */ (0,jsx_runtime.jsx)(
+          esm.Composition,
+          {
+            id: "ih-tap-thumbnail",
+            component: _0003_technology_access_point_to_childrren_Thumbnail_Thumbnail,
             durationInFrames: 1,
             fps: 30,
             width: 1920,
             height: 1080,
-            defaultProps: { portraitSrc: "tp-me-modupe-portrait.jpg" }
+            defaultProps: { portraitSrc: "ih-tap-portrait.jpg" }
           }
-        )
-      ] }),
-      /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.Folder, { name: "timilola-adetu-second-half-advantage", children: [
-        TIMILOLA_LESSONS.map((l) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
-          esm.Composition,
-          {
-            id: l.id,
-            component: l.component,
-            durationInFrames: l.totalFrames,
-            fps: 30,
-            width: 1920,
-            height: 1080,
-            defaultProps: { videoSrc: l.videoSrc, logoSrc: "" }
-          },
-          l.id
-        )),
+        ),
         /* @__PURE__ */ (0,jsx_runtime.jsx)(
           esm.Composition,
           {
-            id: "tl-thumbnail",
-            component: timilola_adetu_second_half_advantage_Thumbnail_Thumbnail,
-            durationInFrames: 1,
+            id: "ih-tap-reel-1-screen-reframe",
+            component: Reel1ScreenReframe,
+            durationInFrames: REEL1_FRAMES,
             fps: 30,
-            width: 1920,
-            height: 1080,
-            defaultProps: { portraitSrc: "tp-tl-timilola-portrait.jpg" }
+            width: 1080,
+            height: 1920,
+            defaultProps: { videoSrc: "ih-tech-access-points.mp4" }
           }
-        )
-      ] }),
-      /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.Folder, { name: "john-alamu-making-ideas-happen", children: [
-        JOHN_ALAMU_LESSONS.map((l) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
-          esm.Composition,
-          {
-            id: l.id,
-            component: l.component,
-            durationInFrames: l.totalFrames,
-            fps: 30,
-            width: 1920,
-            height: 1080,
-            defaultProps: { videoSrc: l.videoSrc, logoSrc: "" }
-          },
-          l.id
-        )),
+        ),
         /* @__PURE__ */ (0,jsx_runtime.jsx)(
           esm.Composition,
           {
-            id: "ja-thumbnail",
-            component: john_alamu_it_is_not_about_ideas_its_about_making_ideas_happen_Thumbnail_Thumbnail,
-            durationInFrames: 1,
+            id: "ih-tap-reel-2-never-forget",
+            component: Reel2NeverForget,
+            durationInFrames: REEL2_FRAMES,
             fps: 30,
-            width: 1920,
-            height: 1080,
-            defaultProps: { portraitSrc: "tp-ja-john-portrait.jpg" }
+            width: 1080,
+            height: 1920,
+            defaultProps: { videoSrc: "ih-tech-access-points.mp4" }
           }
-        )
-      ] }),
-      /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.Folder, { name: "tosin-eniolorunda-execution", children: [
-        TOSIN_LESSONS.map((l) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
-          esm.Composition,
-          {
-            id: l.id,
-            component: l.component,
-            durationInFrames: l.totalFrames,
-            fps: 30,
-            width: 1920,
-            height: 1080,
-            defaultProps: { videoSrc: l.videoSrc, logoSrc: "" }
-          },
-          l.id
-        )),
+        ),
         /* @__PURE__ */ (0,jsx_runtime.jsx)(
           esm.Composition,
           {
-            id: "te-thumbnail",
-            component: tosin_eniolorunda_it_is_not_about_ideas_its_about_making_ideas_happen_Thumbnail_Thumbnail,
-            durationInFrames: 1,
+            id: "ih-tap-reel-3-walk-with-them",
+            component: Reel3WalkWithThem,
+            durationInFrames: REEL3_FRAMES,
             fps: 30,
-            width: 1920,
-            height: 1080,
-            defaultProps: { portraitSrc: "tp-te-tosin-portrait.jpg" }
-          }
-        )
-      ] }),
-      /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.Folder, { name: "kemi-adeosun-great-idea", children: [
-        KEMI_LESSONS.map((l) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
-          esm.Composition,
-          {
-            id: l.id,
-            component: l.component,
-            durationInFrames: l.totalFrames,
-            fps: 30,
-            width: 1920,
-            height: 1080,
-            defaultProps: { videoSrc: l.videoSrc, logoSrc: "" }
-          },
-          l.id
-        )),
-        /* @__PURE__ */ (0,jsx_runtime.jsx)(
-          esm.Composition,
-          {
-            id: "ka-thumbnail",
-            component: kemi_adeosun_it_is_not_about_ideas_its_about_making_ideas_happen_Thumbnail_Thumbnail,
-            durationInFrames: 1,
-            fps: 30,
-            width: 1920,
-            height: 1080,
-            defaultProps: { portraitSrc: "tp-ka-kemi-portrait.jpg" }
+            width: 1080,
+            height: 1920,
+            defaultProps: { videoSrc: "ih-tech-access-points.mp4" }
           }
         )
       ] })
     ] }),
+    /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.Folder, { name: "mmm", children: [
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        esm.Composition,
+        {
+          id: "mmm-he-healed-them-all",
+          component: HealedThemAllComposition,
+          durationInFrames: he_healed_them_all_timing_COMPOSITION_FRAMES,
+          fps: 30,
+          width: 1920,
+          height: 1080,
+          defaultProps: { videoSrc: "mmm-he-healed-them-all.mp4" }
+        }
+      ),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        esm.Composition,
+        {
+          id: "mmm-hhta-thumbnail",
+          component: he_healed_them_all_ThumbnailScene_ThumbnailScene,
+          durationInFrames: 1,
+          fps: 30,
+          width: 1920,
+          height: 1080
+        }
+      )
+    ] }),
+    /* @__PURE__ */ (0,jsx_runtime.jsx)(esm.Folder, { name: "theplatform", children: /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.Folder, { name: "affiong-williams-plant-trees", children: [
+      AFFIONG_LESSONS.map((l) => /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        esm.Composition,
+        {
+          id: l.id,
+          component: l.component,
+          durationInFrames: l.totalFrames,
+          fps: 30,
+          width: 1920,
+          height: 1080,
+          defaultProps: { videoSrc: l.videoSrc, logoSrc: "" }
+        },
+        l.id
+      )),
+      /* @__PURE__ */ (0,jsx_runtime.jsx)(
+        esm.Composition,
+        {
+          id: "aw-thumbnail",
+          component: Thumbnail,
+          durationInFrames: 1,
+          fps: 30,
+          width: 1920,
+          height: 1080,
+          defaultProps: { portraitSrc: "tp-aw-affiong-portrait.jpg" }
+        }
+      )
+    ] }) }),
     /* @__PURE__ */ (0,jsx_runtime.jsxs)(esm.Folder, { name: "ai-for-business", children: [
       /* @__PURE__ */ (0,jsx_runtime.jsx)(
         esm.Composition,
@@ -125345,7 +124592,7 @@ if (typeof globalThis === 'undefined') {
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_pnpm_css_loader_5_2_7_webpack_5_105_0_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_pnpm_css_loader_5_2_7_webpack_5_105_0_node_modules_css_loader_dist_runtime_cssWithMappingToString_js__WEBPACK_IMPORTED_MODULE_0___default()));
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "/*! tailwindcss v4.1.1 | MIT License | https://tailwindcss.com */\n@layer theme, base, components, utilities;\n@supports ((-webkit-hyphens: none) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color:rgb(from red r g b)))) {\n  @layer base {\n    *, ::before, ::after, ::backdrop {\n      --tw-rotate-x: rotateX(0);\n      --tw-rotate-y: rotateY(0);\n      --tw-rotate-z: rotateZ(0);\n      --tw-skew-x: skewX(0);\n      --tw-skew-y: skewY(0);\n      --tw-border-style: solid;\n      --tw-ordinal: initial;\n      --tw-slashed-zero: initial;\n      --tw-numeric-figure: initial;\n      --tw-numeric-spacing: initial;\n      --tw-numeric-fraction: initial;\n      --tw-shadow: 0 0 #0000;\n      --tw-shadow-color: initial;\n      --tw-shadow-alpha: 100%;\n      --tw-inset-shadow: 0 0 #0000;\n      --tw-inset-shadow-color: initial;\n      --tw-inset-shadow-alpha: 100%;\n      --tw-ring-color: initial;\n      --tw-ring-shadow: 0 0 #0000;\n      --tw-inset-ring-color: initial;\n      --tw-inset-ring-shadow: 0 0 #0000;\n      --tw-ring-inset: initial;\n      --tw-ring-offset-width: 0px;\n      --tw-ring-offset-color: #fff;\n      --tw-ring-offset-shadow: 0 0 #0000;\n      --tw-outline-style: solid;\n      --tw-blur: initial;\n      --tw-brightness: initial;\n      --tw-contrast: initial;\n      --tw-grayscale: initial;\n      --tw-hue-rotate: initial;\n      --tw-invert: initial;\n      --tw-opacity: initial;\n      --tw-saturate: initial;\n      --tw-sepia: initial;\n      --tw-drop-shadow: initial;\n      --tw-drop-shadow-color: initial;\n      --tw-drop-shadow-alpha: 100%;\n      --tw-drop-shadow-size: initial;\n    }\n  }\n}\n@layer theme {\n  :root, :host {\n    --font-sans: ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\",\n      \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";\n    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,\n      \"Liberation Mono\", \"Courier New\", monospace;\n    --spacing: 0.25rem;\n    --radius-sm: 0.25rem;\n    --radius-md: 0.375rem;\n    --radius-lg: 0.5rem;\n    --radius-xl: 0.75rem;\n    --default-transition-duration: 150ms;\n    --default-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n    --default-font-family: var(--font-sans);\n    --default-font-feature-settings: var(--font-sans--font-feature-settings);\n    --default-font-variation-settings: var(\n      --font-sans--font-variation-settings\n    );\n    --default-mono-font-family: var(--font-mono);\n    --default-mono-font-feature-settings: var(\n      --font-mono--font-feature-settings\n    );\n    --default-mono-font-variation-settings: var(\n      --font-mono--font-variation-settings\n    );\n  }\n}\n@layer base {\n  *, ::after, ::before, ::backdrop, ::file-selector-button {\n    box-sizing: border-box;\n    margin: 0;\n    padding: 0;\n    border: 0 solid;\n  }\n  html, :host {\n    line-height: 1.5;\n    -webkit-text-size-adjust: 100%;\n    tab-size: 4;\n    font-family: var( --default-font-family, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\" );\n    font-feature-settings: var(--default-font-feature-settings, normal);\n    font-variation-settings: var( --default-font-variation-settings, normal );\n    -webkit-tap-highlight-color: transparent;\n  }\n  body {\n    line-height: inherit;\n  }\n  hr {\n    height: 0;\n    color: inherit;\n    border-top-width: 1px;\n  }\n  abbr:where([title]) {\n    -webkit-text-decoration: underline dotted;\n    text-decoration: underline dotted;\n  }\n  h1, h2, h3, h4, h5, h6 {\n    font-size: inherit;\n    font-weight: inherit;\n  }\n  a {\n    color: inherit;\n    -webkit-text-decoration: inherit;\n    text-decoration: inherit;\n  }\n  b, strong {\n    font-weight: bolder;\n  }\n  code, kbd, samp, pre {\n    font-family: var( --default-mono-font-family, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace );\n    font-feature-settings: var( --default-mono-font-feature-settings, normal );\n    font-variation-settings: var( --default-mono-font-variation-settings, normal );\n    font-size: 1em;\n  }\n  small {\n    font-size: 80%;\n  }\n  sub, sup {\n    font-size: 75%;\n    line-height: 0;\n    position: relative;\n    vertical-align: baseline;\n  }\n  sub {\n    bottom: -0.25em;\n  }\n  sup {\n    top: -0.5em;\n  }\n  table {\n    text-indent: 0;\n    border-color: inherit;\n    border-collapse: collapse;\n  }\n  :-moz-focusring {\n    outline: auto;\n  }\n  progress {\n    vertical-align: baseline;\n  }\n  summary {\n    display: list-item;\n  }\n  ol, ul, menu {\n    list-style: none;\n  }\n  img, svg, video, canvas, audio, iframe, embed, object {\n    display: block;\n    vertical-align: middle;\n  }\n  img, video {\n    max-width: 100%;\n    height: auto;\n  }\n  button, input, select, optgroup, textarea, ::file-selector-button {\n    font: inherit;\n    font-feature-settings: inherit;\n    font-variation-settings: inherit;\n    letter-spacing: inherit;\n    color: inherit;\n    border-radius: 0;\n    background-color: transparent;\n    opacity: 1;\n  }\n  :where(select:is([multiple], [size])) optgroup {\n    font-weight: bolder;\n  }\n  :where(select:is([multiple], [size])) optgroup option {\n    padding-inline-start: 20px;\n  }\n  ::file-selector-button {\n    margin-inline-end: 4px;\n  }\n  ::placeholder {\n    opacity: 1;\n    color: color-mix(in oklab, currentColor 50%, transparent);\n  }\n  textarea {\n    resize: vertical;\n  }\n  ::-webkit-search-decoration {\n    -webkit-appearance: none;\n  }\n  ::-webkit-date-and-time-value {\n    min-height: 1lh;\n    text-align: inherit;\n  }\n  ::-webkit-datetime-edit {\n    display: inline-flex;\n  }\n  ::-webkit-datetime-edit-fields-wrapper {\n    padding: 0;\n  }\n  ::-webkit-datetime-edit, ::-webkit-datetime-edit-year-field, ::-webkit-datetime-edit-month-field, ::-webkit-datetime-edit-day-field, ::-webkit-datetime-edit-hour-field, ::-webkit-datetime-edit-minute-field, ::-webkit-datetime-edit-second-field, ::-webkit-datetime-edit-millisecond-field, ::-webkit-datetime-edit-meridiem-field {\n    padding-block: 0;\n  }\n  :-moz-ui-invalid {\n    box-shadow: none;\n  }\n  button, input:where([type=\"button\"], [type=\"reset\"], [type=\"submit\"]), ::file-selector-button {\n    appearance: button;\n  }\n  ::-webkit-inner-spin-button, ::-webkit-outer-spin-button {\n    height: auto;\n  }\n  [hidden]:where(:not([hidden=\"until-found\"])) {\n    display: none !important;\n  }\n}\n@layer utilities {\n  .invisible {\n    visibility: hidden;\n  }\n  .visible {\n    visibility: visible;\n  }\n  .absolute {\n    position: absolute;\n  }\n  .fixed {\n    position: fixed;\n  }\n  .relative {\n    position: relative;\n  }\n  .static {\n    position: static;\n  }\n  .bottom-200 {\n    bottom: calc(var(--spacing) * 200);\n  }\n  .container {\n    width: 100%;\n    @media (width >= 40rem) {\n      max-width: 40rem;\n    }\n    @media (width >= 48rem) {\n      max-width: 48rem;\n    }\n    @media (width >= 64rem) {\n      max-width: 64rem;\n    }\n    @media (width >= 80rem) {\n      max-width: 80rem;\n    }\n    @media (width >= 96rem) {\n      max-width: 96rem;\n    }\n  }\n  .m-18 {\n    margin: calc(var(--spacing) * 18);\n  }\n  .m-22 {\n    margin: calc(var(--spacing) * 22);\n  }\n  .block {\n    display: block;\n  }\n  .contents {\n    display: contents;\n  }\n  .flex {\n    display: flex;\n  }\n  .grid {\n    display: grid;\n  }\n  .hidden {\n    display: none;\n  }\n  .inline {\n    display: inline;\n  }\n  .inline-block {\n    display: inline-block;\n  }\n  .inline-flex {\n    display: inline-flex;\n  }\n  .table {\n    display: table;\n  }\n  .h-10 {\n    height: calc(var(--spacing) * 10);\n  }\n  .h-14 {\n    height: calc(var(--spacing) * 14);\n  }\n  .h-16 {\n    height: calc(var(--spacing) * 16);\n  }\n  .h-30 {\n    height: calc(var(--spacing) * 30);\n  }\n  .h-56 {\n    height: calc(var(--spacing) * 56);\n  }\n  .h-76 {\n    height: calc(var(--spacing) * 76);\n  }\n  .h-240 {\n    height: calc(var(--spacing) * 240);\n  }\n  .flex-shrink {\n    flex-shrink: 1;\n  }\n  .shrink {\n    flex-shrink: 1;\n  }\n  .grow {\n    flex-grow: 1;\n  }\n  .border-collapse {\n    border-collapse: collapse;\n  }\n  .transform {\n    transform: var(--tw-rotate-x) var(--tw-rotate-y) var(--tw-rotate-z) var(--tw-skew-x) var(--tw-skew-y);\n  }\n  .rounded {\n    border-radius: 0.25rem;\n  }\n  .border {\n    border-style: var(--tw-border-style);\n    border-width: 1px;\n  }\n  .break-all {\n    word-break: break-all;\n  }\n  .lowercase {\n    text-transform: lowercase;\n  }\n  .uppercase {\n    text-transform: uppercase;\n  }\n  .italic {\n    font-style: italic;\n  }\n  .tabular-nums {\n    --tw-numeric-spacing: tabular-nums;\n    font-variant-numeric: var(--tw-ordinal,) var(--tw-slashed-zero,) var(--tw-numeric-figure,) var(--tw-numeric-spacing,) var(--tw-numeric-fraction,);\n  }\n  .line-through {\n    text-decoration-line: line-through;\n  }\n  .underline {\n    text-decoration-line: underline;\n  }\n  .shadow {\n    --tw-shadow: 0 1px 3px 0 var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 1px 2px -1px var(--tw-shadow-color, rgb(0 0 0 / 0.1));\n    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n  }\n  .ring {\n    --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentColor);\n    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n  }\n  .outline {\n    outline-style: var(--tw-outline-style);\n    outline-width: 1px;\n  }\n  .blur {\n    --tw-blur: blur(8px);\n    filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);\n  }\n  .grayscale {\n    --tw-grayscale: grayscale(100%);\n    filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);\n  }\n  .filter {\n    filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);\n  }\n  .transition {\n    transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to, opacity, box-shadow, transform, translate, scale, rotate, filter, -webkit-backdrop-filter, backdrop-filter;\n    transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));\n    transition-duration: var(--tw-duration, var(--default-transition-duration));\n  }\n}\n@property --tw-rotate-x {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: rotateX(0);\n}\n@property --tw-rotate-y {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: rotateY(0);\n}\n@property --tw-rotate-z {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: rotateZ(0);\n}\n@property --tw-skew-x {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: skewX(0);\n}\n@property --tw-skew-y {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: skewY(0);\n}\n@property --tw-border-style {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: solid;\n}\n@property --tw-ordinal {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-slashed-zero {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-numeric-figure {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-numeric-spacing {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-numeric-fraction {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n@property --tw-shadow-color {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-shadow-alpha {\n  syntax: \"<percentage>\";\n  inherits: false;\n  initial-value: 100%;\n}\n@property --tw-inset-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n@property --tw-inset-shadow-color {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-inset-shadow-alpha {\n  syntax: \"<percentage>\";\n  inherits: false;\n  initial-value: 100%;\n}\n@property --tw-ring-color {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-ring-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n@property --tw-inset-ring-color {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-inset-ring-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n@property --tw-ring-inset {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-ring-offset-width {\n  syntax: \"<length>\";\n  inherits: false;\n  initial-value: 0px;\n}\n@property --tw-ring-offset-color {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: #fff;\n}\n@property --tw-ring-offset-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n@property --tw-outline-style {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: solid;\n}\n@property --tw-blur {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-brightness {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-contrast {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-grayscale {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-hue-rotate {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-invert {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-opacity {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-saturate {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-sepia {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-drop-shadow {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-drop-shadow-color {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-drop-shadow-alpha {\n  syntax: \"<percentage>\";\n  inherits: false;\n  initial-value: 100%;\n}\n@property --tw-drop-shadow-size {\n  syntax: \"*\";\n  inherits: false;\n}\n", "",{"version":3,"sources":["webpack://./src/index.css"],"names":[],"mappings":"AAAA,gEACA;AADA,yCACA;AADA;EAAA;IAAA;MAAA,yBACA;MADA,yBACA;MADA,yBACA;MADA,qBACA;MADA,qBACA;MADA,wBACA;MADA,qBACA;MADA,0BACA;MADA,4BACA;MADA,6BACA;MADA,8BACA;MADA,sBACA;MADA,0BACA;MADA,uBACA;MADA,4BACA;MADA,gCACA;MADA,6BACA;MADA,wBACA;MADA,2BACA;MADA,8BACA;MADA,iCACA;MADA,wBACA;MADA,2BACA;MADA,4BACA;MADA,kCACA;MADA,yBACA;MADA,kBACA;MADA,wBACA;MADA,sBACA;MADA,uBACA;MADA,wBACA;MADA,oBACA;MADA,qBACA;MADA,sBACA;MADA,mBACA;MADA,yBACA;MADA,+BACA;MADA,4BACA;MADA,8BACA;IAAA;EAAA;AAAA;AADA;EAAA;IAAA;6DACA;IADA;iDACA;IADA,kBACA;IADA,oBACA;IADA,qBACA;IADA,mBACA;IADA,oBACA;IADA,oCACA;IADA,kEACA;IADA,uCACA;IADA,wEACA;IADA;;KACA;IADA,4CACA;IADA;;KACA;IADA;;KACA;EAAA;AAAA;AADA;EAAA;IAAA,sBACA;IADA,SACA;IADA,UACA;IADA,eACA;EAAA;EADA;IAAA,gBACA;IADA,8BACA;IADA,WACA;IADA,6JACA;IADA,mEACA;IADA,yEACA;IADA,wCACA;EAAA;EADA;IAAA,oBACA;EAAA;EADA;IAAA,SACA;IADA,cACA;IADA,qBACA;EAAA;EADA;IAAA,yCACA;IADA,iCACA;EAAA;EADA;IAAA,kBACA;IADA,oBACA;EAAA;EADA;IAAA,cACA;IADA,gCACA;IADA,wBACA;EAAA;EADA;IAAA,mBACA;EAAA;EADA;IAAA,kJACA;IADA,0EACA;IADA,8EACA;IADA,cACA;EAAA;EADA;IAAA,cACA;EAAA;EADA;IAAA,cACA;IADA,cACA;IADA,kBACA;IADA,wBACA;EAAA;EADA;IAAA,eACA;EAAA;EADA;IAAA,WACA;EAAA;EADA;IAAA,cACA;IADA,qBACA;IADA,yBACA;EAAA;EADA;IAAA,aACA;EAAA;EADA;IAAA,wBACA;EAAA;EADA;IAAA,kBACA;EAAA;EADA;IAAA,gBACA;EAAA;EADA;IAAA,cACA;IADA,sBACA;EAAA;EADA;IAAA,eACA;IADA,YACA;EAAA;EADA;IAAA,aACA;IADA,8BACA;IADA,gCACA;IADA,uBACA;IADA,cACA;IADA,gBACA;IADA,6BACA;IADA,UACA;EAAA;EADA;IAAA,mBACA;EAAA;EADA;IAAA,0BACA;EAAA;EADA;IAAA,sBACA;EAAA;EADA;IAAA,UACA;IADA,yDACA;EAAA;EADA;IAAA,gBACA;EAAA;EADA;IAAA,wBACA;EAAA;EADA;IAAA,eACA;IADA,mBACA;EAAA;EADA;IAAA,oBACA;EAAA;EADA;IAAA,UACA;EAAA;EADA;IAAA,gBACA;EAAA;EADA;IAAA,gBACA;EAAA;EADA;IAAA,kBACA;EAAA;EADA;IAAA,YACA;EAAA;EADA;IAAA,wBACA;EAAA;AAAA;AADA;EAAA;IAAA,kBACA;EAAA;EADA;IAAA,mBACA;EAAA;EADA;IAAA,kBACA;EAAA;EADA;IAAA,eACA;EAAA;EADA;IAAA,kBACA;EAAA;EADA;IAAA,gBACA;EAAA;EADA;IAAA,kCACA;EAAA;EADA;IAAA,WACA;IADA;MAAA,gBACA;IAAA;IADA;MAAA,gBACA;IAAA;IADA;MAAA,gBACA;IAAA;IADA;MAAA,gBACA;IAAA;IADA;MAAA,gBACA;IAAA;EAAA;EADA;IAAA,iCACA;EAAA;EADA;IAAA,iCACA;EAAA;EADA;IAAA,cACA;EAAA;EADA;IAAA,iBACA;EAAA;EADA;IAAA,aACA;EAAA;EADA;IAAA,aACA;EAAA;EADA;IAAA,aACA;EAAA;EADA;IAAA,eACA;EAAA;EADA;IAAA,qBACA;EAAA;EADA;IAAA,oBACA;EAAA;EADA;IAAA,cACA;EAAA;EADA;IAAA,iCACA;EAAA;EADA;IAAA,iCACA;EAAA;EADA;IAAA,iCACA;EAAA;EADA;IAAA,iCACA;EAAA;EADA;IAAA,iCACA;EAAA;EADA;IAAA,iCACA;EAAA;EADA;IAAA,kCACA;EAAA;EADA;IAAA,cACA;EAAA;EADA;IAAA,cACA;EAAA;EADA;IAAA,YACA;EAAA;EADA;IAAA,yBACA;EAAA;EADA;IAAA,qGACA;EAAA;EADA;IAAA,sBACA;EAAA;EADA;IAAA,oCACA;IADA,iBACA;EAAA;EADA;IAAA,qBACA;EAAA;EADA;IAAA,yBACA;EAAA;EADA;IAAA,yBACA;EAAA;EADA;IAAA,kBACA;EAAA;EADA;IAAA,kCACA;IADA,iJACA;EAAA;EADA;IAAA,kCACA;EAAA;EADA;IAAA,+BACA;EAAA;EADA;IAAA,0HACA;IADA,sIACA;EAAA;EADA;IAAA,wHACA;IADA,sIACA;EAAA;EADA;IAAA,sCACA;IADA,kBACA;EAAA;EADA;IAAA,oBACA;IADA,0LACA;EAAA;EADA;IAAA,+BACA;IADA,0LACA;EAAA;EADA;IAAA,0LACA;EAAA;EADA;IAAA,mRACA;IADA,qFACA;IADA,2EACA;EAAA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,yBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,yBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,yBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,uBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,uBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,oBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,wBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,sBACA;EADA,eACA;EADA,mBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,wBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,sBACA;EADA,eACA;EADA,mBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,wBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,wBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,kBACA;EADA,eACA;EADA,kBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,mBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,wBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,oBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,sBACA;EADA,eACA;EADA,mBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA","sourcesContent":["@import \"tailwindcss\";\n"],"sourceRoot":""}]);
+___CSS_LOADER_EXPORT___.push([module.id, "/*! tailwindcss v4.1.1 | MIT License | https://tailwindcss.com */\n@layer theme, base, components, utilities;\n@supports ((-webkit-hyphens: none) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color:rgb(from red r g b)))) {\n  @layer base {\n    *, ::before, ::after, ::backdrop {\n      --tw-rotate-x: rotateX(0);\n      --tw-rotate-y: rotateY(0);\n      --tw-rotate-z: rotateZ(0);\n      --tw-skew-x: skewX(0);\n      --tw-skew-y: skewY(0);\n      --tw-border-style: solid;\n      --tw-ordinal: initial;\n      --tw-slashed-zero: initial;\n      --tw-numeric-figure: initial;\n      --tw-numeric-spacing: initial;\n      --tw-numeric-fraction: initial;\n      --tw-shadow: 0 0 #0000;\n      --tw-shadow-color: initial;\n      --tw-shadow-alpha: 100%;\n      --tw-inset-shadow: 0 0 #0000;\n      --tw-inset-shadow-color: initial;\n      --tw-inset-shadow-alpha: 100%;\n      --tw-ring-color: initial;\n      --tw-ring-shadow: 0 0 #0000;\n      --tw-inset-ring-color: initial;\n      --tw-inset-ring-shadow: 0 0 #0000;\n      --tw-ring-inset: initial;\n      --tw-ring-offset-width: 0px;\n      --tw-ring-offset-color: #fff;\n      --tw-ring-offset-shadow: 0 0 #0000;\n      --tw-outline-style: solid;\n      --tw-blur: initial;\n      --tw-brightness: initial;\n      --tw-contrast: initial;\n      --tw-grayscale: initial;\n      --tw-hue-rotate: initial;\n      --tw-invert: initial;\n      --tw-opacity: initial;\n      --tw-saturate: initial;\n      --tw-sepia: initial;\n      --tw-drop-shadow: initial;\n      --tw-drop-shadow-color: initial;\n      --tw-drop-shadow-alpha: 100%;\n      --tw-drop-shadow-size: initial;\n    }\n  }\n}\n@layer theme {\n  :root, :host {\n    --font-sans: ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\",\n      \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";\n    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,\n      \"Liberation Mono\", \"Courier New\", monospace;\n    --spacing: 0.25rem;\n    --radius-sm: 0.25rem;\n    --radius-md: 0.375rem;\n    --radius-lg: 0.5rem;\n    --radius-xl: 0.75rem;\n    --default-transition-duration: 150ms;\n    --default-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n    --default-font-family: var(--font-sans);\n    --default-font-feature-settings: var(--font-sans--font-feature-settings);\n    --default-font-variation-settings: var(\n      --font-sans--font-variation-settings\n    );\n    --default-mono-font-family: var(--font-mono);\n    --default-mono-font-feature-settings: var(\n      --font-mono--font-feature-settings\n    );\n    --default-mono-font-variation-settings: var(\n      --font-mono--font-variation-settings\n    );\n  }\n}\n@layer base {\n  *, ::after, ::before, ::backdrop, ::file-selector-button {\n    box-sizing: border-box;\n    margin: 0;\n    padding: 0;\n    border: 0 solid;\n  }\n  html, :host {\n    line-height: 1.5;\n    -webkit-text-size-adjust: 100%;\n    tab-size: 4;\n    font-family: var( --default-font-family, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\" );\n    font-feature-settings: var(--default-font-feature-settings, normal);\n    font-variation-settings: var( --default-font-variation-settings, normal );\n    -webkit-tap-highlight-color: transparent;\n  }\n  body {\n    line-height: inherit;\n  }\n  hr {\n    height: 0;\n    color: inherit;\n    border-top-width: 1px;\n  }\n  abbr:where([title]) {\n    -webkit-text-decoration: underline dotted;\n    text-decoration: underline dotted;\n  }\n  h1, h2, h3, h4, h5, h6 {\n    font-size: inherit;\n    font-weight: inherit;\n  }\n  a {\n    color: inherit;\n    -webkit-text-decoration: inherit;\n    text-decoration: inherit;\n  }\n  b, strong {\n    font-weight: bolder;\n  }\n  code, kbd, samp, pre {\n    font-family: var( --default-mono-font-family, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace );\n    font-feature-settings: var( --default-mono-font-feature-settings, normal );\n    font-variation-settings: var( --default-mono-font-variation-settings, normal );\n    font-size: 1em;\n  }\n  small {\n    font-size: 80%;\n  }\n  sub, sup {\n    font-size: 75%;\n    line-height: 0;\n    position: relative;\n    vertical-align: baseline;\n  }\n  sub {\n    bottom: -0.25em;\n  }\n  sup {\n    top: -0.5em;\n  }\n  table {\n    text-indent: 0;\n    border-color: inherit;\n    border-collapse: collapse;\n  }\n  :-moz-focusring {\n    outline: auto;\n  }\n  progress {\n    vertical-align: baseline;\n  }\n  summary {\n    display: list-item;\n  }\n  ol, ul, menu {\n    list-style: none;\n  }\n  img, svg, video, canvas, audio, iframe, embed, object {\n    display: block;\n    vertical-align: middle;\n  }\n  img, video {\n    max-width: 100%;\n    height: auto;\n  }\n  button, input, select, optgroup, textarea, ::file-selector-button {\n    font: inherit;\n    font-feature-settings: inherit;\n    font-variation-settings: inherit;\n    letter-spacing: inherit;\n    color: inherit;\n    border-radius: 0;\n    background-color: transparent;\n    opacity: 1;\n  }\n  :where(select:is([multiple], [size])) optgroup {\n    font-weight: bolder;\n  }\n  :where(select:is([multiple], [size])) optgroup option {\n    padding-inline-start: 20px;\n  }\n  ::file-selector-button {\n    margin-inline-end: 4px;\n  }\n  ::placeholder {\n    opacity: 1;\n    color: color-mix(in oklab, currentColor 50%, transparent);\n  }\n  textarea {\n    resize: vertical;\n  }\n  ::-webkit-search-decoration {\n    -webkit-appearance: none;\n  }\n  ::-webkit-date-and-time-value {\n    min-height: 1lh;\n    text-align: inherit;\n  }\n  ::-webkit-datetime-edit {\n    display: inline-flex;\n  }\n  ::-webkit-datetime-edit-fields-wrapper {\n    padding: 0;\n  }\n  ::-webkit-datetime-edit, ::-webkit-datetime-edit-year-field, ::-webkit-datetime-edit-month-field, ::-webkit-datetime-edit-day-field, ::-webkit-datetime-edit-hour-field, ::-webkit-datetime-edit-minute-field, ::-webkit-datetime-edit-second-field, ::-webkit-datetime-edit-millisecond-field, ::-webkit-datetime-edit-meridiem-field {\n    padding-block: 0;\n  }\n  :-moz-ui-invalid {\n    box-shadow: none;\n  }\n  button, input:where([type=\"button\"], [type=\"reset\"], [type=\"submit\"]), ::file-selector-button {\n    appearance: button;\n  }\n  ::-webkit-inner-spin-button, ::-webkit-outer-spin-button {\n    height: auto;\n  }\n  [hidden]:where(:not([hidden=\"until-found\"])) {\n    display: none !important;\n  }\n}\n@layer utilities {\n  .invisible {\n    visibility: hidden;\n  }\n  .visible {\n    visibility: visible;\n  }\n  .absolute {\n    position: absolute;\n  }\n  .fixed {\n    position: fixed;\n  }\n  .relative {\n    position: relative;\n  }\n  .static {\n    position: static;\n  }\n  .bottom-200 {\n    bottom: calc(var(--spacing) * 200);\n  }\n  .container {\n    width: 100%;\n    @media (width >= 40rem) {\n      max-width: 40rem;\n    }\n    @media (width >= 48rem) {\n      max-width: 48rem;\n    }\n    @media (width >= 64rem) {\n      max-width: 64rem;\n    }\n    @media (width >= 80rem) {\n      max-width: 80rem;\n    }\n    @media (width >= 96rem) {\n      max-width: 96rem;\n    }\n  }\n  .m-14 {\n    margin: calc(var(--spacing) * 14);\n  }\n  .m-18 {\n    margin: calc(var(--spacing) * 18);\n  }\n  .m-22 {\n    margin: calc(var(--spacing) * 22);\n  }\n  .block {\n    display: block;\n  }\n  .contents {\n    display: contents;\n  }\n  .flex {\n    display: flex;\n  }\n  .grid {\n    display: grid;\n  }\n  .hidden {\n    display: none;\n  }\n  .inline {\n    display: inline;\n  }\n  .inline-block {\n    display: inline-block;\n  }\n  .inline-flex {\n    display: inline-flex;\n  }\n  .table {\n    display: table;\n  }\n  .h-10 {\n    height: calc(var(--spacing) * 10);\n  }\n  .h-14 {\n    height: calc(var(--spacing) * 14);\n  }\n  .h-16 {\n    height: calc(var(--spacing) * 16);\n  }\n  .h-30 {\n    height: calc(var(--spacing) * 30);\n  }\n  .h-56 {\n    height: calc(var(--spacing) * 56);\n  }\n  .h-70 {\n    height: calc(var(--spacing) * 70);\n  }\n  .h-76 {\n    height: calc(var(--spacing) * 76);\n  }\n  .h-240 {\n    height: calc(var(--spacing) * 240);\n  }\n  .flex-shrink {\n    flex-shrink: 1;\n  }\n  .shrink {\n    flex-shrink: 1;\n  }\n  .grow {\n    flex-grow: 1;\n  }\n  .border-collapse {\n    border-collapse: collapse;\n  }\n  .transform {\n    transform: var(--tw-rotate-x) var(--tw-rotate-y) var(--tw-rotate-z) var(--tw-skew-x) var(--tw-skew-y);\n  }\n  .rounded {\n    border-radius: 0.25rem;\n  }\n  .border {\n    border-style: var(--tw-border-style);\n    border-width: 1px;\n  }\n  .break-all {\n    word-break: break-all;\n  }\n  .lowercase {\n    text-transform: lowercase;\n  }\n  .uppercase {\n    text-transform: uppercase;\n  }\n  .italic {\n    font-style: italic;\n  }\n  .tabular-nums {\n    --tw-numeric-spacing: tabular-nums;\n    font-variant-numeric: var(--tw-ordinal,) var(--tw-slashed-zero,) var(--tw-numeric-figure,) var(--tw-numeric-spacing,) var(--tw-numeric-fraction,);\n  }\n  .line-through {\n    text-decoration-line: line-through;\n  }\n  .underline {\n    text-decoration-line: underline;\n  }\n  .shadow {\n    --tw-shadow: 0 1px 3px 0 var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 1px 2px -1px var(--tw-shadow-color, rgb(0 0 0 / 0.1));\n    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n  }\n  .ring {\n    --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentColor);\n    box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n  }\n  .outline {\n    outline-style: var(--tw-outline-style);\n    outline-width: 1px;\n  }\n  .blur {\n    --tw-blur: blur(8px);\n    filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);\n  }\n  .grayscale {\n    --tw-grayscale: grayscale(100%);\n    filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);\n  }\n  .filter {\n    filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);\n  }\n  .transition {\n    transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to, opacity, box-shadow, transform, translate, scale, rotate, filter, -webkit-backdrop-filter, backdrop-filter;\n    transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));\n    transition-duration: var(--tw-duration, var(--default-transition-duration));\n  }\n}\n@property --tw-rotate-x {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: rotateX(0);\n}\n@property --tw-rotate-y {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: rotateY(0);\n}\n@property --tw-rotate-z {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: rotateZ(0);\n}\n@property --tw-skew-x {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: skewX(0);\n}\n@property --tw-skew-y {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: skewY(0);\n}\n@property --tw-border-style {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: solid;\n}\n@property --tw-ordinal {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-slashed-zero {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-numeric-figure {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-numeric-spacing {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-numeric-fraction {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n@property --tw-shadow-color {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-shadow-alpha {\n  syntax: \"<percentage>\";\n  inherits: false;\n  initial-value: 100%;\n}\n@property --tw-inset-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n@property --tw-inset-shadow-color {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-inset-shadow-alpha {\n  syntax: \"<percentage>\";\n  inherits: false;\n  initial-value: 100%;\n}\n@property --tw-ring-color {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-ring-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n@property --tw-inset-ring-color {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-inset-ring-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n@property --tw-ring-inset {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-ring-offset-width {\n  syntax: \"<length>\";\n  inherits: false;\n  initial-value: 0px;\n}\n@property --tw-ring-offset-color {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: #fff;\n}\n@property --tw-ring-offset-shadow {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: 0 0 #0000;\n}\n@property --tw-outline-style {\n  syntax: \"*\";\n  inherits: false;\n  initial-value: solid;\n}\n@property --tw-blur {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-brightness {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-contrast {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-grayscale {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-hue-rotate {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-invert {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-opacity {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-saturate {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-sepia {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-drop-shadow {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-drop-shadow-color {\n  syntax: \"*\";\n  inherits: false;\n}\n@property --tw-drop-shadow-alpha {\n  syntax: \"<percentage>\";\n  inherits: false;\n  initial-value: 100%;\n}\n@property --tw-drop-shadow-size {\n  syntax: \"*\";\n  inherits: false;\n}\n", "",{"version":3,"sources":["webpack://./src/index.css"],"names":[],"mappings":"AAAA,gEACA;AADA,yCACA;AADA;EAAA;IAAA;MAAA,yBACA;MADA,yBACA;MADA,yBACA;MADA,qBACA;MADA,qBACA;MADA,wBACA;MADA,qBACA;MADA,0BACA;MADA,4BACA;MADA,6BACA;MADA,8BACA;MADA,sBACA;MADA,0BACA;MADA,uBACA;MADA,4BACA;MADA,gCACA;MADA,6BACA;MADA,wBACA;MADA,2BACA;MADA,8BACA;MADA,iCACA;MADA,wBACA;MADA,2BACA;MADA,4BACA;MADA,kCACA;MADA,yBACA;MADA,kBACA;MADA,wBACA;MADA,sBACA;MADA,uBACA;MADA,wBACA;MADA,oBACA;MADA,qBACA;MADA,sBACA;MADA,mBACA;MADA,yBACA;MADA,+BACA;MADA,4BACA;MADA,8BACA;IAAA;EAAA;AAAA;AADA;EAAA;IAAA;6DACA;IADA;iDACA;IADA,kBACA;IADA,oBACA;IADA,qBACA;IADA,mBACA;IADA,oBACA;IADA,oCACA;IADA,kEACA;IADA,uCACA;IADA,wEACA;IADA;;KACA;IADA,4CACA;IADA;;KACA;IADA;;KACA;EAAA;AAAA;AADA;EAAA;IAAA,sBACA;IADA,SACA;IADA,UACA;IADA,eACA;EAAA;EADA;IAAA,gBACA;IADA,8BACA;IADA,WACA;IADA,6JACA;IADA,mEACA;IADA,yEACA;IADA,wCACA;EAAA;EADA;IAAA,oBACA;EAAA;EADA;IAAA,SACA;IADA,cACA;IADA,qBACA;EAAA;EADA;IAAA,yCACA;IADA,iCACA;EAAA;EADA;IAAA,kBACA;IADA,oBACA;EAAA;EADA;IAAA,cACA;IADA,gCACA;IADA,wBACA;EAAA;EADA;IAAA,mBACA;EAAA;EADA;IAAA,kJACA;IADA,0EACA;IADA,8EACA;IADA,cACA;EAAA;EADA;IAAA,cACA;EAAA;EADA;IAAA,cACA;IADA,cACA;IADA,kBACA;IADA,wBACA;EAAA;EADA;IAAA,eACA;EAAA;EADA;IAAA,WACA;EAAA;EADA;IAAA,cACA;IADA,qBACA;IADA,yBACA;EAAA;EADA;IAAA,aACA;EAAA;EADA;IAAA,wBACA;EAAA;EADA;IAAA,kBACA;EAAA;EADA;IAAA,gBACA;EAAA;EADA;IAAA,cACA;IADA,sBACA;EAAA;EADA;IAAA,eACA;IADA,YACA;EAAA;EADA;IAAA,aACA;IADA,8BACA;IADA,gCACA;IADA,uBACA;IADA,cACA;IADA,gBACA;IADA,6BACA;IADA,UACA;EAAA;EADA;IAAA,mBACA;EAAA;EADA;IAAA,0BACA;EAAA;EADA;IAAA,sBACA;EAAA;EADA;IAAA,UACA;IADA,yDACA;EAAA;EADA;IAAA,gBACA;EAAA;EADA;IAAA,wBACA;EAAA;EADA;IAAA,eACA;IADA,mBACA;EAAA;EADA;IAAA,oBACA;EAAA;EADA;IAAA,UACA;EAAA;EADA;IAAA,gBACA;EAAA;EADA;IAAA,gBACA;EAAA;EADA;IAAA,kBACA;EAAA;EADA;IAAA,YACA;EAAA;EADA;IAAA,wBACA;EAAA;AAAA;AADA;EAAA;IAAA,kBACA;EAAA;EADA;IAAA,mBACA;EAAA;EADA;IAAA,kBACA;EAAA;EADA;IAAA,eACA;EAAA;EADA;IAAA,kBACA;EAAA;EADA;IAAA,gBACA;EAAA;EADA;IAAA,kCACA;EAAA;EADA;IAAA,WACA;IADA;MAAA,gBACA;IAAA;IADA;MAAA,gBACA;IAAA;IADA;MAAA,gBACA;IAAA;IADA;MAAA,gBACA;IAAA;IADA;MAAA,gBACA;IAAA;EAAA;EADA;IAAA,iCACA;EAAA;EADA;IAAA,iCACA;EAAA;EADA;IAAA,iCACA;EAAA;EADA;IAAA,cACA;EAAA;EADA;IAAA,iBACA;EAAA;EADA;IAAA,aACA;EAAA;EADA;IAAA,aACA;EAAA;EADA;IAAA,aACA;EAAA;EADA;IAAA,eACA;EAAA;EADA;IAAA,qBACA;EAAA;EADA;IAAA,oBACA;EAAA;EADA;IAAA,cACA;EAAA;EADA;IAAA,iCACA;EAAA;EADA;IAAA,iCACA;EAAA;EADA;IAAA,iCACA;EAAA;EADA;IAAA,iCACA;EAAA;EADA;IAAA,iCACA;EAAA;EADA;IAAA,iCACA;EAAA;EADA;IAAA,iCACA;EAAA;EADA;IAAA,kCACA;EAAA;EADA;IAAA,cACA;EAAA;EADA;IAAA,cACA;EAAA;EADA;IAAA,YACA;EAAA;EADA;IAAA,yBACA;EAAA;EADA;IAAA,qGACA;EAAA;EADA;IAAA,sBACA;EAAA;EADA;IAAA,oCACA;IADA,iBACA;EAAA;EADA;IAAA,qBACA;EAAA;EADA;IAAA,yBACA;EAAA;EADA;IAAA,yBACA;EAAA;EADA;IAAA,kBACA;EAAA;EADA;IAAA,kCACA;IADA,iJACA;EAAA;EADA;IAAA,kCACA;EAAA;EADA;IAAA,+BACA;EAAA;EADA;IAAA,0HACA;IADA,sIACA;EAAA;EADA;IAAA,wHACA;IADA,sIACA;EAAA;EADA;IAAA,sCACA;IADA,kBACA;EAAA;EADA;IAAA,oBACA;IADA,0LACA;EAAA;EADA;IAAA,+BACA;IADA,0LACA;EAAA;EADA;IAAA,0LACA;EAAA;EADA;IAAA,mRACA;IADA,qFACA;IADA,2EACA;EAAA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,yBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,yBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,yBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,uBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,uBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,oBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,wBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,sBACA;EADA,eACA;EADA,mBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,wBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,sBACA;EADA,eACA;EADA,mBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,wBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,wBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,kBACA;EADA,eACA;EADA,kBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,mBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,wBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;EADA,oBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA;AADA;EAAA,sBACA;EADA,eACA;EADA,mBACA;AAAA;AADA;EAAA,WACA;EADA,eACA;AAAA","sourcesContent":["@import \"tailwindcss\";\n"],"sourceRoot":""}]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -152625,7 +151872,7 @@ var NoReactInternals = {
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module is referenced by other modules so it can't be inlined
 /******/ 	__webpack_require__(8663);
-/******/ 	__webpack_require__(9915);
+/******/ 	__webpack_require__(2802);
 /******/ 	__webpack_require__(2678);
 /******/ 	var __webpack_exports__ = __webpack_require__(6480);
 /******/ 	

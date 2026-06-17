@@ -1,0 +1,1672 @@
+[0:00] The following content is
+provided under a Creative Commons license. Your support will help
+MIT OpenCourseWare
+[0:06] continue to offer high quality
+educational resources for free. To make a donation or to
+view additional materials
+[0:12] from hundreds of MIT courses,
+visit MIT OpenCourseWare at ocw.mit.edu
+[0:21] PROFESSOR: Recap last night
+and give you-- remember what we had for an overview. The first part was that it's
+not about the business plan,
+[0:32] it's about planning. That was the first
+point I hope you got. The second one is that planning
+is not a static process.
+[0:41] It's dynamic. And therefore, your plan
+is going to be dynamic. However you write it
+down, or put it in slides.
+[0:49] That's the first set of points. The second is the
+three Ys-- or sorry,
+[0:56] the second is your goals and
+tasks in this whole process. It's to create value.
+[1:02] And the second goal is to
+harvest some of the value. And as we pointed out,
+those are easy to say
+[1:09] and it's increasingly
+hard to do. The rest of the course
+will be telling you try to how to do those things.
+[1:16] The questions that investors
+are going to be asking are the 3 Whys.
+[1:22] Why this? Why is this something important? Why now? Why is now the
+right time to do it?
+[1:28] And why this team? Why is this group of
+people the right people? And if they get through
+those, the fourth one
+[1:34] is why won't it work? Now, I said that that's
+what investors ask,
+[1:40] and that's probably what
+you ought to be asking. Because the final point is,
+the most scarce resource is not
+[1:45] money, it's your time. So if you're not happy
+with those answers to those questions,
+then you ought
+[1:51] to iterate and find some new
+questions-- a new approach to those. In fact, tonight our
+speaker Bob is probably
+[1:59] going to talk about how you've
+iterated [INAUDIBLE] things on that score. OK, so tonight
+we're starting down
+[2:05] the path of filling
+in the business plan. The first thing we said if
+you've got to create value.
+[2:11] And one of the ways
+you can create value is to find a customer. And Bob Jones, who's one of
+our highly paid volunteers,
+[2:18] once again tripling your income. Bob is-- was a classmate
+of mine at Sloan.
+[2:26] People in the
+audience from Sloan, do you know about
+the C-function? Still going on? You like that?
+[2:32] That's Bob. He's the guy that organized
+the first C-function. In addition to being a serial
+entrepreneur-- for those of you
+[2:44] who are not from the
+Sloan side of campus, the C-Function is consumption
+function in economics.
+[2:50] And you can picture what might
+be consumed at a Friday night consumption function. So we'll leave it with that.
+[2:57] Bob's a serial
+entrepreneur, still at it. Like a lot of the speakers
+that we're going to hear from, they're actually
+doing the very things
+[3:04] they're talking to you about. So this isn't just an
+academic exercise for them.
+[3:09] Bob's other claim to fame is he
+plays pretty good blues guitar and he has a blues band.
+[3:16] But I'll let him
+decide whether he wants to say anything
+more about that. And with that, Bob, the
+clicker is yours, sir.
+[3:23] BOB JONES: Thanks, Joe. So good evening, everybody. I'd like to congratulate you
+on the good sense required
+[3:32] to sign up for one
+of the best courses that the Institute offers.
+[3:37] It's not the first
+course here you'll take here that has you
+drinking from a fire hose.
+[3:42] But this one's pretty
+valuable stuff. How many of you are
+in this because you're
+[3:48] thinking of competing
+in the 100K competition?
+[3:54] Good. How many of you
+are contemplating
+[3:59] making your living
+in entrepreneurship when you get out of here? Oh dear, you poor things.
+[4:07] How many of you actually have
+something going right now?
+[4:12] Wow. Well there's therapy available
+for you guys, and medication.
+[4:18] This is a little bit
+like chronic illness, you might be able to
+tamp it down for a while
+[4:23] and then it'll pop up again. You won't be able
+to get rid of it once you're infected
+and afflicted.
+[4:29] I'd love some sense of what
+you guys are working on, just some sense of the spectrum
+of who's doing what here.
+[4:36] Do you have a dog
+walking service for two-income
+families, or do you
+[4:42] have something that detects
+the need for insulin in a patient with diabetes?
+[4:47] So somebody raise
+your hand and give me some sense of what it is
+you're working on, please. Yes, sir.
+[4:52] AUDIENCE: Business systems
+for small- and medium-sized BOB JONES: I'm
+sorry, business what?
+[4:58] AUDIENCE: Business
+systems, IT systems, for small- and medium-sized
+businesses [INAUDIBLE]
+[5:06] BOB JONES: OK. What's broke that you fix? AUDIENCE: They don't have
+large enough IT organizations.
+[5:13] They can't afford to have
+[INAUDIBLE] like more large organizations do. [INAUDIBLE]
+[5:22] BOB JONES: All right so you're
+sort of an outsourcing service. AUDIENCE: Correct. BOB JONES: Rent an expert.
+[5:30] Good. Who else? Who else is working
+on something? You can't all be IT people.
+[5:35] Yes, sir. AUDIENCE: Personalized
+cancer treatment. BOB JONES: I'm sorry,
+say that again. AUDIENCE: Personalized
+cancer treatment.
+[5:41] BOB JONES: Personalized-- AUDIENCE: Cancer treatment.
+[5:47] BOB JONES: Oh. Well, tell us a little
+more about that. AUDIENCE: [INAUDIBLE]
+[5:53] BOB JONES: I know that cancer is
+actually a family of disorders
+[6:01] it's not-- AUDIENCE: For one cancer, there
+are about 20 [INAUDIBLE] drugs.
+[6:07] [INAUDIBLE] And they
+are not the same.
+[6:13] You have to choose
+the right one. BOB JONES: So do you have a set
+of molecular diagnostic tests
+[6:20] which help determine
+which form they have and therefore which
+therapy they should get?
+[6:25] AUDIENCE: [INAUDIBLE]
+--personalized drugs.
+[6:37] BOB JONES: And who
+will be your customer? Who will write you a check,
+the patient, the hospital,
+[6:43] the insurance company? AUDIENCE: [INAUDIBLE] the
+insurance company [INAUDIBLE]
+[6:52] the patient [INAUDIBLE] BOB JONES: How many of you
+are thinking about working in the medical arena?
+[6:58] Yeah, OK. You know then that there's a
+sort of a cluster of customers
+[7:04] that you have to work with. The doctor has to
+request it, then you have to go arm wrestle
+with the purchasing
+[7:10] agent, or the formulary
+committee, or whatever. It's really quite convoluted. OK, well that gives me at
+least some idea of how eclectic
+[7:20] you guys are. So what I'm going
+to try to do-- Joe,
+[7:25] tell me how to make
+this gizmo work. PROFESSOR: Turn the
+switch on the side. BOB JONES: Oh, God, turn it on?
+[7:32] Really demanding. OK. I like to learn a
+little bit about you. I think we've covered that.
+[7:37] I'm going to try and
+provide you with a couple of hot tips in the course
+of this 90 minutes. I have the sort of
+quaint notion that if I'm
+[7:44] going to ask you
+to pay attention to me for an hour
+and a half I ought to try to give you something
+of value in return.
+[7:50] I realize that's
+sort of old school, but I hope to help you
+find some customers
+[7:55] and succeed with
+your businesses. And I'm going to do that
+using a couple of product launches that I
+was involved with.
+[8:03] There are times when
+people speak to you and they say, well, there's
+been 20 clinical trials done and the results are
+almost indisputable.
+[8:09] This is not one of those. This is anecdotal. You're not going to be
+hearing the voice of God. You're hearing my opinions, and
+they may be wrong, disclaimer.
+[8:19] But I'm going to walk you
+through a couple of product launches and some lessons
+that maybe you'll learn.
+[8:24] And there may be an opportunity
+for equal opportunity
+[8:29] embarrassment in the
+course of this evening. I will fulfill the
+responsibilities of leadership
+[8:35] by embarrassing myself
+first, and then I'll offer you the
+chance to follow on.
+[8:40] So I went to a couple schools,
+I had a couple normal jobs,
+[8:46] and then I realized there
+was something wrong with me. And left and went
+off and started up three different medical
+companies in a row.
+[8:54] And took a break
+from entrepreneurship to serve as CEO of
+a soy foods company.
+[8:59] It was turnaround. The company was a dreadful
+mess and took a couple years to fix it.
+[9:04] Had to fire 75 people
+in the process, so it was a lot of, sort
+of, block and tackle work. And I thought it
+would be kind of fun
+[9:11] and relaxing to join a
+boutique consulting firm, helping people do what I did.
+[9:16] And it was fun
+for a couple years and then it got bored--
+boring, and I left
+[9:22] and started another company. Which I'll tell you
+about, maybe a little bit, in the course of the evening.
+[9:29] So a couple years ago,
+The Wall Street Journal did a study, during the last
+recession, of who succeeded
+[9:36] and who failed. And did the people who
+succeeded aggregate around any particular plans?
+[9:43] And they did. One group turned out
+to be cost leaders. They aggressively
+cut their costs.
+[9:48] And that was their
+differentiator. That's not you. The other group were
+innovators and they
+[9:54] focused on building brands. That might be you. But there was a
+fundamental question
+[10:00] that the successful
+ones asked, which is how is your end
+user dissatisfied? Because that's where
+the opportunity lies.
+[10:07] And at an august
+institution like this one, it's often thought that
+the answer is technology,
+[10:13] but it doesn't have to be. If there's 50 kids in
+town that want a bicycle,
+[10:18] and there's no bicycle shop,
+that could be your opportunity.
+[10:27] So I'm going to make an
+assertion right up front, which is your business
+might survive, but it won't prosper until you know
+what are you really selling.
+[10:37] And there'll be a
+couple times tonight when I may interrogate you
+ruthlessly on this point.
+[10:42] Who wants it? So, literally, who cares? And how do you find them?
+[10:48] And I know that our friend
+Steve talked to you a little bit
+[10:54] last night about
+raising capital, but it's kind of a dirty
+secret amongst investors
+[10:59] that most of them
+really live in terror. Because they know that if
+they invest and 10 of you
+[11:08] guys-- eight of you
+are going to fail. You're all smart, good
+looking, charming.
+[11:14] I'm sure you're good to your
+parents and all of that, but you are going to fail. Which means their investment
+is gonna evaporate.
+[11:22] And investors, venture
+capitalists in particular, raise money themselves.
+[11:28] They go around to pension
+funds and say, please contribute to our fund. And if you lose
+their money they are
+[11:35] unable to raise a fund next time
+and find themselves unemployed. So, oops, the emperor is
+not wearing any clothes.
+[11:42] So when they look at
+you, they want to try and figure out do you have
+a chance of succeeding with your business.
+[11:48] And the experienced ones
+know, there's really one non-negotiable requirement. And that's you have
+to have customers.
+[11:56] You don't need to be smart. You don't need to
+be good looking. You don't need to get rich.
+[12:02] If you have customers, people
+will think you're smart, you will make money, and
+if you make enough money,
+[12:09] they'll think
+you're good looking.
+[12:16] So they want to know, do
+you have any customers? Will you have any? Do you even know you need them?
+[12:22] And by the way, have
+you done some homework? How are you gonna find them? And how much are they worth? Are you going to spend $5
+to acquire a customer whose
+[12:30] lifetime value is $3? Whoops, probably
+not a good idea. How long is it going to
+take you to get there?
+[12:36] How many do you need in
+order to reach prosperity? I think there's two
+descriptors that you want.
+[12:43] You'd like to be important
+and you'd like to be unique. And, of course, the sweet
+spot is when you're both.
+[12:49] So I think you can make pretty
+good argument that air is important arguably, not unique.
+[12:57] And I don't want to
+traumatize any of you, but some would argue that MIT
+decals are unique but possibly
+[13:05] not important, possibly. So can you make
+a decent business
+[13:12] selling either of these?  Well, yes, no?
+[13:19] AUDIENCE: People do. BOB JONES: People do. People do. Give me an example of an
+opportunity to sell air.
+[13:26] AUDIENCE: Chem labs. BOB JONES: Chem labs,
+OK, that's a bit exotic. You guys scuba dive?
+[13:34] I did my check out dive off
+Catalina Island in California. I was about 100 feet down
+in the kelp beds, ooh,
+[13:42] I've got about 15 minutes left. I would have paid
+a lot for some air.
+[13:49] You know those packages that
+have all those little bubbles in them and you get really
+neurotic and pop them all?
+[13:54] You know what that
+companies called? Sealed Air Corporation,
+six billion.
+[14:01] And of course the
+opportunity for--
+[14:07] to take $0.15 worth of material
+and sell it for $4 or $5,
+[14:12] obviously, is picking
+the right positioning and the right opportunity. So I'm being a little tongue
+in cheek here, obviously,
+[14:19] but the point is
+to figure out who is going to find your
+offering unique and important.
+[14:25] So rather than start
+with how fabulous your product is, who cares? Who actually thinks it's unique?
+[14:30] Who's important? Figure out how you're going
+to find them and tell them about what you've got,
+and then take their money.
+[14:38] Now, simple is not
+the same as easy. This is simple, it's
+not necessarily easy.
+[14:46] But what happens if you can't
+meet those two requirements? I'll give you a hint,
+what kind of fish is that?
+[14:54] Right, that's what's
+going to happen to you.
+[15:00] You will flounder. So let me give you an example. This was back in the day.
+[15:06] I joined a company
+in California.
+[15:12] It had been 200 million
+in annual revenue for 12 straight years,
+arguably a sleepy business.
+[15:20] And they got bought
+by an entrepreneur, took them private,
+leveraged buyout.
+[15:25] So I want to kick up the
+sales of this outfit 50% in three years and
+take it public.
+[15:32] So we fired the senior
+management team, brought in a bunch of ostensibly
+energetic entrepreneurs,
+[15:39] and gave everybody some stock. So here's some stock for you,
+and here's some stock for you, and here's some stock for
+you, and let's not argue.
+[15:46] Let's make this worth something. Really, very good idea. It was highly motivating.
+[15:51] I was running the
+clinical nutrition division, really profitable. We would make a liter of
+solution, IV fluid, for $3,
+[16:00] sell it for 70. Nice margins.
+[16:05] But I had a bad habit of
+going out in the marketplace. And I did, and I discovered
+that this business was going to go away.
+[16:13] Managed care was coming,
+changes in reimbursement structures, et cetera. And it was going to
+go away before we
+[16:20] had a chance to go public. This was bad news. I needed to find
+a new opportunity.
+[16:29] So I thought about it. And I thought, well, if
+this science of nutrition is so awesome for people who
+are in the intensive care
+[16:34] unit it ought to be pretty
+good for people who are just out walking on the street.
+[16:40] Maybe we could reposition this,
+go for a much broader market. Nobody had done it.
+[16:45] Power bar didn't exist, none
+of those things happened. But, like most entrepreneurs,
+it was a triumph
+[16:54] of energy over good sense. I said, let's try that, even
+though no model for success existed.
+[17:00] I had spent some time at
+Baxter and I knew something about the market for people
+who have kidney failure.
+[17:06] At the time, there were
+400,000, the market was growing like crazy. And every one of the
+patients who was on dialysis
+[17:13] went three times a week to
+one of 300 dialysis centers in the country, all of
+which are identified
+[17:19] in a federal document. So I knew where to find them. I knew literally where they
+would be on Tuesday, Thursday,
+[17:25] Saturday. Now, when your kidneys fail
+you can't casually do something
+[17:32] that so many of us do,
+which is have a drink,
+[17:39] because you're unable
+to eliminate the fluids. So it's not uncommon
+for a dialysis patient
+[17:45] to gain eight to ten pounds
+between Monday and Wednesday. Part of what dialysis does is
+it wrings out that extra fluid.
+[17:53] So these patients
+are fluid restricted. For-- due to other things
+that your kidneys do for you,
+[17:59] many of them are
+clinically malnourished. And the only nutrition
+supplements that were available
+[18:05] were liquids, Ensure,
+things like that. I said, well, duh. What's wrong with that?
+[18:13] Why don't we make a supplement
+that's high in the stuff they need, doesn't have
+the stuff they don't need,
+[18:18] doesn't have any fluids. Let's make a nutrition bar. We had the technology to do it.
+[18:25] We created something
+we called Regain.  We weren't required to
+do a clinical trial,
+[18:32] it was just food, but we did. Kaiser Permanente, for those
+of you who live in California.
+[18:38] Stuff worked. Got the results
+published in the Archives of the National
+Kidney Foundation,
+[18:43] peer-reviewed journal. Good scientific support,
+all the biomarkers improved, patients got better.
+[18:49] We said, well, we
+know how to do this. We know where to find them. We know how to find
+the market leaders.
+[18:56] Let's call the renal physicians. Let's call the
+dietitians, say we've
+[19:03] developed something that's high
+in what your kidney failure patients ought to have and
+doesn't have any fluids in it.
+[19:10] And, what do you think? The typical reaction was I
+wish I had thought of that.
+[19:18] So, well, how many
+of your patients do you think this
+would be suitable for?
+[19:24] They'd say, well, all of them. How many days a week
+would you recommend this?
+[19:31] Seven. Say what, how do you
+feel about $3 a bar?
+[19:38] Sounds right to us. We said, this is a pretty
+good little business here.
+[19:46] Let's do it. We said, how do you feel
+about the competition? They said, well, yours
+is the only one that
+[19:51] doesn't have any liquid in it. It's obviously going to have
+a stranglehold on this market. It's perfect.
+[19:57] So we said, well, that's
+a pretty good opportunity for the corporation,
+it's going to replace some of the revenues.
+[20:02] Let's make a whole bunch of it. Let's take the beauty shots
+and make the brochures. Let's haul in the sales force,
+set up a commission plan,
+[20:08] train them on how to do it,
+give them some incentives to go out there and sell it. And let's launch, which we did.
+[20:14] It was a complete disaster,
+just an absolute failure.
+[20:24] Revenues came in at less than
+10% of what we forecasted. And, to make matters
+worse, I was part
+[20:30] of the senior management team. And we would meet once a
+week, conference room--
+[20:36] once a month we would go over
+how our business was doing. So I'd have to stand up in
+front of my peers and say,
+[20:44] well our forecast for
+this month was $400,000 and we came in at 32.
+[20:51] They'd say, Bob, didn't
+quite understand you. What was that number? 32.
+[20:58] So what did I do wrong? Tell me why. Yes, sir. AUDIENCE: Your customers
+didn't like it.
+[21:04] BOB JONES: My customers
+didn't like it. Tell me more about that.
+[21:10] What didn't they like? AUDIENCE: They didn't
+like the Regain. They were happy with
+the liquid product.
+[21:16] BOB JONES: They were happy
+with the liquid supplement. That's a perfectly
+plausible answer, but it's not the right one.
+[21:22] It's a very good speculation,
+happens not to be the problem. Go ahead, sir. AUDIENCE: Taste? BOB JONES: Taste, well
+that was a factor.
+[21:29] We thought it
+tasted pretty good. But it turns out when your
+kidneys fail, something shifts in your palate and protein
+tastes like spoiled meat.
+[21:39] Oops, that was an issue. What was the big issue?
+[21:44] What was the fundamental flaw,
+the most obvious thing that I did wrong, in retrospect?
+[21:50] Go ahead, sir. AUDIENCE: I have a question,
+who paid for the product? BOB JONES: OK, that's
+a pretty good question,
+[21:55] who paid for the product? We're closing in on the issue.
+[22:01] OK, here's a hint, what's
+the title of my talk tonight?
+[22:07] That was a clue. OK, so what did I do wrong? Yes, sir. AUDIENCE: You
+misidentified the customer.
+[22:12] BOB JONES: I
+misidentified my customer. You may be exempted from the
+rest of the course, that's
+[22:18] exactly right. Who did I survey? I surveyed the clinicians. But they don't buy it, and they
+don't put it in their mouth
+[22:25] and eat it. Oops. Perfectly logical, in
+the pharmaceutical world
+[22:31] you call in the doc, the
+doc writes a prescription. Doesn't matter whether
+you like it or not.
+[22:36] You got an ear ache. Take this stuff for five
+days, your ear ache goes away. Too bad for you if it
+doesn't taste good.
+[22:42] If I get her to write the
+prescription I'm done. Not in this business.
+[22:48] In this business, they have
+to go to the store themselves, pay for it with their
+own money, but it,
+[22:54] eat it, like it,
+and buy it again.
+[23:00] Well, when we finally talked
+to them, they didn't want it. And they couldn't afford it.
+[23:05] OK, who gets end-stage
+renal disease? Well, it turns out
+that 33% of them
+[23:12] get there from a lifetime of
+mismanaging their diabetes, and 44% of them get there
+from a lifetime of mismanaging
+[23:19] their high blood pressure. So 3/4 of my target
+customers have not
+[23:24] taken care of themselves
+for their entire life. Why would they start now?
+[23:30] Furthermore, once
+your kidneys fail and you end up on dialysis,
+a well-intended social worker
+[23:38] sort will say,
+well, Bob, you got to be in here tethered to this
+machine three days a week.
+[23:44] Obviously you can't work, so
+I'll put you on public aid. Well, now you don't
+have any money.
+[23:50] If you do have $5,
+you're going to spend it on beer and cigarettes,
+not on my product.
+[23:56] There's one final issue. What was our sales channel
+at the IV nutrition company?
+[24:02] We sold to hospitals. With this business, we had
+to sell to retail pharmacies
+[24:08] and they wouldn't carry it. Well, let's talk about
+that for a minute,
+[24:14] because that's kind
+of fundamental.  If you ever want to have a
+laugh on a Saturday afternoon,
+[24:24] walk up to the pharmacist
+in your local Walgreens or CVS and say, I've got
+a product you've never
+[24:31] heard of from a company you've
+never done business with, and I'd like you carry it.
+[24:37] And watch as he falls on
+the floor and hysterics.
+[24:43] Why?  Well I wasn't
+familiar with this.
+[24:48] I'd never had any
+exposure to this world and finally, one
+day, one of them kinda put his arm around me
+and said, Bob, come here.
+[24:58] See this foot of shelf space? It's a linear foot, right? I have Crest toothpaste on
+that foot of shelf space.
+[25:06] I have all these
+complex algorithms that are going to tell
+me, within a couple of dollars, how much revenue
+this for a shelf space
+[25:14] is going to generate
+for me each month. Now, if I make room
+for your product and push Crest off there,
+put your product on.
+[25:23] I don't want to lose any money. So, don't go to any trouble,
+just write me a check.
+[25:31] They call it slotting fees,
+you might call it extortion.
+[25:37] With most of the major pharmacy
+chains this tab is $1 million
+[25:42] a quarter, plus 6%
+of your top line revenues, plus
+guaranteed resale,
+[25:49] so if it doesn't sell to ship
+it back to you for full credit, and you put one SKU in
+each of their stores
+[25:57] and fill the entire
+pipeline for free. They'll pay you, if
+anybody reorders.
+[26:03] It's pretty expensive. Well, we couldn't afford that. So, we had a few problems
+with this business model
+[26:09] that we'd put together. And we were trying
+to show Wall Street we were good candidate
+for a public offering.
+[26:16] And if we had our
+public offering the stock that we handed out
+was going to be worth something. My failure was jeopardizing
+our ability to do that.
+[26:25] Which meant not only was I'm
+the doghouse with my boss but also with my peers.
+[26:35] And each month I
+would say, well, you know it's taken a
+little longer to take off than we thought. Give us a while to keep
+moving with the sales force.
+[26:44] And each month it continued
+to be a train wreck and it went on for
+an entire year.
+[26:51] It ruined a year
+of my life because, as this gentleman
+said over here,
+[26:57] I misidentified my customer.
+[27:02] So, what did we do about it? Well, we learned
+about inside sales. We said, 25% of these people
+take care of themselves.
+[27:10] We ought to be
+able to find them. Furthermore, somebody
+ought to pay for this.
+[27:17] Let's try Medicaid. Now, you may or may not know
+that Medicare covers you
+[27:22] if you're old, it's
+a federal program. Medicaid covers you if you're
+broke, it's a state program.
+[27:27] What do you think
+are the chances that Illinois and Indiana
+have the same program?
+[27:35] Real slim. We got it reimbursed
+in 40 states. It was almost as fun as 40
+consecutive dental extractions.
+[27:43] I said, this is
+just a god-awful way to make a living,
+sold the business.
+[27:50] Parenthetically, yes,
+we did well enough
+[27:56] in our group with
+our other products that we compensated for
+the shortfall with this.
+[28:02] And when we sold the business,
+we didn't make any money but we recouped our investment. So I escaped financially
+intact, spiritually
+[28:12] battered and abused, much
+wiser, but considerably sadder.
+[28:17] But let's fast-forward
+a couple years. I did two more of these
+things and got better at it
+[28:25] and after a while got
+recruited by a group of docs at Harvard Med School. And they hauled me
+in from California,
+[28:32] tough sales pitch to my family. Because we were in
+Southern California. They said, it snows
+in New England, right?
+[28:39] It does.  So we launched a new
+company with these guys.
+[28:45] We looked over all the stuff
+that they were working on, figured out none of
+it was going to come
+[28:51] to market before we
+ran out of money, said well how you guys
+feel about diabetes?
+[28:58] The answer was, well,
+we like diabetes.
+[29:03] OK, well, we need to be in
+a field that's big enough to get us noticed
+and a need that's
+[29:09] small enough that we can handle
+it with one poor underpaid employee. So I had tuition that
+there was something they
+[29:17] needed and weren't getting. Statistics, at the time
+there were 10 million people
+[29:23] diagnosed with diabetes, 4
+million of them used insulin.
+[29:28] You have diabetes and
+you eat something, your blood glucose goes
+up and it stays up,
+[29:33] because insulin incorporates
+it into the cells and brings it back down. And if your body stops
+generating insulin,
+[29:40] or if you stop being
+sensitive to insulin, then it stays up and causes
+all manner of problems.
+[29:46] 4 million of these
+10 million people injected insulin to
+lower their blood sugar. And if you get it wrong your
+blood sugar goes too low.
+[29:55] Well, most of the publicity
+for the damage that's done from diabetes comes
+from it being too high.
+[30:01] It's a leading cause of
+blindness, kidney failure, and peripheral amputations.
+[30:06] So it's catastrophic.  Introducing tight control--
+that's three meals a day,
+[30:12] three small snacks a day,
+regular injections of insulin, restricts the
+bandwidth, good thing
+[30:17] to do-- triples the incidence
+of low blood glucose.
+[30:23] And it must be treated right
+away, because you faint, which is bad if you're
+stuck in a traffic jam.
+[30:32] And it's particularly bad if it
+hits you while you're asleep. If you're awake, you start
+feeling clammy and tremulous,
+[30:39] and you know you've
+got a couple minutes to go drink some orange juice,
+or eat a candy, or whatever, and elevate your
+blood glucose again.
+[30:46] But if you're asleep
+you may not wake up.
+[30:51] OK so what do they do about it? Well, typically, big injection
+of insulin, big nighttime
+[30:57] snack, the hope, that the
+two will balance each other in the course of the evening.
+[31:02] Unfortunately it doesn't
+work because everything in the nighttime snack turns
+into glucose at the same time.
+[31:09] So the spike is higher,
+but the duration no longer. Translation, grossly
+oversimplified,
+[31:17] is that the food runs out at
+about 2:00 in the morning, and the insulin
+is still working, and from 2:00 am until you
+get up is the danger zone.
+[31:23] We had a bunch of focus groups.
+[31:30] I lost control of myself, threw
+the moderator out of the room, walked in, and said,
+well, now that we've
+[31:37] explained this stuff
+to you, tell me what your greatest
+fear really is. What do you actually
+worry about?
+[31:43] And they all sort
+of said, well, I'm afraid I'll die in my sleep. I sleep in that La-Z-Boy
+in my living room,
+[31:51] or I have alarm clock goes
+off every hour or two, just to make sure I don't have
+a good night's sleep, ever.
+[31:57] I thought, well,
+that's gripping. And the parents of
+kids who had diabetes
+[32:04] say, every night I
+worry about my daughter. I go and I check on Jessica
+at 2:00 in the morning.
+[32:11] My wife and I stand there
+and say, is she awake? I mean, is she asleep,
+or is she in a coma?
+[32:17] Well I don't know. We say, Jessica, wake up. What, what? You all right?
+[32:22] Yeah, I was asleep. Good, go back to sleep. It sounds comical but
+it's quite gripping.
+[32:28] We said, well, we've identified
+something emotional here. So we put together a
+combination of nutrients
+[32:35] that turned into
+glucose consecutively, sucrose, protein,
+uncooked cornstarch.
+[32:44] Being fundamentally a
+marketing guy, of course I dubbed it
+timed-release glucose. And those ingredients
+are in a birthday cake.
+[32:53] But we managed to get
+a patent on it anyway.  Because if you use those
+ingredients in conjunction
+[33:02] with materials
+that say diabetes, you're violating my patent. How about that?
+[33:07] Novel and non-obvious to
+a person of ordinary skill in the art, and you have one
+of the great experts as one
+[33:13] of your resources, that's
+your host, Joe Hadzima. I hope you'll talk
+about this a bit later.
+[33:19] So we did make it taste good,
+tasted sort of like fudge.
+[33:26] And we gave it a
+non-medical name. Would anybody care to guess why?
+[33:32] I heard a murmur, but
+I don't see a hand.
+[33:39] Yes ma'am. AUDIENCE: [INAUDIBLE]
+[33:45] BOB JONES: That is true but
+that was not the explanation. Sir? AUDIENCE: Bypass FDA?
+[33:50] BOB JONES: Again? AUDIENCE: Does that mean you
+do not have to go through FDA? BOB JONES: Well, we
+didn't have to go to FDA
+[33:56] but that's not why we gave
+it a non-medical name. Sir? AUDIENCE: Because you're
+trying to reduce fear?
+[34:02] BOB JONES: Yes, but
+perhaps not the fear
+[34:07] that our audience would think. We talked to our
+patients, our customers,
+[34:13] something I'm going to
+encourage you to do. And they said, Bob,
+I'm not a diabetic.
+[34:19] I'm a person who has diabetes. I'm a lawyer. I'm a banker.
+[34:24] I'm a professional. I have a condition,
+but I manage it, just like you might have a
+headache, but you manage it.
+[34:31] It's nobody's damn business
+whether or not I have diabetes. And if I end up in a meeting
+that lasts half the night,
+[34:37] and I have to
+consume your product, I don't want the other people
+around the conference table knowing I'm medicating.
+[34:43] It's none of their business.
+[34:49] Thank you. Furthermore, I had been
+arm wrestling with the FDA
+[34:55] because I wanted to put "for
+diabetes" on the package. And what our customers told
+me was, if you do that,
+[35:01] I won't buy the product. So I was trying very hard to
+do the one thing that would
+[35:07] have scuttled the business. Fortunately, our customers
+advised us and we listened.
+[35:14] And they said, our
+kids have sleepovers, and they have to do
+one of these at night.
+[35:21] And they would rather
+eat worms than be different from their peers. So make it look
+like something they
+[35:27] can offer their friends,
+like an energy bar. Timed-release glucose, ooh.
+[35:32] Hey, guys, you want one? So I said, OK, we're bringing
+some consumer marketing in to all this science.
+[35:40] So this time around instead
+of just talking to clinicians, they were important but
+they were not sufficient,
+[35:46] we talked to parents,
+we talked to patients. We went to all these things
+at elementary schools
+[35:52] that parents of kids with
+diabetes would attend. And you know those
+little, bitty chairs? Sat there with our knees
+banging against things
+[35:58] and took lots of moms to lunch. We learned an awful
+lot about this.
+[36:04] How many of you know
+someone who has diabetes?
+[36:10] It's really important to go
+have these conversations. And finally, I said, well,
+what kind of advertising
+[36:17] do these people see? There are all sorts of
+diabetes magazines out there. So I bought a half
+a dozen of them.
+[36:23] And the typical ad was on the
+back cover, a full page blow up, of a hypodermic needle.
+[36:32] Just the thing to make you
+feel warm and resonant, right? I mean the copy
+would say, my needle is sharper than his needle.
+[36:37] It doesn't hurt
+as much, buy mine. I said, ew!
+[36:43] So we put together an
+ad with this agency that had flying pigs. It was just so ludicrously
+out of place in this magazine,
+[36:51] nobody turned the page. And there was some kind of
+lame copy about sleep perchance
+[36:57] to dream, et cetera, right? Everybody read it. We ran a little violator
+across the corner of the ad.
+[37:04] It says, for a free sample
+call 1-800 and our number.
+[37:10] Stuff started happening. We were at 238 Main
+Street, up above
+[37:16] what was, at the time, a barber
+shop, in a little ratty office. When we started getting
+100 calls a day,
+[37:24] we needed more phones. 200 calls a day, we
+said, jeez, we better get some people to
+answer the phone.
+[37:31] Kendall Square, of
+course, has more geniuses per square foot
+than most places. So we basically just went
+downstairs with a mirror,
+[37:38] and we held it under
+people's noses, and if it fogged up we
+said, would like a job?
+[37:45] And filled the office. 300 calls a day,
+we said, God, we can't keep track of these
+people on index cards,
+[37:51] we better install a database. 500 calls a day. 500 calls a day, we went off
+and rented some of these tables
+[37:59] and stuck like three
+computers on the table. And we got all these people
+sitting there, elbow to elbow. We said, I think
+we're onto something.
+[38:08] I'm going to fast-forward
+to something here. We ended up in all of
+the major pharmacy chains
+[38:13] and all of the
+major wholesalers, I'll tell you about
+that, and the amount we paid for slotting
+fees was zero.
+[38:22] Unprecedented, in our field. I think the lesson is that
+understanding our customer, as
+[38:30] opposed to with Regain-- thank
+you for your observation-- helped us build a better product
+and a successful business.
+[38:38] So how did we reach them? Well, we said, who
+influences them?
+[38:43] Who's our customer? Who's their influencer? How do we reach the influencer? Where do they spend their money?
+[38:50] And we discovered--
+all right back up. I hate to be crude but
+there are some people
+[38:56] who have diabetes who
+are just determined not to take care of themselves. So should we spend time and
+effort trying to reach them?
+[39:04] So how do we find the ones
+who do take care of themselves
+[39:10] and, furthermore,
+are willing to spend a little money on their care? Answer, they're
+seeing a clinician. The clinician is called a
+Certified Diabetes Educator.
+[39:18] And their association, I
+know this will astonish you, is the American Association
+of Diabetes Educators.
+[39:25] And if you go on
+their website, there's little tab, locate an educator.
+[39:30] You put in 02142 out
+comes a list, names, contact information, et cetera.
+[39:35] We said, well, what do
+the educators worry about?
+[39:41] We know what the
+patients worry about. Patients worry they're
+going to die in their sleep. They go see an educator, what
+does the educator worry about?
+[39:49] Who would care to speculate? What do the diabetes
+educators worry about that we could hook
+onto in a phone call?
+[39:58] AUDIENCE: That their patients
+are gonna die in their sleep? BOB JONES: Well
+that's one, they'd like to know that
+what you have works.
+[40:04] Thank you. What else? When I ask them,
+what's your greatest
+[40:09] professional frustration? Anybody care to guess
+what their answer was?
+[40:15] Yes, sir. AUDIENCE: People weren't
+following the advice?
+[40:21] BOB JONES: Oh my god,
+that's absolutely right. I tell them what to do,
+and they don't do it! Drives me crazy.
+[40:28] We hear it over and over
+again, single greatest professional frustration,
+the medical term, of course,
+[40:33] is compliance. They don't comply. So we said, well, we need to
+figure out how to address that.
+[40:45] So we'd call them up, having
+located and-- by the way, I know these days an
+increasing number of people
+[40:53] are terribly uncomfortable
+picking up the phone and calling someone
+without five emails to set up the appointment first.
+[41:02] So this may strike you as
+emotionally difficult to just make cold calls, but we did.
+[41:11] And when they'd answer
+the phone, we'd say, our company's worked with a
+group of docs out of Harvard
+[41:17] Med School and
+we've invented what looks like a candy
+bar for addressing
+[41:22] nocturnal hypoglycemia. And the patients love it.
+[41:28] Do you have 30 seconds?
+[41:34] Say again? And we'd talk to them. The last thing we would
+say in the conversation
+[41:40] is, who else that you
+know should we call? Oh, you've got to call my
+friend, Susie Cream-cheese,
+[41:46] she would absolutely love this. So we'd call Susie
+Cream-cheese and we'd say, Susie, Janet says we
+ought to call you.
+[41:52] Oh, well, how's Janet? Well, you know, her
+dog's got a hip problem, going to go in for surgery,
+but other than that Jan--
+[41:59] Oh, she loves that dog. Yeah, she does. Anyway, she said we should call. Building relationships, right?
+[42:05] So we started doing this stuff. Pretty soon we ended up
+with several thousand,
+[42:11] highly trained clinicians
+talking about our product on our behalf.
+[42:16] And their reward
+was not financial. Their reward was that their
+patients came back to see them
+[42:22] and said this stuff's awesome. And they complied. So we built a little flowchart.
+[42:27] We said, we have a
+sales force, and we're calling on the educators. The educators, if
+we do this right,
+[42:33] will tell their patients. The patients will call
+us and buy the product.
+[42:40] Well that's attractive,
+but it's not the path to financial heaven,
+because there's this group out
+[42:47] there called retailers. How do we get into
+the retailers?
+[42:52] Maybe we could have the
+educators call the retailers. Maybe we could have the
+patients call the retailers.
+[42:58] Maybe then we could
+call the retailers and we'd make more money.
+[43:05] Well, this weekend, if
+you have the opportunity, stand in a pharmacy and
+watch the pharmacist
+[43:12] when they answer the phone. They've got this phone tucked
+in their ear, pharmacy?
+[43:19] You got 12 seconds.
+[43:28] So how did we address this? Well people would call, we'd
+send them a free sample.
+[43:36] By the way, we had to
+put in some questions, because we made it under
+one of these web pages that said this outfit's
+giving away free fudge.
+[43:45] So we got plenty of phone calls
+from people who were never going to be our customer. So once we figured
+that out we had
+[43:51] start asking some
+qualified questions, tell us what brand of insulin
+you're typically using. If we heard, uh,
+oh, I'm sorry, we
+[43:58] don't have anything
+for you, next. Right? But we'd send them a
+sample, we'd follow it up.
+[44:05] Did you get our product? Yes. Did you wake up dead? No. Must have worked.
+[44:11] Guys, that was a joke.
+[44:19] We're providing free shipping
+if you care to order. OK, love it. We'd take their order,
+we'd track it carefully,
+[44:25] we'd call back and say,
+aren't you about out? Don't you need some more? Why, yes.
+[44:31] Then one day, we'd
+say, you know, this free shipping
+is coming to a close. And we're going to have to
+start charging you for it.
+[44:38] And I know you go someplace
+to buy your insulin, wouldn't it be more
+convenient to buy the stuff at the same
+place you buy your insulin?
+[44:45] Well, yeah it would. OK, we did some homework.
+[44:51] There was about 3% of the
+people in the country, at the time, that had diabetes. And they were worth about 24%
+of retail pharmacy purchases.
+[45:00] Because you go in and buy
+toothpaste and a greeting card, they go in and buy a blood
+glucose monitor, strips, right?
+[45:07] And they're worth
+a lot of money. So we'd say, well,
+why don't we set up
+[45:13] so you can pick it up wherever
+it is you buy your insulin? Where is that? And they'd say, oh,
+Jost's Pharmacy.
+[45:19] We'd say, would you
+mind if we call Jost? No, no, no. You tell that turkey that
+Mabel wants to buy this stuff.
+[45:25] I've been buying
+from him for years. Well hold on a second, let
+me get you his phone number. Right, so, Jost would answer
+the phone, we'd say, Jost,
+[45:34] we've just been
+selling our product to five of your customers
+that have diabetes. They want to buy it from
+you, and you don't have it.
+[45:42] What? Who is this? OK, let me back up, Jost. And I'd walk him through,
+here's the five customers.
+[45:48] So what can we do about that? Jost would say, well, you know,
+we probably ought to have it but I can't possibly buy this
+without corporate approval.
+[45:56] I mean, we're just
+one Walgreens, right? I mean, you've got
+to go to Deerfield, to corporate headquarters.
+[46:01] Jost, we know that. But we also know that there's
+a level below which you can
+[46:07] buy without corporate approval. That number's probably $100. Well, yes, it is.
+[46:13] Well, you'll be pleased to know
+that our initial starter pack costs $99.95.
+[46:20] And I can take your
+purchase order right now. And by the way, if
+it doesn't sell, you don't need to ship it
+back to us for a refund.
+[46:25] We'll take your word for it. Throw it in the trash. We'll send you back the money. OK, nobody ever
+mentioned slotting fees.
+[46:35] Why not? What did we have that
+gave us the ability to trample all over
+that convention?
+[46:40] AUDIENCE: Customers? BOB JONES: Who said customers? Excuse me.
+[46:46] While my heart beats. That's exactly right. So, we've talked
+about this a bit
+[46:58] Oh, you know, there was
+a neat thing we did. A lot of these educators
+would have a class on Saturdays, one
+Saturday a month,
+[47:04] they'd bring in all
+of their people, talk about new developments
+in diabetes care.
+[47:09] And like everybody
+who's got to write a monthly column, or
+a blog, or whatever, it's hard to come
+up with content.
+[47:15] So we'd say, well, when's
+your next one of these? Oh, it's a week and a half. Do you have your whole
+agenda set up yet?
+[47:22] No. If you like this, would
+this be something worth talking about to your
+patient population?
+[47:28] Well, yeah, actually. Well we'll send you the stuff,
+we'll send you the literature, but let's suppose
+they do like it.
+[47:35] They're going to ask you
+three questions, how's it taste, how much does it
+cost, where can I get it?
+[47:45] It tastes like
+chocolate fudge, you'll figure that out for yourself. It's $1 a bar. How do we answer
+the third question?
+[47:52] Oh, man, there's a ShopRite
+I send all of my people to.
+[47:59] Well, can we call him and
+tell him that a week from now you're going-- or a week
+and a half from now,
+[48:04] you're going to be
+sending some people? No, we can do better than that. Tell that bone head to get
+in here on Saturday morning, he can stand up and
+talk to them him self.
+[48:11] And he can see what we're doing,
+and he'll stock the product. Very cool. Pharmacists would agree, nobody
+ever mentioned slotting fees.
+[48:20] And I bet, you know why not.
+[48:26] So this was good, now we
+were in with the retailers.
+[48:32] But, one day, we
+discovered retailers really didn't want to deal with us.
+[48:38] They want to deal
+with wholesalers. Why not? Well, there's about
+5,000 different items
+[48:47] in even a small
+drugstore, and they don't want to be
+sending out 5,000-- taking in 5,000 invoices and
+sending out 5,000 checks.
+[48:55] So the wholesaler
+consolidates all that, the truck comes,
+brings them a bin, sends them one bill.
+[49:00] Now if you think getting
+into a retailer is difficult, try the wholesaler.
+[49:07] So we said, well, if we could
+do this, oh my goodness, we'd
+[49:14] just need wheelbarrows to
+carry out all the money. How do we do it?
+[49:20] We said, well, what do the
+wholesalers care about? The wholesalers want
+to know that there's
+[49:27] an order already there, this
+is going to be painless. They're fundamentally lazy,
+make it easy for them.
+[49:35] We said, OK, what can we do? We looked about and
+realized there was a trade
+[49:42] show coming up in New Orleans. We hadn't planned to go,
+but we said we ought to go.
+[49:47] And let's find
+the 25 drugstores, I think it was Walgreen's,
+that are surrounding the area.
+[49:55] And let's tell them that
+we're going to be at the show, we're going to be meeting
+with the educators,
+[50:00] and we're going to be pimping,
+excuse me, selling our product,
+[50:05] and that they should stock it. And, in fact, they
+should pre-order it. Which we did.
+[50:11] They took the orders, or, pardon
+me, they gave us their orders. And then we called
+the wholesaler
+[50:16] that Walgreen's used and
+said, you don't know me, but I've sold a
+bunch of this product
+[50:22] and I've built in
+a margin for you. You don't have to do anything.
+[50:28] I'm going to take
+their order, I'm going to ship their
+product, I'm going to send you the money that you
+would have earned if you've
+[50:35] done this, even though
+you haven't earned it, and you haven't done anything. What I want is for you
+to put us in your system.
+[50:43] Just key us in the system. So if they reorder,
+they can call you. And I've built a
+business for you.
+[50:50] Tell me that again.
+[50:57] But I want to be able to say to
+the Walgreens when they said, jeez we've sold all that
+stuff, we could say, great call your wholesaler.
+[51:02] He's got it. Of course, he didn't,
+but he was in the system. Wholesaler called us, poof.
+[51:09] Off it went. One last example, we
+got a letter one day,
+[51:17] sitting in the office, from
+a major retail pharmacy chain headquartered in
+Clearwater, Florida.
+[51:23] We're drawing up our
+planogram for the coming year. Who can tell us
+what a planogram is?
+[51:30] Sir. AUDIENCE: Layout of the store. [INAUDIBLE] BOB JONES: That's exactly right.
+[51:36] When you walk in, and you
+see all these products
+[51:43] in different places, they've got
+that laid out like a blueprint. And many places, in
+fact, have a room
+[51:49] somewhere near their corporate
+headquarters with shelves. And they put stuff on it, and
+they step back, look at it,
+[51:55] and they photograph it. There's a lot of analysis. We're putting together our
+planogram for the coming year.
+[52:00] If you'd like to
+be a part of it, you have to come to
+Clearwater, Florida, for a 15-minute meeting.
+[52:06] We didn't solicit this letter,
+it just, sort of, washed in.
+[52:12] They, evidently,
+had heard about us. So I said, who
+runs this meeting?
+[52:21] Well, it's a guy named Jeff. I called a few people
+I knew in the industry and said, how is Jeff
+rewarded for this?
+[52:29] And they said, Jeff
+spends a whole week having one 15-minute
+conversation
+[52:34] after another, all day
+long, five straight days. Oh my god, this
+sounds like something
+[52:40] out of Dante's
+Inferno or something. This is terrible. But he's rewarded by the
+amount of slotting fees
+[52:47] but he can extort from
+these eager vendors. I said, well, we don't have any
+money, but let's do it anyway.
+[53:00] So we went down there, and we're
+sitting in this huge lobby. And there are all these people
+with these poster boards, that
+[53:06] look like in end caps and
+briefcases that open out to be these fabulous displays.
+[53:11] And they're all like,
+god, can I walk your dog? Can I pick up your dry cleaning? Please put me on your shelves.
+[53:19] There were two of us there,
+and we were empty handed other than one little portfolio.
+[53:25] We came in and we
+said, Jeff, this isn't going to be like your
+other 15-minute meetings this week, because we're a start
+up, we don't have any money,
+[53:32] we're not going to
+give you a nickel. But we propose to spend five
+minutes telling you who we are,
+[53:39] five minutes telling
+you what our product is, and five minutes telling you
+why you want us on your shelves
+[53:44] anyway. And he sort of kicked
+back in his chair and he said, well, it's
+your fifteen minutes, sport,
+[53:52] whatever you want to do. So we've spent the
+first ten minutes
+[53:58] saying, we're so fabulous,
+as you would expect.
+[54:04] And the last five minutes,
+we said, Jeff, this printout
+[54:09] is of the people
+with diabetes that have contacted us in the
+states where you have stores.
+[54:19] There's 10,000 of them. All of us are asking
+us the same question,
+[54:25] where can I go to
+buy your product? How would you like us to
+answer their question?
+[54:30] He sat there, and he looked
+at us for almost a minute.
+[54:41] Which is like, hold your
+breath for a minute sometime, it's agonizing.
+[54:48] And then he started grinning,
+and he said, OK, you're in.
+[54:53] So we said, well, we
+want to stage this. We'll go in where
+we built the demand, I hate returns, and et cetera.
+[55:00] But nary a word
+about slotting fees. I bet you can guess the next
+thing that's going to pop up.
+[55:07] Why no? What gave us that
+negotiating power? We had-- AUDIENCE: Customers.
+[55:12] BOB JONES: Thank you. It wasn't for being smart, or
+charming, or anything else.
+[55:17] It was just good,
+old, hard work. But we came in there
+and essentially said,
+[55:24] you're not generating
+the demand, we are. So we're not paying you for it,
+we're bringing you business.
+[55:30] So, impressive growth in
+sales, real high reorder rate,
+[55:37] a lot of good publicity. Ended up selling the business to
+a billion-dollar pharmaceutical firm.
+[55:43] Everybody was happy.  So, I was 10 years older
+at the end of two years,
+[55:59] but I learned a lot. So tell me, what should
+I have learned from this?
+[56:07] What might you have learned,
+given that many of you raised your hands
+when you said you were in the process of
+doing all this stuff?
+[56:13] What should I have learned? What should you have
+learned that will help facilitate your
+progress with your business
+[56:20] and my current venture? So let's have some hands. Tell me what I should
+have learned from this,
+[56:27] and which, maybe,
+can have gleaned. What mistakes should
+I avoid going forward? What things should I
+do that were right?
+[56:33] Help me out. In the back, yes.
+[56:41] AUDIENCE: [INAUDIBLE]
+[56:55] BOB JONES: Did
+everybody hear that? OK, let me paraphrase. With the first
+one, the disaster,
+[57:01] I did focus on some
+of the stakeholders, but not the key ones,
+not the customers who are actually going to buy it.
+[57:07] It's important to
+know, and I think I asked this question
+of one of you, who's going to write the check.
+[57:12] Who's actually going
+to put their money on the table for this? And then who influences them?
+[57:19] So that's certainly one of
+the more painful, but crucial,
+[57:24] lessons. Anything else? That's fundamentally
+it, by the way, but if you've got nothing
+else, listen to that.
+[57:32] Yes, sir. AUDIENCE: [INAUDIBLE]
+[57:39] BOB JONES: Well,
+we certainly tried. This gentleman said we made it
+almost impossible for everyone
+[57:45] we contacted to say no. How did we do that?
+[57:52] Go ahead, sir. AUDIENCE: You built up demand. BOB JONES: That was part
+of it, but each time I called somebody
+that didn't know me,
+[57:58] what homework did I do first? AUDIENCE: [INAUDIBLE] BOB JONES: Pardon me? AUDIENCE: [INAUDIBLE]
+[58:03] BOB JONES: Finding out
+what motivates them. What do they care about?
+[58:09] People think of selling as
+this, sort of, tainted activity,
+[58:14] and it can be. But a hugely important
+component of it is just finding out
+what people want.
+[58:23] OK, I think you need to know
+what they're really buying. And I think you have to
+have some positioning.
+[58:30] I think if you have a
+product that's for everyone, I'm sorry to tell
+you this, but it's my opinion that it's
+not actually for anyone,
+[58:36] you need some focus. And I am also sorry to
+tell you, nobody actually
+[58:41] needs you product. They might need the benefits. I actually don't
+need these glasses,
+[58:47] what I need is to see better.  So I hired, in the
+consumer sense of the term,
+[58:55] I hired glasses. Some of you hired
+contact lenses. Some of you I'm willing
+to bet, hired the surgeon
+[59:02] to do the little
+laser procedure. But all of us had the
+same fundamental need, we wanted to see better, we
+just took different routes
+[59:09] to get there. So sell the benefits first. And I'm a huge believer
+in market segmentation.
+[59:17] I don't think everybody
+on the market is equal, and I think there's
+a lot of them who aren't going to
+be your customer, and I like to segment them by
+motivation to buy what I have.
+[59:28] I think there's a small group at
+the top feeling the pain right now.
+[59:34] Underneath that, I
+don't know, let's say I have something that reduces
+the likelihood of heart
+[59:40] attacks. So if you had a heart
+attack yesterday, and you're still
+alive, you could
+[59:46] be a good customer for me. If you're not
+alive, I'm sorry, we won't do any business together.
+[59:52] His immediate family,
+they're in the second tier. They're worried. Sheesh, maybe we should
+pay attention to this.
+[59:58] Down below that, people
+who are kind of vigilant. And then there's a huge
+bunch of people that's just a graveyard for you.
+[1:00:05] Don't go there. Start at the top. Couple reasons, if you can't
+build a business there,
+[1:00:11] time for your next idea. Think of yourself as a jockey.
+[1:00:18] Not as a horse. If you start at the
+top and you fail,
+[1:00:24] you might be a very
+good jockey you just picked the wrong horse. Pick another horse.
+[1:00:29] Also, by the way,
+if you're thinking one day you might
+sell your venture,
+[1:00:37] you can go to big company
+X, Johnson & Johnson, and say, guys I spent
+$1.98 and penetrated
+[1:00:46] that block at the top. You have a million dollars,
+you can take it further down,
+[1:00:52] you can do the math, let's talk
+about the discounted value, future earnings, and pull
+together a little purchase
+[1:00:57] package. Right? If you can't succeed at the
+top, you don't have a story.
+[1:01:04] But if you want to
+change your buying habits it requires a lot of motivation. And I'm sorry if this sounds
+manipulative, it's just blunt.
+[1:01:12] I think pain is
+very motivational. Fear, greed, vanity,
+these are-- I'm
+[1:01:19] not trying to list the
+seven deadly sins here. But ask yourself,
+what would cause
+[1:01:26] people to stop doing
+what they're doing now and buy what you have.
+[1:01:31] Are they dissatisfied with
+their current cancer care? Are they dissatisfied with
+something that you've got?
+[1:01:38] What's going to motivate them
+to change their buying habits? And, I gotta tell you,
+virtue is a tough sell.
+[1:01:45] Buy my vitamins because 20
+years from now the antioxidants
+[1:01:53] will have caused you
+to have fewer mutations at the end of your chromosomes.
+[1:02:00] [WHISTLES] I don't think so.
+[1:02:05] So, with that as a context,
+what was I really selling with the one that failed?
+[1:02:11] I was selling virtue. Take this stuff and your
+bio markers will improve.
+[1:02:17] What was I really selling
+with NiteBite By the way,
+[1:02:23] answer that question for me. What was I really
+selling with NiteBite?
+[1:02:29] Sir? AUDIENCE: Peace of mind. BOB JONES: Peace of mind. That's exactly right. In fact, once we figured that
+out, all the lights went on
+[1:02:37] and the ad copy wrote itself. It was corny, one bite
+and the rest is easy.
+[1:02:43] But we got it, that's
+exactly what we were selling.
+[1:02:49] So with no disrespect
+whatsoever, you have a question?
+[1:02:54] AUDIENCE: Going back to
+dealing with the wholesalers, how do you know that
+the slotting fees wasn't
+[1:02:59] a big part of their
+revenue and not having them would be a no-go?
+[1:03:07] BOB JONES: Well I knew, in
+fact, that slotting fees were a big part of the revenue,
+and not having them,
+[1:03:13] normally, would
+make for a no-go. But what I produced for them
+was a pretty, nearly guaranteed
+[1:03:20] income stream which exceeded
+the value of the slotting fees. I also introduced the
+topic of competition.
+[1:03:29] I said, our customers
+have mentioned you
+[1:03:34] as their favorite pharmacy, or
+our customers, the pharmacists,
+[1:03:40] have mentioned that the
+wholesaler they most like to do business with is you. They have, of course,
+other wholesalers.
+[1:03:47] They don't concentrate all
+of their eggs in one basket. I'm hopeful that we can do
+business, because otherwise I
+[1:03:52] will have to go to number two. So how would you like me to
+handle their need, can we work together?
+[1:03:57] Don't get me wrong, we did
+get told no from time to time.
+[1:04:05] And, in fact, if you're
+going to be an entrepreneur, I hate to tell you this, you
+will kiss a few frogs out there.
+[1:04:12] Nature of the beast, right? OK as I started to
+say, some of you are taking MBA courses that
+are focused on marketing.
+[1:04:21] I'm going to give
+you an entire year of business-school-level
+marketing in two bullet points.
+[1:04:27] Find out what your customers
+want give it to them.
+[1:04:37] End of lecture. Now, there's all manner of
+sophisticated regression
+[1:04:43] analyses, et cetera,
+et cetera, that can be employed to do this. But if you lose track of
+these two fundamental points,
+[1:04:49] you've missed the point. So, focus.
+[1:04:57] And I hated the boss I had,
+that said this to me, because I could never get it out of
+my head, drove me nuts,
+[1:05:03] it was so corny. He'd say, Jones, there
+is no hocus-pocus that takes the place of focus.
+[1:05:10] I'd think, you're killing me. But it's true.
+[1:05:18] So a different way of looking
+at this, it's not sales, it's detective work.
+[1:05:23] If you are to succeed,
+do some detective work. Find your customer rather
+than promote your product,
+[1:05:31] because your customers
+hire these things to do a specific job. Design your product
+to do the job
+[1:05:36] they want for a
+specific customer. Go find them, and if
+you've done this right, the selling will be easy.
+[1:05:44] How do you do it? Talk with them. Cold calls, oh god.
+[1:05:50] Literally, phone calls. Emails are helpful, but
+they're not adequate. Talk to them.
+[1:05:55] Surveys are helpful,
+they are not adequate. Talk to them.
+[1:06:01] Some years ago, I
+wanted to do a deal with a group in Finland that
+had invented a margarine that
+[1:06:07] lowered cholesterol. And I was intrigued. Johnson & Johnson offered them
+a huge sack full of money,
+[1:06:13] our startup couldn't
+compete, we lost. But I watched what
+J&J did, and I went
+[1:06:23] into a number of supermarkets. It actually didn't take long. I stood off to the side near
+where people had the margarine,
+[1:06:31] and I would watch
+customers come in. The stuff that J&J had
+was about eight times
+[1:06:36] as expensive as
+traditional margarine. Margarine shoppers
+would come in, and they'd look and
+say, $1.19, $1.39, $8,
+[1:06:47] $1.4-- $1.4-- I'll
+take the $1.39.
+[1:06:53] So I would stop these
+people and say, excuse me, I was thinking of
+buying this $8 stuff,
+[1:06:59] and I noticed you didn't. How come you didn't? Oh man, I got all
+manner of other ways to take care of my cholesterol,
+and besides I don't feel bad.
+[1:07:07] So talk to them. Know them. How do they view their problem? And think about your
+service and ask yourself,
+[1:07:15] how are they solving
+the problem now. More importantly, what are they
+spending their money on now
+[1:07:20] to solve this problem?  And there's a great quote
+attributed to Henry Ford.
+[1:07:29] We said, Henry, do you ever ask
+your customers what they want? And Henry said, oh
+hell, if I'd asked them what they wanted they'd
+have said faster horses.
+[1:07:35] So understanding
+what's behind that
+[1:07:41] was part of Henry's genius. You do have competition.
+[1:07:49] OK, my Regain customers
+needed my product. They didn't want it,
+I couldn't sell it.
+[1:07:56] So what matters is
+finding people who want it and figuring out how to
+communicate the benefits
+[1:08:04] in just 30 seconds. And this is harder
+than you think,
+[1:08:10] because if you don't
+really understand the benefits good
+luck trying to put it into collateral material,
+put it on your website,
+[1:08:16] any of that stuff. And, of course, as Steve
+probably told you yesterday, you are unlikely to raise money.
+[1:08:22] Customers buy benefits. So, some of the questions,
+what's broken we fix?
+[1:08:29] Who cares? Do they have any money? As a working musician
+I know that it's just
+[1:08:36] futile try to make
+something for that market. Guitar players are all starving.
+[1:08:41] How do you find them? How are they solving it? Why is what we have better? I'm going to zap through
+a couple of these.
+[1:08:49] I want to spend a
+second on this, though, is this all right?
+[1:08:55] All right, something that we're
+doing with our little outfit,
+[1:09:02] we said-- we're not the only
+ones doing this, mind you, but we are applying this. Start with the ideas, identify
+some unmet needs, et cetera,
+[1:09:10] go interview people who
+might want it, and then make a bare bones
+version of the product.
+[1:09:16] We're making a
+2.5 ounce beverage that helps you sleep at night. And we made a little
+prototype, and it looks bad,
+[1:09:23] it tastes bad, and you
+can't get the cap off. Arguably, this is not a good
+profile for a retail product.
+[1:09:30] But we had one primary
+concern, does it work? We give it to 30 people
+and nobody goes to sleep,
+[1:09:36] well then we stop right there. Silly to have spent any
+time making it look good. So go out there
+and see if you can
+[1:09:43] identify customers for launch. And, in fact, the first group
+of customers that we thought
+[1:09:48] would be suitable for
+our business turned out to be wrong. I had a really bad five
+or six weeks where I got
+[1:09:53] told no, all day, every day,
+for five or six straight weeks.
+[1:09:59] Finally figured out,
+they don't want it. They might need it,
+but, time to iterate.
+[1:10:05] Once you get it
+right, then you can get about the business
+of doing your branding and packaging more formally.
+[1:10:11] And then you can get
+about the business of growing the company. And, by the way, you might be
+able to raise a little money
+[1:10:17] at a couple of those points. A little money to
+build your prototype, and then, once you figure
+out what you're doing,
+[1:10:23] a little money to actually take
+something to the marketplace, because you have
+reduced the risk.
+[1:10:29] But that stage of the
+game is hugely useful. And I submit that that's
+what Aleem and his team
+[1:10:35] have done already. They've made a minimum
+viable product, they're circulating
+a pancake mix, and they're getting
+valuable customer feedback.
+[1:10:43] Aleem, your recipe calls
+for sparkling water. I don't keep sparkling
+water at home. How can I make pancakes
+without sparkling water?
+[1:10:50] Oh, well, useful, right? OK, so we're going to
+skip what I'm doing now.
+[1:10:56] Though, of course,
+it's fascinating. We're out of time.
+[1:11:04] So, I have one set
+of final questions. Where do customers go for help?
+[1:11:10] How are you going to reach them? Paint a picture of who's going
+to write you that first check.
+[1:11:16] What evidence do you have that
+they will pay for your product? This was crucial to
+me for the gentleman talking about calling
+on IBM and calling
+[1:11:24] on people who would want
+his augmentation of Google. What evidence do you have that
+somebody's going to pay for it?
+[1:11:31] How much? And then, it calls
+for someone who's a kind of a pervert to actually
+be responsible for sales,
+[1:11:39] although some of us like it. Who's going to do it?
+[1:11:45] I don't think we have time
+for anymore of your questions, with regret, so
+let me summarize. The only non-negotiable
+requirement
+[1:11:51] for successful business
+is your customers. And if you're going
+to succeed, you have to have something
+that's unique and important
+[1:11:58] for someone. You gave us a great
+example of pivoting that from the head of IBM
+to college students.
+[1:12:06] It's got to be
+important to someone. So figure out who can't live
+without it, go find them
+[1:12:12] and tell them about it,
+and take their money. Thank you very much. [APPLAUSE]

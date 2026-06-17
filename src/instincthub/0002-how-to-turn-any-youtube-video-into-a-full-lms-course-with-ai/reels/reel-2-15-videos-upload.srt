@@ -1,0 +1,91 @@
+1
+00:00:00,450 --> 00:00:03,069
+So if we look at what the AI
+
+2
+00:00:03,069 --> 00:00:05,210
+has been able to do for us, it's
+
+3
+00:00:05,210 --> 00:00:08,330
+been able to generate 15 videos.
+
+4
+00:00:09,250 --> 00:00:12,470
+We have 15 videos that the AI generated
+
+5
+00:00:12,470 --> 00:00:13,430
+at the end of the day.
+
+6
+00:00:14,890 --> 00:00:17,110
+So what we need to do is upload
+
+7
+00:00:17,110 --> 00:00:18,470
+these 15 videos.
+
+8
+00:00:20,230 --> 00:00:21,930
+And for you to do that, of course
+
+9
+00:00:21,930 --> 00:00:24,210
+you need a cloud to upload the video.
+
+10
+00:00:25,590 --> 00:00:30,450
+So on Instinctor platform, we have the media
+
+11
+00:00:30,450 --> 00:00:31,090
+segment.
+
+12
+00:00:31,830 --> 00:00:34,530
+The media segment just works like your Google
+
+13
+00:00:34,530 --> 00:00:34,950
+Drive.
+
+14
+00:00:35,330 --> 00:00:37,750
+So all you need to do is either
+
+15
+00:00:37,750 --> 00:00:40,630
+you drag the file into here, or you
+
+16
+00:00:40,630 --> 00:00:44,270
+just click to target the output, the out
+
+17
+00:00:44,270 --> 00:00:47,650
+where you have your videos, and you upload
+
+18
+00:00:47,650 --> 00:00:48,150
+all of them.
+
+19
+00:00:48,910 --> 00:00:50,630
+In order not to take so much time,
+
+20
+00:00:50,890 --> 00:00:52,310
+I have uploaded all the videos.
+
+21
+00:00:53,270 --> 00:00:54,970
+So what we need to do right now
+
+22
+00:00:54,970 --> 00:00:57,550
+is to let the AI know that we
+
+23
+00:00:57,550 --> 00:00:58,610
+have uploaded the video.

@@ -1,0 +1,565 @@
+{
+  "title": "Marketing and Sales: Find Your Customer First",
+  "about": "<p>Your business might survive, but it will not prosper until you know what you are really selling and who actually writes the check. In this course, serial entrepreneur Bob Jones walks through two real product launches: Regain, a nutrition bar with perfect science that failed completely, and NiteBite, a candy-bar-shaped product that reached national pharmacy shelves without paying a naira in slotting fees.</p><p>You will learn how to identify the customer who pays, find the emotional problem worth solving, reach buyers through their influencers, win retail and wholesale channels with demand instead of fees, segment markets by motivation to buy, and validate with a bare-bones MVP before spending on branding.</p><p><em>Adapted from an MIT OpenCourseWare guest lecture. Original material licensed under Creative Commons BY-NC-SA. Source: ocw.mit.edu.</em></p>",
+  "benefits": "<ul><li>Identify the customer who actually writes the check, and their influencers</li><li>Test whether your offering is both unique and important before you build</li><li>Avoid the survey trap that sank a perfectly planned product launch</li><li>Open retail and wholesale channels with demand, not slotting fees</li><li>Segment any market by motivation to buy and sell benefits, not features</li><li>Validate with a bare-bones MVP and iterate before spending on polish</li></ul>",
+  "privacy": "DRAFT",
+  "skills_level": "ALL",
+  "modules": [
+    {
+      "title": "What Are You Really Selling?",
+      "privacy": "PUBLISH",
+      "steps": [
+        {
+          "title": "The only non-negotiable: customers",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Investors live in quiet terror: eight of ten bets fail. The experienced ones check for the single non-negotiable requirement, customers.</p><p><strong>In this lesson:</strong></p><ul><li>The recession study: winners asked how their end user is dissatisfied</li><li>Why customers beat brains, looks, and luck</li><li>The customer math: acquisition cost, lifetime value, time to prosperity</li></ul>",
+                "tag": "p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Unique and important",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Air is important but not unique. A campus decal is unique but not important. The sweet spot is both, and positioning decides which side of the line you land on.</p><p><strong>In this lesson:</strong></p><ul><li>The two descriptors every offering needs</li><li>How Sealed Air turned $0.15 of material into a $6B business</li><li>Why simple is not the same as easy</li></ul>",
+                "tag": "p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Case study: Regain, the perfect plan",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>A $200M business about to vanish, a findable market of 400,000 dialysis patients, peer-reviewed science, and glowing clinician surveys. Every box ticked. Watch closely.</p><p><strong>In this lesson:</strong></p><ul><li>Spotting a market about to disappear</li><li>Repositioning clinical science for a broader market</li><li>Why glowing surveys can still lie to you</li></ul>",
+                "tag": "p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Module Check: What Are You Really Selling?",
+          "options": "ASSESSMENT",
+          "assessment": {
+            "title": "What Are You Really Selling? Quiz",
+            "duration": 10,
+            "assessment_type": "QUIZ",
+            "expected_points": 35,
+            "allow_retake": true,
+            "randomize_options": true,
+            "show_result": true,
+            "questions": [
+              {
+                "question": "<p>According to the recession-era study Bob cites, what fundamental question did the successful companies keep asking?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 10,
+                "options": [
+                  { "option": "How is our end user dissatisfied?", "correct": true, "order": 1 },
+                  { "option": "How can we cut costs faster than rivals?", "correct": false, "order": 2 },
+                  { "option": "Which new technology should we adopt next?", "correct": false, "order": 3 },
+                  { "option": "How do we raise more venture capital?", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>Experienced investors treat customers as the one non-negotiable requirement for a successful business.</p>",
+                "type": "TRUE_FALSE",
+                "point": 10,
+                "options": [
+                  { "option": "True", "correct": true, "order": 1 },
+                  { "option": "False", "correct": false, "order": 2 }
+                ]
+              },
+              {
+                "question": "<p>A customer costs $5 to acquire and has a lifetime value of $3. What does this signal?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 10,
+                "options": [
+                  { "option": "The business loses money on every customer it wins", "correct": true, "order": 1 },
+                  { "option": "The business should spend more on advertising", "correct": false, "order": 2 },
+                  { "option": "The customer base is too small", "correct": false, "order": 3 },
+                  { "option": "Nothing, acquisition cost rarely matters early on", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>What does the Sealed Air story demonstrate?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 10,
+                "options": [
+                  { "option": "Positioning can make even a commodity like air hugely valuable", "correct": true, "order": 1 },
+                  { "option": "Patents are the only durable moat", "correct": false, "order": 2 },
+                  { "option": "Packaging businesses have low margins", "correct": false, "order": 3 },
+                  { "option": "Unique products always win markets", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>Complete the two descriptors of a winning offering: it must be unique and ___.</p>",
+                "type": "SHORT_ANSWER",
+                "point": 10,
+                "acceptable_answers": ["important"]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "When You Misidentify Your Customer",
+      "privacy": "PUBLISH",
+      "steps": [
+        {
+          "title": "A complete disaster",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Forecast: $400,000 a month. Reality: $32,000. The autopsy of the Regain launch lands on one painful sentence: I misidentified my customer.</p><p><strong>In this lesson:</strong></p><ul><li>Why plausible explanations (taste, loyalty) were wrong</li><li>The survey trap: clinicians answered, patients had to buy</li><li>Prescription logic vs consumer reality</li></ul>",
+                "tag": "p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "No money and the wrong channel",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Three of four target customers had never managed their own health, most had no disposable income, and the product needed retail pharmacies the team had never sold to.</p><p><strong>In this lesson:</strong></p><ul><li>Demographics that kill demand</li><li>Why the channel is part of the product</li><li>Slotting fees: $1M a quarter plus 6% of revenue</li></ul>",
+                "tag": "p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Paying for the mistake",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Twelve months of train wreck, a jeopardised IPO, Medicaid reimbursement fought for in 40 states, and a quiet exit. The tuition was expensive, the lesson permanent.</p><p><strong>In this lesson:</strong></p><ul><li>The real cost of a misidentified customer</li><li>Salvage tactics: inside sales and state programs</li><li>The retrospective: know who writes the check</li></ul>",
+                "tag": "p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Module Check: The Regain Failure",
+          "options": "ASSESSMENT",
+          "assessment": {
+            "title": "The Regain Failure Quiz",
+            "duration": 10,
+            "assessment_type": "QUIZ",
+            "expected_points": 35,
+            "allow_retake": true,
+            "randomize_options": true,
+            "show_result": true,
+            "questions": [
+              {
+                "question": "<p>What was the fundamental flaw in the Regain launch?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 10,
+                "options": [
+                  { "option": "The team surveyed clinicians instead of the people who would actually buy and eat the product", "correct": true, "order": 1 },
+                  { "option": "The science behind the product was weak", "correct": false, "order": 2 },
+                  { "option": "The price per bar was set too low", "correct": false, "order": 3 },
+                  { "option": "The sales force was too small for the territory", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>Why did many kidney-failure patients dislike the taste of Regain?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 10,
+                "options": [
+                  { "option": "Kidney failure shifts the palate so protein tastes like spoiled meat", "correct": true, "order": 1 },
+                  { "option": "The bar contained too much salt for dialysis diets", "correct": false, "order": 2 },
+                  { "option": "Patients preferred sweet snacks over savoury ones", "correct": false, "order": 3 },
+                  { "option": "The cornstarch made the texture chalky", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>What channel problem did Regain run into?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 10,
+                "options": [
+                  { "option": "The team knew hospital sales, but the product needed retail pharmacies that demanded heavy slotting fees", "correct": true, "order": 1 },
+                  { "option": "Hospitals refused to stock any food products", "correct": false, "order": 2 },
+                  { "option": "Wholesalers demanded exclusive distribution rights", "correct": false, "order": 3 },
+                  { "option": "Online sales channels did not exist yet, so there was no channel at all", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>Slotting fees at a major pharmacy chain ran about $1 million per quarter plus 6% of top-line revenue.</p>",
+                "type": "TRUE_FALSE",
+                "point": 10,
+                "options": [
+                  { "option": "True", "correct": true, "order": 1 },
+                  { "option": "False", "correct": false, "order": 2 }
+                ]
+              },
+              {
+                "question": "<p>In Bob's retrospective, the crucial question every founder must answer is: who writes the ___?</p>",
+                "type": "SHORT_ANSWER",
+                "point": 10,
+                "acceptable_answers": ["check", "cheque"]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "NiteBite: Getting It Right",
+      "privacy": "PUBLISH",
+      "steps": [
+        {
+          "title": "Find the emotional problem",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Ten million people diagnosed, four million injecting insulin, and one fear that surfaced in every focus group: I'm afraid I'll die in my sleep. Parents checked sleeping children at 2am, every night.</p><p><strong>In this lesson:</strong></p><ul><li>Choosing a field big enough to matter, small enough to win</li><li>Nocturnal hypoglycemia and the 2am danger zone</li><li>Focus groups that surface the real, emotional problem</li></ul>",
+                "tag": "p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Let customers shape the product",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Timed-release glucose, patented from birthday-cake ingredients. But the decisions that made it sell came from customers: a non-medical name, no 'for diabetes' on the label, and an energy-bar look kids could share at sleepovers.</p><p><strong>In this lesson:</strong></p><ul><li>I'm not a diabetic, I'm a person who has diabetes</li><li>The label customers refused, and why listening saved the business</li><li>Designing for privacy and normalcy</li></ul>",
+                "tag": "p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Advertise to the fear, grow the funnel",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Every ad in the diabetes magazines was a hypodermic needle. Theirs was a flying pig with a free-sample hotline, and the phones went from 100 to 500 calls a day.</p><p><strong>In this lesson:</strong></p><ul><li>Standing out by being ludicrously different</li><li>Certified Diabetes Educators: the influencers who scale your message</li><li>Cold calls, 30-second pitches, and referral chains</li></ul>",
+                "tag": "p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Module Check: NiteBite Done Right",
+          "options": "ASSESSMENT",
+          "assessment": {
+            "title": "NiteBite Done Right Quiz",
+            "duration": 10,
+            "assessment_type": "QUIZ",
+            "expected_points": 35,
+            "allow_retake": true,
+            "randomize_options": true,
+            "show_result": true,
+            "questions": [
+              {
+                "question": "<p>What was the real, emotional problem NiteBite solved?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 10,
+                "options": [
+                  { "option": "The fear of dying in your sleep from nocturnal hypoglycemia", "correct": true, "order": 1 },
+                  { "option": "The inconvenience of carrying insulin while travelling", "correct": false, "order": 2 },
+                  { "option": "The high cost of glucose monitors", "correct": false, "order": 3 },
+                  { "option": "The poor taste of existing liquid supplements", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>Why did the team give NiteBite a non-medical name and look?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 10,
+                "options": [
+                  { "option": "Customers saw themselves as people with a condition, not patients, and wanted privacy", "correct": true, "order": 1 },
+                  { "option": "Medical names require longer regulatory review", "correct": false, "order": 2 },
+                  { "option": "Retailers refused to stock products with medical branding", "correct": false, "order": 3 },
+                  { "option": "The patent only covered consumer naming", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>According to NiteBite's customers, printing 'for diabetes' on the package would have increased sales.</p>",
+                "type": "TRUE_FALSE",
+                "point": 10,
+                "options": [
+                  { "option": "True", "correct": false, "order": 1 },
+                  { "option": "False", "correct": true, "order": 2 }
+                ]
+              },
+              {
+                "question": "<p>Who were the key influencers the team used to reach customers at scale?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 10,
+                "options": [
+                  { "option": "Certified Diabetes Educators", "correct": true, "order": 1 },
+                  { "option": "Hospital purchasing agents", "correct": false, "order": 2 },
+                  { "option": "Insurance company case managers", "correct": false, "order": 3 },
+                  { "option": "Celebrity endorsers with diabetes", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>What did the educators name as their single greatest professional frustration?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 10,
+                "options": [
+                  { "option": "Patients not complying with the advice they are given", "correct": true, "order": 1 },
+                  { "option": "Low pay compared to other clinicians", "correct": false, "order": 2 },
+                  { "option": "Paperwork demanded by insurers", "correct": false, "order": 3 },
+                  { "option": "Patients arriving late to appointments", "correct": false, "order": 4 }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Winning the Channel",
+      "privacy": "PUBLISH",
+      "steps": [
+        {
+          "title": "From phone orders to pharmacy shelves",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Free samples qualified hard, follow-up calls drove reorders, and when free shipping ended, customers asked their own pharmacist for the product. A $99.95 starter pack slid under the manager's $100 approval limit.</p><p><strong>In this lesson:</strong></p><ul><li>Qualifying leads so free fudge finds real customers</li><li>Diabetes shoppers: 3% of people, 24% of pharmacy revenue</li><li>The Jost play: named local demand plus zero return risk</li></ul>",
+                "tag": "p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Educators and wholesalers",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Educators needed Saturday-class content; the team supplied it and put the local pharmacist in the room. Wholesalers wanted painless income; the team brought pre-sold orders with the margin built in.</p><p><strong>In this lesson:</strong></p><ul><li>The content play that turned educators into advocates</li><li>Why retailers buy through wholesalers (5,000 invoices become one)</li><li>Key us into your system: making yes effortless</li></ul>",
+                "tag": "p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "The planogram meeting",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>Fifteen minutes in Clearwater, no money for slotting fees, and one printout: 10,000 customers in the chain's states asking where to buy. A minute of silence, then: OK, you're in.</p><p><strong>In this lesson:</strong></p><ul><li>Researching how the man across the table is rewarded</li><li>Customers as negotiating power</li><li>The exit: sold to a billion-dollar pharmaceutical firm</li></ul>",
+                "tag": "p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Module Check: Winning the Channel",
+          "options": "ASSESSMENT",
+          "assessment": {
+            "title": "Winning the Channel Quiz",
+            "duration": 10,
+            "assessment_type": "QUIZ",
+            "expected_points": 35,
+            "allow_retake": true,
+            "randomize_options": true,
+            "show_result": true,
+            "questions": [
+              {
+                "question": "<p>Why was the retail starter pack priced at exactly $99.95?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 10,
+                "options": [
+                  { "option": "It sat just under the $100 limit a store manager could approve without corporate sign-off", "correct": true, "order": 1 },
+                  { "option": "It matched the price of competing products", "correct": false, "order": 2 },
+                  { "option": "Psychological pricing makes $99.95 feel much cheaper than $100", "correct": false, "order": 3 },
+                  { "option": "It covered the cost of the free samples already shipped", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>Why do retailers prefer to buy through wholesalers?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 10,
+                "options": [
+                  { "option": "Wholesalers consolidate thousands of supplier invoices into one bill and one delivery", "correct": true, "order": 1 },
+                  { "option": "Wholesalers always offer lower unit prices", "correct": false, "order": 2 },
+                  { "option": "Retailers are legally required to use wholesalers", "correct": false, "order": 3 },
+                  { "option": "Wholesalers handle all in-store merchandising", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>What gave the team its negotiating power in the Clearwater planogram meeting?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 10,
+                "options": [
+                  { "option": "A printout of 10,000 customers in the chain's states asking where to buy", "correct": true, "order": 1 },
+                  { "option": "A celebrity endorsement campaign ready to launch", "correct": false, "order": 2 },
+                  { "option": "A willingness to pay higher slotting fees than rivals", "correct": false, "order": 3 },
+                  { "option": "An exclusive patent the chain wanted to license", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>The NiteBite team paid the standard slotting fees to get onto major chain shelves.</p>",
+                "type": "TRUE_FALSE",
+                "point": 10,
+                "options": [
+                  { "option": "True", "correct": false, "order": 1 },
+                  { "option": "False", "correct": true, "order": 2 }
+                ]
+              },
+              {
+                "question": "<p>What is the name for a retailer's shelf-layout blueprint, drawn up each year?</p>",
+                "type": "SHORT_ANSWER",
+                "point": 10,
+                "acceptable_answers": ["planogram", "a planogram"]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Principles That Travel",
+      "privacy": "PUBLISH",
+      "steps": [
+        {
+          "title": "Selling is detective work",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>A year of business-school marketing in two bullet points: find out what your customers want, and give it to them. The rest is detective work, done by phone and in person, not by survey.</p><p><strong>In this lesson:</strong></p><ul><li>Make it impossible to say no by knowing what they care about</li><li>Calls beat emails and surveys</li><li>The margarine stakeout and Henry Ford's faster horses</li></ul>",
+                "tag": "p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Segment by motivation, sell benefits",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>A product for everyone is for no one. Nobody needs your product; they hire it to do a job. Segment the market by motivation to buy, start with the people in pain now, and sell the benefit.</p><p><strong>In this lesson:</strong></p><ul><li>The segmentation pyramid: pain now, worried, vigilant, graveyard</li><li>Pain, fear, greed, and vanity move people; virtue is a tough sell</li><li>Regain sold virtue, NiteBite sold peace of mind</li></ul>",
+                "tag": "p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Start small, iterate, win",
+          "options": "VIDEO",
+          "contents": [
+            {
+              "type": "text",
+              "item": {
+                "content": "<p>The prototype looked bad, tasted bad, and the cap stuck. None of that mattered until one question was answered: does it work? Validate, iterate past the wrong first segment, then spend on branding and growth.</p><p><strong>In this lesson:</strong></p><ul><li>Bare-bones MVPs and the only question that matters</li><li>Six weeks of no: when to iterate</li><li>The course in one line: find them, tell them, take their money</li></ul>",
+                "tag": "p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Final Check: Principles That Travel",
+          "options": "ASSESSMENT",
+          "assessment": {
+            "title": "Principles That Travel Quiz",
+            "duration": 10,
+            "assessment_type": "QUIZ",
+            "expected_points": 35,
+            "allow_retake": true,
+            "randomize_options": true,
+            "show_result": true,
+            "questions": [
+              {
+                "question": "<p>Bob's two bullet points of marketing: find out what your customers want, and ___.</p>",
+                "type": "SHORT_ANSWER",
+                "point": 10,
+                "acceptable_answers": ["give it to them", "give it to them."]
+              },
+              {
+                "question": "<p>What does the Henry Ford 'faster horses' quote teach?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 10,
+                "options": [
+                  { "option": "Understand the need behind what customers literally ask for", "correct": true, "order": 1 },
+                  { "option": "Customers should never be consulted on product design", "correct": false, "order": 2 },
+                  { "option": "Transportation markets change faster than others", "correct": false, "order": 3 },
+                  { "option": "First movers always define the product category", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>Which motivations does Bob list as strong drivers of a change in buying habits? Select all that apply.</p>",
+                "type": "MULTI_SELECT",
+                "point": 10,
+                "options": [
+                  { "option": "Pain", "correct": true, "order": 1 },
+                  { "option": "Fear", "correct": true, "order": 2 },
+                  { "option": "Greed", "correct": true, "order": 3 },
+                  { "option": "Vanity", "correct": true, "order": 4 },
+                  { "option": "Virtue", "correct": false, "order": 5 }
+                ]
+              },
+              {
+                "question": "<p>With the ugly sleep-beverage prototype, what was the team's only concern?</p>",
+                "type": "MULTIPLE_CHOICE",
+                "point": 10,
+                "options": [
+                  { "option": "Does it work?", "correct": true, "order": 1 },
+                  { "option": "Does the packaging look premium?", "correct": false, "order": 2 },
+                  { "option": "Can it be manufactured at scale?", "correct": false, "order": 3 },
+                  { "option": "Will retailers stock it?", "correct": false, "order": 4 }
+                ]
+              },
+              {
+                "question": "<p>If your first target segment keeps saying no for weeks, the right move is to keep pushing the same segment harder.</p>",
+                "type": "TRUE_FALSE",
+                "point": 10,
+                "options": [
+                  { "option": "True", "correct": false, "order": 1 },
+                  { "option": "False", "correct": true, "order": 2 }
+                ]
+              },
+              {
+                "question": "<p>Commitment check: I will talk to at least three potential customers about my idea this week.</p>",
+                "type": "TRUE_FALSE",
+                "point": 10,
+                "is_bonus": true,
+                "options": [
+                  { "option": "Yes, I commit to that", "correct": true, "order": 1 },
+                  { "option": "Not this week", "correct": false, "order": 2 }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

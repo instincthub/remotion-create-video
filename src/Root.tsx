@@ -156,6 +156,7 @@ import {
   COMPOSITION_FRAMES as MMM_HHTA_FRAMES,
 } from "./mmm/he-healed-them-all/index";
 import { ThumbnailScene as MMMHHTAThumbnail } from "./mmm/he-healed-them-all/ThumbnailScene";
+import { LeadboardVsl } from "./leadboard-vsl";
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -920,6 +921,23 @@ export const RemotionRoot: React.FC = () => {
           defaultProps={{ videoSrc: "kids-and-ai-parent-tips.mp4" }}
         />
       </Folder>
+
+      <Composition
+        id="leadboard-0007-vsl"
+        component={LeadboardVsl.Horizontal}
+        durationInFrames={LeadboardVsl.frames}
+        fps={30}
+        width={1920}
+        height={1080}
+      />
+      <Composition
+        id="leadboard-0007-vsl-vertical"
+        component={LeadboardVsl.Vertical}
+        durationInFrames={LeadboardVsl.frames}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
 
       <Composition
         id="MyComp"

@@ -24,6 +24,8 @@ build
 *.ogv
 *.3gp
 *.ts
+# ...but *.ts above is for MPEG transport streams - never ignore TypeScript source
+!src/**/*.ts
 
 # Claude Code worktrees (temporary, never commit)
 .claude/worktrees/
